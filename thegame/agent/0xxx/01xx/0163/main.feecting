@@ -4,56 +4,8 @@ img:thegame/agent/0163/avatar
 ====
 
 ::BEGIN:LOOK
-# John Romero
-talk:#wiki summary John_Romero
-
-cmd:#adventure view:thegame:agent 0163/romero
-
+# 0x_fff
+img:thegame/agent/0163/avatar
+p:The ultra cool and awesome 0x_fff is here to get their Freaky Adventure on!!!
 ::END:LOOK
-====
-
-::BEGIN:ROMERO
-## John Romero
-talk:#wiki summary John_Romero
-
-## Commander Keen
-cmd:#wiki summary Commander_Keen
-
-## Id Software
-cmd:#wiki summary Id_Software
-
-Quake was released on June 22, 1996 and was considered a difficult game to develop due to creative differences. Animosity grew within the company and it caused a conflict between Carmack and Romero, which led the latter to leave id after the game's release.
-
-On November 22, 2013, it was announced id Software co-founder and Technical Director John Carmack had fully resigned from the company to work full-time at Oculus VR which he joined as CTO in August 2013.
-
--
-
-@romero through #TheGame23
-
-link:https://romero.com/shop
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1623791424990-013I66UPMIPNNPYEWW5B/cool-guys-1992-small.png?format=500w
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1623791032911-4M393E3RSDNEY4EQXS5L/poster-id-software-1994.png?format=500w
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1623791412316-21VTSDIB1S17JQCN9ZUK/axe-and-sword_small.jpg?format=500w
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1623839121501-9ZXOUNXVYI6B2TEYY0U4/3E0CB863-BD3C-452F-84A0-973086E45F50_1_105_c.jpeg?format=500w
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1623839418256-SWDRXANOMO7Y3ELSAZ2Q/56710374-8711-424B-8398-654D141CCFE9_1_105_c.jpeg?format=500w
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1609511708352-TVPO5EDGJ9YPK7EBGF1C/poster-sigil%2Bsmall.png?format=500w
-
-image:https://images.squarespace-cdn.com/content/v1/5fef3318f8ce9b562500206e/1609511708012-XB46I4VOMYYGAO9QMOM9/disks-doom2-1.jpeg?format=500w
-
-The Romero shop has satanic themed items for sale that state worhsip/hail satan.
-
-## Brenda Romero
-She is a long time strategy game developer starting with the Wizardry series in the 80s. Married to John Romero and close associates with Elizabeth LaPensee and Brenda Laurel.
-
-## Elizabeth Lapensee
-She is assoicates with Brenda Romero and Brenda Laurel. Also she hosted the #Survivance game which Tabitha Lavery took part in 2013.
-
-## Brenda Laurel
-connected to brenda laurel connect back to the Cobra Lounge and Soon Kids.
-::END:ROMERO
 ====
