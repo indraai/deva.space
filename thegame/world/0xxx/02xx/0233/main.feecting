@@ -1,15 +1,12 @@
 ::BEGIN:LOOK
-You can see the Western Temple Square from here.
+p:You can see indra.city/nw from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0233/title
-p:Entering the Northwest area of indra.city you will find many shops such at toys, body, and others to arrive in the future.
-p:Looking to the look[South] you can see indra.city/w
-p:Further look[North] is the Body store and NW intersection.
-p:Right here to the look[East] is the Toy Store!
+p:You are in indra.city/nw.
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-300|-403]

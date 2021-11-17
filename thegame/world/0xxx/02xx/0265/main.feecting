@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see Systems from here.
+p:You can see indra.systems from here.
 ::END:LOOK
 
 =
@@ -17,9 +17,8 @@ p:Here we handle system stuff as the kids would say. Our workflow here goes...
 
 p:If you've made it here that means you need something in your System Support Sollution Services.
 
-p:Someone will be right with you.
+talk:#twitter tweet Inside indra.systems is where all the systems are built like #Cleaning #General #Legacy and all kinds. #Arjika #Indu #Soma #Sarya #Parjanya #Indra #Deva :id:
 
-#bg = thegame/world/0265/background
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-438|-507]

@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-You can see the Solutions Department.
+p:You can see indra.solutions from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0237/title
-p:You have found indra.solutions.
+p:You are in indra.solutions.
 p:This is where we provide solutions to the various services we offer.
 p:Once you make a request from services they will send you here for a solution to your request. Then our team of specialists will make it happen.
 
@@ -27,12 +27,12 @@ p:Once you make a request from services they will send you here for a solution t
 14. Food/Drink Solutions
 15. Military Solutions
 
-talk:#twitter tweet Welcome to indra.solutions where we fulfill #SOLUTIONS requests for #TheHabitat from #SERVICE requests Have a good idea talk to #Services. #R237 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+talk:#twitter tweet Welcome to indra.solutions where we fulfill #SOLUTIONS for various #SERVICE requests that we receive in #TheHabitat. #R237 #Arjika #Indu #Soma #Sarya #Parjanya #Indra #Deva :id:
 
 #color = #333333
 #bgcolor = #ffffff
 #bg = thegame/world/0237/background
-coordinates:00[-519|-426]
+coordinates:00[-507|-437.5]
 ::END:MAIN
 
 =
