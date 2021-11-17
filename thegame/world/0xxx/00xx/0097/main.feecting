@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+#bg = world/0097/background
+#bgcolor = #db9cc0
+#color = #260051
+You can see the Medic Center.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0097/title
+p:Welcome to Medical,
+p:Here MedicPRIME offers the services to get yourself back into physical and mental fitness.
+talk:#twitter tweet:medicdeva The #BEST #CARE services from Indra.care are provided by #MedicPRIME and #MedicDEVA in #R96 for #TheHabitat. #R97 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+#bg = thegame/world/0097/background
+#bgcolor = #db9cc0
+#color = #260051
+coordinates:00[-438|-368.5]
+::END:MAIN
+
+=

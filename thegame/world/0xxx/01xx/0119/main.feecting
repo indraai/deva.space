@@ -1,0 +1,24 @@
+::BEGIN:LOOK
+You can see the Eastern Lookout from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0096/title
+You are above the Eastern Gate inside the Security Lookout.
+
+SecurityDEVA D181 (Lookout) is here to make sure all threats both internal and external are identified and reported immediately.
+
+- DOWN is the Eastern Gate
+- NORTH is the Northern Security Lookout
+- SOUTH is the Southern Security Lookout
+- WEST is the War Room
+
+There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+talk:#twitter tweet:securitydeva Entering the Eastern Security Lookout in Arjika. #TG93 #Arjika #SecurityDEVA #SecurityPRIME #R119 :id:
+
+#bg = thegame/world/0096/background
+#bgcolor = #000000
+coordinates:00[-888|-472]
+::END:MAIN

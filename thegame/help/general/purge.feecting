@@ -1,0 +1,24 @@
+%purge% <victim>
+
+   Purge removes objects or mobs from the game. If no argument is given, then
+all objects and mobs in the room will be removed. If there is an argument,
+only that mob or object will be purged. Players can not be purged.
+
+Examples:
+   %purge% %self%
+   %purge% %actor.inventory(1300)%
+   %purge% %actor.eq(hold)%
+
+When purging objects make sure the object exists. If it does not the room will
+be purged:
+
+if %actor.inventory(700)%
+  %purge% %actor.inventory(700)%
+end
+
+Always purge at the end of a trigger. If you purge a mob/obj at the beginning
+you can no longer access that mob/obj variables.
+
+Example: @RTSTAT 1375, 6300@n
+
+See also: POSITIONS

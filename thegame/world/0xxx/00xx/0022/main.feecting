@@ -1,0 +1,66 @@
+::BEGIN:LOOK
+You can see the happenings at DefCon1 in this room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg = thegame/world/0022/background
+#bgcolor = #7e0940
+#color = #03bedd
+
+link[DefCon 1 Program]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+
+img:thegame/world/0022/group
+
+talk:#adv world:thegame 0022/deadaddict
+
+talk:#adv agent:thegame 0162/look
+
+talk:#adv world:thegame 0022/cypherpunk
+
+coordinates:00[-715|-645]
+::END:MAIN
+
+=
+
+::BEGIN:DEADADDICT
+## Dead Addict
+img:thegame/world/0022/dead_addict
+
+Dead Addict (center), a mainstay of DefCon, is one of the few hackers who has been with the conference from year one when he helped founder Jeff Moss organize the first gathering and secure the participation of Arizona Assistant Attorney General Gail Thackeray to speak to the hackers following her work on the notorious Operation Sun Devil case.
+
+youtube:mwtVV8dNRDI
+::END:DEADADDICT
+
+::BEGIN:CYPHERPUNK
+## A Cypherpunk's Manifesto
+- Eric Hughes
+
+Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the powvcr to selectively rcveal oneself to the world.
+
+If two parties have some sort of dealings, then each has a memory of their interaction. Each party can speak about their own memory of this; how could anyone prevent it? One could pass laws against it, but the freedom of speech, even more than privacy, is fundamental to an open sociely; we seek not to restrict any speech at all. If many parties speak 1ogcthcr in the same forum, each can speak to all the others and aggregate together knowledge about individuals and other parties. The power of electronic communications has enabled such group speech., and it will not go away merely because we might want it to.
+
+Since we desire privacy, we must ensure that each party to a transaction have knowledge only of that which is directly necessary for that transaction. Since any information can be spoken of, we must ensure that we revlea as little as possible. In most cases personal identity is not salient. When I purchase a magazine at a store and hand cash to the clerk, there is no need to know who I am. When I ask my electronic mail provider to send and receive messages, my provider need not know to whom I am speaking or what I am saying or what others are saying to me. My provider only need know how to get the message ther and how much I owe them in fees. When my idnetity is revealed by the underlying mechanism of the transaction, I have no privacy. I cannot here selectively reveal myself. I must always reveal myself.
+
+Therefore, privacy in an open society requires anonymous transaction systems. Until now, cash has been the primary such system. An anonymous transaction system is not a secret transaction system. An anonymous system empowers individuals to reveal their identity when desired and only when desired; this is the essence of privacy.
+
+Privacy in an open society also requires cryptography. If I say something, I want it heard only by those for who I indende dit. If the content of my speech is available to the world, I have no privacy. To encrypt is to indiciate the desire for privacy, and to encrypt with weak cryptography is to indicate not too much diesire for privacy. Furthermore to reveal ones' identity with assurance when the default is anonymity requires the cryptographic signature.
+
+We cannot expect governments, corporations, or other large, faceless organizations to grant us privacy without their beneficence. It is to their advantage to speak of us, and we should expect that they will speak. To try to  prevent their speech is to light against the realities of informaiton. Information does not just want to be free, it longs to be free. Information is fleeter of foot, has more eyes, knows more, and understands less than Rumor.
+::END:CYPHERPUNK
+
+=
+
+::BEGIN:ADDICT
+Dead Addict has been im'<llved in the CU for about 6 y,,ars. Progressing as most do from piracy to phrcaking, 10 hacking, to finally becoming the law abiding god fearing atbicst citizen that  he is today. He has been a senior member or NSA and TRW, leaving both groups eventually for various reasons.
+::END:ADDICT
+
+=
+
+::BEGIN:DRUID
+## The evil Dark Druid
+The evil Dark Druid sacrificed his first small animal 10 the Hacking God to further his dark skills. That, in addition to his first unix installation at 14 started him off in the right direction. He has been actively involed with unix security research and internetworking security issues for quite some time. On July I, 1992 a flurry of agents swarmed his house, shoved a warrant in his face. and took most of his worldly possessions. Over a year later he's still wondering what happened to his stuff' and if anyone will ever charge him with a crime.
+::END:DRUID
+
+=

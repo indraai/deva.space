@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+You can see NAVY Barracks from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+Benches face toward the west wall where a large map has been pinned up. This is where the lieutenants of the army relay their plans to the sergeants to carry them out.  You can work your way between the benches to the south, east, or north.
+coordinates:00[-70|-195]
+::END:MAIN

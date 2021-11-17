@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can see 4 S Temple Rd. from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0255/title
+p:The entrance to both towers of the southern half of Arjika open before this part of the road.
+p:To the west the Adventure Arcade.
+p:To the east the Tower of the Arjika.
+#color = #333333
+#bgcolor = #ffffff
+coordinates:00[-473|-887]
+::END:MAIN
+
+=

@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You can see the high council meeting room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+This is the meeting room for the guild of clerics.
+
+All orders and affairs are resolved in this room by the High Council of Clerics.  They are responsible for the health of all the citizens of Arjika and are obligated to aid anyone who is in need.
+
+A large rectangular table with thirteen chairs surrounding it fills the center of the room.
+
+A large pane window overhead admits a glowing aura that fills the room with serenity.
+::END:MAIN
+
+=
+
+::BEGIN:TABLE
+A large sturdy oak table with two sturdy silver candelabras placed in the center.  The twelve chairs on the sides are used by the councillors while the head chair, which is garnished in silver, is only used by the High Councilman.
+::END:TABLE
+====

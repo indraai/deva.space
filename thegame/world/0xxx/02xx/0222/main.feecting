@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see the Indra.email office.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0222/title
+p:Welcome to Indra.email,
+p:Indra.email is the global mail service for everyone in Arjika. This is where you can send mail to your friends around the Realm.
+
+l: Check Mail
+bmud[Check Mail]:check
+
+l: Receive mail
+bmud[Receive Mail]:receive
+
+talk:#twitter tweet Inside the indra.email #PostOffice where #Mail distributed throughout the #TheHabitat! #R222 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-404|-334]
+::END:MAIN

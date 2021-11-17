@@ -1,0 +1,9 @@
+::BEGIN:LOOK
+You can see 136 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+At first glance this room seems to be made just to prepare food for the towers occupants, but on second glance one can see that a few of the cooks are actually clerics and they are working over cauldrons of liquids that could not possibly be food.  At least it does not smell like food.  This must be where they make their healing elixirs, salves, and potions.
+
+coordinates:00[-450.5|-1194.5]
+::END:MAIN

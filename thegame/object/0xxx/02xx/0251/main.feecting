@@ -1,0 +1,52 @@
+::BEGIN:AVATAR
+bmud[⛲️]:look fountain
+::END:AVATAR
+
+::BEGIN:LOOK
+The marble fountain of pure water.
+::END:LOOK
+
+::BEGIN:DESCRIBE
+DO NOT ETNER THE FOUNTAIN!
+::END:DESCRIBE
+====
+
+::BEGIN:STATUES
+Below each statue is engraved a name... Vamraka, Indu, Soma, Sarya.  More is written below the names but you must look more closely to read it.
+::END:STATUES
+====
+
+::BEGIN:FOUNTAIN
+This is the most beautiful fountain you have ever set your eyes upon! It has a marble bottom, which is clean enough to eat off from.  In the center of the fountain, you see some stone FIGURES. They have their mouths open. As you look closely you can see that there is water streaming out from the mouths. What a neat idea!
+::END:FOUNTAIN
+====
+
+::BEGIN:VAMRAKA
+Vamraka... To bring the all.
+::END:VAMRAKA
+====
+
+::BEGIN:INDU
+Indu... To bring the flow.
+::END:INDU
+====
+
+::BEGIN:SOMA
+Soma... To bring the way.
+::END:SOMA
+====
+
+::BEGIN:SARYA
+Sarya... To bring the roar.
+::END:SARYA
+====
+
+::BEGIN:BOM
+Sarya... To bring the light.
+::END:BOM
+====
+
+::BEGIN:INDRA
+Indra... They come to Indra.
+::END:INDRA
+====

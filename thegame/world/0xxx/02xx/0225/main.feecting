@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see indra.store/water from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0225/title
+p:Welcome to the Water Store,
+p:Here you can find your necessary items for Water Needs.
+
+talk:#twitter tweet The #Water store in the indra.store franchise is hosted by #Warry the #WaterMaster who serves up the #PurWater in a #Cup or #Canteen in #R225. #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-611|-368.5]
+::END:MAIN

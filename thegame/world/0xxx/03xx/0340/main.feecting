@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see MUD Courtyard W. from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0340/title
+To your west is the great Throne of 0x the King of Adult Baby Day Care.
+
+::begin:arcade
+talk:#docs view games/main:aardwolf
+::end:arcade
+
+::begin:arcade
+talk:#docs view games/main:greater
+::end:arcade
+
+#bgcolor = #000000
+#color = #f9c928
+#bg = thegame/world/0340/background
+coordinates:00[-335|-887]
+::END:MAIN

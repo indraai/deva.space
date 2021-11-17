@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You are looking at MUD Hall N. where these games are available to play.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0327/title
+Welcom to the Adventure Arcade. In this room you will find the games.
+
+- Avatar MUD
+- End of the Line
+
+::begin:arcade
+talk:#docs view games/main:avatar
+::end:arcade
+::begin:arcade
+talk:#docs view games/main:eotl
+::end:arcade
+#bgcolor = #000000
+#color = #29da4f
+#bg = thegame/world/0327/background
+coordinates:00[-404|-852]
+::END:MAIN

@@ -1,0 +1,28 @@
+::BEGIN:LOOK
+You can see Systems from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0265/title
+p:Welcome to Indra.systems
+p:Here we handle system stuff as the kids would say. Our workflow here goes...
+
+## Offerings
+1. Services defines what you need.
+2. Solutions cares for the Services we offer.
+3. Support cares for the Solutions we deliver.
+4. Systems cares for the Support you receive.
+
+p:If you've made it here that means you need something in your System Support Sollution Services.
+
+p:Someone will be right with you.
+
+#bg = thegame/world/0265/background
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-438|-507]
+::END:MAIN
+
+=

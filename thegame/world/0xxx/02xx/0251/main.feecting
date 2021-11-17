@@ -1,0 +1,31 @@
+::BEGIN:LOOK
+You can see the center of the dome.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0251/title
+p:You have arrived at the Temple in the center of Arjika Land. Where the citizens come to make offerings to the Deity Houses of Arjika.
+p:The Deity Shrines are located in the South East Quad near the Law Library inside the Arjika Towers.
+
+p:Householder Deities in Arjika include but are not limited to...
+
+- #31 Vamraka Shrine
+- #32 Indu Shrine
+- #33 Indra Shrine
+- #34 Soma Shrine
+- #105 Vivasvan Shrine
+- Sarya Shrine
+- and many more...
+
+talk:#twitter tweet:indradotai In the center of our world is indra.center. Routes from here go North South East and West to all sorts of places. #Arjika #Indu #Soma #Sarya #Indra #Deva #R251 :id:
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/0251/background
+coordinates:00[-473|-472]
+::END:MAIN
+
+=
+0

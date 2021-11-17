@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/agent/0144/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+# Black Deva
+img:thegame/agent/0144/avatar
+
+name: Black Deva
+job: Deva
+rank: Deva
+sex: M
+age: Unknown
+
+A Alack Deva walks past in a state of deep concentration. One of the seven orders of the Deva the black are known for their delving into the the more abstract forms of thought. The other Deva will not associate with them sometimes because of this.
+::END:LOOK

@@ -1,0 +1,34 @@
+::BEGIN:LOOK
+You can see the Bank of Arjika from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0224/title
+Welcome to the indra.money Bank. This bank is well known in the Underworld.
+
+## Gold
+bmud[🪙 Gold]:gold
+To check how much you are carrying.
+
+## Balance
+bmud[⚖️ Balance]:balance
+To check your current bank balance.
+
+## Deposit
+Quick commands to deposit coins into your account.
+
+bmud[💰 10]:deposit 10
+bmud[💰 25]:deposit 25
+bmud[💰 50]:deposit 50
+bmud[💰 100]:deposit 100
+
+talk:#twitter tweet Inside the #Bank of Indra.money where citizens of #Arjika manage their legacy currency resources. #MONEY is not used locally, but we do provide this as a resource for #LegacySystems and outside dealings. #R224 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-542|-334]
+::END:MAIN
+
+=

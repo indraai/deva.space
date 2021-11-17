@@ -1,0 +1,73 @@
+::BEGIN:LOOK
+You can see trigger help files room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg = world/0023/background
+#bgcolor = #001242
+#color = #ff8e00
+
+talk:#wiki summary Hackers_on_Planet_Earth
+
+talk:#adv world:thegame 0023/about
+
+talk:#adv world:thegame 0023/heu
+
+talk:#adv world:thegame 0023/photos
+
+coordinates:00[-841.5|-295.5]
+::END:MAIN
+
+=
+
+::BEGIN:HEU
+## Hacking at the End of the Universe
+Remember 'Hacking at the End of the Universe' (HEU) in 1993? The people that published Hack-Tic, a computer underground magazine in The Netherlands, organized it. Hundreds of hackers, phone phreaks, programmers, computer haters, data travellers, electro-wizards, networkers, hardwarefreaks, techno-anarchists, communications junkies, cyber- and cypherpunks, system managers, stupid users, paranoid androids, Unix gurus, whizz kids and warez dudes spent three days building their own network between their tents in the middle of nowhere, located in the Flevopolder in The Netherlands.
+
+HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machines, all connected via an intertent Ethernet that is connected to the Internet. People from all over The Netherlands and other countries will come together to learn and discuss the benefits, as well as the risks of new technologies. They'll listen to lectures, join workshops, enjoy special presentations and, last but not least, party, all of this in a friendly open-air environment of a very wired campsite far away from the civilized world.
+
+Hacking In Progress will be happening at the same time as Beyond HOPE. We are planning a live video teleconferencing link between the two events, via the Beyond HOPE network.
+::END:HEU
+
+====
+::BEGIN:ABOUT
+## About
+link[HOPE 1997]:https://web.archive.org/web/19970603140920/http://www.hope.net/about.html
+
+It all takes place starting Friday evening, August 8th, running until Sunday night, August 10th at the Puck Building in New York City, on the corner of Houston and Lafayette Streets. A floor plan of the Puck Building is available. The main part of the conference begins at noon on Saturday, with registration starting at 10AM. However, you will also be able to register Friday evening beginning at 6PM and help us set up the network for the weekend. There will be a special 2600 meeting beginning at 5PM on Friday at the Citicorp Center, located at 53rd and Lexington. To get to the conference from the meeting, take the #6 train downtown to Bleecker Street. Follow the signs and portents.
+
+
+::END:ABOUT
+====
+
+::BEGIN:PHOTOS
+
+> CIA Agent Robert Steele's keynote address HOPE Conference 1994
+img:world/0023/steele-panel
+
+--
+
+> Robert Steele of the CIA, Eric Hughes, Ray Kaplan at the HOPE Conference 1994
+img:world/0023/steele-hughes-caplan-94
+
+--
+
+> Grafitti Wall at HOPE Conference 1994
+img:world/0023/grafitti-wall-2
+
+--
+
+> Winn Schwartau, Mordehai Levy of the JDO, Ray Kaplan
+
+img:world/0023/kaplan-big-brother
+
+--
+
+> Grafitti Wall at HOPE Conference 1994
+
+img:world/0023/grafitti-wall
+
+::END:PHOTOS
+====

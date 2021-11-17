@@ -1,0 +1,36 @@
+::BEGIN:LOOK
+You can see the (EVIL!)Mud Room
+::END:LOOK
+
+::BEGIN:MAIN
+#bg = world/0027/background
+#bgcolor = #000000
+#color = #eeeeee
+title: (EVIL!)Mud
+owner: Xibo
+author: Vasudeva
+helper: Tarrant
+telnet: evil.xibo.com:4201
+
+talk:#adventure view:thegame:world 0027/what
+talk:#adventure view:thegame:world 0027/combat
+talk:#adventure view:thegame:world 0027/who
+::END:MAIN
+
+::BEGIN:WHAT
+## What is (EVIL!)Mud
+(EVIL!)Mud is a multi-user dungeon running the TeenyMUD 2.0 code. It's a social setting for dark humor, freedom of expression, and commentary. (EVIL!) is freely extendible by any user, which means that if you create something, it joins the seven years of history that already exists.
+::END:WHAT
+====
+
+::BEGIN:COMBAT
+## Is it a Combat Game?
+No, it's not a game, it's more like a virtual bar. But more than that, if you don't feel like hanging out in one of the more public areas, you can wander off explore the more than 2000 rooms that have been built on the mud. And if you get creative, you can build your own areas.
+::END:COMBAT
+====
+
+::BEGIN:WHO
+## Who Runs It?
+The wizards on (EVIL!)Mud are Xibo, Vasudeva, and Tarrant. Xibo owns the mud and maintains it, while Vasudeva is the author of the source code. Tarrant is a friendly guy who helps people. (EVIL!)Mud has been up since January of 1991, which makes it the 4th oldest mud around.
+::END:WHO
+====

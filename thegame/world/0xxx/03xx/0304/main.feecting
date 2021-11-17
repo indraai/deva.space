@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+Welcome to ARMY Cyber3 where the dirty business get's clean.
+
+talk:#adventure view:thegame:world 0304/describe
+::END:LOOK
+
+::BEGIN:MAIN
+CYBER3
+
+talk:#adventure view:thegame:world 0304/describe
+
+coordinates:00[-830.5|-714]
+::END:MAIN
+
+::BEGIN:DESCRIBE
+## Army Cyber3
+room: 319
+opsec: L2
+describe: ARMY CYBER3 handles the dirty business. CYBER3 is called when you need the dirty business of Cybersecurity. Where CYBER4 handles the elite Terrorist Groups is where Cyber3 hits the streets like a ninja. This is where spies, counter insurgency, counter terrorism, and special operations all reside.
+
+::END:DESCRIBE
+====

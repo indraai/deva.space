@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+You can see Support from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0267/title
+p:Welcome to Indra.support
+p:Here we provide support for our solutions that we get from services. If you need support relating to a service provided or solution delivered this is the right spot.
+
+## Offerings
+1. Support for Services.
+2. Support for Solutions.
+2. Support for Systems.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/0267/background
+coordinates:00[-507|-507]
+::END:MAIN
+
+=

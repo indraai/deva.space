@@ -1,0 +1,155 @@
+# Help
+
+Further information available by HELP <keyword>, keyword being a command or
+(for example) one of the following:
+
+   SOCIAL SHOPS INNS MONK WARRIOR THIEF MAGIC SPELLS LINK
+-------------------------------------------------------------------------------
+
+
+### Eating & DrinkingMove around the board.
+
+'north': Move in the NORTH directn
+'west': Move in the WEST directioion
+'south': Move in the SOUTH directnion
+'east': Move in the EAST directio
+'up': Move in the UP direction
+'down': Move in the DOWN direction
+
+## Information
+General commands for information and stuff
+
+'score': Get the score
+'help': Get some help
+'info': General information on the game
+'who': Who is online
+'where': WHERE
+'consider': CONSIDER
+----
+
+'news': Read the latest Deva.world News
+'time': Get the local game time
+'weather': Get the weather
+----
+
+'levels': Sho information on the various levels
+'credits': Show the game credits
+'toggle': TOGGLE
+'flags': FLAGS
+----
+
+'immlist': IMMLIST
+'wizlist': List Wizard stuff
+'wizhelp': Help with Wizard stuff
+
+## Interaction
+Interact with objects
+'lock': Lock
+'unlock': Unlock
+'open': Open something
+'close *': Close something
+----
+
+'buy': Buy something
+'rent': Rent something
+'offer': Get an offer
+
+## Communication
+Communicate with other beings.
+'say': Say something
+'shout': Shout something
+'holler': Holler something
+'tell': Tell something
+'ask': Ask something
+'whisper': Whisper something
+'write': Write something
+
+'grats': Gatitude
+'auction': Auction something
+
+### Gossip
+'gossip': Gossip something
+'gsay': Gossip say something
+
+### Mail
+'mail': Mailbox
+'receive': Reveive mail
+'check': Check mail
+
+### Disable
+'notell': NOTELL
+'noshout': NOSHOUT
+'nogossip': NOGOSSIP
+'nograts': NOGRATS
+'noauction': NO AUCTION
+'nosummon': NOSUMMON
+
+
+## Objects
+Interact with various objects
+
+
+### Interacting
+'get': Get an object
+'drop': Drop an object
+'put': Put an object
+'give': Give an object
+'junk': Junk an object
+'donate': Donate an object
+----
+
+'wear': Wear an object
+'grab': Grab an object
+'remove': Remove an object
+----
+
+'examine': Examine an object
+'inventory': Show your inventory
+'equipment': Show your equipment
+
+### Eating & Drinking
+'eat': Eat something
+'drink': Drink something
+'taste': Taste something
+'sip': Sip something
+'pour': Pour something
+
+## Combat
+Various combat functions
+
+'wield': Wield a Combat Object
+'kill': This command will be removed
+'kick': Kick an opponent
+'track': Track an opponent
+'bash': Bash an opponent
+'rescue': Rescue an opponent
+'flee': Flee from a combat situation
+'backstab': This command will be reomoved
+'cast': Cast a spell
+
+## Utility
+System utility functions
+
+'!': Repeat last command
+'bug': Report a system bug
+'idea': Share an idea you have for Deva.world
+'typo': Find a typo?
+----
+
+'save': Save Deva.world
+'quit': Quit Deva.world
+----
+
+'brief': Turn on brief mode
+'compact': Use compact mode
+----
+
+'title': TITLE
+'commands': COMMANDS
+'socials': SOCIALS
+'display': DISPLAY
+----
+
+'help social': List of social commands
+'help shops': Help with Shops
+'help inns': Help with Inns

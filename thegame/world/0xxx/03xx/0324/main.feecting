@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You can see the Adventure Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0324/title
+p:You have found your way to the back corner of the Adventure Arcade where only the Elite play.  Here you play at your own risk against 0x Elite Players.
+
+::begin:arcade
+talk:#docs view games/main:lambda
+::end:arcade
+
+::begin:arcade
+talk:#docs view games/main:souls
+::end:arcade
+
+
+#bgcolor = #000000
+#color = #c00b83
+#bg = thegame/world/0324/background
+coordinates:00[-300|-852]
+::END:MAIN

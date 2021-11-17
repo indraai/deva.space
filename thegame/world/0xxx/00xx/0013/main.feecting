@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can see the instructions for Project 89.
+::END:LOOK
+
+====
+::BEGIN:MAIN
+img:thegame/world/0013/title
+
+## Project89
+talk:#docs view hack/project89
+
+#bg = thegame/world/0003/background
+#bgcolor = #333333
+#color = #eeeeee
+coordinates:00[-715|-403]
+::END:MAIN
+====

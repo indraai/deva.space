@@ -1,0 +1,18 @@
+Spell-check your zone before you submit it for the final walk-through. If
+there are a million spelling errors, we will not look at the zone until those
+are fixed.
+   Make sure your Zone Description Room in <zone #>00 is complete. It should list
+absolutely everything of importance about your zone. @RHELP ZONE-DESC@n for the
+requirements. You can also use the extra description 'credits' if you wish.
+   Be sure all your mobs have been auto-rolled by setting the level in medit.
+This is required for balancing. Also be sure everything meets the standards
+under @RHELP STANDARDS@n.
+   One last thing you could do to ensure you have built a quality zone is to
+read or re-read TBA zone. It is too much info to absorb the first time through
+and I guarantee it will give you new ideas and help you fix common problems. We
+have to review a lot of zones with a limited staff so any help you can give us
+by double-checking your own zone is greatly appreciated.
+   Upon completion of a zone notify any of the staff and MUDmail Rumble. Your
+zone will be looked over and corrections will be MUDmailed or emailed to you.
+Do not take this personally. Everyone makes mistakes and everything we do is
+meant as constructive criticism.

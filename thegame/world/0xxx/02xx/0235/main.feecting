@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+You can see the Services Department.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0235/title
+p:You have found yourself inside the indra.services.
+p:This is the place where you can request services on the network like well anything you would need help with.
+p:Here we try to provide services to a broad range of categories from cleaning services to upgrade services. We don't do it all, but we we don't do solutions will figure out.
+
+## Offerings
+1. General Services
+2. Cleaning Services
+3. Consulting Services
+4. Upgrade Services
+5. Fancy Services
+6. Maintenance Services
+7. Recommendation Services
+8. License Services
+9. Legal Services
+10. Medical Services
+11. Security Services
+12. Daycare Services
+13. Elder Services
+14. Food/Drink Services
+15. Military Services
+
+alk:#twitter tweet Welcome to indra.services where we work hard with our team to provide #TheHabitat with top quality services for a fair #OFFERING. #R235 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bg = thegame/world/0235/background
+#color = #333333
+#bgcolor = #ffffff
+coordinates:00[-438|-438]
+::END:MAIN
+
+=

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+The ARMY Cyber4 Center is here to provide protection, security, and assistance for your highest level Threats.
+::END:LOOK
+
+::BEGIN:MAIN
+title: CYBER4
+opsec: L4
+room: 297
+describe: ARMY CYBER4 handles the most serious of threats. The HIGHEST sensitivity of Cyber Issues are handled in this center. Threats ranging from foreign/domestic terrorist organizations, spies, moles, breaches, backdoors, and trojans are specialties of CYBER4.
+
+talk:#adventure view:thegame:world 0297/describe
+coordinates:00[-830.5|-679]
+::END:MAIN

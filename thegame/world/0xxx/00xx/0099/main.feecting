@@ -1,0 +1,66 @@
+::BEGIN:LOOK
+You can see the 99 Cafe.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg =  0099/background
+
+
+coordinates:00[-702.5|-295.5]
+::END:MAIN
+
+=
+
+::BEGIN:SKY
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+::END:SKY
+====
+
+::BEGIN:FLOOR
+The stone floor is the same shade of gray as the sky and is completely plain and unscratched. It is probably too hard for anything to leave as much as a scratch on it.
+::END:FLOOR
+====
+
+::BEGIN:PULPIT
+link[The Incident]:https://web.archive.org/web/19991205153119/http://www.pbs.org/cringely/pulpit/pulpit19990805.html
+
+img:world/0099/pulpit
+
+## Being an Accessory Makes the Man
+### How I Barely Avoided Being a Computer Felon and Lived to Regret It
+
+author: Robert X. Cringely
+date: August 5, 1999
+
+-
+
+I reckon that after 22 years of being more or less paid for hanging around computers, I am now riding my third technical wave. First, there was the standalone personal computer (do you remember that Apple invented and forgot to trademark that term?), then networked PCs, and now the Internet. Each wave creates new fortunes and introduces me to new kooks. This is all fine, but I must complain about the declining quality of trade shows. Maybe it's just me, but I find the early shows in each new wave to be the most exciting. In the PC wave it was the West Coast Computer Faire and the National Computing Conference, both long dead, replaced by the slick enormity of Comdex. For networked PCs it was InterOp and maybe the first NetWorld. I'm having a hard time even naming an exciting Internet show, though I certainly enjoyed the recent Java One in San Francisco. In each case, what was nice in those early events was the quality of critters it dragged in from the night. We're not talking here about cocktail parties or industry luminaries, but about the mountain men and women of high tech who appear at those early shows, blinking in the bright unaccustomed light of day. These are the real nerds, the folks barely able to communicate with the rest of us, God bless them. They bring a kind of Vulcan energy to these early events only to disappear by year three, offended by the rise of professionalism and the patina of marketing BS.
+
+What brings this all to mind is more than just a slow news week. It's my realization that the unthinkable has happened and even the computer crooks have become dull. We're not talking about "The Sopranos" here. We're talking about DefCon.
+
+DefCon is the computer crackers' show that has been running in Las Vegas each July for the last several years. Founded by a guy who used to be known only as The Dark Tangent, it was that most marvelous of parties, a computer criminal's rave where -- for reasons I could never quite understand -- the cops were invited to watch. It was mass technosuicide in Hawaiian shirts and I loved it. But that's all gone, of course. The Dark Tangent can now legally drink at his own show, he picked up a real name along the way and even an MBA, so of course the show is now supposed to make money. That's the kiss of death. They still play Spot the Fed, of course, with the person who spots the Fed getting a t-shirt that says, "I spotted the Fed," and the Fed who has been outed receiving a shirt that says, "I am a Fed." It's cute, but no longer clever.
+
+So instead of explaining this week the next Internet megamerger or the technology du jour, forgive an old reporter's favorite reminiscence of days gone by when men were boys and boys were stupid -- DefCon 1.
+
+I was the only reporter at DefCon 1, which attracted somewhere around 150 hackers and crackers to the old Sands Hotel back before ConAir Flight 1 smashed it to bits for a movie. The year was 1993 or '94 and InfoWorld, where I worked in those days, wouldn't pay my way, so I went on my own. It was surreal. I knew I wasn't in Kansas anymore when my cellphone rang in a session, setting-off four illegal scanners in the same room. As I left to take my call in the hallway I wondered why I bothered.
+
+There were two high points for me at DefCon 1. First was the appearance of Dan Farmer, then head of data security for Sun Microsystems. Dressed all in black leather with flaming shoulder-length red hair and a groupie on each arm, Dan sat literally making-out in the back row until it was time for his presentation. But the presentation, itself, was far more entertaining than the smooching. In a series of rapid-fire slides he showed dozens of ways in which crackers had attacked Sun's network in recent months. He explained techniques that had failed at Sun but would probably have succeeded at most other companies. It was a master class in computer crime and his point, other than to prove that Dan was the smartest guy in the room, was to urge the crackers to at least be more original in their attacks!
+
+But the best part of DefCon 1 was the battle between the kids and hotel security. Contrary to popular belief, breaking in to Pentagon computer systems is not very lucrative, so many of the participants in that early DefCon did not have money for hotel rooms. The Dark Tangent handled this by renting the single large meeting room 24 hours per day so it could be used after hours for sleeping. Alas, someone forgot to explain this to the 6AM security shift at the Sands. Just as the hardy group of adventurers returned from a late-night break-in at the local telephone company substation, fresh security goons closed the meeting room and threw the kids out.
+
+It is not a good idea generally to annoy a computer cracker, but it is a very bad idea to annoy a group of computer crackers bent on impressing each other.
+
+The meeting reconvened at 9 or 10 with the topic suddenly changed to Revenge on the Sands. Gail Thackery, a U.S. Attorney from Arizona who at that moment had approximately half the room under indictment, rose to offer her services in representing the kids against the hotel management. Thackery had been invited to speak by the very people she wanted to put in jail. I told you this story was surreal.
+
+Adult assistance might be nice, but a potentially more satisfying alternative was offered by a group that had been busy since being evicted. They explained that they had breached the hotel telephone system, gained access to the computer network, obtained root level access to the Digital VAX minicomputer that ran the Sands casino, and were ready at any time to shut the sucker down.
+
+It came to a vote: accept Thackery's offer of assistance or shut down the casino. Of course there was no contest. They voted to nuke the casino. Not one to be a party pooper, I voted with the majority. Gail Thackery, feeling her lawyer's oats, was perfectly willing to be a party pooper, though. Lawyers can be that way. She explained with remarkable patience that opting en masse to commit a felony was a move that we might just want to reconsider, especially given the three strikes implications for some of the older participants. We could accept her help or accept a date with the FBI that afternoon. The Sands, which was ironically owned by the same folks who put on Comdex, never knew how close it came to being dark.
+
+Do not try this at home.
+
+It was a thrilling moment like you'd never see at a Comdex, MacWorld, or even at Java One. I'll never see its like again. Everyone who was in that room shares a pirates' bond. And though I can't defend what we almost did, I don't regret it. And like the others, I wish Gail Thackery had stayed in Arizona and we'd shut the sucker down.
+
+::END:PULPIT
+====

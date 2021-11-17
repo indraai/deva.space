@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:agent/0127/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+A healer in a white luminescent robe is tending to the wounded. This beautiful woman at one time used to piously offer her healing skills to any in need.  But times are rough and now she can only afford to help those that are just starting their adventures.  Type 'heal' to see what services she offers.  Type 'heal <spell>' to buy one of her spells.
+::END:LOOK
+====
+
+::BEGIN:SUMMARY
+::END:SUMMARY
+====

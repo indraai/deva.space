@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+From here you can see the EtherSec Project 2020 instrcutions.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0010/title
+#bg = thegame/world/0010/background
+#bgcolor = #151715
+#color = #dadbc5
+
+
+coordinates:00[-715|-299.5]
+::END:MAIN
+
+=

@@ -1,0 +1,10 @@
+
+Usage: assist <player>
+
+   If <player> needs assistance in battle and you feel brave enough to help,
+use this command to join the battle. The monster attacking <player> will keep
+hitting them, unless it decides to switch.
+
+> assist tink
+
+See also: AUTOASSIST, FLEE, KILL, RESCUE

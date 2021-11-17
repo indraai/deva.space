@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can see 9 E Temple Rd. from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0256/title
+p:You are on 9 E Temple Rd. To the EAST is Susoma Portal, and the WEST is Inner Temple Sq.
+p:To the look[east] is Susoma Portal.
+p:To the look[west] is Inner Temple Square.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-784|-472]
+::END:MAIN
+
+=

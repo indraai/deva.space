@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see indra.city/se from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0270/title
+p:You are in indra.city/se.
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-784|-507]
+::END:MAIN
+
+=

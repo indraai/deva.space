@@ -1,0 +1,97 @@
+::BEGIN:LOOK
+You can see the Satanic Sysadmins room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg = world/0020/background
+
+link[Satanic.org - Archive]:https://j.mp/3iutq8t
+
+Welcome to satanic.org, a little island of evil in a boiling red sea of luse. Many people wonder what exactly it is that systems administrators do late at night, after everyone has gone home and only the flicker of the screen savers lights up the cube walls. Well, we're here to tell you:
+
+talk:#adv world:thegame 0020/worship
+
+talk:#adv world:thegame 0020/ritual
+
+talk:#adv world:thegame 0020/manifesto
+
+coordinates:00[-715|-714]
+::END:MAIN
+
+=
+
+
+::BEGIN:MANIFESTO
+## Manifesto
+link[Manifesto - Archive]:https://web.archive.org/web/20000304172631/http://satanic.org/incubus/manifesto.html
+Here, in blatant black&white;, is our raison d'etre, our
+true feelings, our... Domain Name Request.
+
+
+
+---------- Forwarded message ----------
+Date: Wed, 3 Jan 1996 15:17:33 -1000 (HST)
+From: Eric Sorenson
+To: InterNIC Hostmaster
+Subject: new domain - satanic.org
+
+******************* Please DO NOT REMOVE Version Number ********************
+
+Domain Version Number: 2.0
+
+**************** Please see attached detailed instructions *****************
+
+******** Only for registrations under ROOT, COM, ORG, NET, EDU, GOV ********
+
+0.   (N)ew (M)odify (D)elete....: N
+
+1.   Purpose/Description........: To disseminate information about the
+connections between Satanic rituals and Systems Administration, and to
+educate the SysAdmin population about how practicing ritual magic can
+decrease system downtime, improve our personal lives, and get us
+free beer and women.
+
+2.   Complete Domain Name.......:satanic.org
+
+Organization Using Domain Name
+3a.  Organization Name..........:Satanic SysAdmins, Inc.
+
+Administrative Contact
+4a.  NIC Handle (if known)......:ES271
+4b.  Name (Last, First).........:Sorenson, Eric
+4c.  Organization Name..........:Zang Systems Group, Inc.
+4j.  E-Mailbox..................:eric@aloha.net
+
+Invoice Delivery
+9.   (E)mail (P)ostal...........: E
+::END:MANIFESTO
+====
+::BEGIN:RITUAL
+## Ritual
+How you can increase your servers' uptime with SATANIC rituals
+
+It has long been a widely-acknowledged fact among the System Administrator community that fixes to broken servers involve what is commonly known as "Voodoo" -- That is, illlogical sequences of actions which, despite their apparent stochiastic reasoning, nevertheless seem to fix the problem at hand.
+
+We here at Satanic SysAdmins suggest a more "scientific", quantifiable approach. We maintain that there are definite, easily laid-out steps which can resolve various daily problems with a minimum of fuss. All it takes is absolute compliance to these simple instructions and unswerving devotion to our Lord and Master, Lucifer Light-Bringer.
+
+One of the most common problems with production UNIX servers which fail inexplicably involves obscure hardware conflict resolution, i.e. IRQ conflicts between new and existing hardware on 80x86 boxes, or SCSI termination/ID problems on Solaris/SGI computers.
+
+You can muck around with jumper and software settings for hours, but in our experience, the most simple and direct solution involves the ritual sacrifice of a domesticated fowl, i.e. the common chicken or duck. Under a full moon, slay the chicken with a Tongan war club. Setting parapherneilia like candles, bells, and naked nubile dancers is recommended but not obligatory. Drip the blood of the newly-slain beast onto a Tibetan prayer scarf, and wrap said scarf around the troublesome computer. If it remains nonfunctional after two or three boots into single-user mode, we highly recommend picking the casing up about three or four feet above its resting place and dropping it suddenly. This is guaranteed to either fix your problem or bring you an entirely new set of difficulties with which to deal.
+
+::END:RITUAL
+====
+
+::BEGIN:WORSHIP
+## WE FUCKIN WORSHIP SATAN!
+
+Here's why:
+- To increase system uptime! We're passing on a direct solution to fix those interminable hardware conflicts, plus an end to Novell and NT idiocy.
+- To improve our personal life! Sometimes you just need some pussy.
+- Resolve Issues fucking problems with the world
+- We TRY to be nice to them but the fascists, the lusers, and the xtians just won't leave us alone. Just HOW weird are they? Well, here's a collection of Fan Mail random passers-by have sent to Us over the past couple of years, starting with 1996.
+- To get more beer! Because really, there's nothing else that quenches that deep-down soul-rotting thirst like beer
+- The sordid past. Sometimes you just can't escape history. Here's a page that tracks the genesis of a legend.
+::END:WORSHIP
+====

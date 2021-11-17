@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+You can see MARINES CYBER4 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+YOU ARE IN MARINES CYBER2
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-830|-264.5]
+::END:MAIN

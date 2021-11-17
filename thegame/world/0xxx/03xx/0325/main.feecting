@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+You can see the Adventure Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0325/title
+p:Here in this part of the Adventure Arcade you can play in the realms of Genesis and Nanvaent.
+
+::begin:arcade
+talk:#docs view games/main:genesis
+::end:arcade
+::begin:arcade
+talk:#docs view games/main:nanvaent
+::end:arcade
+
+#bgcolor = #000000
+#color = #66ded1
+#bg = thegame/world/0325/background
+coordinates:00[-335|-852]
+::END:MAIN

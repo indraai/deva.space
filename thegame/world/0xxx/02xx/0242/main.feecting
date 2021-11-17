@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+You can see MARINES DEVELOPMENT from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+The Supporting Establishment includes the Combat Development Command, the Logistics Command, the Systems Command, the Recruiting Command, the Installations Command, the Marine Band, and the Marine Drum and Bugle Corps.
+
+img:thegame/world/0242/deploy
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-865|-346]
+::END:MAIN
+
+=

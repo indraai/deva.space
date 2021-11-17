@@ -1,0 +1,34 @@
+::BEGIN:LOOK
+p:You can see the indra.fun/playground from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0343/title
+p:You are in the amazing 0x indra.fun/playground.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-237|-852]
+::END:MAIN
+
+====
+
+::BEGIN:STORY
+img:thegame/world/0255/title
+After Quinn discovered that his son and Tabitha were involved with The Covenant a report was made with the FBI, and a drawing was delivered as evidence.
+
+As many were unaware at this time Quinn had all but given up on his plan to destory the world's religions to be with his son Trent during the years of 2011 to 2015 were as the reports say "Quinn's Golden Years."
+
+The reports of that time show Quinn spending time with Trenton and almost forgetting about his previous goal of destroying everything for the world taking his ability to be a father away.
+
+Quinn's testimony said he had no other choice... the courts sided with Tabitha, the government sided with Tabitha, the religious people sided with Tabitha, and even the gods themselves sided with Tabitha.
+
+The report says at this time Quinn became a recluse on the Internet ranting and raving about a kidnapping story Trenton told him. Current evidence shows this to be a distraction story for other more nefarious hacking of the Department of Energy, Department of Justice, and Federal Government systems.
+
+What the Government stated was this was a ruse to get his name into the system where his bots could then be issued commands from a backdoor botnet that he had installed in the back AirForce Netoworks through a security protocol vulnerability.
+
+It was from 2017 to 2020 that Quinn would develop what would later become a forever problem for the entire world. Even to this day we are unable to get his bots out of the entire network, and keep teams of the best of the best to handle issues from his technology.
+
+All in all when it was said and done the damage from Quinn's hacking was unmeasurable.  Some individuals in society say that the entire future of humanity was forever changed, and that nobody will ever know the real truth to the story of Quinn.
+#bg = thegame/world/0388/background
+#bgcolor = #000000
+::END:STORY

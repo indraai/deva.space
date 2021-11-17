@@ -1,0 +1,45 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+title: Mithril Capital
+founder: Ajay Royan
+founder: Peter Thiel
+location: Austin, TX
+
+Mithril is a global investment firm cofounded by Ajay Royan and Peter Thiel.  Agnostic to sector and geography, we invest and partner with teams who use technology to build valuable and lasting businesses, often in industries long overdue for change. Each of these businesses is unique, but all face common challenges to unlocking long-term growth. We help navigate these critical inflection points, and we invest in size and with conviction.
+
+Mithril is headquartered in Austin, Texas.
+
+link[Ajay Royan - LinkedIn]:https://www.linkedin.com/in/royan/
+
+coordinates:00[-380.5|-1194.5]
+::END:MAIN
+
+::BEGIN:OTHER
+E
+bed~
+   The bed is made of a sturdy pine.  A thin mattress covered in a white sheet
+with a down pillow overlaying it.  The mattress is too thin to hold anything of
+value.
+~
+E
+desk~
+   The desk is made of sturdy pine with a heavy coating of wax that was
+probably applied by the apprentices.  A small quill and pad of paper are
+centered on the top of the desk.  The desk has three drawers.  All of them are
+empty.
+~
+E
+chair~
+   It's just your standard wooden chair.  Uncomfortable and only real
+usefulness would be as firewood.
+~
+E
+window~
+   Overlooking the western gate you can see the shimmering protective firmament.
+You hope it lasts, peace and tranquility is a good thing.
+~
+
+::END:OTHER
+====

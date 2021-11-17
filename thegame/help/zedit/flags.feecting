@@ -1,0 +1,11 @@
+These flags are set in zedit, and are global for the whole zone.
+
+CLOSED    - Players cannot enter the zone.
+NO_IMMORT - Immortals (below LVL_GRGOD) cannot enter the zone.
+QUEST     - Currently unimplemented.
+GRID      - Only zones 'on-the-grid' are shown on the areas command
+NOBUILD   - Locks the zone so that it cannot be edited. Can be unlocked only by
+            a GRGOD, IMPL, or someone in the zone's builders list.
+NOASTRAL  - Prevents teleportation magic from working to or from this zone.
+
+See Also: ZLOCK, ZUNLOCK, ZEDIT-MENU

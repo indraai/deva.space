@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+You can see Northwest indra.city from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0208/title
+p:You are in the Northwest part of indra.city. Where there are shops and entertainments to be found.
+p:Ahead to the look[North] will take you to the intersection.
+p:To look[South] will take you south to more shops.
+p:From the look[East] the scent of lotions and candles fills the air.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-300|-369]
+::END:MAIN
+
+=

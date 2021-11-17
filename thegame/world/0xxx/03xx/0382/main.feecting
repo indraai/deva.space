@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+#bgcolor = #cccccc
+#color = #333333
+This room teaches about what is valid evidence in a legal proceeding.
+::END:LOOK
+
+::BEGIN:MAIN
+#bgcolor = #cccccc
+#color = #333333
+link: https://www.sacred-texts.com/hin/sbe33/sbe3323.htm
+
+talk:#adventure view:thegame:world 0382/1
+coordinates:00[-841.5|-1095.5]
+::END:MAIN
+
+::BEGIN:1
+1. Where there is conflicting evidence, the plurality of witnesses decides the matter. If the number of witnesses is equal (on both sides), the testimony of those must be accepted as correct, whose veracity is not liable to suspicion. If the number of such witnesses is equal (on both sides) (the testimony of these must be accepted), who are possessed of a superior memory.
+::END:1

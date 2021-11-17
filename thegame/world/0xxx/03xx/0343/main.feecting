@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see 4 S Temple Rd. from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0343/title
+You are on the 0x Playground!
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-265|-852]
+::END:MAIN
+
+=

@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+You can see the Sweet Spot from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0278/title
+p:Welcom to The Sweets,
+
+p:Here inside The Sweets you'll find the best Candy Dirt.
+p:Right now our menu is growing, but to open our store we are sharing our specialty offerings of "Candy Dirt".
+
+p:There is a sign on the counter.
+bmud[Sweet Sign]:look sign
+
+talk:#twitter tweet In the indra.store franchise you'll find the #Sweets where our speciality is #CandyDirt. Available Now for a fair #OFFERING! #R278 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-404|-611]
+::END:MAIN

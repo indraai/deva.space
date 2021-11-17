@@ -1,0 +1,27 @@
+::BEGIN:LOOK
+Looking at Hacking in Progress 97 in the Netherlands.
+::END:LOOK
+
+::BEGIN:MAIN
+#bg = thegame/world/0026/background
+#bgcolor = #000000
+#color = #ff9800
+
+HIP is a place for hackers, artists, activists and many, many others to network themselves, both in the social and electronic sense of the word. HIP is a do-it-yourself event. We, the organizers, will provide the infrastructure, such as large tents, showers, toilets and large amounts of reliable electrical power and network connectivity. We'll also arrange for a basic set of workshops and lectures, mainly dealing with the social and political aspects of information technology, security, Internet, access to technology, new developments, cryptography and other 'hacker-related' topics that come to mind. We are open to suggestions for other fields of interest.
+
+There will be a part of the campsite that is off-limits to all press. No filming, photographing or recording is to take place there.
+
+
+talk:#adv world:thegame 0026/frolic
+::END:MAIN
+
+
+::BEGIN:FROLIC
+## Hackers Frolic in the Woods
+link[Wired.com - Archive]:https://web.archive.org/web/19981206220116/http://www.wired.com/news/news/culture/story/5918.html
+
+One of the first things participants see upon arriving at HIP 97 - a gathering this weekend of 2,500 members of the international hacking community at a campground about 30 minutes from Amsterdam - is a gravestone engraved with Bill Gates' name and the epitaph "Where do you want to go today?"
+
+And unlike the pointed pointlessness of Burning Man, HIP hopes to address concrete issues that affect the lives of the participants, such as Internet censorship, spam, and, of course, cryptography.
+::END:FROLIC
+====

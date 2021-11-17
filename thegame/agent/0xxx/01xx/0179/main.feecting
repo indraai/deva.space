@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:thegame/agent/0179/avatar
+::END:AVATAR
+====
+::BEGIN:LOOK
+# Arjika Private
+img:thegame/agent/0179/avatar
+
+name: Arjika Private
+job: Soldier
+rank: Private
+sex: M
+age: Unknown
+
+Arjika Private A178 is carrying his orders. This guy is exhausted from training, but looks happy for some reason.
+::END:LOOK
+====

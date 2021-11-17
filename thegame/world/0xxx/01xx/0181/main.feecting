@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+You can see MARINES Training from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+YOU ARE IN MARINES TRAINING.
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-876|-161]
+::END:MAIN

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+You can see the Southern Academy Entrance from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0288/title
+p:This is the junction point between the Inner and Outer Square of Arjika. From here you can enter the Indra Academy South Campus for Learning and Training.
+p:There is more information inside the Entrance of the Indra Academy to your EAST.
+p:To the North you will find the Inner Arjika Square, and to the South the junction to the Outer Square. Then futher South is the Adventure Arcade and the Law Library.
+#color = #333333
+#bgcolor = #ffffff
+coordinates:00[-473|-714]
+::END:MAIN

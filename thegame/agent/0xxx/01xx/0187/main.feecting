@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0187/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0187/avatar
+
+p:Garry looks very rugged.  Years of baking have given him arms like a smithy. Very scary, especially considering he is bigger than most smithies you've seen.
+::END:LOOK

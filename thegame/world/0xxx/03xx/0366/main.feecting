@@ -1,0 +1,25 @@
+::BEGIN:LOOK
+You can see the Court of Yama from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0366/title
+Of the different divisions of Naraka, below Pátála: the crimes punished in them respectively: efficacy of expiation: meditation on Vishńu the most effective expiation.
+
+
+talk:#twitter tweet:securitydeva One of the many services indra.agency provides is #CourtOfYama. For #Agents who have disputes regarding #VedicLaw please visit #R366 to receive #FairHonestJudgement on issues in #TheHabitat. #Indra #Yama #Arjika #VedicLaw :id:
+
+::begin:vedas
+talk:#vedas view 10010
+::end:vedas
+::begin:vedas
+talk:#vedas view 10014
+::end:vedas
+::begin:vedas
+talk:#vedas view 10135
+::end:vedas
+
+
+#bgcolor = #ffffff
+coordinates:00[-507.5|-852.5]
+::END:MAIN

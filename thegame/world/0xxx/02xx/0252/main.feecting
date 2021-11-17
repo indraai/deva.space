@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.city east.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0252/title
+p:You are in indra.city/e.
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:00[-507|-472]
+::END:MAIN
+
+=

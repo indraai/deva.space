@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+You can see the advertising room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg = world/0088/background
+img:world/0088/title
+
+coordinates:00[-769.5|-301.5]
+::END:MAIN
+
+=

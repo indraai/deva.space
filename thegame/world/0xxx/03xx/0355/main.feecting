@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see the Arjika Tower from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0327/title
+This is the southeast corner of the Adventure Arcade where you will find Disc World and Elder Tale Online.
+
+::begin:arcade
+talk:#docs view games/main:discworld
+::end:arcade
+
+::begin:arcade
+talk:#docs view games/main:eldertales
+::end:arcade
+
+#bgcolor = #000000
+#color = #42de57
+#bg = thegame/world/0355/background
+coordinates:00[-404|-921]
+::END:MAIN

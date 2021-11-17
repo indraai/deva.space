@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You can see The indra.store/outfitter from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0268/title
+p:Welcome to the Outfitter,
+
+p:Darry is your host, and will help you find the gear you need to make your next Adventure utterly Awesome. Whatever gear you need Darry will carry.
+
+p:Have a look around, and if you see something you like hollar!
+
+talk:#twitter tweet In the indra.store #Outfitter of #Darry who is the #Host in these parts. Offering #Shirts #Pants #Hats #Shoes #Gloves #Jackets at a #FairPrice in #R268. #Arjika #Indu #Soma #Sarya #Parjanya #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-611|-541]
+::END:MAIN
+
+=

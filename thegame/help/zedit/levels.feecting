@@ -1,0 +1,22 @@
+
+A player is unable to enter the zone if their level is outside of the specified
+range. Summoning someone outside the range is not blocked, however. The level
+restrictions are shown on the areas command.
+
+See Also: ZEDIT-MENU, AREAS
+#31
+ZEDIT-LIFESPAN LIFESPAN ZEDITAGE ZEDIT-AGE TOP-OF-ZONE BOTTOM-OF-ZONE ZEDIT-TOP ZEDIT-BOTTOM ZONEAGE ZONE-AGE
+
+L) Lifespan    : @y30 minutes@n
+   The number of real-time minutes between zone resets for this zone. When the
+age of the zone (measured in minutes since the last time that zone has been
+reset) reaches the zones lifespan the zone is then reset when the conditions
+of the Reset Mode are satisfied.
+
+B) Bottom of zone : @y1300@n
+   The lowest numbered room belonging to this zone. This defines the bottom room
+of the zone - You should not change this.
+
+T) Top of zone : @y1399@n
+   The highest numbered room belonging to this zone. This defines the top room
+of the zone - You should not change this.

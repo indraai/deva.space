@@ -1,0 +1,32 @@
+::BEGIN:LOOK
+You can see the War Room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+You are in the upstairs of Tabitha's House.
+
+To the east is look[Tabitha_Room].
+To the west is look[Trent_Room].
+to the south is the look[Bathroom].
+
+coordinates:00[-318.5|32]
+::END:MAIN
+
+=
+
+::BEGIN:TABITHA_ROOM
+Looking at Tabitha's Room.
+::END:TABITHA_ROOM
+====
+
+::BEGIN:TRENT_ROOM
+Looking at Trent's Room.
+::END:TRENT_ROOM
+====
+
+::BEGIN:BATHROOM
+Looking at the Bathroom.
+::END:BATHROOM
+====

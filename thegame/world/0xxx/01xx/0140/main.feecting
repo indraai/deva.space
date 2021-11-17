@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+You can see the Northern Gate from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0096/title
+p:You are at the Northern Gate where indra.agency and SecurityDEVA D175 (Guard) stands guard.
+p:To the look[south] you enter the City of Arjika and it's wonderious attractions.
+p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
+p:There is also a security board here to read the latest bulletins.
+bmud[Read Security Board]:read security
+
+#bg = thegame/world/0096/background
+#bgcolor = #000000
+coordinates:00[-473|47]
+::END:MAIN
+
+=

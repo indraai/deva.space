@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+You can see the MARINES Entrance from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+YOU ARE AT THE MARINES ENTRANCE.
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-830|-91]
+::END:MAIN

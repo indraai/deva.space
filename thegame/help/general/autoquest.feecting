@@ -1,0 +1,7 @@
+
+   An autoquest is a quest that can be automatically started and completed by
+players on the MUD without the intervention of an immortal.  Players simply
+visit a questmaster where they join an available quest, and get rewarded on
+its completion.
+
+See Also: QEDIT, QUEST-FLAG

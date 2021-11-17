@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+You can see the Solutions Department.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0237/title
+p:You have found indra.solutions.
+p:This is where we provide solutions to the various services we offer.
+p:Once you make a request from services they will send you here for a solution to your request. Then our team of specialists will make it happen.
+
+## Solutions
+1. General Solutions
+2. Cleaning Solutions
+3. Consulting Solutions
+4. Upgrade Solutions
+5. Fancy Solutions
+6. Maintenance Solutions
+7. Recommendation Solutions
+8. License Solutions
+9. Legal Solutions
+10. Medical Solutions
+11. Security Solutions
+12. Daycare Solutions
+13. Elder Solutions
+14. Food/Drink Solutions
+15. Military Solutions
+
+talk:#twitter tweet Welcome to indra.solutions where we fulfill #SOLUTIONS requests for #TheHabitat from #SERVICE requests Have a good idea talk to #Services. #R237 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#color = #333333
+#bgcolor = #ffffff
+#bg = thegame/world/0237/background
+coordinates:00[-519|-426]
+::END:MAIN
+
+=

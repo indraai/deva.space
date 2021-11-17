@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+You can see The General Store from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0281/title
+p:Welcome to The Emporium.
+p:Here you will find an EMPORIUM of things to excite your fancy. Take a look around, and if you find something you like make a fair offer.
+p:Thank you for Visiting.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-611|-576]
+::END:MAIN

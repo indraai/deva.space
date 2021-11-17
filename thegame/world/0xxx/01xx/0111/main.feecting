@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+You can see the NW Lookout Tower from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+To the north can be heard the clang and crash of the smithies in the Hero Quarter.  To the west the barracks and the gate to the outside are visible. The Temple of Arjika rises above to the southeast, its single spire reaching up into the sky higher than any other building in the realm.  A stone stairwell leads down to the inner city.
+coordinates:00[-300|-300]
+::END:MAIN
+
+=

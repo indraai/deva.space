@@ -1,0 +1,6 @@
+Zone locking and unlocking prevents any OLC from being used in the zone. Only
+an IMPL or GRGOD can lock/unlock all zones. A builder can lock and unlock their
+own zone if their name is in the zone's builders list.
+
+zlock - Locks one or all zones. Type zlock for usage.
+zunlock - Locks one or all zones. Type zunlock for usage.

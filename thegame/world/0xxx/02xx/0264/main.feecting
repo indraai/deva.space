@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can see The Grocer from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0264/title
+p:Chunks of ice lie in crates of sawdust to cool the perishable items.
+p:Fruit and vegetable stands line both walls.
+p:This shop seems to carry everything, except bread and sweets.  Must be the bakery, sweets, and grocery have an understanding.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-335|-541]
+::END:MAIN
+
+=

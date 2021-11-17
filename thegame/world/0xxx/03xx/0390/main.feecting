@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+You can see the Avatar MUD Room where all the players are gathering.
+::END:LOOK
+
+::BEGIN:MAIN
+title: Avatar MUD
+telnet[avatar]: avatar.outland.org:3000
+
+link[Homepage]:http://www.outland.org/
+link[Mudstats]:http://mudstats.com/World/AVATARMud
+
+talk:#adventure view:thegame:world 0390/summary
+::END:MAIN
+
+::BEGIN:SUMMARY
+There is a world beyond the one you know... shrouded by the mists of time, the world of Avatar waits for you to step beyond the veil and enter its lands. Those who venture here will discover a truly vast world. Make your choice from twenty-four races available to all and, with time, fifteen additional races that can be gained through rebirth when you have gained enough power. These unique races, such as dragons, griffons, demons and golems are few in number and truly a wonder to behold. In addition to our seven basic classes, players willing to search the corners of the realm can unlock several potent prestige classes...druids, mindbenders, shadowfists are amongst these. For those who seek even more possibility, with be...
+::END:SUMMARY
+====

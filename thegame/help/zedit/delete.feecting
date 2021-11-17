@@ -1,0 +1,15 @@
+
+   To prevent accidentally deleting someone's zone and causing conflicting OLC
+access I have made the following guide.  If someone does not login to the mud
+for over a year, and does not mudmail me (Rumble) to let me know of an
+expected absence their zone may be deleted.  I use show areas to list all zones
+and then go through one by one using "last <playername>".  If they have not
+logged in for over a year I then "stat file <playername>" and check that
+they have the proper OLC set, and that they do not have the NO_DEL flag (I set
+no_delete on players that tell me they are going to be absent for a while). If
+they have not been on for over a year and do not have NO_DEL set I then "show
+zone #" to double-check the zone and builder assigned.  I then use r/m/o/s/tlist
+to check if they made anything of value that could be saved and donated.
+   Once I am positive it is safe to delete their zone I set their OLC to off.
+"set file <playername> olc off" then "stat file <playername>" to be sure it
+worked and then delete the zone from the server withe the RemoveWorld script.

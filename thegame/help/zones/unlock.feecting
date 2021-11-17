@@ -1,0 +1,8 @@
+Usage: zunlock <zone number>
+       zunlock list
+
+Unlocks a 'locked' zone to allow building or editing.
+The 'list' shows all currently unlocked zones.
+'zunlock all' will unlock every zone in the MUD.
+
+See also: ZLOCK

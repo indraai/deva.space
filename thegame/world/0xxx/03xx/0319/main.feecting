@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+The ARMY Cyber 2 Center is here to provide mid-grade service for our Cyber Community in areas such as Contract Investigation, Network Breaches, and Internal Network Security.
+::END:LOOK
+
+::BEGIN:MAIN
+title: CYBER2
+opsec: L2
+room: 319
+describe: ARMY CYBER2 handles the middle threats. CYBER2 are specialists in items such as contractor fraud, internal network security, and dealing with network breaches that require more training than CYBER1.
+
+coordinates:00[-830.5|-748]
+::END:MAIN

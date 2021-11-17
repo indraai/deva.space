@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+bmud[🍬]:get candydirt
+::END:AVATAR
+
+::BEGIN:LOOK
+A tasty treat of Candy Dirt.
+::END:LOOK
+
+::BEGIN:ACTION
+YOU CAN SEE SOME TASTY CADY DIRT.
+::END:ACTION

@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+You can see the Northern Lookout from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0096/title
+You are above the Northern Gate inside the Security Lookout.
+
+SecurityDEVA D181 (Lookout) is here to make sure all threats both internal and external are identified and reported immediately.
+
+- DOWN is the Western Gate
+- EAST is the Western Lookout
+- WEST is the Western Lookout
+- SOUTH is the War Room
+
+There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+talk:#twitter tweet:securitydeva Entering the Northern Security Lookout in Arjika. #TG93 #Arjika #SecurityDEVA #SecurityPRIME #R106 :id:
+
+#bg = thegame/world/0096/background
+#bgcolor = #000000
+coordinates:00[-473|47]
+::END:MAIN

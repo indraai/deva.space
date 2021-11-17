@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can see MARINES RESEARCH from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+
+The Marine Corps Warfighting Laboratory generates and examines threat-informed, operating concepts and capabilities and provides analytically-supported recommendations to inform subsequent force design and development activities.
+
+link[DEVELOPING BETTER DECISION MAKERS THROUGH WARGAMING]:https://www.marines.mil/News/News-Display/Article/2835410/developing-better-decision-makers-through-wargaming/
+link[2030 AND BEYOND: DELIVERING CORPS’ NEW WARGAMING CENTER WILL ‘TAKE A VILLAGE’]:https://www.marines.mil/News/News-Display/Article/2833126/2030-and-beyond-delivering-corps-new-wargaming-center-will-take-a-village/
+
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-865|-311]
+::END:MAIN

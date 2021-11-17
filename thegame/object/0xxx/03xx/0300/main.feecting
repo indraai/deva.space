@@ -1,0 +1,19 @@
+::BEGIN:AVATAR
+bmud[🏧]:look atm
+::END:AVATAR
+
+::BEGIN:LOOK
+There is a small note on the machine which says: To use, type 'BALANCE', 'WITHDRAW ', or 'DEPOSIT '. Please report any strange occurrences to the indra.money manager.
+::END:LOOK
+
+::BEGIN:ATM
+## Indra.money Machine
+p:Basic instruction for using the Indra.money Machine to check your balance and deposit/withdraw coins.
+
+- #mud > balance
+- #mud > withdraw <amount>
+- #mud > deposit <amount>
+
+p:Please report any strange occurrences to the Indra.money manager.
+::END:ATM
+====

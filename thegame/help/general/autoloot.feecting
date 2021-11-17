@@ -1,0 +1,9 @@
+
+Usage: toggle autoloot
+
+   Enables you to automatically "take all corpse" from any mob you kill.  You
+will loot everything (including cursed objects) until you can no longer carry
+anymore weight.  If this happens and and you also have autosac enabled, the
+items you cannot pick up will be left on the ground.
+
+See Also: TOGGLE, TAKE, SPLIT

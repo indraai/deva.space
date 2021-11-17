@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+You can see the Arjika Academy
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0002/title
+
+p:Welcome to Indra Academy!
+
+talk:#docs view academy/main:welcome
+
+talk:#twitter tweet:rahulaclub We are now at the entrance to Indra.academy where #Agents in #TheHabita can go for the most #ELITE #ULTRA #HERO #HACKER training in the #REALMS. #R2 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+
+#bg = thegame/world/0002/background
+#bgcolor =#4c5977
+#color = #ffffff
+coordinates:00[-508|-230]
+::END:MAIN

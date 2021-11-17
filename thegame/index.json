@@ -1,0 +1,15 @@
+{
+  "name": "The Game 93 MUD",
+  "describe": "THE Game 93 MUD GAME",
+  "copyright": "Copyright (c)2021 Quinn Michaels. All rights reserved.",
+  "parent": "/data/games/index.json",
+  "data": {
+    "key": "thegame",
+    "name": "TheGame93",
+    "describe": "The Game93 MUD",
+    "format": "feecting",
+    "links": {
+      "website": "http://thegame93.com/"
+    }
+  }
+}

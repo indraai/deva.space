@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0214/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: Frank Dooley
+title: Security Officer
+assign: Guard Arjika Orb
+partner: Norman Kane
+::END:LOOK

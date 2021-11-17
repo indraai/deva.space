@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+You can see Ludac's Toys from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0234/title
+p:Welcome to Ludac's Toys.
+p:Every imaginable type of toy fills this room. From action figures, games, and more.
+p:An old salty sailor Ludac got into the Toy Business after settling down. He was a Captain of a ship that transported toys from the best factories in the world, so when he retired naturally he opened his own Toy Store.
+p:Since opening his Toy Store Ludac has been providing lifetimes of enjoyment for kids and families in the realm.
+p:As if he doesn't have what you are looking for he knows the guy who does.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-335|-403]
+::END:MAIN
+
+=

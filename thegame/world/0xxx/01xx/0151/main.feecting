@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+You can see MARINES MEDICAL CENTER Way from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+YOU ARE IN THE MARINES MEDICAL CENTER.
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-750|-91]
+::END:MAIN

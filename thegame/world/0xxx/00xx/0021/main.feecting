@@ -1,0 +1,37 @@
+::BEGIN:LOOK
+You can view Evil.com from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+#bg = world/0021/background
+
+link[Evil.com]:http://evil.com
+
+link[Evil.com - Archive]:https://web.archive.org/web/19970204002813/http://www.evil.com/welcome.html
+link[Greylist - Archive]:https://web.archive.org/web/19970204003127/http://www.evil.com/greylist.html
+
+## Current Status
+- The recovery goes well, but the event of 6-6-96 still pains us.
+- The rebuilding has started.
+- Significant sections will be operational by the 12th set of 30.
+- We have been infiltrated. Be warned, there are strangers among us.
+- Set obfuscation buffers to 7.5. If you don't have buffering capability, use the 3 of 4 rule.
+
+## Warning
+- Nothing in The Facade matters.
+- True Evil is not what most expect.
+- Status Reports on Global Endeavors are being updated.
+- The Corrupt Rose is here.
+- Why it is is coming.
+- You will receive no additional notice until it is already too late.
+
+Content is not fully available. You may still access The Facade. If you must review works in progress, enter The Arcade. The setting for obfuscation buffers is 7.5.
+
+It is obvious that not only is encryption useless, it is simply a waste of time and effort. Reference "Hide in Plain Sight" by ****** ****** for background and implementation data. In short, buffering through data blending and context switching is the only secure method of communication. Again, if you are in an environment where you cannot apply a buffer, use the manual 3 of 4 rule. See your cell leader for materials or further instructions.
+
+coordinates:00[-911|-295.5]
+::END:MAIN
+
+=

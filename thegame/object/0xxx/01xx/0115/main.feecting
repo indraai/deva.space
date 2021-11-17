@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+bmud[💰]:look safe
+::END:AVATAR
+
+::BEGIN:LOOK
+YOU CAN SEE THE SAFE FROM HERE.
+::END:LOOK
+
+::BEGIN:SAFE
+The door is propped open, the glint of gold coins sparkles from the lantern overhead. Looks like enough gold is contained within to retire and live a full life. Too bad no one ever steals from this bank.
+::END:SAFE
+====

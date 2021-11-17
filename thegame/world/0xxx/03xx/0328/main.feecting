@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+You can see the Discworld MUD room.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+title: Discworld MUD
+year: 1991
+ver: LpMUD
+
+telnet: discworld.starturtle.net:23
+
+link: http://mudstats.com/World/DiscworldMUD
+link: https://discworld.starturtle.net/lpc/
+
+Discworld is a flat world ten thousand miles across that rests on the backs of four elephants who stand on the shell of Great A'Tuin, the sky turtle, as he, or, as it might be, she, swims through space. From Ankh-Morpork, jewel (okay, so it's a carbuncle) of cities, venture hubwards across the brassica'ed Sto Plains to the Ramtops, cross the Circle Sea to the dark and mysterious continent of Klatch. Discworld combines the humour and richness of Terry's books with a high quality mud that appeals to both fans and those who have never read his work. As a very kind reviewer said: 'With fish, wombles, intelligent shades of blue, straw dummies, shiny plaques, mended drums, Shifty Jim, Ankh-Morpork pence all on very...
+::END:MAIN
+
+=

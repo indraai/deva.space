@@ -1,0 +1,81 @@
+::BEGIN:LOOK
+You can see the information about Mr. Bungle and A Rape in Cyberspace from the early 1990s.
+::END:LOOK
+====
+::BEGIN:MAIN
+#bg = world/0017/background
+#bgcolor = #77cbf8
+#color = #413c3a
+
+## Wikipedia
+
+talk:#wiki summary A_Rape_in_Cyberspace
+
+quote: "One of the most frequently cited essays about cloaked identity in cyberspace". -David Trend
+
+"A Rape in Cyberspace" describes a "cyberrape" in a multi-player computer game or MUD called LambdaMOO that took place on a Monday night in March 1993 and discusses the repercussions of this act on the virtual community and subsequent changes to the design of the MUD program.
+
+The "cyberrape" itself was performed by a player named Mr. Bungle, who leveraged a "voodoo doll" subprogram that allowed him to make actions that were falsely attributed to other characters in the virtual community.
+
+It was later discovered that behind Mr. Bungle was not only a young man that attended NYU, but was also a group of NYU students on a dorm floor who encouraged his actions by calling out suggestions during the evening of the rape.
+
+## Wired
+cmd:#adventure view:thegame:world 0017/wired
+
+## From MUDs To Virtual Worlds
+cmd:#adventure view:thegame:world 0017/virtual
+
+coordinates:00[-911|-435]
+::END:MAIN
+====
+
+::BEGIN:VILLAGE
+
+::END:VILLAGE
+====
+
+::BEGIN:WIRED
+title: Johnny Manhattan Meets the Furry Muckers
+author: JOSH QUITTNER
+date: 03.01.1994 12:00 PM
+
+link: https://www.wired.com/1994/03/muds-3/
+
+That's what's happening at #LambdaMOO, a 3-year-old MOO set up by Pavel Curtis at Xerox's Palo Alto Research Center (see WIRED 2.02, page 90). Curtis, a programming language designer and implementer, put the MOO together as an experiment; it has turned into a real community.
+
+I had heard vague tales about a "MOO rape" that occurred on Lambda. I knew that a New York University student who used the name #MrBungle was the perpetrator. Using something known as a voodoo doll, he had figured out a way to make it appear as if two well-known MOOers, Legba and Starsinger, were performing explicit sexual acts in a public place (other #MOOers were there at the time). The real people behind the characters of Legba and Starsinger were helpless and horrified as #MrBungle played out his fantasies. I didn't know much more about it than that - except that Pavel Curtis had described the incident as one of the most important in Lambda's short history.
+
+I tell #Legba that I'm interested in the details of #MrBungle, but also in how women are faring in this virtual world.
+
+"You really ought to meet #Quinn," Legba/Derrida/Chango says.
+
+#MrBungle had created a voodoo doll named #Legba and one named #Starsinger. To the uninformed by-standers, these puppets seemed to be the real characters. He could then use "emote" to get them to do his bidding.
+
+There are other classes of players here as well. There are the #Schmoos, for instance, about 550 of them.
+
+A 22-year-old West Virginian, Quinn designed the #Schmoo class, has written code for a huge number of places in the role-playing game section of the #MOO, and is as legendary for his bawdiness as he is for his programming prowess.
+
+Quinn likes to tweak people. A bad boy, he can't help himself. When you page Quinn, an automatic response is generated asking you if you'd like to be on his disgusting-response list. Type yes, and every time you page him you get a randomly selected ribald greeting, such as: "Look, they're beating Maurice Chevalier in the corner with a hoe! ...He likes it." Quinn's built a ton of stuff here. A casino with a working one-armed bandit, a fantasy castle, millions of "puppets" that respond to you with clever rejoinders. Quinn, who knew only Basic when he found LambaMOO, is turning his MOO-programming talents to two commercial ventures, one of which will be an "adult MOO."
+
+"Sex is the real virtual lure," he says. "I'm working with some really liberated folk."
+
+For Quinn, there's more here than just Netsex. He loves to build things; to create places and fill them with bizarre and funny objects. He tells me that he used to read a lot; now he MOOs.
+::END:WIRED
+====
+
+::BEGIN:VIRTUAL
+title: From MUDs To Virtual Worlds
+author: Don Mitchell
+date: March 23, 1995
+
+link: http://mentallandscape.com/Papers_95vworlds.htm
+
+One of the largest MUDs on the internet is LambdaMOO, a MUD run by Xerox PARC. In 1993, a major social upheaval illustrated some of the controversy and emotion surrounding players and the embodiment of users in virtual reality. The controversy centered around a very sophisticated player object programmed by a user known as Quinn. The Schmoo Player Class, and a later version called the Revenant Player Class allowed the user to construct a virtual body with more flexibility than a static paragraph of text.
+
+This player class had separate body parts which could be described individually: head, chest, arms, hands, groin, legs and feet. When you looked at one of these players, you would see the concatenation of these descriptions. Usually this was a description of a nude body, but this player class could wear clothing that would selectively cover parts of the body (or other items of under clothing) and replace those portions of the description with a clothing description.
+
+This player class became extremely popular and challenged the rulers of LambdaMOO in two ways. First, Quinn himself became politically powerful as the leader of the schmoo players. Secondly, this player class forgrounded the controversial activity of virtual sex. The schmoo clothing items were programmed to generate messages associated with dressing, undressing or being stripped by other players. Some users objected strongly to the practice of virtual sex. Eventually, Quinn was expelled from LambdaMOO. The subsequent popular protest not only resulted in Quinn’s return, but ultimately lead to the replacement of the oligarchy of rulers with a democratic form of government on that MUD.
+
+
+::END:VIRTUAL
+====

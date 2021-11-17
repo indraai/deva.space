@@ -1,0 +1,11 @@
+
+%actor.inventory()%
+
+Returns the id of the first item in the actors inventory or the id of the first
+object with vnum in the subfield. If the actor doesn't have the item an empty
+string is returned. * checks for any inventory.
+
+
+Examples: @RTSTAT 155, 94, 19537@n.
+
+See also: ACTOR.HAS TRIG-EQ, %PURGE%, %LOAD%, CHAR-VAR

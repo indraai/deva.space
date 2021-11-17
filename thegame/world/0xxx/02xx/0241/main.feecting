@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see MARINES OPERATIONS FROM HERE.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0165/logo
+
+Marine Corps Forces Special Operations Command (MARSOC) includes the Marine Raider Regiment, the Marine Raider Support Group, and the Marine Raider Training Center (MRTC). Both the Raider Regiment and the Raider Support Group consist of a headquarters company and three operations battalions.
+
+img:thegame/world/0241/armed
+
+MRTC conducts screening, assessment, selection, training and development functions for MARSOC units. Marine Corps Special Operations Capable forces include: Air Naval Gunfire Liaison Companies, the Chemical Biological Incident Response Force, the Marine Division Reconnaissance Battalions, Force Reconnaissance Companies, Maritime Special Purpose Force, and Special Reaction Teams. Additionally, all deployed MEUs are certified as "Special Operations Capable", viz. "MEU(SOC)", however Special Operations Capable forces are not considered to be special operations forces.
+
+img:thegame/world/0241/launch
+
+Although the notion of a Marine special operations forces contribution to the United States Special Operations Command (USSOCOM) was considered as early as the founding of USSOCOM in the 1980s, it was resisted by the Marine Corps. Commandant Paul X. Kelley expressed the belief that Marines should only support Marines and that the Corps should not fund a special operations capability that would not directly support Marine operations. However, much of the resistance from within the Corps dissipated when Marine leaders watched the Corps' 15th and 26th MEU(SOC)s "sit on the sidelines" during the very early stages of Operation Enduring Freedom while other conventional units and special operations units from the Army, Navy, and Air Force actively engaged in operations in Afghanistan. After a three-year development period, the Corps agreed in 2006 to supply a 2,500-strong unit, Marine Forces Special Operations Command, which would answer directly to USSOCOM
+#bg = thegame/world/0165/background
+#bgcolor = #332e06
+#color = #ffffff
+coordinates:00[-830|-346]
+::END:MAIN

@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+You can see the Adventure Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0327/title
+Welcome to the Star Wars Gallery where you too can train to become a JEDI Knight or a Sith Lord in one of these fantastic adventure realms.
+
+- Star Wars: Age of Alliances
+- Legends of the Jedi
+
+::begin:arcade
+talk:#docs view games/main:swaoa
+::end:arcade
+::begin:arcade
+talk:#docs view games/main:jedi
+::end:arcade
+
+#bgcolor = #000000
+#color = #42de57
+#bg = thegame/world/0354/background
+coordinates:00[-370|-921]
+::END:MAIN

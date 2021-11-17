@@ -1,0 +1,8 @@
+
+@n#<virtual number>
+<builder name>~
+<zone name>~
+<bottom room number> <top room number> <lifespan> <reset mode>
+{zero or more zone commands}
+
+See also: ZEDIT
