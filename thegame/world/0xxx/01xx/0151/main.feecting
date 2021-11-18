@@ -1,14 +1,13 @@
 ::BEGIN:LOOK
-You can see MARINES MEDICAL CENTER Way from here.
+p:You can see indra.care/ne from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN THE MARINES MEDICAL CENTER.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-750|-91]
+img:thegame/world/0151/title
+p:You are in indra.care/ne.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-784|-126.5]
 ::END:MAIN

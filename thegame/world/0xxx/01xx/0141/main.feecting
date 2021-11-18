@@ -1,17 +1,14 @@
 ::BEGIN:LOOK
-You can see Navy Mecical from here
+You can see indra.care/nw from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0097/title
-Welcome to NAVY Medical,
-
-Here MedicDEVA Nursing staff works with the NAVY to provide the best medical care to the soldiers.
-#bg = thegame/world/0097/background
-#bgcolor = #db9cc0
-#color = #260051
+img:thegame/world/0141/title
+p:You are in indra.care/nw.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-197|-92]
 ::END:MAIN
 

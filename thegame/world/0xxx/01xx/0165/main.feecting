@@ -1,12 +1,11 @@
 ::BEGIN:LOOK
-You can see the MARINES Entrance from here.
+p:You can see indra.farm from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE AT THE MARINES ENTRANCE.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-830|-91]
+img:thegame/world/0165/title
+p:You are in indra.farm.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-830|-126]
 ::END:MAIN

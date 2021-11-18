@@ -1,8 +1,10 @@
 ::BEGIN:LOOK
-You can see 11 ARMY Way from here.
+p:You can see indra.agency/lookout
 ::END:LOOK
 
 ::BEGIN:MAIN
-This is the heart of the Magi Quarters. The Magi Mansion where they can be found when they are not guarding the orb is to the east. Also nearby is the pure black Tower of the Magi which houses the sacred orb that protects the city.
-coordinates:00[-784|-853]
+p:You are in indra.agency/lookout
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-784|-783]
 ::END:MAIN
