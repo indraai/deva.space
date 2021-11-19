@@ -1,12 +1,24 @@
 ::BEGIN:LOOK
-You can see indra.city/n from here.
+p:You can see indra.city/n from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0236/title
+
+## INDRA.CITY/N
 p:You are in indra.city/n.
+
+p:Continue look[north] to visit indra.care, indra.agency or the many other rooms on the path.
+mud[Travel North...]:n
+
+p:Going look[south] will take you back to indra.center.
+mud[Travel South...]:s
+
+p:To the look[west] is indra.services where you can establish service with the indra.ai network.
+mud[Visit indra.services...]:w
+
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-473|-437.5]
