@@ -4,9 +4,9 @@ You can see down the crevasse from here.
 
 ::BEGIN:MAIN
 ## Down in the Crevasse
-talk:#twitter tweet Activate The Crevasse 0x003 0123 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
 p: Your consciousness slips away as you fall faster down, down, down.
 p:The next thing you know, you're floating in air. In the soft, reddish light you can see that you are in a cavern, drifting toward the ceiling or is it the floor? In a flash you realize what has happened you've fallen to a point where gravity above you is almost equal to gravity beneath you!
+img:thegame/world/1003/ledge
 p:You brush against a firm surface a wall that feels like clay. You cling to it for a moment. Then you're floating again, drifting slowly down.
 p:You begin to lose your fear as you realize that gravity here is so weak that you can fall mile after mile without being hurt After a while you begin to relax and enjoy drifting through a fantastic twilight world. You only wish it weren't so hot!
 p:Closing your eyes, you try to pretend that you are safely home in bed.
@@ -14,3 +14,5 @@ p:Closing your eyes, you try to pretend that you are safely home in bed.
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
+
+talk:#twitter tweet Activate The Crevasse 0x003 0123 #0x #Arjika #Indu #Indra #SecurityPRIME :id:

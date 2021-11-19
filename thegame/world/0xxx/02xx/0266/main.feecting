@@ -1,13 +1,12 @@
 ::BEGIN:LOOK
-You can see the South of Arjika Temple.
+p:You can see indra.city/s from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0266/title
-p:This is the SOUTH passage through the Temple of Arjika.
-p:Small rooms to each side are unusually quiet while Monks are practicing. The center of the temple lies to the north. The white marble floor is pristine, and the surrounding Gardens grow the most fragrant of flowers.
+p:You are in indra.city/s.
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-473|-507]

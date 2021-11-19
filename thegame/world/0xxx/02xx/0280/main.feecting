@@ -4,13 +4,10 @@ You can see the indra.store/bakery from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0280/title
-p:Welcom to The Bakery,
+p:You are inside indra.store/bakery.
 
-p:Here inside the bakery you'll find the absolutely best Jalapeno Cheese Brea, Bagels, and Bites.
-p:Right now our menu is growing, but to open our store we are sharing our specialty offerings of "Jalapeno Cheesy Goods".
-
-p:There is a sign on the counter.
-bmud[Bakery Sign]:look sign
+bmud[Read the Bakery Sign...]:read sign
+mud[Exit Bakery...]:s
 
 talk:#twitter tweet In the indra.store franchise you'll find the #Bakery where our speciality is #Jalapeno #Cheese #Bread #Bagels and #Bites. Available Now! #R280 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
 

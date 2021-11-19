@@ -1,16 +1,12 @@
 ::BEGIN:LOOK
-You can see the indra.city/s from here.
+p:You can see indra.city/s from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0279/title
-p:This is the intersection where you will find the Southern Agency and Care centers. To your WEST in Indra.agency, and to your EAST is Indra.care.
-
-p:Going NORTH you will reach the Inner Temple Square where the Houses of Worship reside.
-
-p:Heading SOUTH will take you to South Temple Road where the Sweet Spot and The Baker can be found.
+p:You are in indra.city/s
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-473|-576]

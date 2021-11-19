@@ -5,17 +5,21 @@ You can see the Toan Glacier from here.
 ::BEGIN:MAIN
 ## The Glacier
 
-talk:#twitter tweet Activate The Glacier 0x001 01 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
-
 p:You are standing on the Toan Glacier in nortern Greenland, staring down into the black voidof the crevasse. You shiver as you wonder whether you were lucky or unlucky to be invitedon this expedition.
 p:Standing next to you are Gunnar Larsen of the National Research Institute and Dr. James Sneed, a geologist. A small black box containing a signal transmitter is suspended over the crevasse by two long poles. The transmitter is wired to a console a few yards away in the ice. Dr. Sneed turns a dial as he monitors the display screen.
+img:thegame/world/1001/crevasse
 p:"Well?" Larsen's voice is impatient.
 p:Sneed looks up, a broad smile on his face.
 p:"This is it, friends—the Bottomless Crevasse."
 p:"Any radar return?" Larsen asks.
 p:Sneed shakes his head. "None."
 p:For a minute no one speaks. Like you, the others must feel excited to have reached their goal but also a little sad. It was just a year ago that your old friend, Dr. Nera Vivaldi, radioed from this spot that she had reached the Bottomless Crevasse. A few moments later, her radio went dead. She was never seen again.
+
+mud[Walk to the ledge...]:n
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
+
+talk:#twitter tweet Activate The Glacier 0x001 01 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
