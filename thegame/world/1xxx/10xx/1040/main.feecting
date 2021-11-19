@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+You can see the landscape from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Landscape
+talk:#twitter tweet Activate The Landscape 0x040 012361011161940 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:The scene around you reminds you of a photographic negative. All the shades and colors seem reversed. The ground is grayish pink clay with white outcroppings. In the distance you can see areas that glow like beds of hot coals. Nearby is a forest of trees with green trunks and white leaves.
+img:thegame/world/1040/landscape
+p:The trees are short; yet their branches, taking advantage of the light gravity, spread out for hundreds of feet in all directions.
+p:You climb a small hill to get a better view.
+p:Wherever you look, the land curves upward, as if you were standing in the bottom of an enormous bowl. The sky is covered with what looks like reddish yellow clouds.
+p:Most amazing of all is the sight directly overhead— a disc almost the size of the sun; but, instead of shining brightly, it is absolutely black.
+p:You can feel its coolness, as if it were drawing heat from your skin. It's the black hole at the center of the earth!
+p:You turn sharply at the sound of chattering.
+p:Coming up the ravine are more than a dozen creatures, smaller than you, yet walking upright on two legs. Half human, half ape, they look like creatures that might have once lived on the earth's surface. They are carrying ropes and nets.
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

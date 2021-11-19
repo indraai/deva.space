@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see bluff the guards from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Bluff the Guards
+talk:#twitter tweet Activate The Guards 0x058 012361011161940394244505358 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:You think fast. Luckily, you remember the command that the blue-furred Raka gave. You walk up to the guards, smiling. You point in the direction you came from, then to yourself, and then to one of the boats.
+p:"Nar mg calla," you say with authority.
+p:The guards mutter. Then, to your surprise, they smile. One of them unties a boat and motions for you to board it. They must think you're a privileged guest of the High Raka. You quickly get aboard and push off.
+p:As the current takes you around a bend, you notice Archpod settlements on the opposite shore. Soon you spot a good landing place. As you get closer, you notice a band of Archpods standing on the shore.
+img:thegame/world/1058/archpods
+p:Like the first Rakas you met, they are armed with ropes and nets. They don't look very friendly. You could be in for more trouble than you had with the Rakas.
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see the shore from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Continue to shore
+talk:#twitter tweet Activate The Shore 0x066 01236101116194039424450535866 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:Trying to act unafraid, you row straight in to shore, hop out of the boat, and step forward to meet the Archpods. "Hello. I come as a friend!" you call out. But their only response is to take you prisoner and march you back to their village.
+p:You soon find that the Archpods live in agons similar to those of the Rakas. Your captors lead you into the largest one, where you expect to be presented to their chief. Instead, a woman calls your name.
+img:thegame/world/1066/vivaldi
+p:It's Dr. Vivaldi!
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

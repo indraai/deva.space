@@ -1,0 +1,8 @@
+::BEGIN:AVATAR
+img:thegame/agent/1000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1000/avatar
+p:Gunnar Larsen
+::END:LOOK

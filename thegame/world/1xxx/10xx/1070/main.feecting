@@ -1,0 +1,25 @@
+::BEGIN:LOOK
+You can see the Grand Akpar from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Grand Akpar
+
+talk:#twitter tweet Activate The Grand Akpar 0x070 01236101116194039424450535866676870 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:"I'll face the Grand Akpar with you."
+p:"That's a brave choice," says Dr. Vivaldi, "but it also would have taken courage to escape." She smiles. "Sometimes there's nothing to do but to be brave!" As she speaks three Archpod guards walk into the agon.
+p:They motion for you to follow them, but when Dr. Vivaldi tries to join you, they block her way.
+p:"Good luck. . . . " Dr. Vivaldi's voice fades as the guards march you out of the agon.
+p:A few minutes later you are standing in the central agon.
+img:thegame/world/1070/akpar
+p:Facing you is the Grand Akpar. His long, silky fur is combed like an oval frame around his stern, gray face. A pendant made of smooth black stone hangs from his neck.
+p:He studies you a moment and says, "We have learned from Dr. Vivaldi that you come from the
+p:Nether World—the world of warfare. You know much more about such things than we do. You can prove that you are not a Raka spy by telling us how we can defeat them!"
+p:You stand silently, trying to think of what to say.
+p:"I'm waiting," the Grand Akpar says.
+p:What will you do?
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

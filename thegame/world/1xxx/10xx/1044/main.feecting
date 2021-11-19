@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see inside the agon.
+::END:LOOK
+
+::BEGIN:MAIN
+## Inside the Agon.
+talk:#twitter tweet Activate The Agon 0x044 012361011161940394244 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:The interior of the agon, as it seems to be called, is lit by glowing stones circling the inner wall. In the center is a small fountain. Clear water bubbles forth and flows along a silver trough before disappearing underground. The floor is soft and spongy, like a thick bed of moss.
+img:thegame/world/1044/agon
+p:The leader steps forward. "Ket," he says, pointing to himself. "Ket Raka." Pointing to the others, he says, "Akim Raka, Tor Raka ..."
+p:You repeat each name, then pointing to yourself, tell them your name. The Rakas laugh as they try to pronounce the strange sound.
+p:Tor, who seems younger than the others, brings you something that looks like cheese but tastes like honey. Ket gives you a small pink fruit. "Ib tanga," he says, smiling.
+p:Tanga is delicious, and you are eating a second one when a large blue-furred Raka rushes into the agon. Pointing at you, he speaks excitedly in his own tongue. Tor begins to argue with him.
+p:The others join in.
+p:"Nar mg calla!" the blue-furred Raka says loudly. It's clear he wants you to come with him; it seems likely that he represents the chief, or leader.
+p:Ket and Akim gesture as if you should obey.
+p:But Tor shakes his head, warning you not to go.
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

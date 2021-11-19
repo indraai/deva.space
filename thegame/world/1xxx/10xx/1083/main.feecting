@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You can see fascinating areas from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Fascinating Areas
+
+talk:#twitter tweet Activate The Map 0x083 0123610111619403942445053586667687010410576788183 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:"There are three areas that fascinate me equally," she answers, "so I'll let you choose among them.
+p:To the west are the Weightless Peaks, where you become lighter and lighter, the higher you climb.
+p:To the south are the Hills of Diamonds.
+p:The Archpods are afraid to go there. They say it is too close to what they call the Lair of the Ghost Wolf."
+p:"What lies across the Great River?" you ask.
+p:"Beyond Rakmara."
+p:"The Shining Mountains. There we may find creatures whom the Archpods call the Flying Clera.
+p:They are great birds, who may be the true rulers of the Underground Kingdom, higher even than humans on the evolutionary scale.
+p:What would you prefer?"
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

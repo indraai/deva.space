@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+You can see do not fight in the Raka war.
+::END:LOOK
+
+::BEGIN:MAIN
+p:"I won't have anything to do with your brakpa," you say. "I am not an enemy of you or of the Archpods."
+p:"Ig krig zaark!" the High Raka says angrily.
+p:Two Raka guards seize you and march you out of the agon. But the moment you get outside, you make a break.
+p:You've always been able to run fast when you needed to. In the light gravity, you're even faster.
+p:As you dart through the groves of duster-leaf trees, you can hear the cries of the Rakas from both sides and behind you.
+p:But the Great River lies just ahead, and for once you're in luck—there's a crude raft tied up along the shore.
+img:thegame/world/1014/raft
+p:You quickly untie it, and push off as you jump aboard.
+p:The current soon takes you around a bend in the river and safely out of sight.
+p:You lie low on the raft, afraid of landing until you are well past Rakmara.
+p:Now you have time to think.
+p:Where will the river take you?
+p:What will be your fate?
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

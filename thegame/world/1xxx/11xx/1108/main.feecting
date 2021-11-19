@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see you made it from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Made It!
+
+talk:#twitter tweet Activate You Made It! 0x108 012361011161940394244505358666768701041057678818388919495101108 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:You made it!
+img:thegame/world/1108/diamond
+p:Across the fields of white clay and safely back to the land of the Archpods.
+p:And, if you remembered to fill your pockets with diamonds before you ran across the field of white clay, you're very rich!
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

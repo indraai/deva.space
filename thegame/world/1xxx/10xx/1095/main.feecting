@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+You can se willing to try from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Willing to Try
+
+talk:#twitter tweet Activate Try 0x095 012361011161940394244505358666768701041057678818388919495 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:"It looks like we're stuck here with all these millions of diamonds," you say.
+p:"Maybe not," replies Dr. Vivaldi. "The eruptions are quite localized. The gases are rising, but I think we can make it across the deadly strip of clay—it's less than a hundred feet, I'd guess.
+img:thegame/world/1095/continue
+p:There's only one way to do it - take a deep breath and run as fast as you can. Don't breathe until you absolutely have to. Are you willing to try?"
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

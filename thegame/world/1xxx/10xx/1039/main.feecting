@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+You can see facing the inhabitants.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Inahbitants
+talk:#twitter tweet Activate The Inhabitants 0x039 01236101116194039 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:You could probably climb a nearby tree and hide among the clusters of giant leaves. But is it wise to run like a frightened animal?
+p:Maybe things will go better for you if you bravely face the inhabitants of this world.
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

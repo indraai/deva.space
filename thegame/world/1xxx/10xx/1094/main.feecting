@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+You can see continue on from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Continue
+
+talk:#twitter tweet Activate Continue 0x094 0123610111619403942445053586667687010410576788183889194 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:"Let's get to those diamonds," you cry. And you run toward the points of sparkling white light.
+p:At the same time you begin choking on thick sulphurous fumes. Behind you, thunder rumbles from the ground!
+p:Dr. Vivaldi has reached the first hill of diamonds.
+p:"They're the real thing!" she calls, sifting them through her hands. "Within a few yards of us are more diamonds than are worn by all the people on earth!"
+p:"Look!" you shout, for now the fields of white clay are bubbling like boiling soup. Pale yellow gases rise from cracks in the ground.
+p:"We are trapped." Dr. Vivaldi's voice sounds far away. "By the time the claybeds stop erupting, these fumes will. . . p u t . . . u s . . . t o . . . sleep."
+p:She coughs and staggers a few feet up a small hill of diamonds. "Quick, over here!" she calls.
+p:Gasping, you stumble up the hill and collapse in a mound of diamonds. Dr. Vivaldi breathes deeply. "We're safe for the moment This hill is well above the toxic gases." Her voice is drowned out by the ground thunder.
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

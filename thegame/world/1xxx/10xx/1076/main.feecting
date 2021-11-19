@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see the tides pass from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Tides Passing
+
+talk:#twitter tweet Activate The Tides 0x076 0123610111619403942445053586667687010410576 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+p:When you tell Dr. Vivaldi of the advice you gave the Grand Akpar, she shakes your hand. "I would have said the same thing.
+p:If our destiny is to die at the hands of the Archpods, it will not be your fault."
+p:Now three tides have passed. You and Dr. Vivaldi are still waiting for the news that will seal your fate.
+p:It must be midway through the second sleeping tide when the guards awaken you. A moment later, the Grand Akpar walks into your agon. With him is the High Raka.
+p:"The Archpods and the Rakas have made peace," says Akpar. "From now on we shall build boats for both tribes, and there shall be no bombs!"
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

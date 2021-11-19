@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see catch your breath from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Catch your breath
+talk:#twitter tweet Activate The Breath 0x053 0123610111619403942445053 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+p:Once you've caught your breath, you walk along the river bank and soon reach a crude wooden dock. Two Rakas are guarding their hunting boat, a long flat-bottomed shell fashioned from duster-leaf wood.
+img:thegame/world/1053/boat
+p:Nearby is a smaller boat, one you could paddle yourself. You just might be able to untie it, push off, and get across the river before the guards catch you.
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN
