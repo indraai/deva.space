@@ -1,9 +1,13 @@
 ::BEGIN:LOOK
+You can see indra.house/indra from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bg = world/0134/background
-It is here that the Orb has been placed to ensure its protection. The entire room is made of black stone that seems to absorb all light. A huge pedestal sits in the center of the room surrounded by statues of every Magi to ever live.  It is up to them to protect the Orb from any who wish to steal or cause harm to it.
+img:thegame/world/0134/title
+p:Welcome to House Indra.
 
 talk:#vedas view 09113
+
+#bg = thegame/world/0134/background
+#color = #e4de94
 ::END:MAIN

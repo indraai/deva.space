@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+p:You see is there any chance of going back?
+::END:LOOK
+
+::BEGIN:MAIN
+## No chance of that
+
+talk:#twitter tweet The Underground Kingdom 0x024_012591221252624 #UndergroundKingdom #ARJIKA #R1024 #TG93 :id:
+
+p:"There's no chance of that," Professor Bruckner's assistant tells you. "An aerial photograph taken a few weeks ago showed that the glacier has moved, sealing the crevasse with 6,000 feet of solid ice."
+p:You hang up the phone and stand by the window, thinking about the world that lies beneath the earth's surface. p:What is it like?
+p:What creatures might live there? What happened to Professor Bruckner?
+p:Did he find Larsen and Sneed?
+p:Is Dr. Vivaldi still alive?
+p:Now, of course, you'll never know.
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

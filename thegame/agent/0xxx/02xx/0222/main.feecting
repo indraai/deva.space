@@ -1,0 +1,8 @@
+::BEGIN:AVATAR
+img:thegame/agent/0222/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0222/avatar
+name:Larry Support
+::END:LOOK

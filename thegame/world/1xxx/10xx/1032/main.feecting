@@ -1,0 +1,33 @@
+::BEGIN:LOOK
+p:You can see huddle in your parker from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Huddle In Your Parka
+
+talk:#twitter tweet The Underground Kingdom 0x032_01259122132 #UndergroundKingdom #ARJIKA #R1032 #TG93 :id:
+
+p:You huddle in your parka, but the cruel wind penetrates your body. You feel yourself growing numb. You try to stand up, but your legs won't move.
+
+p:You feel as if you are drifting through time and space.
+
+p:Then you feel nothing at all.
+
+p:The search and rescue team almost reached you in time.
+
+p:They were never able to locate Larsen and Sneed.
+
+p:A few days later a memorial service was held for the brave people who lost their lives exploring the Bottomless Crevasse.
+
+p:Everyone spoke very highly of you.
+
+p:The End
+
+----
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

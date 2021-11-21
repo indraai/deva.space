@@ -1,0 +1,30 @@
+::BEGIN:LOOK
+p:You can see it's too dangerous from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## It's too dangerous
+
+p:"No, thank you, Professor," you say. "I've seen enough. I never want to get near the Bottomless Crevasse again."
+
+p:Bruckner shrugs. "I understand," he says as he holds out his hand.
+
+p:From then on, you follow the news eagerly, hoping to hear some report on Professor Bruckner's expedition. One day, passing a newsstand, you see a headline that makes your heart sink:
+
+extra:PROFESSOR AND PARTY MISSING IN WORLD'S MOST DANGEROUS ICE FIELDS!
+
+img:thegame/world/1030/party
+
+p:In the months that follow you hear nothing further about the Bottomless Crevasse, until one night, watching the news, you hear an interview with two scientists who claim to have picked up radio signals coming from inside the earth. "We can't explain their seemingly impossible origin," one of them reports, "nor can we decipher the message, except for two words, All Safe."
+
+p:The next morning you call Professor Bruckner's office at the National Research Institute.
+
+p:"I was wondering whether there were any plans for another expedition to the Bottomless Crevasse," you say.
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

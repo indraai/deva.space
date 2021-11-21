@@ -5,14 +5,14 @@ You can see Vivasvan's Place.
 =
 
 ::BEGIN:MAIN
-Welcome to Vivasvan's Place. The gathering hotspot for all the cool people in Arjika
+p:Welcome to Vivasvan's Place. The gathering hotspot for all the cool people in Arjika.
 
-talk:#vedas view 10075
+talk:#adv world:thegame 0105/hymn
 
----
+talk:#adv world:thegame 0105/invoke
 
-talk:#adventure view:thegame:world 0105/invoke
-
+#bg = thegame/world/0105/background
+#color = #eeeeee
 coordinates:00[-791.5|-1116]
 ::END:MAIN
 
@@ -46,4 +46,38 @@ invoke: Gomati
 invoke: Silamavati
 invoke: Urnavati
 ::END:INVOKE
+====
+
+::BEGIN:HYMN
+l:THE singer, O ye Waters in Vivasvān's place.
+l:The Rivers have come forward triply, seven and seven.
+l:Sindhu in might surpasses all the streams that flow.
+
+p:O Sindhu, when thou rannest on to win the race. Thou speedest over ridges of the Earth.
+
+l:His roar is lifted up to heaven above the earth.
+l:He puts forth endless vigour with a flash of light.
+
+p:Like floods of rain that fall in thunder from the cloud. Sindhu rushes on bellowing like a bull.
+
+p:Sindhu, unto thee the roaring rivers run. Thou leadest as a warrior king thine army's wings what time thou comest in the van of these swift streams.
+
+P:Favour ye this my laud, O Gan!gā, Yamunā, O Sutudri, Paruṣṇī and Sarasvatī. With Asikni, Vitasta, O Marudvrdha, O Ārjīkīya with Susoma hear my call.
+
+p:First with Trstama thou art eager to flow forth, with Rasā, and Susartu, and with Svetya here. With Kubha; and with these, Sindhu and Mehatnu, thou seekest in thy course Krumu and Gomati.
+
+p:Flashing and whitely gleaming in her mightiness.
+
+p:She moves along her ample volumes through the realms.
+
+p:Most active of the active, Sindhu unrestrained, like to a dappled mare, beautiful, fair to see.
+
+p:Rich in good steeds is Sindhu, rich in cars and robes, rich in gold, nobly-fashioned, rich in ample wealth.
+
+p:Blest Silamavati and young Urnavati invest themselves with raiment rich in store of sweets.
+
+p:Sindhu hath yoked her car, light-rolling, drawn by steeds, and with that car shall she win booty in this fight.
+
+p:So have I praised its power, mighty and unrestrained, of independent glory, roaring as it runs.
+::END:HYMN
 ====

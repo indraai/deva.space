@@ -1,0 +1,37 @@
+::BEGIN:LOOK
+p:You can see three weeks later from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Three weeks later
+
+talk:#twitter tweet The Underground Kingdom 0x029_01259122125262829 #UndergroundKingdom #ARJIKA #R1028 #TG93 :id:
+
+p:Three weeks later you find yourself staring once again at the Bottomless Crevasse.
+
+p:"It looks narrower than when I was here before," you remark.
+
+p:"Yes," Bruckner says, "the glacier has been advancing about three feet a year. It won't be long before the crevasse is completely sealed."
+
+p:While you and the other members of the party stand at a safe distance, the professor cautiously walks to the rim of the crevasse. In one hand he holds an oblong instrument that emits an increasingly rapid clicking.
+
+p:"Don't get too close!" you cry.
+
+p:"Indeed." Bruckner takes a few steps back. "I think I know what happened to Larsen, Sneed, and Vivaldi."
+
+p:"What?"
+
+p:"Gravity waves coming from the center of the earth have disrupted space-time enough to pull them in."
+
+p:The professor looks down into your puzzled face. "And you, as well," he adds. "I've always suspected that the laws of physics may be different in the vicinity of a black hole. Now we have proof!"
+
+p:"What does this mean?"
+
+p:The professor smiles. "It means that the interior of the earth beginning about 800 miles deep is hollow."
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,7 +1,10 @@
 ::BEGIN:AVATAR
-img:agent/0010/avatar
+img:thegame/agent/0010/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-Vivasvan
+img:thegame/agent/0010/avatar
+name:Vivasvan
+vector:0x0010a
+describe: Vivasva the father of Yama.
 ::END:LOOK

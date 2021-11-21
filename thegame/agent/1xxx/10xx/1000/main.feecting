@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1000/avatar
+name:Gunnar Larsen
+job:National Research Institute
+::END:LOOK

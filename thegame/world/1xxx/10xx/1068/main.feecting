@@ -1,16 +1,25 @@
 ::BEGIN:LOOK
-You can see what can we do from here.
+p:You can see what can we do from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## What Can We Do?
 
-talk:#twitter tweet Activate The Grand Akpar 0x068 012361011161940394244505358666768 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+talk:#twitter tweet The Underground Kingdom 0x068_012361011161940394244505358666768 #UndergroundKingdom #ARJIKA #R1068 #TG93 :id:
+
 p:"What can we do?" you ask.
+
 p:Dr. Vivaldi looks at you thoughtfully, then says,
+
 p:"If there is a war, we cannot expect to survive. I am going to talk to the Grand Akpar. But here, take my gold bracelet. If you give it to the guard, he will let you escape."
+
 p:"But what will happen to you? I don't want to leave you here. I'll go to the Grand Akpar with you!"
+
 p:Dr. Vivaldi replies, "Think carefully before you make such a decision."
+
+mud[Face the Grand Akpar...]:n
+mud[Escape the Grand Akpar...]:s
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

@@ -1,17 +1,30 @@
 ::BEGIN:LOOK
-You can see the ledge from here.
+p:You can see the ledge from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## On The Ledge
+
 p:Your whole body is racked with pain as you crash onto the ledge. You're shaken and bruised but still alive! A snowbank cushioned your fall.
+
 p:"HELP!" you cry.
+
 p:"Hold on!" Larsen yells. "It's going to be tricky, but we're rigging our ropes. We'll get you up."
+
 p:You feel a flash of joy; then you remember something that chills you to the bone.
+
 p:You were very careful not to fall in. You're quite sure you didn't slip; you were pulled as if by an unknown force within the Bottomless Crevasse.
-p:Should you warn your friends about the strange force? If you do, they may be afraid to get close enough to rescue you.
-mud[Warn Larsen and Sneed...]:w
-mud[Yell PLEASE HURRY...]:e
+
+p:Should you warn your friends about the strange force?
+
+p:If you do, they may be afraid to get close enough to rescue you.
+
+mud[Warn Larsen and Sneed...]:e
+mud[Yell Please Hurry!...]:w
+
+-
+talk:#twitter tweet The Underground Kingdom 0x005_0125 #UndergroundKingdom #ARJIKA #R1005 #TG93 :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

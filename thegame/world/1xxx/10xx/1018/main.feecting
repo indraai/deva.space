@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+p:You can see hacking away at the ice from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Try To Make It
+
+talk:#twitter tweet The Underground Kingdom 0x018_012591218 #UndergroundKingdom #ARJIKA #R1018 #TG93 :id:
+
+p:You inch your way along the edge, keeping your body flat against the wall of the crevasse.
+p:You should be able to make it, as long as you don't panic. You try not to look down.
+p:After almost an hour of slow progress, you're able to raise a hand over the rim. But you still can't pull yourself up.
+p:You hack away at the ice, gouging out another handhold, then another foothold. It seems like hours before you can take even one step higher.
+p:Then, with one great effort, you heave yourself over the edge, then twist and roll away from the deadly opening.
+p:Stiff and shaky, you manage to stand and stare at the bleak world around you. The sun has set behind the western mountains, and you begin to shiver in the chill wind.
+p:You're thankful that in this part of Greenland it never grows dark in July. But it does grow cold, well below freezing, and you're too exhausted to run and jump to warm yourself.
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

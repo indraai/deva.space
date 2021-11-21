@@ -1,0 +1,30 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+## Keep Walking
+
+talk:#twitter tweet The Underground Kingdom 0x025_01259122125 #UndergroundKingdom #ARJIKA #R1025 #TG93 :id:
+
+p:You force yourself to keep walking. If you wander too far from the crevasse, a search team might miss you, so you walk in a large square:
+p:fifty paces north . . .
+p:fifty east. . .
+p:fifty south . . .
+p:fifty west . . .
+p:fifty north . . . again . . . again.
+p:Your legs feel like lead. Your eyes are half shut.
+p:You hardly notice when the weak arctic sun reappears ... the sun . . . you can't think . . . dizzy
+. . . you can't stand. . . .
+p:It seems like another world when you wake up in a room with pale green walls and gleaming tile floors. Your head is swimming.
+p:What happened to Larsen and Sneed? You feel as if you've lived through a nightmare.
+p:"You're lucky, we were able to save your leg."
+p:A tall, bearded doctor is speaking. "You'll be OK." Then his voice trails off as he tells you that your friends, Gunnar Larsen and Dr. Sneed, have joined Dr. Vivaldi, all lost forever.
+p:"Larsen . . . Sneed." You keep mumbling their names until finally sleep comes.
+p:By morning your head has cleared. It was a terrible ordeal, but at least you survived. In a few weeks you'll be home for good, because nothing could ever persuade you to go near the Bottomless Crevasse again!
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

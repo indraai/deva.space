@@ -1,0 +1,8 @@
+::BEGIN:AVATAR
+img:thegame/object/1001/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1001/avatar
+name: Signal Transmitter Display
+::END:LOOK

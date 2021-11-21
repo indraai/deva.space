@@ -1,0 +1,29 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+## The Mountain Peak
+
+talk:#twitter tweet The Underground Kingdom 0x106_0123610111619403942445053586667687010410578818587106 #UndergroundKingdom #ARJIKA #R1087 #TG93 :id:
+
+p:It's an avalanche all right, but the boulders are rolling up the mountain! Panicked, you run toward Katu. The boulders are coming right at you. At near zero gravity they're being pulled toward the Black Sun.
+
+p:"You've got to run down!" Dr. Vivaldi shouts.
+
+p:But the boulders have cut off your escape. The only thing you can do is run up the mountain, trying to keep out of their path.
+
+p:You're running higher and faster, leaping fifty feet at a time.
+
+p:Ahead of you, Katu flies off the mountain. Before you can stop yourself your feet lose touch with the ground, and you're in the air, being swept higher and higher, straight toward the Black Sun!
+
+img:thegame/world/1106/universe
+
+p:You've read that a black hole might somehow be an entrance to another universe.
+
+p:If only that were possible! p:It's your only chance once you reach the Black Sun. A chance in a million maybe, but still a chance . . .
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

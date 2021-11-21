@@ -1,14 +1,17 @@
 ::BEGIN:LOOK
-You can see the inner Arjikiya.
+p:You can see Shrine of Sarya from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-This room is exempt from all normal laws of reality.  It appears to have entered the realm of magic where the laws of science no longer exist. The void of this place is created within the traveler's mind and is the perfect place to practice mystical arts. For those who have trained hard enough they shall receive assistance in their pursuit of knowledge and power.  Others will find peace in this void and never be able to return.
+img:thegame/world/0104/portrait
 
-talk:#vedas view 08053
+thanks:Thank you for visiting the Shrine of Sarya. Please leave your Offerings on the table or with the Host.
 
+#bg = thegame/world/0104/background
+#bgcolor = #000000
+#color = #789888
 ::END:MAIN
 
 =

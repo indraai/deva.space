@@ -1,9 +1,12 @@
 ::BEGIN:LOOK
-You can see down the crevasse from here.
+p:You can see down the crevasse from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Down in the Crevasse
+
+talk:#twitter tweet The Underground Kingdom 0x003_0123 #UndergroundKingdom #ARJIKA #R1003 #TG93 :id:
+
 p: Your consciousness slips away as you fall faster down, down, down.
 p:The next thing you know, you're floating in air. In the soft, reddish light you can see that you are in a cavern, drifting toward the ceiling or is it the floor? In a flash you realize what has happened you've fallen to a point where gravity above you is almost equal to gravity beneath you!
 img:thegame/world/1003/ledge

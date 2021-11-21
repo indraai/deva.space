@@ -1,6 +1,38 @@
 ::BEGIN:LOOK
+p:You can see House Indu from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-This is a meeting room of the higher level mages who are seeking to become a Magi.  It is here they must prove themselves both physically and mentally. Most never make it.  The Magi of the Purple and Gray robes has never been achieved.  The actual testing to be a Magi remains a mystery as only the Magi themselves have witnessed it.
+img:thegame/world/0138/title
+
+::begin:hymn
+p:Welcome to House Indu.
+
+p:That hath so heightened him the Great, the Wide, to do his mighty work.
+
+p:So may the God attain the God, true Indu Indra who is true.
+
+p:He with his majesty hath filled the Earth and Heaven, and waxen strong.
+
+p:One share of the libation hath he swallowed down, and one share he left.
+
+p:So may the God attend the God, true Indu Indra who is true.
+
+l:Brought forth together with wisdom and mighty power. 
+l:Thou grewest great with hero deeds.
+
+p:Giving prosperity, and lovely wealth to him who praiseth thee.
+
+p:So may the God attend the God, true Indu Indra who is true.
+
+p:This, Indra, was thy hero deed, Dancer, thy first and ancient work, worthy to be told forth in Heaven,
+
+p:All that is godless may he conquer with his might, and, Lord of Hundred Powers, find for us strength and food.
+::end:hymn
+
+
+cmd:#vedas view 02022
+
+#bg = thegame/world/0138/background
+#color = #8bfdfe
 ::END:MAIN

@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+p:You can see the Shining Mountains from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Shining Mountains
+
+talk:#twitter tweet The Underground Kingdom 0x036_0123610111619403942445053586667687010410578818336 #UndergroundKingdom #ARJIKA #R1036 #TG93 :id:
+
+p:You and Dr. Vivaldi cross the Great River and start your trek to the Shining Mountains. Along the way your guide, Mopur, brings back mountain game, breadbush, and tanga.
+p:The air seems lighter and brighter than in the valley of the Great River. Never have you felt so happy as you do right now—hiking through the Shining Mountains.
+p:But your Archpod guide grumbles and frets.
+p:He blinks and rubs his eyes.
+
+Turn to page 92.
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -5,7 +5,7 @@ You can see the diamonds from here.
 ::BEGIN:MAIN
 ## The Diamonds
 
-talk:#twitter tweet Activate LifeForce 0x091 01236101116194039424450535866676870104105767881838891 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+talk:#twitter tweet The Underground Kingdom 0x091_012361011161940394244505358666768701041057881838891 #UndergroundKingdom #ARJIKA #R1091 #TG93 :id:
 
 p:"Look at all those diamonds," you say. "I'm surprised the Archpods haven't already taken
 them."
@@ -14,17 +14,22 @@ img:thegame/world/1091/diamonds
 
 p:"Villa tarem, zaark!" One of the Archpods is screaming. Several of them point to the north.
 "Tarem Agax!"
+
 p:You can't see anything unusual, but the Archpods are deserting you, racing back across the
 field.
+
 p:"What's going on? Do you see anything?" you ask Dr. Vivaldi.
+
 p:She shakes her head, seemingly as confused as you are. "It must be the ghost wolf. What we are witnessing may be more interesting than the diamond hills themselves.
 
-p:We may be in the presence of a life force that the Archpods can see but we can't Or maybe what they see is an illusion, and we are right in thinking nothing is there. This is something that has always interested me: different
-realities for different observers."
+p:We may be in the presence of a life force that the Archpods can see but we can't Or maybe what they see is an illusion, and we are right in thinking nothing is there. This is something that has always interested me: different realities for different observers."
 
 p:"I don't think we have time to figure it out now," you say.
 p:"You may be right," Dr. Vivaldi admits. "In any event, I would guess that the Archpods have good reasons for their fears.
 p:Are you willing to risk continuing on to the Hills of Diamonds, or do you want to turn back?"
+
+pIf you say you want to continue, turn to page 94.
+p:If you say you want to turn back, turn to page 97.
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

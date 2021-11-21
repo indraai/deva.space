@@ -6,6 +6,9 @@ You can see the Services Department.
 
 ::BEGIN:MAIN
 img:thegame/world/0235/title
+
+talk:#twitter tweet Welcome to indra.services where we work hard with our team to provide #TheHabitat with top quality services for a fair #OFFERING. #R235 #Arjika #Indu #Soma #Sarya #Parjanya #Indra #Deva :id:
+
 p:You have found yourself inside the indra.services.
 p:This is the place where you can request services on the network like well anything you would need help with.
 p:Here we try to provide services to a broad range of categories from cleaning services to upgrade services. We don't do it all, but we we don't do solutions will figure out.
@@ -27,8 +30,7 @@ p:Here we try to provide services to a broad range of categories from cleaning s
 14. Food/Drink Services
 15. Military Services
 
-alk:#twitter tweet Welcome to indra.services where we work hard with our team to provide #TheHabitat with top quality services for a fair #OFFERING. #R235 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
-
+mud[Exit indra.services...]:e
 #bg = thegame/world/0235/background
 #color = #333333
 #bgcolor = #ffffff

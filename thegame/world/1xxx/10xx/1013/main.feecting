@@ -1,38 +1,37 @@
 ::BEGIN:LOOK
-You can see follow the blue raka from here.
+p:You can see send a warning from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:Hoping for the best, you follow the blue-furred Raka to the center of the village. As you walk along the narrow footpaths, other Rakas emerge from their agons and stare at you curiously.
-p:When you reach the central agon the blue-furred Raka lets out a long, low hooting noise, which is answered from within. Inside an old white-headed Raka sits near the central fountain.
-p:A large black disc hangs from his neck. For a long time he stares at you. Finally he rises and steps
-closer.
-p:"So, you are what my hunters found.
-p:My name is Arton. I am the High Raka of the village of Rakmara."
-img:thegame/world/1013/arton
-p:You are so startled by the familiar words that it takes you a minute to answer.
-p:"How is it you speak my language?" you finally ask.
-p:Arton smiles. "A visitor from the Nether World.
-p:She called herself Nera."
-p:"Dr. Vivaldi? She's alive? Where?"
-p:The old Raka shakes his head. "She tried to swim across the Great River. The river spirits have swallowed her."
-p:"She might have made it across!" you say.
-p:"Even if she did, the Archpods would have fed her to the Kota beasts."
-p:"What are Archpods?"
-p:"The Archpods live beyond the Great River.
-p:For a long time the Rakas and Archpods have each had one hunting boat; that is the law. Now the Archpods build many boats. They are not hunting boats; they are war boats.
-p:The Archpods plan to conquer Rakmara.
-p:You hold your head in your hands. Poor Dr. Vivaldi! And now the threat of war.
-p:"Yes, bad times are upon us," Arton continues.
-p:"But we shall protect ourselves. We have learned to mix powders and call up the fire of the earth in a great blast of noise and heat"
-p:"You mean bombs?"
-p:"We call them brakpa. With brakpa and with your help, we shall destroy the Archpods before they destroy us."
-p:"What do you mean, 'with my help'?" you ask.
-p:"You come from the Nether World, where war is the way of life. If you ride with us, our warriors will have courage."
-p:"What are the Kota beasts?"
-p:"You ask too many questions!" the High Raka snaps back. "Now you must answer mine: Will you go with our warriors to attack the Archpods?"
-p:You shrink back from the choice.
-p:The High Raka's voice grows stern and cold "If you are not with us, then you are against us, and we shall deal with you as our enemy."
+## Warn Your Friends
+
+p:"Get back from the edge!" you yell. "I didn't fall, I was pulled in!"
+
+p:For a few moments you hear nothing; then Sneed yells, "Thanks for warning us. There may be some force here we don't understand. But don't worry, we're rigging a brace so we can pull you up without getting too close."
+
+p:A few minutes later you see a nylon climbing rope dangling in front of you. You pull in enough to tie around your waist and under your arms.
+
+p:Taking a firm grip, you call up to the top, "I'm ready—pull away!"
+
+p:Your heart skips a beat as you're yanked off the ledge. You dangle for a moment; then, slowly, foot by foot, your friends pull you up over the edge. You scramble across the ice into their arms.
+
+p:"Thank goodness we got you!" says Larsen.
+
+p:"The Bottomless Crevasse is a killer. I think we'd better quit now."
+
+p:"I agree. I've had enough," Sneed says.
+
+p:After what you've been through, you're not about to argue with them. The three of you pack up and begin the long trek back across the glacier.
+
+p:You're happy to be alive, but you know that you'll always regret that you never reached the Underground Kingdom.
+
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+-
+talk:#twitter tweet The Underground Kingdom 0x1013_012513 #UndergroundKingdom #ARJIKA #R1013 #TG93 :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

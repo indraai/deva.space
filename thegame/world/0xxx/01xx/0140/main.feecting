@@ -1,16 +1,27 @@
 ::BEGIN:LOOK
-You can see the Northern Gate from here.
+p:You can see indra.agency/n from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0096/title
+
+talk:#twitter tweet:securitydeva Arriving at the indra.agency #D140 #NORTH gate where #SecurityDEVA #D175 stands #GUARD #TheHabitat #Arjika #Indu #Soma #Sarya #Parjanya #Indra #Deva :id:
+
 p:You are at the Northern Gate where indra.agency and SecurityDEVA D175 (Guard) stands guard.
-p:To the look[south] you enter the City of Arjika and it's wonderious attractions.
+
+## South
+p:To the look[south] you will find indra.house where the residential area of indra.city is located.
+mud[Goto indra.house...]:s
+
+## Up
 p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
+mud[Goto lookout...]:u
+
+## Bulletin Board
 p:There is also a security board here to read the latest bulletins.
-bmud[Read Security Board]:read security
+mud[Read Security Board]:read security
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000

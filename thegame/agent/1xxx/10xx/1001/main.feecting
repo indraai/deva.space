@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1001/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1001/avatar
+name:Dr. James Sneed
+job:Geologist
+::END:LOOK

@@ -1,0 +1,8 @@
+::BEGIN:AVATAR
+img:thegame/agent/0210/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0210/avatar
+name: Larry Services
+::END:LOOK

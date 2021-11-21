@@ -1,0 +1,22 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+## Shake their heads
+
+talk:#twitter tweet The Underground Kingdom 0x077_012591221252628297577 #UndergroundKingdom #ARJIKA #R1077 #TG93 :id:
+
+p:One after another, the team members shake their heads.
+
+p:Finally Bruckner turns to you. "Well?"
+
+p:You hesitate. You don't want to risk your life.
+
+p:But this could be the only chance of finding your lost friends.
+
+mud[You decide to risk it...]:n
+mud[You decide to play it safe...]:s
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

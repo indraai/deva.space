@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-You can see explore the underground from here.
+p:You can see explore the underground from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Explore The Underground
 
-talk:#twitter tweet Activate The Map 0x081 01236101116194039424450535866676870104105767881 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+talk:#twitter tweet The Underground Kingdom 0x081_012361011161940394244505358666768701041057881 #UndergroundKingdom #ARJIKA #R1081 #TG93 :id:
 
 p:"This may be the only chance earth people have to explore the Underground Kingdom," you say, "and I don't want to pass it up."
 p:"I'm glad to hear you say that" Dr. Vivaldi unfolds a map of the Underground Kingdom.

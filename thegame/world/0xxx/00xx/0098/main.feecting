@@ -1,12 +1,11 @@
 ::BEGIN:LOOK
-You can see the end of the beginning room.
+You can see Adventure Land from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-
-coordinates:00[-737.5|-295.5]
+p:You have made it to Adventure Land
 ::END:MAIN
 
 =

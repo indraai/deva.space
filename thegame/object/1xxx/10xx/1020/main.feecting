@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1020/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1020/token
+name:0x_1020 Token
+vector:0x1020_012591220
+describe:You decided to wait and not risk the trecherous climb to the surface. A helicopter came to save you in the end.
+::END:LOOK

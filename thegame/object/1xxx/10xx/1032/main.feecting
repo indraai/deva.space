@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1032/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1032/token
+name:0x_1032 Token
+vector:0x032_01259122132
+describe:Everyone spoke very highly of you.
+::END:LOOK

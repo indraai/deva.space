@@ -3,5 +3,8 @@ img:thegame/agent/0165/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-Agent 0165
+img:thegame/agent/0165/avatar
+name:Indu Monk
+vector:0x_0165a
+describe:Indu Monk is here. He has mastered a look that would cause most people to give in to his plead.
 ::END:LOOK

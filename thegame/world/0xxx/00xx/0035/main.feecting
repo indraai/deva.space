@@ -1,15 +1,14 @@
 ::BEGIN:LOOK
-You can see Elora's Den of Dreams.
+p:You can see the Shrine of Bom from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-Shadows form and dissipate, creating fluid, illogical images, which seem to come to life one minute, only to disappear as wisps of smoke the next.  Around them, sharp brush strokes of iridescence twist into crooked, ever-changing patterns.
+img:thegame/world/0035/portrait
 
-The warble of a songbird becomes the maniacal laughter of a dancing clown, which in turn dissolves into a prancing pony.
+thanks:Thank you for visiting the Shrine of Bom. Please leave your Offerings on the table or with the Host.
 
-The only constant here appears to be a faint scent of jasmine.
+mud[Exit South...]:s
+
+#bg = thegame/world/0035/background
+#color = #8bfdfe
 ::END:MAIN
-
-=

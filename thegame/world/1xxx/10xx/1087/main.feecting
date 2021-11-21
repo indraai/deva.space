@@ -1,0 +1,33 @@
+::BEGIN:LOOK
+p:You can see the highest peak from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Highest Peak
+
+talk:#twitter tweet The Underground Kingdom 0x087_0123610111619403942445053586667687010410578818587 #UndergroundKingdom #ARJIKA #R1087 #TG93 :id:
+
+p:"Now you can see," says Dr. Vivaldi, "how on the Weightless Peaks the higher you go, the lighter you'll get Look!" She points to the highest peak of all. Its top is a spire jutting into the sky. A thin plume of smoke rises from the top.
+
+p:"It must be a volcano," you say.
+
+p:"No," says Dr. Vivaldi. "Something else is going on. The mountain's gravity at its peak is so weak that dust is being pulled off by the tremendous gravity of the Black Sun."
+
+p:"I bet I only weigh five or six pounds," you say.
+
+p:"I could easily climb to the top of that spire."
+
+p:"Better not," says Dr. Vivaldi.
+
+p:You realize that if you're so light, the huge boulders around you can't weigh very much either.
+
+p:You decide to test your theory. You nudge a boulder twice your size. It rolls into another boulder.
+
+p:Then above you, Katu screams, "Avalanche!"
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

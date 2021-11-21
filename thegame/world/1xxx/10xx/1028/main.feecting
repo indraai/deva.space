@@ -1,0 +1,27 @@
+::BEGIN:LOOK
+p:You can see go on the expedition from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Go On The Expedition
+
+talk:#twitter tweet The Underground Kingdom 0x028_012591221252628 #UndergroundKingdom #ARJIKA #R1028 #TG93 :id:
+
+
+p:"Professor Bruckner, count me in!"
+
+p:"Good," he says.
+
+p:"This time we'll be far better equipped.
+
+p:NASA has put two helicopters at my disposal. One of them will transport our party of scientists and technicians.
+
+p:The other will carry the Vertacraft, a rocket-propelled capsule specifically designed for this mission."
+
+mud[Continue...]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

@@ -3,31 +3,31 @@ You can see enter the fight.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:"I'll go with your warriors," you answer.
-p:"Very well," says Alton. "You will stay with Tomo. Vivaldi taught him English, and he will tell you what you need to know."
-p:Immediately one of the Rakas steps forward and takes your arm. "I am Tomo," he says. Then he leads you to the outskirts of the village and into his agon. He brings you woven mats. "You must rest now," he says.
-p:You peer outside at the red-streaked sky.
-p:"Doesn't it ever get dark here?"
-p:"We have no night or day," says Tomo. "We measure time by the tides of the Great River. Dr. Vivaldi said two of our tides equal one of your days. It is sleeping tide now."
-p:You realize that you have not slept since you arrived in the Underground Kingdom. How long have you been here? How many tides? Too tired to think about it, you lie down and quickly fall asleep.
-
-## Next day...
-p:When you wake, Tomo gives you a bright pink tanga.
-p:You hadn't realized how little you've eaten, and you wolf it down. Smiling, Tomo replaces it with another.
-p:"Someday we will go hunting," says Tomo.
-p:"Are you a hunter?"
-p:"Almost. I must first go on the Hunt of the Black Sun. I must kill a Kota beast."
-p:"A Kota beast? What are they?"
-p:Tomo frowns. "Great toothed animals, with eyes like blue flames and teeth like iron fangs.
-p:They live in the darkest, hottest parts of the woods. They tear anything apart, even themselves."
-p:You start to ask about the Hunt of the Black Sun, but Tomo raises a hand. "Now we must talk of war. The Archpods will not expect an attack when the river is low. That is when we shall cross and destroy their boats."
-p:The next morning as the Great River begins to fall, the Rakas load their hunting boat, now called the war boat, with brakpa crude bombs packed in hollowed logs.
-p:You shudder to think that you are about to witness the beginning of a war. But there seems to be no way to avoid it
-p:Before the sleeping tide has ended, Tomo, you, and five hunters set off in the war boat.
-img:thegame/world/1015/boat
-p:The Raka hunters are clumsy at rowing, and the boat is so heavy that a few small waves would easily swamp it.
-p:You realize you might be able to swim to shore before the Rakas could turn around and catch you.
-p:It's risky, but it's your only chance to avoid the war!
+You run from the angel bird—up a hill that gets
+steeper and steeper. In the light gravity of the
+underworld you can run faster than a deer, even
+up this mountain. Twenty, thirty, forty feet at a
+bound! You feel even lighter than you did before.
+You try to leap only a few feet in the air, but you
+find yourself floating. There is no way you can get
+down. You are entombed between the ground
+above and the ground below.
+You close your eyes. Then, instead of feeling
+warm, you feel cold; instead of feeling light, you
+feel heavy. Instead of floating, you're lying on a
+hard, cold surface. Opening your eyes, you see
+ice walls rising above you.
+Now you understand. When you fell into the
+crevasse, you landed on this ledge, about thirty
+feet below the surface. You must have hit your
+head on the ice. What a strange dream you've
+had! It seemed so real—as if the angel bird put
+the dream in your head! But there are other
+things to think of right now.
+"HELP!" you shout
+No one answers. Larsen and Sneed have probably
+given you up for lost
+p:Turn to page 12.
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

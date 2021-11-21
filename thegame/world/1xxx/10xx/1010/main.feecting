@@ -1,13 +1,20 @@
 ::BEGIN:LOOK
-You can see the Great Bird from here.
+p:You can see the Great Bird from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Great Bird
-talk:#twitter tweet Activate The Great Bird 0x010 0123610 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+talk:#twitter tweet The Underground Kingdom 0x010_0123610 #UndergroundKingdom #ARJIKA #R1010 #TG93 :id:
+
 p:You stand there and watch as the strange creature walks slowly toward you. Then you see the large, blue-white pieces of broken shell. This angel bird is only a fledgling, just hatched!
 p:Losing your fear, you walk up and stroke the creature gently. It cocks its head to the side and touches you with one of its wings. At that moment it seems almost human.
 p:But suddenly you hear a loud whirring sound. Hovering above you is another angel bird, a much larger one. It must be the mother of the fledgling. She swoops toward you.
+
+mud[Run...]:n
+mud[Grab the fledgling and use it as a shield...]:e
+mud[Dive to the ground and shield yourself...]:s
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

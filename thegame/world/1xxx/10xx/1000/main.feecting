@@ -9,13 +9,22 @@ author: Edward Packard
 illustrator: Anthony Kramer
 publisher: Bantam Books
 
-## SPECIAL WARNING!!!!
-p:The Underground Kingdom is not easy to reach. Many readers never get there. Others never return.
-p:Before starting out on your journey, you may want to read Professor Bruckner's read[theory].
+-
+
+warning:The Underground Kingdom is not easy to reach. Many readers never get there. Others never return.
+
+note:Before starting out on your journey, you may want to read Professor Bruckner's theory.
+
+mud[Read Professor Bruckner's theory...]:read theory
+
 p:Professor Bruckner is a rather boring writer, and I wouldn't suggest that you bother to read his theory, except that, if you ever get to the Underground Kingdom, it might save your life.
+
 p:Good luck!
 
-mud[The Toan Glacier...]:n
+mud[Continue to the Toan Glacier...]:n
+
+-
+talk:#twitter tweet The Underground Kingdom 0x000_0 #UndergroundKingdom #ARJIKA #R1000 #TG93 :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
@@ -38,4 +47,11 @@ img:thegame/world/1000/hollowearth
 ::END:THEORY
 ====
 
-talk:#twitter tweet Activate Underground Kingdom 0x000 0 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+::BEGIN:THANKYOU
+-
+thanks:Thank you for visiting the Underworld Kingdom Adventure.
+note:We hope that you enjoyed your journey. Please follow the indicated exits to return to the beginning.
+
+mud[Exit to beginning...]:w
+::END:THANKYOU
+====

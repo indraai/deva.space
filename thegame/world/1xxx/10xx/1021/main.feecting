@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see no shelter from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## No Shelter
+
+talk:#twitter tweet The Underground Kingdom 0x021_012591221 #UndergroundKingdom #ARJIKA #R1021 #TG93 :id:
+
+p:There is no shelter from the relentless wind and no sign of Larsen or Sneed. It's getting hard to breathe.
+p:You soon begin to feel the dull aches, stiffness, and sick feeling you've read about—the dread symptoms of hypothermia; you are freezing to death. Maybe a search helicopter will arrive any moment. Maybe in a few hours. Maybe never.
+p:You are very tired. You desperately need rest.
+
+mud[Huddle in your your parka...]:n
+mud[Force yourself to keep walking...]:s
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

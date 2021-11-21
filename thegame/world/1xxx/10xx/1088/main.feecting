@@ -5,16 +5,25 @@ You can see the hills of diamonds from here.
 ::BEGIN:MAIN
 ## Hills of Diamonds
 
+talk:#twitter tweet The Underground Kingdom 0x088_0123610111619403942445053586667687010410578818388 #UndergroundKingdom #ARJIKA #R1088 #TG93 :id:
+
 p:Certainly the Hills of Diamonds must be an amazing sight And, if you ever do make it back to the surface, it wouldn't hurt to have a few dozen diamonds in your pockets, you could be rich for life!
+
 p:The Archpods provide you and Dr. Vivaldi with their largest boat for the trip down the Great River to the diamond hills.
+
 p:After a journey of six tides, you hear a roaring up ahead. The Archpods quickly beach the boat.
+
 p:"We can go no farther," the leader tells you.
+
 p:"There are deep canyons and fierce rapids ahead. We must go on foot across the field of white clay."
+
 p:You soon find that the white clay is extremely hot. Your feet would burn up were it not for the light gravity of the underworld that permits you to race across the field in great leaps.
+
 p:Finally you reach cooler ground. Ahead of you is a dazzling vision: dozens of little hills of brilliant diamonds!
+
+mud[Continue...]:e
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
-
-talk:#twitter tweet Activate Diamonds 0x088 012361011161940394244505358666768701041057678818388 #0x #Arjika #Indu #Indra #SecurityPRIME :id:

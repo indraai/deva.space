@@ -5,12 +5,18 @@ p:You can see the Grand Akpar pacing from here.
 ::BEGIN:MAIN
 ## The Grand Akpar Paces
 
-talk:#twitter tweet Activate The Pace 0x105 01236101116194039424450535866676870104105 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+talk:#twitter tweet The Underground Kingdom 0x105_01236101116194039424450535866676870104105 #UndergroundKingdom #ARJIKA #R1105 #TG93 :id:
 
 p:The Grand Akpar paces from one side of the agon to the other. Rnally he stops and stares into your eyes. You shrink back from his stern gaze. "I will try what you suggest," he says. "Meanwhile you will be kept under guard with Dr. Vivaldi. If all goes well, you shall be freed, and we will do everything we can to make you happy here.
+
 p:When you are ready to return to the Nether World, we shall help you."
+
 p:You start to thank the Grand Akpar, but he holds up his hand. "Do not thank me until I tell you this: If we are betrayed and the Rakas attack, you and Dr. Vivaldi will die."
+
 p:There is not much you can say, and you would hardly have time anyway, for the guards quickly lead you away.
+
+mud[Continue...]:w
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

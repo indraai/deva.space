@@ -1,8 +1,11 @@
 ::BEGIN:AVATAR
-img:agent/0004/avatar
+img:thegame/agent/0004/avatar
 ::END:AVATAR
 ====
 ::BEGIN:LOOK
-Soma is here to give strength.
+img:thegame/agent/0004/avatar
+name:Soma
+vector:0x_0004a
+describe:Soma is here to give strength.
 ::END:LOOK
 ====

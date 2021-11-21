@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+## Play It Safe
+
+talk:#twitter tweet The Underground Kingdom 0x033_01259122125262829757733 #UndergroundKingdom #ARJIKA #R1033 #TG93 :id:
+
+p:"All right," says Bruckner, "if no one will volunteer, I'll go alone." The rest of you help position the Vertacraft over the crevasse and wish him well as he snaps the hatch shut and releases the craft into free-fall.
+
+p:Hank Crouter, Bruckner's assistant, glances at his watch. "If he survives, we'll get a signal back within ten minutes," he says.
+
+p:You all wait anxiously, watching the clock, watching the crevasse. Ten minutes go by, fifteen, twenty, twenty-five. A chilling wind bites through your parka. You kick the icy ground.
+
+p:"Thirty minutes," says Crouter. "There's no way . . ."
+
+p:Weary and sad, your party trudges back across the ice fields. The moving glacier is rapidly closing the crevasse. There won't be another chance.
+
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

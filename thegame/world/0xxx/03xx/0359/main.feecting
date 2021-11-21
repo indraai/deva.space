@@ -1,8 +1,10 @@
 ::BEGIN:LOOK
-You can see Susoma Courtyard from here.
+p:You can see indra.city/courtyard from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You are in Susoma Courtyard.
+p:You are in indra.city/courtyard.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-611|-922]
 ::END:MAIN

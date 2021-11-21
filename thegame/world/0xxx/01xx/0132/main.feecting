@@ -1,6 +1,24 @@
 ::BEGIN:LOOK
+p:You can see the indra.city/towers from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Within the halls of this tower lies the Orb of Arjika.  It is the responsibility of all to ensure its safety.  Without the orb the firmament would collapse and chaos would rule.  The Magi have been given the honor of it placed within these halls.  The orb is rumored to have been created by the Gods Rumble and Ferret.  But, no one knows for sure.
+## Indra Towers West
+p:Welctome to indra.city/towers.
+
+p:In this tower you will find various Houses of Vedic Deities.
+
+p:To the north you will find House Indu
+mud[Visit House Indu...]:n
+
+p:To the east is the East Tower
+mud[Goto East Tower...]:e
+
+p:South you will meet the Householder.
+mud[Visit Housholder...]:s
+
+p:To the west is House Vamraka
+mud[Visit House Vamraka...]:w
+
+#bg = thegame/world/0132/background
 ::END:MAIN

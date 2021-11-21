@@ -1,29 +1,25 @@
 ::BEGIN:LOOK
+p:You can see indra.city/towers east from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-The Deva come here to ensure the safety of the Orb of Arjika. The power of the Orb is one of balance. An oft overlooked power. Balance is what is required for the world to exist. The Orb is the last balance left in the realm. If it were to be taken all hope would be lost. Without it the city would quickly be overrun by Darkness and Evil.
+## Indra City Towers East
+p:Welctome to indra.city/towers.
 
-talk:#vedas view 08007
+p:In this tower you will find various Houses of Vedic Deities.
 
--
+p:To the north you will find House Bom
+mud[Visit House Bom...]:n
 
-invoke: Maruts
-invoke: Prsni
-invoke: Sun
-invoke: Rbhuksans
-invoke: Rudras
-invoke: Yadu
-invoke: Turvasa
-invoke: Kanva
-invoke: Vrtra
-invoke: Trita
-invoke: Indra
-invoke: Susoma
-invoke: Srayakiavan
-invoke: Arjika
-invoke: Agni
-invoke: Surya
+p:To the east is House Indra
+mud[Visit House Indra...]:e
 
+p:South you will reach House Soma.
+mud[Visit House Soma...]:s
+
+p:To the west is West Tower
+mud[Goto West Tower...]:w
+
+#bg = thegame/world/0133/background
 coordinates:00[-815.5|-1138]
 ::END:MAIN

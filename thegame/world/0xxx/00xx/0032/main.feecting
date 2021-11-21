@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the Shrine of Indu from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0032/portrait
+
+thanks:Thank you for visiting the Shrine of Indu. Please leave your Offerings on the table or with the Host.
+
+mud[Exit South...]:s
+
+#bg = thegame/world/0032/background
+#color = #8bfdfe
+::END:MAIN

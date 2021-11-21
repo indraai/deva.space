@@ -11,6 +11,10 @@ p:"It looks like we're stuck here with all these millions of diamonds," you say.
 p:"Maybe not," replies Dr. Vivaldi. "The eruptions are quite localized. The gases are rising, but I think we can make it across the deadly strip of clay—it's less than a hundred feet, I'd guess.
 img:thegame/world/1095/continue
 p:There's only one way to do it - take a deep breath and run as fast as you can. Don't breathe until you absolutely have to. Are you willing to try?"
+
+p:If you're willing to run for it, turn to page 101.
+p:If not, turn to page 102.
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

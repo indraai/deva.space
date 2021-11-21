@@ -1,0 +1,35 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+## The Return
+
+talk:#twitter tweet The Underground Kingdom 0x098_01236101116194039424450535866676870104105788183369298 #UndergroundKingdom #ARJIKA #R1092 #TG98 :id:
+
+p:"We mustn't waste time," says Dr. Vivaldi.
+
+p:"The Bottomless Crevasse closes a bit more every day."
+
+p:Led by the Archpod guide, you begin the long trek back to the Great River.
+
+p:Six tides have passed before your party descends the mountain trail into the valley of the
+
+p:Great River. You are eager to get back to the Bottomless Crevasse—your only hope of returning to the surface of the earth and home. As you strain your eyes, looking for the Raka village, you see two figures headed toward you up the trail.
+
+img:thegame/world/1098/valley
+
+p:They're human!
+
+p:"Can it be?" you cry.
+
+p:Dr. Vivaldi stares through her mini-binoculars.
+
+p:"No doubt about it," she says, "Larsen and Sneed! They made it here alive!"
+
+mud[Continue]:e
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

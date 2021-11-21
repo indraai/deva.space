@@ -1,8 +1,11 @@
 ::BEGIN:AVATAR
-img:agent/0001/avatar
+img:thegame/agent/0001/avatar
 ::END:AVATAR
 ====
 ::BEGIN:LOOK
-Indu is here to be true.
+img:thegame/agent/0001/avatar
+name:Indu
+vector:0x_0001a
+describe:Flow Indu, Flow for Indra's sake.
 ::END:LOOK
 ====

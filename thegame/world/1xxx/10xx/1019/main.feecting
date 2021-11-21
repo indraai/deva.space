@@ -1,15 +1,22 @@
 ::BEGIN:LOOK
-You can see explore the underground from here.
+p:You can see explore the underground from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Explore the Underground
-talk:#twitter tweet Activate Explore the Underground 0x019 0123610111619 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+
+talk:#twitter tweet The Underground Kingdom 0x019_0123610111619 #UndergroundKingdom #ARJIKA #R1016 #TG93 :id:
+
 p:You know how you feel: the risks don't matter.
+
 p:You want to explore the Underground Kingdom!
+
 p:The angel bird seems to understand. Steeply banking, it swoops down along the great river and glides gently onto a mossy plain. Nearby is a grove of tall trees. Short stumpy branches with clusters of multicolored leaves thrust out from their trunks. They look almost like hands holding bunches of flowers.
+
 p:You slide to the ground, and at once the angel bird rises in the air. As it glides up into the dark red sky, you feel a wave of happiness. You follow its path with your eyes long after it has disappeared.
+
 p:Then, turning to survey the strange landscape, you wonder where you will go. What dangers await you?
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

@@ -1,6 +1,44 @@
 ::BEGIN:LOOK
+You can see House Vamraka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Any fragments of the familiar world have vanished.  All around stretches vague mists of grayness.  In every direction no distance or any distinguishable landmark can be discerned.  A person could easily get lost in this nothingness. It is this nothingness that helps the Magi hone their abilities before unleashing them into the real world.
+img:thegame/world/0126/title
+
+p:Welcome to House Vamraka.
+
+p:So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.
+p:He will, when supplicated, bring him blessing: he hath brought all, food, strength, a happy dwelling.
+
+
+::begin:hymn
+p:WHAT Splendid One, Loud-voiced, Farstriding, well knowing, urge us to exalt with praises?
+
+p:What give we him?
+
+p:When his might dawned, he fashioned the bolt, and sent us waters.
+
+p:He goes to end his work with lightning flashes. Wide is the seat his Asura glory gives him.
+
+p:On most auspicious path he goes to win heaven's light.
+
+p:Roaming among the herd he brings the young streams together where they pour their flood like butter.
+
+p:Bold, He raised himself on high.
+
+l:He, like a cloud that rains upon the pasture, hath found for us the way to dwell in safety.
+l:He with his potent Friends gave up the mighty.
+l:He yet young as guardian of the seasons.
+
+p:Through lauds of him burst the saint shone as singer.
+
+p:So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.
+
+p:He will, when supplicated, bring him blessing. He hath brought all, food, strength, a happy dwelling.
+::end:hymn
+
+cmd:#vedas view 10099
+
+#bg = thegame/world/0126/background
+#color = #ffff6e
 ::END:MAIN

@@ -1,12 +1,23 @@
 ::BEGIN:LOOK
-You can see Arjika Tower from here.
+You can see indra.city/towers from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-A pair of circular stairwells wind their way higher into the tower.
+## Indra City Towers East
 
-The sounds of people chanting echo off the pitch black walls that almost appear depthless.
+p:Welcome to indra.city/towers.
 
-Most likely a simple trick of the eye, but then again, maybe not.
+p:To the South is the Courtyard
+mud[Goto Courtyard...]:s
+
+p:To the West is Indra City Towers West
+mud[Goto Towers West...]:w
+
+p:Going Up will take you to the Vedic Deity Houses.
+mud[Visit Deity Houses...]:u
+
+#bg = thegame/world/0346/background
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-611|-887]
 ::END:MAIN

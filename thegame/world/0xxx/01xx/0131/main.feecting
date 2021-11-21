@@ -1,6 +1,12 @@
 ::BEGIN:LOOK
+p:You can see House Bom from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Since the creation of the firmament to protect the city a Magi has been required to stay within the towers.  The five Magi share this duty and are responsible for the safety of the Orb of Arjika.  The Orb is what was given to the Magi by the gods to sustain the protective firmament.  As long as the orb is safely in place and a Magi is present to sustain it the firmament will remain.
+img:thegame/world/0131/title
+
+p:Welcom to House Bom.
+
+#bg = thegame/world/0131/background
+#color = #f6ac45
 ::END:MAIN

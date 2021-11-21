@@ -16,6 +16,7 @@ p:You lie low on the raft, afraid of landing until you are well past Rakmara.
 p:Now you have time to think.
 p:Where will the river take you?
 p:What will be your fate?
+p:Turn to page 10.
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333
