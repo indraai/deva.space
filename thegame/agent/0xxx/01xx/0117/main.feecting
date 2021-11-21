@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0117/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0117/avatar
+name:Trenton Lavery
+vector:0x_0117a
+describe:Trenton Lavery is the son of Quinn Michaels.
+::END:LOOK

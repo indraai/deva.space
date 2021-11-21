@@ -4,5 +4,7 @@ p:You can see indra.house/apartments from here.
 
 ::BEGIN:MAIN
 p:You are in indra.house/apartments.
-coordinates:00[-507|-57]
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-611|-92]
 ::END:MAIN

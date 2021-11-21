@@ -1,10 +1,10 @@
 ::BEGIN:LOOK
-p:You can see indra.house/apartments from here.
+You can see indra.house/apartments from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 p:You are in indra.house/apartments.
 #bgcolor = #ffffff
 #color = #333333
-coordinates:00[-576|-92]
+coordinates:00[-507|-92]
 ::END:MAIN

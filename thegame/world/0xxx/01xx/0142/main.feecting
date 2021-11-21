@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-You can see the 5 Bedroom 5 Bathroom Home.
+p:You can see indra.house/5b4b from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-Welcome to the Model Home for the 5 Bedroom 5 Bathroom optoin.
+## 5b4b Model
+img:thegame/world/0142/plan
+p:You are in indra.house/5b4b model.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-335|-22]
 ::END:MAIN
 

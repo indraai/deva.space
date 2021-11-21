@@ -1,10 +1,11 @@
 ::BEGIN:LOOK
+p:You can see ufo.cafe from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-Various useless items line the walls of this cluttered and disorganized shop.  Once in a while this store is rumored to have great deals on rare equipment.
-::END:MAIN
+p:You are in ufo.cafe.
 
-=
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-507|-22.5]
+::END:MAIN

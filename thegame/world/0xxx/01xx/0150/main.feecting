@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see indra.buzz/food from here.
+::END:LOOK
+
+::BEGIN:MAIN
+p:You are in indra.buzz/food.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-611|-22.5]
+::END:MAIN

@@ -29,7 +29,7 @@ mud[Goto indra.city/w]:w
 
 #bgcolor = #ffffff
 #color = #333333
-coordinates:00[-473|-472]
+coordinates:00[-472.5|-472.5]
 ::END:MAIN
 
 =

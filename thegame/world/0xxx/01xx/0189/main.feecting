@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see indra.city/n from here.
+p:You can see indra.city/n from here.
 ::END:LOOK
 
 =
@@ -9,7 +9,7 @@ img:thegame/world/0189/title
 p:You are in indra.city/n.
 #bgcolor = #ffffff
 #color = #333333
-coordinates:00[-473|-161]
+coordinates:00[-472.5|-161]
 ::END:MAIN
 
 =

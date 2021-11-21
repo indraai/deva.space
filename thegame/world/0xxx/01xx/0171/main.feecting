@@ -1,9 +1,11 @@
 ::BEGIN:LOOK
-You can see the 3 Bedroom 3 Bathroom Home
+p:You can see indra.house/3b3b from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You are inside the 3 Bedroom 3 Bathroom Model Home
-
+## 3b3b Model
+p:You are inside indra.house/3b3b.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-369|-92]
 ::END:MAIN
