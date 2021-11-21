@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-You can see 2 W Hero Ave
+p:You can see indra.house/w
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-Several soldiers rush past in a hurry to make their watch in time.  The sound of someone working a grindstone can be heard to the north, most likely the weaponsmith.  A small house to the south is shadowed by the tower of Arjika in the middle of the city.
+p:You are in indra.house/w
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-404|-57]
 ::END:MAIN
 

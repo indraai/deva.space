@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-You can see 1 W Hero Ave
+p:You can see indra.house/w
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-The clang and clash of metal being worked to the north could only be the towns Smithy.  The street continues east and west with a small house to the south.  Townspeople walk the streets going about their business.
+p:You are in indra.house/w
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-438|-57]
 ::END:MAIN
 

@@ -1,0 +1,8 @@
+::BEGIN:LOOK
+p:You can see indra.house/apartments from here.
+::END:LOOK
+
+::BEGIN:MAIN
+p:You are in indra.house/apartments.
+coordinates:00[-507|-57]
+::END:MAIN

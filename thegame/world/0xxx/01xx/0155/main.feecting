@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-You can see 4 W Hero Avenue from here.
+p:You can see indra.house/w
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-A loud ruckus to the north must be the local bar where soldiers go to relieve themselves of their worries.  The cobblestone street is clean and well maintained.  The buildings all around are made of wood and some are several stories tall.
+p:You are in indra.house/w
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-335|-57]
 ::END:MAIN
 
