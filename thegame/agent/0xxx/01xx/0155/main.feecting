@@ -1,9 +1,19 @@
 ::BEGIN:AVATAR
-img:agent/0155/avatar
+img:thegame/agent/0155/avatar
 ::END:AVATAR
 
 =
 
 ::BEGIN:LOOK
-Arjika Colnel A155 is here. This one man is responsible for the protection of the entire city.  He is very old.  His hair a bright white and hanging below his shoulders.  Other than his hair he shows no signs of his age.  He is still built like an ogre and just about as evil tempered.
+img:thegame/agent/0155/avatar
+name:Rtu
+vector:0x_0155a
+title:Colnel
+describe:Rtu is responsible for the protection of the military.His hair a bright white. Other than his hair he shows no signs of his age.
+
+talk:#twitter tweet invoke #RTU is the #Colnel of the #Arjika #Military.  #Indu #Indra #Vamraka in #Arjika #0x_0155a :id:
+
+::begin:hymn
+talk:#docs view vedas/arjika/rtu
+::end:hymn
 ::END:LOOK

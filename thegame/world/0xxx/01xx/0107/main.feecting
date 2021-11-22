@@ -1,26 +1,12 @@
 ::BEGIN:LOOK
-YOU CAN SEE THE WAR ROOM.
+p:You can see indra.agency/war from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-A large hearthstone fireplace blazes in one wall.
-
-Maps, charts and other strategic planning tools are placed on a large glass table with a map of the realm encased within.  This is where the War Master plans how to protect the city in case of an attack.  The room is a mess with maps piled high and scattered haphazardly wherever there is room.  This is where the defense of the city is run from.
+p:You are in indra.agency/war.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-508|-380]
 ::END:MAIN
-
-=
-
-::BEGIN:TABLE
-The table is made out of cherry. It is worn from years of use. The glass top allows for an excellent view of the map protected within.
-::END:TABLE
-
-=
-
-::BEGIN:MAP
-The map is a geographic representation of Arjika.  Not even really a map, more of a scaled model.  The walls and buildings of the city are raised higher than the rest of the map to give it a third dimension.  Small soldiers are scattered around the top of the table to help the War Master place his men.
-::END:MAP
-
-=

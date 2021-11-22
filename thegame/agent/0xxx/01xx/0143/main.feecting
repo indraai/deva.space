@@ -4,5 +4,11 @@ img:thegame/agent/0143/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0143/avatar
-p:You see SecurityDEVA D143 (Patrol)
+name:SecurityDEVA D143
+assign:patrol
+vector:0x_0143a
+describe:SecurityDEVA D143 patrols the realm.
+
+talk:#twitter tweet:securitydeva #SecurityDEVA #D143 #0x_0143a is on dudty patrolling the #REALM for #Threats and suspicious kiddos having too little #FUN. #Arjika #Indu #Indra #SecurityDEVA #SecurityPRIME :id:
+
 ::END:LOOK

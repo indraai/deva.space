@@ -6,5 +6,7 @@ img:thegame/agent/0103/avatar
 img:thegame/agent/0103/avatar
 name:Cartoon Builder
 vector:0x_0103a
+daughter:Cartoon Builder Jr.
+
 describe:Cartoon Builder is a small man, a good foot shorter than you. He enjoys his job and no one can come close to his skill in buliding stuff. He looks very capable of using any of his fine tools.
 ::END:LOOK
