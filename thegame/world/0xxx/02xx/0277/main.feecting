@@ -1,10 +1,10 @@
 ::BEGIN:LOOK
-From here you can see The Jeweler from here.
+p:You can see indra.store/jeweler from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0277/title
-Display cases of very nice looking gems sit in the back of the room behind some steel bars.  Must be the jeweler has had problems with thieves.  Several nuggets of strange minerals are display on shelves all around.  Lucky is the individual who can find some of these valuable items to sell.
+p:You are in indra.store/jeweler
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-335|-576]

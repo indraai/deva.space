@@ -1,25 +1,12 @@
 ::BEGIN:LOOK
-You can see the inner Arjikiya.
+p:You can see indra.business from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-p:This room is exempt from all normal laws of reality.
-p:It appears to have entered the realm of magic where the laws of science no longer exist. The void of this place is created within the traveler's mind and is the perfect place to practice mystical arts. For those who have trained hard enough they shall receive assistance in their pursuit of knowledge and power.
-p:Others will find peace in this void and never be able to return.
-
-::begin:vedas
-talk:#vedas view 08053
-::end:vedas
-
+## indra.business
+p:You are in indra.business.
 #bgcolor = #cccccc
 #color = #333333
 ::END:MAIN
-
-=
-
-::BEGIN:VOID
-How can you look at something that does not even exist.
-::END:VOID
-====

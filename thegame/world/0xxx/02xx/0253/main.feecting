@@ -7,6 +7,9 @@ You can see indra.city/e from here.
 ::BEGIN:MAIN
 img:thegame/world/0253/title
 p:You are in indra.city/e.
+
+img:thegame/world/0253/area
+
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-576.5|-472]

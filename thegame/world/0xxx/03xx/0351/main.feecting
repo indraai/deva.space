@@ -1,9 +1,13 @@
 ::BEGIN:LOOK
-You can see AIRFORCE Medical from here.
+p:You can see indra.care/sw from here.
 ::END:LOOK
 
-::BEGIN:MAIN
-Small indoor gardens have been set up within this small house to grow the herbs required for the mixes and salves the monks require.  They are rumored to sometimes sell some of their remedies, though this is very rare and at a very steep price.
+=
 
-coordinates:00[-197|-852]
+::BEGIN:MAIN
+img:thegame/world/0351/title
+p:You are in indra.care/sw.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-162|-818]
 ::END:MAIN

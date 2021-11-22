@@ -3,6 +3,9 @@ img:thegame/agent/0007/avatar
 ::END:AVATAR
 ====
 ::BEGIN:LOOK
-Harry is said to be a rather flamboyant character, probably accounting for his strain of notability.
+img:thegame/agent/0007/avatar
+name:Harry
+vector:0x_0007a
+describe:Harry is said to be a rather flamboyant character, probably accounting for his strain of notability.
 ::END:LOOK
 ====

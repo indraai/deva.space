@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0304/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0304/avatar
+name:Pushpak
+vector:0x_0304o
+describe:...
+
+::begin:hymn
+talk:#docs view vedas/arjika/pushpak
+::end:hymn
+::END:LOOK

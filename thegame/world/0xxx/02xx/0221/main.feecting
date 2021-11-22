@@ -1,16 +1,12 @@
 ::BEGIN:LOOK
-p:You can see The Bath & Body Shop where you can get all your favorite bath time and body care goods.
+p:You can see indra.store/body.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0221/title
-p:Welcome to The Bath & Body Shop,
-p:Here you will find all the lotions and potions that you, wife, or partner will just love. Our specialist have formulated all kinds of products from the florals and herbs of the local planet to bring you natural safe and wonderful produts.
-p:Our select specialties include body scrubs, assortments of body butters, soaps, lotions, bubbles, and all the good fruity flowery scneted things you know and love.
-p:And in the far back corner make sure to visit the Candle Specialist. A rarity in Arjika where our speciality will ask you some questions, and then formulated a specially crafted scented candle unique and particular to you.
-
+p:You are in indra.store/body.
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-335|-369]

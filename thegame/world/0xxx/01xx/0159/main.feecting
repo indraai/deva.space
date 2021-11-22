@@ -1,14 +1,14 @@
 ::BEGIN:LOOK
-You can see 4 N Temple Rd. from here.
+p:You can see indra.city/north from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0159/title
-p:To the west one can hear the hammering of the smithy and the grinding of a wetstone in the Warriors Quarter.
-p:To the east the Thieves Quarter is covered in shadows and mystery.  Not a single sound escapes from that section of the city.
-p:This intersection stands upon the North Way which runs from the North Gate down to the Temple of Sanctus.
+
+p:You are in indra.city/n.
+
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-472.5|-57.5]

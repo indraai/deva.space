@@ -9,8 +9,6 @@ p:Welcome to Vivasvan's Place. The gathering hotspot for all the cool people in 
 
 talk:#adv world:thegame 0105/hymn
 
-talk:#adv world:thegame 0105/invoke
-
 #bg = thegame/world/0105/background
 #color = #eeeeee
 coordinates:00[-791.5|-1116]
@@ -21,31 +19,6 @@ coordinates:00[-791.5|-1116]
 ::BEGIN:CUSIONS
 Each cushion is of a different color.  Red, Blue, Green, Black, Yellow. You notice two other cushions lined against the wall before a small altar. They are Gray and Purple.  Those colors symbolize the stages in the raising of a Magi.  Few every achieve that honor.  None have for the Order of the Purple or Gray Robe.
 ::END:CUSIONS
-====
-
-::BEGIN:INVOKE
-invoke: Vivasvan
-invoke: Sindhu
-invoke: Ganga
-invoke: Yamuna
-invoke: Sutudri
-invoke: Parusni
-invoke: Asikni
-invoke: Vitasta
-invoke: Marudvrdha
-invoke: Arjikiya
-invoke: Susoma
-invoke: Trstama
-invoke: Rasa
-invoke: Sasartu
-invoke: Svetya
-invoke: Kubha
-invoke: Mehatnu
-invoke: Krumu
-invoke: Gomati
-invoke: Silamavati
-invoke: Urnavati
-::END:INVOKE
 ====
 
 ::BEGIN:HYMN

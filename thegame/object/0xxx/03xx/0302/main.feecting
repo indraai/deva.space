@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0302/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0302/avatar
+name:Sindhu
+vector: 0x_0302o
+describe:...
+
+::begin:hymn
+talk:#docs view vedas/arjika/sindhu
+::end:hymn
+::END:LOOK

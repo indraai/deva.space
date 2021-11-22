@@ -1,22 +1,17 @@
 ::BEGIN:LOOK
-You can see the Southern Gate from here.
+p:You can see indra.agency/s from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0096/title
-p:You are at the Southern Gate of Arjika where SecurityDEVA D175 (Guard) stands watch.
-
-- NORTH is the City of Arjika
-- UP is the Southern Security Lookout
-
-p:There is also a security board here to read the latest bulletins.
+p:You are in indra.agency/s
 
 bmud[Read Security Board]:read security
 
 
-talk:#twitter tweet:securitydeva At the #South gate of #TheHabitat is indra.agency guard tower #R362. Here is where you can access the #portal to #Saryakiavan #Arjika #CyberSecurity #Security #SecurityDEVA #SecurityPRIME :id:
+talk:#twitter tweet:securitydeva At the #South gate is indra.agency #GUARD #D175 at #R362. #TG93 #INDU #CyberSecurity #Security #SecurityDEVA #SecurityPRIME :id:
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000

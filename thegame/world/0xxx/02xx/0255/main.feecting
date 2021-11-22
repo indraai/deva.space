@@ -1,14 +1,12 @@
 ::BEGIN:LOOK
-You can see 4 S Temple Rd. from here.
+p:You can see indra.city/s from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0255/title
-p:The entrance to both towers of the southern half of Arjika open before this part of the road.
-p:To the west the Adventure Arcade.
-p:To the east the Tower of the Arjika.
+p:You are in indra.city/s
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-472.5|-887]

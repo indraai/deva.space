@@ -1,8 +1,11 @@
 ::BEGIN:LOOK
-You can see the 2 bedroom 2 bathroom home.
+p:You can see indra.house/2b2b from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You can see the 2 Bedroom 2 Bathroom Home Option.
+## 2b2b Model
+p:You are in indra.house/2b2b.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-404|-92]
 ::END:MAIN

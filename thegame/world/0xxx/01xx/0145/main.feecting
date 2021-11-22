@@ -1,8 +1,11 @@
 ::BEGIN:LOOK
-You can see the 1 Bedroom 1 Bathroom Home Option
+p:You can see indra.city/1b1b from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-This is the 1 Bedroom 1 Bathroom Home.
-coordinates:00[-438|-22]
+## 1b1b Model
+p:You are in indra.city/1b1b.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-438.5|-23]
 ::END:MAIN

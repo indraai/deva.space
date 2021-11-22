@@ -1,11 +1,14 @@
 ::BEGIN:LOOK
-You can see Adventure Land from here.
+p:you can see indra.fun/land
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-p:You have made it to Adventure Land
+## indra.fun/land
+p:You have made it to indra.fun/land
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN
 
 =

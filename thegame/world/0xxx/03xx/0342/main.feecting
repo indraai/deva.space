@@ -4,11 +4,15 @@ You can see Mud City East.
 
 ::BEGIN:MAIN
 img:thegame/world/0327/title
-p:Adventure Arcade Isle is the center pathway to all your favorite Adventure Realms. Venture to the NORTH or SOUTH to find an Adventure of your liking.
 
-p:To the WEST the Adventure Arcade Isle continues.
+::begin:arcade
+talk:#docs view games/main:heroesassemble
+::end:arcade
 
-talk:#twitter tweet:feecting WOW... #ARJIKA #0x #Aventure #Arcade by indra.fun. All the #MUD Adventure Games that everyone in #TheHabitat knows and loves! #R342 to #PLAY for #YOURSELF. #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+::begin:arcade
+talk:#docs view games/main:unitedheroes
+::end:arcade
+
 
 #bgcolor = #000000
 #color = #42de57

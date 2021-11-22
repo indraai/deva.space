@@ -1,15 +1,12 @@
 ::BEGIN:LOOK
-You can see the indra.store/fashion from here.
+p:You can see the indra.store/fashion from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0238/title
-p:Welcome to Farry Fashion,
-p:Here Farry is your host, and makes the most amazing robes for the various houses. Take a look at the options and see for yourself.
-
-talk:#twitter tweet Inside the #Fashion franchise of indra.store is where your host #Farry offers #Blue #Red #Yellow #Purple #Green #Gray #Black #Robes in #R238. #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+p:You are in indra.store/fashion
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-611|-403]

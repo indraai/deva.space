@@ -3,8 +3,10 @@ img:thegame/agent/0215/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-name: Norman Kane
-title: Security Officer
-assign: Guard Arjika Orb
-partner: Frank Dooley
+img:thegame/agent/0215/avatar
+name:Norman Kane
+vector:0x_0215a
+title:Security Officer
+assign:Guard Arjika Orb
+partner:Frank Dooley
 ::END:LOOK

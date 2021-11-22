@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0305/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0305/avatar
+name:Svasti
+vector:0x_0305o
+describe:...
+
+::begin:hymn
+talk:#docs view vedas/arjika/svasti
+::end:hymn
+::END:LOOK

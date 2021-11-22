@@ -1,16 +1,11 @@
 ::BEGIN:LOOK
-You can see ARMY Medical from here.
+p:You can see indra.care/se from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Welcome to ARMY Medical.
-
-Here you will receive the best care that can be provided.
-
-You will find services to meet your:
-- Physical needs.
-- Mental needs.
-- Emotional needs.
-
-coordinates:00[-749|-853]
+img:thegame/world/0361/title
+p:You are in indr.care/se.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-784|-818]
 ::END:MAIN

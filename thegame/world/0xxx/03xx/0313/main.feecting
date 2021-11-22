@@ -1,13 +1,12 @@
 ::BEGIN:LOOK
-You can see 3 S. Temple from here.
+p:You can see indra.city/s from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0313/title
-p:A large gate has been built into the inner city wall here to allow adventurers to pass between the temple and the southern half of the city.
-p:The monks' quarters lie to the west while the magi quarters are to the east. Within their centers rises the Tower of the High Council of s and the Tower of the Magi respectively.
+p:You are in indra.city/s.
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-472.5|-783]

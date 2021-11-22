@@ -5,8 +5,10 @@ You can see the Temple of The Dome
 =
 
 ::BEGIN:MAIN
-This large room appears to be inside a massive temple dedicated to the Devas of The Dome.  The ceiling is supported by fluted columns and a main spiral stairwell that leads both up and down.  Small rooms adjoin this chamber in all four cardinal directions.  It is here mortals come to stay informed and discuss their adventures.
-
+## indra.business
+p:You are in indra.business.
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN
 
 =

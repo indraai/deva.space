@@ -12,11 +12,11 @@ p:In the look[up] direction you will find the Security Lookout that watches over
 p:There is also a security board here to read the latest bulletins.
 bmud[Read Security Board]:read security
 
-talk:#twitter tweet At the Western Gate #R243 where #SecurityDEVA guards the entrance to #AdventureLand of #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+talk:#twitter tweet:securitydeva At the Western Gate #R243 where #SecurityDEVA guards the entrance to #AdventureLand of #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000
-coordinates:00[-58|-472]
+coordinates:00[-63|-472]
 ::END:MAIN
 
 =
