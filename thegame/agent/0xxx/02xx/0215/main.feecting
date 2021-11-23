@@ -4,9 +4,11 @@ img:thegame/agent/0215/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0215/avatar
-name:Norman Kane
+name:Arjika Security Officer
 vector:0x_0215a
 title:Security Officer
-assign:Guard Arjika Orb
-partner:Frank Dooley
+assign:Guard the Houses
+
+talk:#twitter tweet Meet Arjika Security Officer #0x_0215a who is assigned to protect the various #Houses. #Arjika #Indu #Indra #Vamraka #SecurityDEVA #SecurityPRIME :id:
+
 ::END:LOOK
