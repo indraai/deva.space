@@ -4,8 +4,11 @@ img:thegame/agent/0001/avatar
 ====
 ::BEGIN:LOOK
 img:thegame/agent/0001/avatar
+## Indu
 name:Indu
 vector:0x_0001a
 describe:Flow Indu, Flow for Indra's sake.
+
+talk:#twitter tweet:random You can see #Indu of #ArjikaLand who #FLOWS for #Indra sake. TRUE Indu Indra who is TRUE. #DevaWorld :tags: :id:
 ::END:LOOK
 ====

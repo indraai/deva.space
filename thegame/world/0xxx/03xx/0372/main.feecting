@@ -5,9 +5,7 @@ In this room information about Lending and Interest is provided for your learnin
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3313.htm
+## Lending and Interest
 
 talk:#docs view vedas/law/lending:1
 talk:#docs view vedas/law/lending:2
@@ -21,5 +19,12 @@ talk:#docs view vedas/law/lending:9
 talk:#docs view vedas/law/lending:10
 talk:#docs view vedas/law/lending:11
 talk:#docs view vedas/law/lending:12
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3313.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-702.5|-1095.5]
 ::END:MAIN

@@ -1,3 +1,5 @@
+0x012-5-912
+0x012-36-1512
 ::BEGIN:LOOK
 p:You can see along the ledge.
 ::END:LOOK
@@ -9,13 +11,14 @@ p:You look along the ledge. It curves up toward the surface, but it also becomes
 
 p:You try to gauge how close to the surface you could get without losing your footing.
 
+img:thegame/world/1012/cliff
+
 p:By cutting a couple of handholds in the ice with your pocket knife, you could make it to the top, if you don't lose your grip.
 
 mud[You try to make it...]:n
 mud[You decide to wait...]:s
 
--
-talk:#twitter tweet The Underground Kingdom 0x1012_0125912 #UndergroundKingdom #ARJIKA #R1012 #TG93 :id:
+talk:#twitter tweet:random You look long at the #LEDGE... it curves upwards towards the #SURFACE. You can cut handholds in the #ICE but don't lose your #GRIP. #DevaWorld #0x12 #R1012 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

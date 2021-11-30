@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58
 ::BEGIN:LOOK
 p:You can see catch your breath from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Catch your breath
-
-talk:#twitter tweet The Underground Kingdom 0x053_0123610111619403942445053 #UndergroundKingdom #ARJIKA #R1053 #TG93 :id:
+## Catch Your Breath
 
 p:Once you've caught your breath, you walk along the river bank and soon reach a crude wooden dock. Two Rakas are guarding their hunting boat, a long flat-bottomed shell fashioned from duster-leaf wood.
 
@@ -13,8 +13,10 @@ img:thegame/world/1053/boat
 
 p:Nearby is a smaller boat, one you could paddle yourself. You just might be able to untie it, push off, and get across the river before the guards catch you.
 
-mud[Take the small boat...]:w
-mud[Bluff the guards...]:e
+mud[Take the small boat...]:n
+mud[Bluff the guards...]:s
+
+talk:#twitter tweet:random Once you catch your breath you walk along the #RIVER soon to reach the #DOCK with two #RAKAS. Do you take the small boat or try to bluff the guards? #DevaWorld #0x53 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

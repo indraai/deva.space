@@ -1,3 +1,4 @@
+0x01
 ::BEGIN:LOOK
 p:You can see the Toan Glacier from here.
 ::END:LOOK
@@ -33,32 +34,32 @@ p:She was never seen again.
 
 mud[Continue to the edge...]:n
 
--
-talk:#twitter tweet The Underground Kingdom 0x1001_01 #UndergroundKingdom #ARJIKA #R1001 #TG93 :id:
+talk:#twitter tweet:random We are now standing on the #ToanGlacier in #Greenland where #GunnarLarsen and #JamesSneed are investigating the #BottomlessCravasse. #DevaWorld #UKCYOA #0x1 #R1001 #DevaWorld :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
 
-talk:#twitter tweet Activate The Glacier 0x001 01 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
-
 ::BEGIN:CREVASSE
+## The Bottomless Crevasse
 p:You are looking down into the deep dark crevasse of never-ending but eventual ends sometime crevasse.
+#bgcolor = #000000
+#color = #cccccc
 ::END:CREVASSE
 ====
 
 ::BEGIN:GREENLAND
-# Greenland
+## Greenland
 p:Wikipedia results for GREENLAND.
 talk:#wiki summary Greenland
 #bgcolor = #ffffff
-#color = #33333
+#color = #333333
 ::END:GREENLAND
 ====
 
 ::BEGIN:GLACIER
-# Glacier
+## Glacier
 p:Wikipedia results for GLACIER.
 talk:#wiki summary GLACIER
 #bgcolor = #ffffff

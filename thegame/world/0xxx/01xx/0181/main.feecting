@@ -1,12 +1,17 @@
 ::BEGIN:LOOK
-You can see MARINES Training from here.
+p:You can see indra.farm/veggie from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN MARINES TRAINING.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-876|-161]
+img:thegame/world/0181/title
+
+talk:#vedas view 04016
+
+--
+
+talk:#twitter tweet:random Wishes for wealth have gone to Indra. He is like #home, like sweet and fair #nutrition. #Indra #Maghavan #Sakra #RigVeda #DevaWorld :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv04016.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-195.5]
 ::END:MAIN

@@ -1,12 +1,17 @@
 ::BEGIN:LOOK
-You can see MARINES CYBER3 from here.
+p:You can see indra.farm/orchard.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN MARINES CYBER3
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-830|-231]
+img:thegame/world/0202/title
+
+talk:#vedas view 03045
+
+--
+
+talk:#twitter tweet:random Shake, Indra, as with hooks, the tree for ripened fruit, for wealth to satisfy our wish. #DevaWorld #Indra :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv03045.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-824|-265]
 ::END:MAIN

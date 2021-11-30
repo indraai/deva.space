@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1064/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1064/token
+name:0x1064 Token
+vector:0x1064
+describe:The 0x1064 Token.
+::END:LOOK

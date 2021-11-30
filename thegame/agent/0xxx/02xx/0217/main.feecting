@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/agent/0217/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0217/avatar
+name:Aranyani
+describe: GODDESS of wild and forest who seemest to vanish from the sight.
+
+talk:#vedas view 10146
+
+--
+
+talk:#twitter tweet:random GODDESS of wild and forest who seemest to vanish from the sight. #RigVeda #Goddess #Aranyani #A217 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv10146.htm
+
+::END:LOOK

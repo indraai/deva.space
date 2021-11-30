@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-94
+
 ::BEGIN:LOOK
-You can see continue on from here.
+p:You can see continue on from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Continue
-
-talk:#twitter tweet Activate Continue 0x094 0123610111619403942445053586667687010410576788183889194 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
+## The Diamonds
 
 p:"Let's get to those diamonds," you cry. And you run toward the points of sparkling white light.
 p:At the same time you begin choking on thick sulphurous fumes. Behind you, thunder rumbles from the ground!
@@ -15,6 +15,11 @@ p:"Look!" you shout, for now the fields of white clay are bubbling like boiling 
 p:"We are trapped." Dr. Vivaldi's voice sounds far away. "By the time the claybeds stop erupting, these fumes will. . . p u t . . . u s . . . t o . . . sleep."
 p:She coughs and staggers a few feet up a small hill of diamonds. "Quick, over here!" she calls.
 p:Gasping, you stumble up the hill and collapse in a mound of diamonds. Dr. Vivaldi breathes deeply. "We're safe for the moment This hill is well above the toxic gases." Her voice is drowned out by the ground thunder.
+
+mud[Continue...]:e
+
+talk:#twitter tweet:random Let's get those #DIAMONDS. Too soon you are #GASPING you stumble up the #HILL and #Collapse. We are safe for the moment... what do we do? #DevaWorld #0x94 #R1094 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

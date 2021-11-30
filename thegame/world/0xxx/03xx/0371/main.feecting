@@ -5,9 +5,7 @@ In this room you will learn about the various Modes of Proof under Vedic Law.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3312.htm
+## Modes of Proof
 
 talk:#docs view vedas/law/proof:1
 talk:#docs view vedas/law/proof:2
@@ -39,5 +37,12 @@ talk:#docs view vedas/law/proof:27
 talk:#docs view vedas/law/proof:28
 talk:#docs view vedas/law/proof:29
 talk:#docs view vedas/law/proof:30
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3312.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-702.5|-1095.5]
 ::END:MAIN

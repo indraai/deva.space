@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1044/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1044/avatar
+name:Ket Raka
+vector:0x1044a
+::END:LOOK

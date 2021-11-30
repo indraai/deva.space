@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-88
+
 ::BEGIN:LOOK
-You can see the hills of diamonds from here.
+p:You can see the hills of diamonds from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Hills of Diamonds
-
-talk:#twitter tweet The Underground Kingdom 0x088_0123610111619403942445053586667687010410578818388 #UndergroundKingdom #ARJIKA #R1088 #TG93 :id:
 
 p:Certainly the Hills of Diamonds must be an amazing sight And, if you ever do make it back to the surface, it wouldn't hurt to have a few dozen diamonds in your pockets, you could be rich for life!
 
@@ -22,6 +22,8 @@ p:You soon find that the white clay is extremely hot. Your feet would burn up we
 p:Finally you reach cooler ground. Ahead of you is a dazzling vision: dozens of little hills of brilliant diamonds!
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You reach the hills of #Diamonds and before you is a dazzling vision. Dozens of hills of brilliant #diamonds. #UndergroundKingdom #DevaWorld #0x88 #QuinnMichaels #CYOA :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
+p:You can see indra.fun/land from here.
+#bgcolor = #ffffff
+#color = #333333
 ::END:LOOK
 
 ::BEGIN:MAIN
-title: Genesis
-date: 1989
-ver: LpMUD
+img:thegame/world/0220/title
 
-link[Website]: http://www.genesismud.org/
-link[Mudstats]: http://mudstats.com/World/Genesis
-
-telnet: mud.genesismud.org:3011
-
-Genesis is the first and original of all LPMud games, created by the founder of the platform, Lars himself. Having evolved over nearly 30 years from the hands of a dynamic and enthusiastic community, the game is as diverse as its players have been, and features many wonderful areas from many genres of fantasy lore. The community thrives and is well supported by an active and hard-working ring of dedicated players and volunteer admin. You're welcome to join us in the forum or in the game . Features: Hundreds of quests Dozens of playable classes Multiple professions Many races and sub-races Multiclassing Crafting Dynamic in-game maps Active and supportive admin Complete player tutorial Browser based client, or downloadable app Friendly and helpful playerbase to...
+## indra.fun/land
+p:You are in indra.fun/land
+#bg = thegame/world/0220/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

@@ -1,15 +1,11 @@
 ::BEGIN:LOOK
-This is the room where you learn about #TheGame23 instructions.
+p:You can see indra.academy/r3 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0003/title
-
-## indra.academy/r3
-talk:#docs view hack/thegame23
-
-#bg = thegame/world/0003/background
+p:You are in indra.academy/r3
 #color = #fffff
-#bgcolor = #000000
-coordinates:00[-542|-230]
+#bgcolor = #333333
+coordinates:00[-531|-265]
 ::END:MAIN

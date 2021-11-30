@@ -1,11 +1,11 @@
+0x012-5-912-1821-32
+
 ::BEGIN:LOOK
-p:You can see huddle in your parker from here.
+p:You can see huddle in your parka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Huddle In Your Parka
-
-talk:#twitter tweet The Underground Kingdom 0x032_01259122132 #UndergroundKingdom #ARJIKA #R1032 #TG93 :id:
 
 p:You huddle in your parka, but the cruel wind penetrates your body. You feel yourself growing numb. You try to stand up, but your legs won't move.
 
@@ -23,9 +23,9 @@ p:Everyone spoke very highly of you.
 
 p:The End
 
-----
-
 talk:#adv world:thegame 1000/thankyou
+
+talk:#twitter tweet:random You huddle in your #Parka. They were never able to locate your #Party and #Everyone spoke highly of you. #DevaWorld #0x32 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

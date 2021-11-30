@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/1003/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1003/avatar
+name:Underground Kingdom Tour guide
+vector:0x1003a
+describe:The Underground Kingdom guide will walk you through the underground kingdom.
+::END:LOOK

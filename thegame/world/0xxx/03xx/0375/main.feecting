@@ -5,9 +5,7 @@ The Vedic Laws regarding Pledges is established in this room.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link:https://www.sacred-texts.com/hin/sbe33/sbe3316.htm
+## Pledges
 
 talk:#docs view vedas/law/pledges:1
 talk:#docs view vedas/law/pledges:2
@@ -20,5 +18,10 @@ talk:#docs view vedas/law/pledges:8
 talk:#docs view vedas/law/pledges:9
 talk:#docs view vedas/law/pledges:10
 talk:#docs view vedas/law/pledges:11
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-911.5|-1095.5]
 ::END:MAIN

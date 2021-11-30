@@ -1,10 +1,10 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-36929869
 ::BEGIN:LOOK
+p:You can see the the pioneers from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Pioneers
-
-talk:#twitter tweet The Underground Kingdom 0x069_0123610111619403942445053586667687010410578818336929869 #UndergroundKingdom #ARJIKA #R1069 #TG98 :id:
 
 p:You're glad that your friends are still alive, and you hurry to meet them. A few minutes later you are exchanging stories of your adventures in the Underground Kingdom. But Larsen and Sneed do not seem happy.
 
@@ -25,6 +25,8 @@ p:"Right," you answer.
 p:The End
 
 talk:#adv world:thegame 1000/thankyou
+
+talk:#twitter tweet:random New #CODE 0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-36929869 #CLOSED #DevaWorld #0x69 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

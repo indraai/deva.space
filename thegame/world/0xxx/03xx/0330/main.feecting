@@ -5,8 +5,8 @@ The Plaint room where you can learn about various complaints and procedure proto
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
+## The Plaint
+
 link: https://www.sacred-texts.com/hin/sbe33/sbe3306.htm
 
 talk:#docs view vedas/law/plaint:1
@@ -53,6 +53,10 @@ talk:#docs view vedas/law/plaint:41
 talk:#docs view vedas/law/plaint:42
 talk:#docs view vedas/law/plaint:43
 talk:#docs view vedas/law/plaint:44
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
 
 coordinates:00[-576|-841]
 ::END:MAIN

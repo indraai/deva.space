@@ -1,25 +1,26 @@
+012361011161940394244485152545561
+0125912212526282975773537384340394244485152545561
+
 ::BEGIN:LOOK
+p:You can see swim for shore from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-In a flash you're over the side and swimming
-for shore. The Rakas yell at you. One of them
-tries to hit you with an oar while the others stroke
-furiously, trying to turn their unwilling craft
-around.
-Swimming hard, you hear screams behind
-you. The war boat has overturned! The brakpa
-have gone to the bottom, and the Rakas are
-struggling to save their lives and right the boat.
-Using all your strength, you swim in to shore and
-start running for the groves of duster-leaf trees.
-Almost at once you hear a loud, trilling song.
-Above you is an enormous flying creature with
-wings stretching twenty feet across! You stare into
-its great blue-green eyes and at once feel completely
-safe. You know you've seen it, or at least
-dreamed of seeing it, before. It's like some kind of
-angel bird sent to protect you. Without thinking,
-you leap right onto the creature's back.
-Turn to page 22.
+## Swim For Shore
+
+p:In a flash you're over the side and swimming for shore. The Rakas yell at you. One of them tries to hit you with an oar while the others stroke furiously, trying to turn their unwilling craft around.
+
+p:Swimming hard, you hear screams behind you. The war boat has overturned! The brakpa have gone to the bottom, and the Rakas are struggling to save their lives and right the boat. Using all your strength, you swim in to shore and start running for the groves of duster-leaf trees.
+
+p:Almost at once you hear a loud, trilling song.
+
+p:Above you is an enormous flying creature with wings stretching twenty feet across! You stare into its great blue-green eyes and at once feel completely safe. You know you've seen it, or at least dreamed of seeing it, before. It's like some kind of angel bird sent to protect you. Without thinking, you leap right onto the creature's back.
+
+mud[Continue...]:w
+
+talk:#twitter tweet:random In a #FLASH you are swimming for shore. Above you is an enormous creature like an #AngelBird. #DevaWorld #0x61 #R1061 #UndergrounKingdom #QuinnMichaels #CYOA :id:
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

@@ -5,9 +5,7 @@ The Payment and Debt room teaches you the protocols for handling Payments and De
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3308.htm
+## The Law of Debt
 
 talk:#docs view vedas/law/debt:1
 talk:#docs view vedas/law/debt:2
@@ -36,5 +34,12 @@ talk:#docs view vedas/law/debt:24
 talk:#docs view vedas/law/debt:25
 
 note:If among such brothers as have come to a division and are separate in wives, affairs, and wealth, one should die without leaving issue, his wife inherits his wealth.
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3308.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-646|-841]
 ::END:MAIN

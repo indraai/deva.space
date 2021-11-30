@@ -1,3 +1,5 @@
+0x012-5-912-20
+
 ::BEGIN:LOOK
 p:You can see decide to wait from here.
 ::END:LOOK
@@ -37,9 +39,9 @@ p:"Nothing could get me back here," you say.
 
 p:The End
 
-talk:#twitter tweet The Underground Kingdom 0x1020_012591220 #UndergroundKingdom #ARJIKA #R1012 #TG93 :id:
-
 talk:#adv world:thegame 1000/thankyou
+
+talk:#twitter tweet:random You decide to risk it and wait. Surely help is on the way. Shotrly you hear "HOLD ON, WE'RE PULLING YOU UP." You leave the #BottomlessCrevasse safely with a cup of #HotChocolate. #DevaWorld #0x1020 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

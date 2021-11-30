@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/0028/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0028/avatar
+name: Academy Level 8 Course
+level: 8
+vector:0x0028
+describe:This is the Level 8 course for the realm.
+::END:LOOK

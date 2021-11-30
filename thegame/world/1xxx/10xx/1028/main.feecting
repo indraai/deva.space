@@ -1,24 +1,20 @@
+0x012-5-912-1821-2526-28
 ::BEGIN:LOOK
 p:You can see go on the expedition from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Go On The Expedition
-
-talk:#twitter tweet The Underground Kingdom 0x028_012591221252628 #UndergroundKingdom #ARJIKA #R1028 #TG93 :id:
-
+## On The Expedition
 
 p:"Professor Bruckner, count me in!"
 
 p:"Good," he says.
 
-p:"This time we'll be far better equipped.
-
-p:NASA has put two helicopters at my disposal. One of them will transport our party of scientists and technicians.
-
-p:The other will carry the Vertacraft, a rocket-propelled capsule specifically designed for this mission."
+p:"This time we'll be far better equipped. NASA has put two helicopters at my disposal. One of them will transport our party of scientists and technicians. The other will carry the Vertacraft, a rocket-propelled capsule specifically designed for this mission."
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You tell #Bruckner to count you in! Good he says. This time will be better equipped with a rocket-propelled casule. #DevaWorld #0x28 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

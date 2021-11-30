@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1033/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1033/token
+name:0x1033 Token
+vector:0x1033
+describe:The 0x1033 Token.
+::END:LOOK

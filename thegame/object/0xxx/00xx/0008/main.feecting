@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/0008/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0008/contract
+name:The Covenant
+vector:0x0008
+describe:Taking this scroll will grant you access to the lessons on The Covenant and their nefarious plans to take over the Universe.
+::END:LOOK

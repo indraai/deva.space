@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-You are looking at the TBAMud room.
+p:You can see indra.fun/land from here.
+#bgcolor = #ffffff
+#color = #333333
 ::END:LOOK
 
 ::BEGIN:MAIN
-title:TBAMud
-telnet: tbamud.com:9091
+img:thegame/world/0226/title
 
-link[Website]:http://www.tbamud.com/
-link[Mudstats]:http://mudstats.com/World/TheBuilderAcademy
-link[Github]:https://github.com/tbamud/tbamud
-
-The Builder Academy is foremost a training academy for anyone willing to learn or teach how to build a virtual World. Due to our success and the stagnation of the CircleMUD codebase we have also released our code for anyone desiring a stable and functional codebase. tbaMUD is the continued development of the codebase formerly known as CircleMUD. And we use it to mean both the Academy for training, and the codebase that is made freely available to the community. The most challenging aspect of running a mud is finding good builders. You will hear this from the admin of every MUD that has ever been. In the past it has always been up to each individual MUD to find and usually train own...
-
+## indra.fun/land
+p:You are in indra.fun/land
+#bg = thegame/world/0226/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

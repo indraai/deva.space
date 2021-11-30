@@ -5,9 +5,7 @@ The Courts of Justice room teaches you about the correct etiquette of a Vedic Co
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3307.htm
+## Courts of Justice
 
 talk:#docs view vedas/law/courts:1
 talk:#docs view vedas/law/courts:2
@@ -27,5 +25,12 @@ talk:#docs view vedas/law/courts:15
 talk:#docs view vedas/law/courts:16
 talk:#docs view vedas/law/courts:17
 talk:#docs view vedas/law/courts:18
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3307.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-611|-841]
 ::END:MAIN

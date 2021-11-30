@@ -5,9 +5,7 @@ In this room is the Usurers Protocols of Vedic Law.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3314.htm
+## Usurers
 
 talk:#docs view vedas/law/usurers:1
 talk:#docs view vedas/law/usurers:2
@@ -16,5 +14,12 @@ talk:#docs view vedas/law/usurers:4
 talk:#docs view vedas/law/usurers:5
 talk:#docs view vedas/law/usurers:6
 talk:#docs view vedas/law/usurers:7
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3314.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-772|-1095.5]
 ::END:MAIN

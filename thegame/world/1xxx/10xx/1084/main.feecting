@@ -1,13 +1,28 @@
 ::BEGIN:LOOK
+p:You can see you betrayed us from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-"You betrayed us," says the head guard. "The
-Rakas threw bombs into our boats. Nearly all of
-them were lost Many of our hunters were killed."
-He turns to the others behind him. "Bind them
-and take them to the Mouth of Fire."
-You cry out for mercy, but you know there will
-be none.
-The End
+## You Betrayed Us
+
+p:"You betrayed us," says the head guard.
+
+p:"The Rakas threw bombs into our boats. Nearly all of them were lost Many of our hunters were killed."
+
+p:He turns to the others behind him. "Bind them and take them to the Mouth of Fire."
+
+p:You cry out for mercy, but you know there will be none.
+
+img:thegame/world/1084/betray
+
+p:The End
+
+talk:#twitter tweet:random Deciding NOT to finght in the #RAKA #WAR you are captured and taken to the #MouthOfFire. #DevaWorld #0x1084 #R1084 #Arjika #Indu #Indra #Devas :id:
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
 ::END:MAIN

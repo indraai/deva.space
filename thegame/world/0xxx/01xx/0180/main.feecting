@@ -1,12 +1,17 @@
 ::BEGIN:LOOK
-You can see Marines Cyber1 from here.
+p:You can see indra.farm/veggies here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN MARINES CYBER1
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-830|-161]
+img:thegame/world/0180/title
+
+talk:#vedas view 06052
+
+--
+
+talk:#twitter tweet:random With #hymn and #homage I invite you. All-Gods, today in this our great #assembly rejoice in the #gifts we #offer. #Indra #DevaWorld #Viśvedevas #GODS #R180 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv06052.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-824|-195.5]
 ::END:MAIN

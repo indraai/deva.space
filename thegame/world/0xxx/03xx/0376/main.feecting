@@ -5,9 +5,7 @@ You can see the Documents room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3317.htm
+## Documents
 
 talk:#docs view vedas/law/documents:1
 talk:#docs view vedas/law/documents:2
@@ -21,5 +19,11 @@ talk:#docs view vedas/law/documents:9
 talk:#docs view vedas/law/documents:10
 talk:#docs view vedas/law/documents:11
 talk:#docs view vedas/law/documents:12
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3317.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
 coordinates:00[-911.5|-1095.5]
 ::END:MAIN

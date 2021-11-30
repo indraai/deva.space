@@ -1,17 +1,12 @@
 ::BEGIN:LOOK
-Oh look you can see the EtherSec... again instructions.
+p:You can see fight club.
 ::END:LOOK
 ====
 ::BEGIN:MAIN
-img:thegame/world/0011/title
+## FIGHT CLUB
 
-## IT
-talk:#docs view hack/ethersec:instruct
-## Ethersec...again
-talk:#docs view hack/ethersec:again
 #color = #eeeeee
 #bgcolor = #333333
-#bg = thegame/world/0003/background
 coordinates:00[-715|-334]
 ::END:MAIN
 ====

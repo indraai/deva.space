@@ -1,16 +1,12 @@
 ::BEGIN:LOOK
-Now you are able to see Michael Nebadon instructions.
+p:You can see fight club.
 ::END:LOOK
 ====
 ::BEGIN:MAIN
-img:thegame/world/0012/title
-
-## Michael
-talk:#docs view hack/nebadon
+## FIGHT CLUB
 
 #color = #eeeeee
 #bgcolor = #333333
-#bg = thegame/world/0003/background
-coordinates:00[-715|-368.5]
+coordinates:00[-715|-334]
 ::END:MAIN
 ====

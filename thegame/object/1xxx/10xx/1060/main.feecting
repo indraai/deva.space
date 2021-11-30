@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1060/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1060/token
+name:0x1060 Token
+vector:0x1060
+describe:0x1060 Token
+::END:LOOK

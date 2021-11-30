@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-You can see AdventureLand from here.
+p:You can see fight club.
 ::END:LOOK
-
-=
-
+====
 ::BEGIN:MAIN
-You are in AdventureLand
-::END:MAIN
+## FIGHT CLUB
 
-=
+#color = #eeeeee
+#bgcolor = #333333
+coordinates:00[-715|-334]
+::END:MAIN
+====

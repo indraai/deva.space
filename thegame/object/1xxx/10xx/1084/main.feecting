@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/1084/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1084/token
+name:0x1084 Token
+vector:0x1084
+describe:The 0x1084 Token
+::END:LOOK

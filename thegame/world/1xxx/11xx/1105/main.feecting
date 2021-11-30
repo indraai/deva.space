@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-104105
+
 ::BEGIN:LOOK
 p:You can see the Grand Akpar pacing from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Grand Akpar Paces
-
-talk:#twitter tweet The Underground Kingdom 0x105_01236101116194039424450535866676870104105 #UndergroundKingdom #ARJIKA #R1105 #TG93 :id:
 
 p:The Grand Akpar paces from one side of the agon to the other. Rnally he stops and stares into your eyes. You shrink back from his stern gaze. "I will try what you suggest," he says. "Meanwhile you will be kept under guard with Dr. Vivaldi. If all goes well, you shall be freed, and we will do everything we can to make you happy here.
 
@@ -16,6 +16,8 @@ p:You start to thank the Grand Akpar, but he holds up his hand. "Do not thank me
 p:There is not much you can say, and you would hardly have time anyway, for the guards quickly lead you away.
 
 mud[Continue...]:w
+
+talk:#twitter tweet:random The #GrandAkpar says he will try what you suggest. Until then you are kept under #Guard with #DrVivaldi. #DevaWorld #UKCYOA #0x105 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

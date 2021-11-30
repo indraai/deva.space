@@ -1,10 +1,10 @@
+0x012-5-912-1821-2526-28297577
 ::BEGIN:LOOK
+p:You can see the team shake their heads from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Shake their heads
-
-talk:#twitter tweet The Underground Kingdom 0x077_012591221252628297577 #UndergroundKingdom #ARJIKA #R1077 #TG93 :id:
 
 p:One after another, the team members shake their heads.
 
@@ -16,6 +16,9 @@ p:But this could be the only chance of finding your lost friends.
 
 mud[You decide to risk it...]:n
 mud[You decide to play it safe...]:s
+
+talk:#twitter tweet:random One after another the #Team members shake their heads. #Bruckner says "Well?" #DevaWorld #0x77 #R1077 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

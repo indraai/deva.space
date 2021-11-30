@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-You can see the Marines Library from here.
+p:You can see indra.farm/cheese
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-You are in THE MARINES LIBRARY
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-830|-311]
+img:thegame/world/0228/title
+
+talk:#vedas view 09011
+
+--
+
+talk:#twitter tweet:random SING forth to Indu, O ye men, to him who is purified, Fain to pay worship to the Gods. #RigVeda #Indu #Indra #DevaWorld #IndraFarm #XL #R228 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv09011.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-824|-369]
+
 ::END:MAIN

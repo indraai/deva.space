@@ -1,30 +1,28 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-97103
+
 ::BEGIN:LOOK
+p:You can see back with the archpods.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You are lying on a hammock woven of fine
-clima vines. You feel flushed and feverish, yet
-happy: you're alive! Dr. Vivaldi is beside you. She
-brushes a cool, wet cloth across your forehead.
-"Where are we?" you ask. "How did we get
-out of there? Did you see the ghost wolf?"
-"We're back with the Archpods," Dr. Vivaldi
-says, smiling. "And I did see a great beast with
-tongues of fire, but in truth there was no wolf, nor
-any other beast And the cracks in the field were
-only a few inches wide, just wide enough to
-release a poisonous gas from beneath the
-ground. A few whiffs of it was enough to make us
-hallucinate and have the most horrible nightmares.
-It's fascinating that the gas causes such a
-specific common vision—I'd like to research this
-some more. In any event, we were lucky to be
-close to the edge when I realized what was happening,
-I was able to pull you away so you could
-get fresh air."
-"Thanks," you say. "After this I'm not going to
-be afraid of anything in the Underground Kingdom."
-"That's good," she replies, "because we still
-have a whole new world to explore!"
-The End
+## Safe And Sound
+p:You are lying on a hammock woven of fine clima vines. You feel flushed and feverish, yet happy you're alive! Dr. Vivaldi is beside you. She brushes a cool, wet cloth across your forehead.
+
+p:"Where are we?" you ask. "How did we get out of there? Did you see the ghost wolf?"
+
+p:"We're back with the Archpods," Dr. Vivaldi says, smiling. "And I did see a great beast with tongues of fire, but in truth there was no wolf, nor any other beast And the cracks in the field were only a few inches wide, just wide enough to release a poisonous gas from beneath the ground. A few whiffs of it was enough to make us hallucinate and have the most horrible nightmares.
+
+p:It's fascinating that the gas causes such a specific common vision—I'd like to research this some more. In any event, we were lucky to be close to the edge when I realized what was happening, I was able to pull you away so you could get fresh air."
+
+p:"Thanks," you say. "After this I'm not going to be afraid of anything in the Underground Kingdom." "That's good," she replies, "because we still have a whole new world to explore!"
+
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+talk:#twitter tweet:random #CODE 0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-97103 #CLIMA #DevaWorld #0x103 #R1103 :tags: :id:
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

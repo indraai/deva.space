@@ -1,12 +1,15 @@
 ::BEGIN:LOOK
-You can see MARINES Recruiting from here.
+p:You can see indra.farm/tools from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE AT THE MARINES RECRUITING.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-876|-91]
+img:thegame/world/0166/title
+
+talk:#vedas view 05084
+
+talk:#twitter tweet:random THOU, of a truth,O Prthivi, bearest the tool that rends the hills. #Prthivi #Indra #DevaWorld #IndraFarm #R166 :tags: :id:
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-161]
 ::END:MAIN

@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-You can see the Marines Dining Hall from here.
+p:You can see indra.farm/orchard from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN THE MARINES DINING HALL.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-876|-230]
+img:thegame/world/0203/title
+
+talk:#vedas view 02013
+
+--
+
+talk:#twitter tweet:random Dealing out food unto their people there they sit, like wealth to him who comes, more than the back can bear. #RigVeda #DevaWorld #IndraFarm #203 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv02013.htm
+
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-265]
 ::END:MAIN

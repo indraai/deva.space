@@ -1,10 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-3692
+
 ::BEGIN:LOOK
+p:You can see the flying clera from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Flying Clera
-
-talk:#twitter tweet The Underground Kingdom 0x092_012361011161940394244505358666768701041057881833692 #UndergroundKingdom #ARJIKA #R1092 #TG93 :id:
 
 p:"I think I know why the Archpods and Rakas avoid this beautiful land," says Dr. Vivaldi. "They are conditioned to the dim red light of the Great River valley. The broad daylight here bothers Mopur as much as it would bother us to live in semidarkness."
 
@@ -46,6 +47,10 @@ p:At that moment you are overcome by a strong desire to return home, to the surf
 p:You exchange glances with Dr. Vivaldi. "Do you have the same feeling I do?" you ask.
 
 p:She nods and motions you to follow.
+
+mud[Continue...]:e
+
+talk:#twitter tweet:random You get to the #ShiningMountains and see the #FlyingClera a truly #MagicBird that seems to have evolved on another #Planet. #DevaWorld #0x92 #R1092 #QuinnMichaels #CYOA :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

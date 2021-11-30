@@ -1,18 +1,21 @@
 ::BEGIN:LOOK
-You can see MARINES DEVELOPMENT from here.
+p:You can see indra.farm/dairy from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-The Supporting Establishment includes the Combat Development Command, the Logistics Command, the Systems Command, the Recruiting Command, the Installations Command, the Marine Band, and the Marine Drum and Bugle Corps.
+img:thegame/world/0242/title
 
-img:thegame/world/0242/deploy
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-865|-346]
+talk:#vedas view 04057
+
+--
+
+talk:#twitter tweet:random As the cow yieldeth milk, pour for us freely, Lord of the Field, the wave that beareth sweetness #RigVeda #DevaWorld #IndraFarm #242 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv04057.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-369]
 ::END:MAIN
 
 =

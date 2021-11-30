@@ -1,22 +1,27 @@
+012361011161940394244505357
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-57
 ::BEGIN:LOOK
+p:You can see taking the small boat.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You quickly reach the boat, but you can't untie
-the rope! Instantly the Rakas are upon you. Uttering
-angry cries, they fling their nets over you. One
-of them blindfolds you. Then they march you
-along a winding, bumpy path.
-"Where are you taking me?" you ask. But the
-Rakas ignore you, muttering angrily in their own
-tongue.
-Death seems certain. How will they execute
-you? They seem to like ropes; maybe they will
-hang you.
-As you march on, hour after hour, the air turns
-colder. You feel your strength ebbing.
-Finally the Rakas stop. Exhausted, you crumple
-to the ground. All is silent, and you fall into a
-deep sleep.
-Turn to page 60.
+## Take The Boat
+
+p:You quickly reach the boat, but you can't untie the rope! Instantly the Rakas are upon you. Uttering angry cries, they fling their nets over you. One of them blindfolds you. Then they march you along a winding, bumpy path.
+
+p:"Where are you taking me?" you ask. But the Rakas ignore you, muttering angrily in their own tongue.
+
+p:Death seems certain. How will they execute you? They seem to like ropes; maybe they will hang you.
+
+p:As you march on, hour after hour, the air turns colder. You feel your strength ebbing.
+
+p:Finally the Rakas stop. Exhausted, you crumple to the ground. All is silent, and you fall into a deep sleep.
+
+mud[Continue...]:e
+
+talk:#twitter tweet:random You quickly reach the boat, but you can't untie it. The #RAKA take you where exhausted you sleep. #DevaWorld #0x57 :tags: :id:
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

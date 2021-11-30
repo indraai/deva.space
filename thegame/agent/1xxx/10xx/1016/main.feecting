@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:thegame/agent/1016/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1016/avatar
+## Angel Bird
+name:Angel Bird
+vector:0x1016a
+describe:The Angel Bird of the Underground Kingdom.
+
+talk:#twitter tweet:random You are looking at the beautiful #AngelBird from the #UndergroundKingdom. #DevaWorld #0x1016a #A1016 :tags: :id:
+::END:LOOK

@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:thegame/object/0032/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0032/avatar
+## Vamraka Fountain
+name:Vamraka Fountain
+vector:0x32o
+describe:This is a pure water spring.
+
+talk:#twitter tweet:random You can see the pure water spring of #INDU in #Arjika where we quench our #Thirst in #DevaWorld #0x32o #O0032 :tags: :id:
+::END:LOOK

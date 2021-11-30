@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/agent/1010/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1010/avatar
+name:The Agel Bird Fledgling
+vector:0x1010a
+
+talk:#twitter tweet:random This #AngelBird is only a fledgling, and just hatched! Such a friendly little creature. #DevaWorld #0x1010a #A1010 :tags: :id:
+
+::END:LOOK

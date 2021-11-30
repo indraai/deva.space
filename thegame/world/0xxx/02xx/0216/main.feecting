@@ -1,12 +1,17 @@
 ::BEGIN:LOOK
-You can see the Marines Barracks from here.
+p:You can see the Marines Barracks from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN THE MARINES BARRACKS.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-876|-196]
+img:thegame/world/0216/title
+
+talk:#vedas view 01065
+
+--
+
+talk:#twitter tweet:random When through the forest, urged by wind, he spreads, verily Agni shears the hair of earth. #Agni #DevaWorld #RigVeda #R216 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv01065.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-231]
 ::END:MAIN

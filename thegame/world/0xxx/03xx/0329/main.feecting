@@ -5,9 +5,10 @@ The Legal Procedure room where you'll learn the various protocols and procedures
 ::END:LOOK
 
 ::BEGIN:MAIN
-Welcome to the Legal Proceedings room of the Vedic Law Library.
+## Legal Proceedings
+p:Welcome to the Legal Proceedings room of the Vedic Law Library.
 
-In this room you will find information on Vedic Legal Proceedings. Information here relates to various items regarding lawsuits, duty, morality, and information related to settling disputes.
+p:In this room you will find information on Vedic Legal Proceedings. Information here relates to various items regarding lawsuits, duty, morality, and information related to settling disputes.
 
 talk:#docs view vedas/law/procedure:1
 talk:#docs view vedas/law/procedure:2
@@ -89,5 +90,7 @@ link: https://www.sacred-texts.com/hin/sbe33/sbe3305.htm
 
 #bgcolor = #cccccc
 #color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-541|-841]
 ::END:MAIN

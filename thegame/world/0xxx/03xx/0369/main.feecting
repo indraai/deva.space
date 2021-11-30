@@ -5,9 +5,7 @@ Here you learn about protocols of Property and Wealth according to Vedic Law.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3310.htm
+## Property
 
 talk:#docs view vedas/law/property:1
 talk:#docs view vedas/law/property:2
@@ -22,5 +20,12 @@ talk:#docs view vedas/law/property:10
 talk:#docs view vedas/law/property:11
 talk:#docs view vedas/law/property:12
 talk:#docs view vedas/law/property:13
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3310.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-841.5|-1095.5]
 ::END:MAIN

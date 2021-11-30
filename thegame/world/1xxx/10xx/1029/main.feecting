@@ -1,11 +1,10 @@
+0x012-5-912-1821-2526-2829
 ::BEGIN:LOOK
 p:You can see three weeks later from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Three weeks later
-
-talk:#twitter tweet The Underground Kingdom 0x029_01259122125262829 #UndergroundKingdom #ARJIKA #R1028 #TG93 :id:
+## Three Weeks Later
 
 p:Three weeks later you find yourself staring once again at the Bottomless Crevasse.
 
@@ -30,6 +29,8 @@ p:"What does this mean?"
 p:The professor smiles. "It means that the interior of the earth beginning about 800 miles deep is hollow."
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random Three weeks later once again at the #BottomlessCrevasse. The Gravity waves disrupted space-time enough to pull you in. #DevaWorld #UKCYOA #0x29 #R1029 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

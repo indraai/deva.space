@@ -1,3 +1,4 @@
+0x012-5-9
 ::BEGIN:LOOK
 p:You can see please hurry from here.
 ::END:LOOK
@@ -31,8 +32,7 @@ p:Will you even survive the arctic night?
 
 mud[Continue...]:e
 
--
-talk:#twitter tweet The Underground Kingdom 0x1009_01259 #UndergroundKingdom #ARJIKA #R1009 #TG93 :id:
+talk:#twitter tweet:random A moment later you #DrSneed #GunnarLarsen also fall into the #Crevasse. What will you do? Will you survive? #DevaWorld #0x9 #R1009 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

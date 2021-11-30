@@ -1,11 +1,12 @@
+0x012-3610-1116-194039-42
+0x012-5-912-1821-2526-28297577-3537-384340-3942
+
 ::BEGIN:LOOK
-You can see stepping forward from here.
+p:You can see stepping forward from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Step forward
-
-talk:#twitter tweet The Underground Kingdom 0x042_0123610111619403942 #UndergroundKingdom #ARJIKA #R1042 #TG93 :id:
 
 p:You step forward to meet the strange procession.
 
@@ -30,6 +31,8 @@ p:One of your captors leads you to the nearest one.
 p:"Ib agon," he says as he takes you inside.
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You step forward to meet the creatures. They motion for you to follow htem and say "Kota, ib saben Kota" then your captor says "Ib agon" as he takes you inside. #DevaWorld #0x42 #R1042 #KotaBeast :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

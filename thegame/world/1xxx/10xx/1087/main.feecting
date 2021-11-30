@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8587
+
 ::BEGIN:LOOK
 p:You can see the highest peak from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Highest Peak
-
-talk:#twitter tweet The Underground Kingdom 0x087_0123610111619403942445053586667687010410578818587 #UndergroundKingdom #ARJIKA #R1087 #TG93 :id:
 
 p:"Now you can see," says Dr. Vivaldi, "how on the Weightless Peaks the higher you go, the lighter you'll get Look!" She points to the highest peak of all. Its top is a spire jutting into the sky. A thin plume of smoke rises from the top.
 
@@ -26,6 +26,8 @@ p:You decide to test your theory. You nudge a boulder twice your size. It rolls 
 p:Then above you, Katu screams, "Avalanche!"
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You have made it to the Highest Peak in the #UndergroundKingdom the gravity here is so light you test your theory and nudge a #Boulder. Then above you #Katu screams #AVALANCHE!!! #DevaWorld #0x87 #R1087 #QuinnMichaels #CYOA :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

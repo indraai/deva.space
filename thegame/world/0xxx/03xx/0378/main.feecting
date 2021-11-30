@@ -5,9 +5,7 @@ Here you will learn what classifies an incompitent witness.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3319.htm
+## Incompetent Witnesses
 
 talk:#docs view vedas/law/incompitent:1
 talk:#docs view vedas/law/incompitent:2
@@ -24,5 +22,12 @@ talk:#docs view vedas/law/incompitent:12
 talk:#docs view vedas/law/incompitent:13
 talk:#docs view vedas/law/incompitent:14
 talk:#docs view vedas/law/incompitent:15
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3319.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-772|-1095.5]
 ::END:MAIN

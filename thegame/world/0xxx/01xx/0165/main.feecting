@@ -4,8 +4,14 @@ p:You can see indra.farm from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0165/title
-p:You are in indra.farm.
-#bgcolor = #ffffff
+
+talk:#vedas view 01130
+
+--
+
+talk:#twitter tweet:random We come with gifts of pleasant food, with juice poured forth, invoking thee, As sons invite a sire. #Indra #Indu #Arjika #DevaWorld #IndraFarm :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv01130.htm
+
+#bgcolor = #eeeeee
 #color = #333333
-coordinates:00[-830|-126]
+coordinates:00[-824|-161]
 ::END:MAIN

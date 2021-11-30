@@ -1,11 +1,10 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-
 ::BEGIN:LOOK
 p:You can see fascinating areas from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Fascinating Areas
-
-talk:#twitter tweet The Underground Kingdom 0x083_01236101116194039424450535866676870104105788183 #UndergroundKingdom #ARJIKA #R1083 #TG93 :id:
 
 p:"There are three areas that fascinate me equally," she answers, "so I'll let you choose among them.
 
@@ -29,6 +28,7 @@ mud[The Weightless Peaks]:w
 mud[The Hills of Diamons]:s
 mud[The Shining Mountains]:e
 
+talk:#twitter tweet:random We can explore the #WeightlessPeaks to the WEST. The Hills of #Diamonds to the SOUTH, or the #ShiningMountains to the EAST. Where should we go? #DevaWorld #0x83 #R1083 :tags: :id:
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

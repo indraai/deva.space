@@ -1,22 +1,22 @@
 ::BEGIN:LOOK
-You can see do not fight in the Raka war.
+p:You can see lunging at the baby bird.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:"I won't have anything to do with your brakpa," you say. "I am not an enemy of you or of the Archpods."
-p:"Ig krig zaark!" the High Raka says angrily.
-p:Two Raka guards seize you and march you out of the agon. But the moment you get outside, you make a break.
-p:You've always been able to run fast when you needed to. In the light gravity, you're even faster.
-p:As you dart through the groves of duster-leaf trees, you can hear the cries of the Rakas from both sides and behind you.
-p:But the Great River lies just ahead, and for once you're in luck—there's a crude raft tied up along the shore.
-img:thegame/world/1014/raft
-p:You quickly untie it, and push off as you jump aboard.
-p:The current soon takes you around a bend in the river and safely out of sight.
-p:You lie low on the raft, afraid of landing until you are well past Rakmara.
-p:Now you have time to think.
-p:Where will the river take you?
-p:What will be your fate?
-p:Turn to page 10.
+## You Lunge For The Baby Bird
+
+p:You lunge for the baby bird, hoping that you can use it as a shield.
+
+p:Even as you move, you feel a rush of wind as the mother dives to protect her baby. You realize that you've just made the stupidest decision of your life.
+
+p:Strangely, the mother bird did not harm you.
+
+p:Instead, you feel that you have been put into a trance. Stranger still, you sense that something has set time back—that you are being given another chance!
+
+mud[Continue...]:w
+
+talk:#twitter tweet:random You lunge for the #baby #bird to use as a shield, but the #Mother does NOT attack. It's like you've been given a second chance. #DevaWorld #0x14 #R1014 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

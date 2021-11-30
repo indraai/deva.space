@@ -1,3 +1,4 @@
+0x012-5-13
 ::BEGIN:LOOK
 p:You can see send a warning from here.
 ::END:LOOK
@@ -29,8 +30,7 @@ p:The End
 
 talk:#adv world:thegame 1000/thankyou
 
--
-talk:#twitter tweet The Underground Kingdom 0x1013_012513 #UndergroundKingdom #ARJIKA #R1013 #TG93 :id:
+talk:#twitter tweet:random You attempt to warn your #FRIENDS but they lower a rope, and slowly foot by foot they lift you out. Your #Happy to be #Alive and going #HOME. #DevaWorld #0x13 #R1013 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

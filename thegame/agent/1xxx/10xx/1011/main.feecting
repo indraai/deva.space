@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/agent/1011/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1011/avatar
+name:Angel Bird
+vector:0x1011a
+describe:The Angel Bird of the Underground Kingdom.
+
+talk:#twitter tweet:random You are looking at the beautiful #AngelBird from the #UndergroundKingdom. #0x1011a #A1011 :tags: :id:
+::END:LOOK

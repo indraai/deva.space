@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-
+
 ::BEGIN:LOOK
 p:You can see giving advice from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Honored Guests
-
-talk:#twitter tweet The Underground Kingdom 0x078_0123610111619403942445053586667687010410578 #UndergroundKingdom #ARJIKA #R1078 #TG93 :id:
 
 p:From then on you and Dr. Vivaldi are treated like honored guests. The Archpods bring you baskets heaped with tanga, and cakes made from golden grain.
 
@@ -23,6 +23,8 @@ p:"There may still be a chance to return home, though the risks are great."
 
 mud[Explore the Kingdom...]:n
 mud[Return to the surface...]:s
+
+talk:#twitter tweet:random You and #DrVivaldi are treated like honored guests. The #Archpods bring #Tanga and #Cakes. #MineralPools #GlowingRocks #BlackSun #DevaWorld #UKCYOA #0x78 #R1078 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

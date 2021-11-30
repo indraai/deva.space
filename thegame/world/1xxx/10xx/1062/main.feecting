@@ -1,21 +1,31 @@
+012361011161940394244485152545562
+0125912212526282975773537384340394244485152545562
+
 ::BEGIN:LOOK
+p:You can see stay with the boat from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Swimming to shore looks too risky. You sit
-quietly in the boat, hoping for the best. As the war
-boat nears the middle of the river, the current gets
-stronger. The Raka warriors can hardly row
-against it As the Rakas struggle with their oars,
-the boat is swept farther and farther downstream.
-You wonder where the current will take you,
-until you hear a sound up ahead that quickly
-grows into a roar.
-"Ig riba!" the Rakas shout. "Ig zaark!" They
-begin to unload the heavy brakpa. Frantically you
-help, but at the sight of the boiling white rapids
-ahead, you lose heart. Moments later the boat
-smashes into the rocks, and you and the Raka
-warriors are swept away by the raging torrent.
-the end.
+## Stay With The Boat
+p:Swimming to shore looks too risky. You sit quietly in the boat, hoping for the best.
+
+p:As the war boat nears the middle of the river, the current gets stronger. The Raka warriors can hardly row against it As the Rakas struggle with their oars, the boat is swept farther and farther downstream.
+
+p:You wonder where the current will take you, until you hear a sound up ahead that quickly grows into a roar.
+
+p:"Ig riba!" the Rakas shout. "Ig zaark!" They begin to unload the heavy brakpa.
+
+p:Frantically you help, but at the sight of the boiling white rapids ahead, you lose heart. Moments later the boat smashes into the rocks, and you and the Raka warriors are swept away by the raging torrent.
+
+img:thegame/world/1062/rapids
+
+p:The End
+
+talk:#twitter tweet:random We stayed with the #BOAT and met the #RAPIDS with the other #RAKAS and swept away to meet our demise. #0x1062 #R1062 #Arjika #Indu #Indra #Devas :id:
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

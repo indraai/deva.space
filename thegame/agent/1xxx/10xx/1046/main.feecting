@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1046/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1046/avatar
+name:Tor Raka
+vector:0x1046a
+::END:LOOK

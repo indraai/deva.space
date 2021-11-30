@@ -5,11 +5,7 @@ Here you learn about what means of livelihood/income are acceptable for a Brahma
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3311.htm
-
-## Means of Livelihood for a Brahman in Times of Distress.
+## Means of Livelihood in Times of Distress.
 
 talk:#docs view vedas/law/livlihood:1
 talk:#docs view vedas/law/livlihood:2
@@ -21,5 +17,12 @@ talk:#docs view vedas/law/livlihood:7
 talk:#docs view vedas/law/livlihood:8
 talk:#docs view vedas/law/livlihood:9
 talk:#docs view vedas/law/livlihood:10
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3311.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-772|-1095.5]
 ::END:MAIN

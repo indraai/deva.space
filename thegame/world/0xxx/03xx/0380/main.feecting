@@ -5,9 +5,7 @@ What are the protocols for dealign with False Witnesses is taught in this room.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3321.htm
+## False Witnesses
 
 talk:#docs view vedas/law/falsewitness:1
 talk:#docs view vedas/law/falsewitness:2
@@ -30,5 +28,12 @@ talk:#docs view vedas/law/falsewitness:18
 talk:#docs view vedas/law/falsewitness:19
 talk:#docs view vedas/law/falsewitness:20
 talk:#docs view vedas/law/falsewitness:21
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3321.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-702.5|-1095.5]
 ::END:MAIN

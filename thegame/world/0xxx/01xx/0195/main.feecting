@@ -3,10 +3,13 @@ You can see Marines CYBER2 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN MARINES CYBER2
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-830|-196]
+img:thegame/world/0195/title
+
+talk:#vedas view 10146
+
+talk:#twitter tweet:random #GODDESS of wild and forest who seemest to vanish from sight. Seeming to sound with tinkling #bells, the #Lady of the #Wood exults. #Aranyani #ForestQueen #RigVeda #IndraFarm #R195 :tags: :id:
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-824|-231]
 ::END:MAIN

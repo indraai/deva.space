@@ -1,11 +1,12 @@
+0x012-3610-1116-194039-4244-5053-58
+
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-
 ::BEGIN:LOOK
 p:You can see bluff the guards from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Bluff the Guards
-
-talk:#twitter tweet The Underground Kingdom 0x058_012361011161940394244505358 #UndergroundKingdom #ARJIKA #R1058 #TG93 :id:
 
 p:You think fast. Luckily, you remember the command that the blue-furred Raka gave. You walk up to the guards, smiling. You point in the direction you came from, then to yourself, and then to one of the boats.
 
@@ -21,6 +22,8 @@ p:Like the first Rakas you met, they are armed with ropes and nets. They don't l
 
 mud[Continue to shore...]:n
 mud[Swim back across river...]:s
+
+talk:#twitter tweet:random You decide to #BLUFF the #GUARDS with "Nar mg calla" a phrase you had heard other #RAKA say. As you are carried down river you see #Archpods and question swim across shore or go back? #DevaWorld #0x58 #R1058 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

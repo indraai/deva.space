@@ -1,19 +1,24 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-9495
+
 ::BEGIN:LOOK
-You can se willing to try from here.
+p:You can se willing to try from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Willing to Try
 
-talk:#twitter tweet Activate Try 0x095 012361011161940394244505358666768701041057678818388919495 #0x #Arjika #Indu #Indra #SecurityPRIME :id:
-
 p:"It looks like we're stuck here with all these millions of diamonds," you say.
+
 p:"Maybe not," replies Dr. Vivaldi. "The eruptions are quite localized. The gases are rising, but I think we can make it across the deadly strip of clay—it's less than a hundred feet, I'd guess.
+
 img:thegame/world/1095/continue
+
 p:There's only one way to do it - take a deep breath and run as fast as you can. Don't breathe until you absolutely have to. Are you willing to try?"
 
-p:If you're willing to run for it, turn to page 101.
-p:If not, turn to page 102.
+mud[If your willing to run for it...]:n
+mud[If not...]:s
+
+talk:#twitter tweet:random We are stuck here with these #DIAMONDS. Maybe not... the #ERUPTIONS are rising we might be able to make it across a dangerous stip of clay. #DevaWorld #0x94 #R1094 #UKCYOA :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

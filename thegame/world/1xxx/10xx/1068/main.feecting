@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-666768=
 ::BEGIN:LOOK
 p:You can see what can we do from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## What Can We Do?
-
-talk:#twitter tweet The Underground Kingdom 0x068_012361011161940394244505358666768 #UndergroundKingdom #ARJIKA #R1068 #TG93 :id:
 
 p:"What can we do?" you ask.
 
@@ -19,6 +19,8 @@ p:Dr. Vivaldi replies, "Think carefully before you make such a decision."
 
 mud[Face the Grand Akpar...]:n
 mud[Escape the Grand Akpar...]:s
+
+talk:#twitter tweet:random What can we do? #DrVivaldi, if there is a #WAR we cannot expect to survive. Face the #GrandAkpar or #Escape? #DevaWorld #UKCYOA #0x68 #R1068 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

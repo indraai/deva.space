@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-104
+
 ::BEGIN:LOOK
 p:You can see refuse to help from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Refuse to Help
-
-talk:#twitter tweet The Underground Kingdom 0x104_01236101116194039424450535866676870104 #UndergroundKingdom #ARJIKA #R1104 #TG93 :id:
 
 p:"I won't help you fight the Rakas," you tell the Grand Akpar. "War is a terrible thing. Your villages will be destroyed and your people will be killed. Our wars have always brought grief."
 
@@ -24,6 +24,8 @@ p:You might discover that you fear the same things.
 p:Once you've reached an understanding, you can work out a plan that will let the Rakas and the Archpods live in peace.
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You suggest to the #Akpar better solution than #WAR. Talk to them you say. Reach and understanding. #DevaWorld #UKCYOA #0x104 #R1104 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

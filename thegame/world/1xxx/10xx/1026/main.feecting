@@ -1,32 +1,31 @@
+0x012-5-912-1821-2526
+
 ::BEGIN:LOOK
 p:You can see passing months from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Passing Months
+p:Three months have passed. You return home late one afternoon to find a man waiting at your front door. "I'm Professor Bruckner. From the National Research Institute in Washington." He shakes your hand warmly.
 
-talk:#twitter tweet The Underground Kingdom 0x026_0125912212526 #UndergroundKingdom #ARJIKA #R1026 #TG93 :id:
-
-
-p:Three months have passed. You return home late one afternoon to find a man waiting at your
-front door.
-p:"I'm Professor Bruckner. From the National Research Institute in Washington." He shakes
-your hand warmly.
 img:thegame/world/1026/bruckner
-p:"Please come in. Are you still studying the Bottomless Crevasse?"
-p:Bruckner nods. "We've identified the force that may have pulled Larsen and Sneed into the crevasse.
-p:Would you be willing to go back? Precautions would be taken so there would be no chance of its happening again."
-p:You shake your head. "I'm afraid not, Professor.
-p:I don't think I could go back to the place where my friends died."
-p:Smiling, the professor leans toward you.
-p:"Would it change your mind if I told you that your friends may still be alive?"
-p:"What?"
-p:"It's true. We received faint radio signals from a point far beneath the earth's surface. I believe that one or more of the others must be alive somewhere in the Underground Kingdom, and we have the means to reach them.
 
-p:Now will you come?"
+p:"Please come in. Are you still studying the Bottomless Crevasse?"
+
+p:Bruckner nods. "We've identified the force that may have pulled Larsen and Sneed into the crevasse. Would you be willing to go back? Precautions would be taken so there would be no chance of its happening again."
+
+p:You shake your head. "I'm afraid not, Professor. I don't think I could go back to the place where my friends died."
+
+p:Smiling, the professor leans toward you. "Would it change your mind if I told you that your friends may still be alive?"
+
+p:"What?"
+
+p:"It's true. We received faint radio signals from a point far beneath the earth's surface. I believe that one or more of the others must be alive somewhere in the Underground Kingdom, and we have the means to reach them. Now will you come?"
 
 mud[Go on the expedition...]:n
 mud[Just too dangerous...]:s
+
+talk:#twitter tweet:random Three months have passed and you return #HOME where #ProfessorBruckner is waiting for you. How would you like to return to the #BottomlessCrevasse? He asks. #DevaWorld #0x26 #R1026 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

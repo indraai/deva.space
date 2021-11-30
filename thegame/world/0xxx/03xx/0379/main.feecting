@@ -5,14 +5,19 @@ This room covers the unnecessary types of witnesses in legal proceedings.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3320.htm
+## Where Witnesses are Unnecessary
 
 talk:#docs view vedas/law/unnecessary:1
 talk:#docs view vedas/law/unnecessary:2
 talk:#docs view vedas/law/unnecessary:3
 talk:#docs view vedas/law/unnecessary:4
 talk:#docs view vedas/law/unnecessary:5
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3320.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-702.5|-1095.5]
 ::END:MAIN

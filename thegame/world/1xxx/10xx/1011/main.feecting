@@ -1,11 +1,10 @@
+0x012-3610-11
 ::BEGIN:LOOK
 You can see face the creatures from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Dive To The Ground
-
-talk:#twitter tweet The Underground Kingdom 0x011_012361011 #UndergroundKingdom #ARJIKA #R1011 #TG93 :id:
 
 p:You dive to the ground and shield your face with your arms, hoping the angel bird will leave you unharmed.
 
@@ -16,6 +15,8 @@ p:Why is it you feel so safe? The angel birds begin to make musical sounds, more
 p:Without thinking more about it, you leap up, and because there's very little gravity, you almost float onto the creature's feathery back. You nestle in. It feels like a bed of goose down, soft and silky.
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You dive to the ground and shield your facehoping the #Bird. Nothing happens, and you are safe. You leap up and float onto the #CREATURES back. It feels like a #BED so #Soft and #Silky. #DevaWorld #UKCYOA #0x11 #R1011 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

@@ -1,11 +1,12 @@
+0x012-3610-1116-194039-4244-
+
+0x012-5-912-1821-2526-28297577-3537-384340-394244
 ::BEGIN:LOOK
 p:You can see inside the agon.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Inside the Agon.
-
-talk:#twitter tweet The Underground Kingdom 0x044_012361011161940394244 #UndergroundKingdom #ARJIKA #R1044 #TG93 :id:
 
 p:The interior of the agon, as it seems to be called, is lit by glowing stones circling the inner wall. In the center is a small fountain. Clear water bubbles forth and flows along a silver trough before disappearing underground. The floor is soft and spongy, like a thick bed of moss.
 
@@ -27,8 +28,10 @@ p:Ket and Akim gesture as if you should obey.
 
 p:But Tor shakes his head, warning you not to go.
 
-mud[Agree to Raka...]:n
+mud[Agree to follow Raka...]:n
 mud[Refuse to follow...]:s
+
+talk:#twitter tweet:random The leader steps forweard #KET he says #KET #RAKA pointing to the others he says #AKIM #RAKA #TOR #RAKA. They try pronouncing your name and offer some food. #DevaWorld #UndergroundKingdom #0x44 #R1044 #QuinnMichaels :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

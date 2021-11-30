@@ -1,10 +1,10 @@
+0x012-3610-1116-
 ::BEGIN:LOOK
-You can see the bird gliding
+p:You can see the bird gliding
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Gliding
-talk:#twitter tweet The Underground Kingdom 0x016_01236101116 #UndergroundKingdom #ARJIKA #R1016 #TG93 :id:
+## Gliding Bird
 
 p:The angel bird glides through the canyons and corridors beneath the earth. It increases its speed, and you hold tight as it swoops through long, curving passageways. It's the most exciting ride of your life, and would certainly be the scariest if you didn't feel that you've never been safer.
 
@@ -20,6 +20,8 @@ p:So this is the Underground Kingdom—strange, vast, and very beautiful. What p
 
 mud[Explore the Underground Kingdom...]:n
 mud[Concentrate on getting home...]:s
+
+talk:#twitter tweet:random The #AngelBird glides through the #Canyons. There is NO Horizona. So this is the #DevaWorld #UKCYOA #0x16 #R1016 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

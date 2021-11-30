@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:thegame/object/1006/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1006/avatar
+name:Water Spring
+vector:0x1006o
+describe:This is a underground kingdom water spring.
+
+talk:#twitter tweet:random You can see the pure water spring in the #UndergroundKingdom where we quench our #Thirst and fill #Canteens. #DevaWorld #0x1006o #1006 #QuinnMichaels #CYOA :id:
+::END:LOOK
+
+::BEGIN:SPRING
+p:You have found you way to a most wonderful water spring. Make sure to fill your canteens.
+::END:SPRING
+====

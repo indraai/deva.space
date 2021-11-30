@@ -1,3 +1,4 @@
+0x012-
 ::BEGIN:LOOK
 p:You can see the Toan Glacier edge from here.
 ::END:LOOK
@@ -24,8 +25,7 @@ p:These thoughts race through your head in a split second.
 mud[Try to land on the ledge...]:n
 mud[Continue falling...]:d
 
--
-talk:#twitter tweet The Underground Kingdom 0x1002_012 #UndergroundKingdom #ARJIKA #R1002 #TG93 :id:
+talk:#twitter tweet:random At the glaciers edge we are questioning is the #UndergroundKingdom real? Is it just something you read about in fantasybooks, or is there a bigger secret at hand? #DevaWorld #UKCYOA #0x2 #R1002 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

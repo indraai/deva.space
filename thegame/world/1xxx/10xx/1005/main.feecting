@@ -1,3 +1,4 @@
+0x012-5
 ::BEGIN:LOOK
 p:You can see the ledge from here.
 ::END:LOOK
@@ -9,6 +10,8 @@ p:Your whole body is racked with pain as you crash onto the ledge. You're shaken
 
 p:"HELP!" you cry.
 
+img:thegame/world/1005/ledge
+
 p:"Hold on!" Larsen yells. "It's going to be tricky, but we're rigging our ropes. We'll get you up."
 
 p:You feel a flash of joy; then you remember something that chills you to the bone.
@@ -19,11 +22,10 @@ p:Should you warn your friends about the strange force?
 
 p:If you do, they may be afraid to get close enough to rescue you.
 
-mud[Warn Larsen and Sneed...]:e
-mud[Yell Please Hurry!...]:w
+mud[Warn Larsen and Sneed...]:n
+mud[Yell Please Hurry!...]:s
 
--
-talk:#twitter tweet The Underground Kingdom 0x005_0125 #UndergroundKingdom #ARJIKA #R1005 #TG93 :id:
+talk:#twitter tweet:random On the ledge of the #Glacier do you warn #Larsen and #Sneed or Just yell #PleaseHurry!!! #DevaWorld #0x5 #R1005 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

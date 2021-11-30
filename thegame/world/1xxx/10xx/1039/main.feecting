@@ -1,11 +1,12 @@
+0x012-3610-1116-194039-
+0x012-5-912-1821-2526-28297577-3537-38434039-
+
 ::BEGIN:LOOK
 p:You can see facing the inhabitants.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## The Inahbitants
-
-talk:#twitter tweet The Underground Kingdom 0x039_01236101116194039 #UndergroundKingdom #ARJIKA #R1039 #TG93 :id:
+## The Creatures
 
 p:You could probably climb a nearby tree and hide among the clusters of giant leaves. But is it wise to run like a frightened animal?
 
@@ -13,6 +14,9 @@ p:Maybe things will go better for you if you bravely face the inhabitants of thi
 
 mud[Face the creatures...]:n
 mud[Hide in the cluster of leaves...]:s
+
+talk:#twitter tweet:random You could probably climb a tree or hide in the leaves, but is it wise to run like a frightened animal. Do you face the creatures or run? #DevaWorld #UKCYOA #0x39 #R1039 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

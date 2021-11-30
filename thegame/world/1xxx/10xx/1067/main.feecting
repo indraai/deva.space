@@ -1,12 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-6667
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-6667
 ::BEGIN:LOOK
 p: You can see warm hugs from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Grand Akpar
-
-talk:#twitter tweet The Underground Kingdom 0x067_0123610111619403942445053586667 #UndergroundKingdom #ARJIKA #R1067 #TG93 :id:
-
 
 p:She hugs you warmly. "I thought I'd never see another human face!" she cries, tears streaming down her cheeks.
 p:One of the guards says something you cannot understand. Then the Archpods march out of the agon, leaving you alone with your friend.
@@ -18,6 +17,11 @@ p:You tell her of your descent to the Underground Kingdom and your adventures in
 p:"We must set upon a plan," she says. "The Archpods have learned that the Rakas are making bombs.
 
 p:They think we may be Raka spies. That is why you were treated so rudely. They have told me that their chief, the Grand Akpar, will soon decide whether to execute us."
+
+mud[Continue...]:e
+
+talk:#twitter tweet:random #DrVivaldi hugs you warmly then you tell her of the #Descent and #Adventures in #Rakmara. The #Grand #Akpar will soon decide your fate. #DevaWorld #UKCYOA #0x67 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

@@ -1,22 +1,28 @@
+01236101116194039424448515663
+012591221252628297577353738434039424448515663
+
 ::BEGIN:LOOK
+p:You can see the raft floating past the marshy banks.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Your raft floats on past marshy banks and
-yellow clay islands. The river grows narrow as it
-flows through a deep canyon. Rock cliffs rise up
-on both sides. You hold on, hoping to reach a
-place where you can land.
-Never have you experienced as dark a night as
-this. It's as if the river were flowing through a
-tunnel somewhere in the depths of the earth.
-Finally you sleep, and it seems as if a very long
-time has passed when you awake and find your
-raft pitching up and down. Why has the river
-grown so rough? It's still too dark to see much,
-but at least the stars are out.
-Stars? There aren't any stars in the Underground
-Kingdom. You're not on the river—you're
-on an ocean!
-Go on to page 64.
+## The Marshy Banks
+
+p:Your raft floats on past marshy banks and yellow clay islands. The river grows narrow as it flows through a deep canyon. Rock cliffs rise up on both sides. You hold on, hoping to reach a place where you can land.
+
+p:Never have you experienced as dark a night as this. It's as if the river were flowing through a tunnel somewhere in the depths of the earth.
+
+p:Finally you sleep, and it seems as if a very long time has passed when you awake and find your raft pitching up and down. Why has the river grown so rough? It's still too dark to see much, but at least the stars are out.
+
+p:Stars?
+
+p:There aren't any stars in the Underground Kingdom. You're not on the river—you're on an ocean!
+
+mud[Continue...]:e
+
+talk:#twitter tweet:random You float past the marshy banks and yellow clay islands. Never have you experienced dark like this. You fall asleep to wake under the stars on an #OCEAN. #DevaWorld #0X63 #R1063 :tags: :id:
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

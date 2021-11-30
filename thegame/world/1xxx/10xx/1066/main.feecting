@@ -1,11 +1,12 @@
+0x012-3610-1116-194039-4244-5053-58-66
+
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-66
 ::BEGIN:LOOK
 p:You can see the shore from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Continue to shore
-
-talk:#twitter tweet The Underground Kingdom 0x066_01236101116194039424450535866 #UndergroundKingdom #ARJIKA #R1066 #TG93 :id:
 
 p:Trying to act unafraid, you row straight in to shore, hop out of the boat, and step forward to meet the Archpods. "Hello. I come as a friend!" you call out. But their only response is to take you prisoner and march you back to their village.
 
@@ -16,6 +17,8 @@ img:thegame/world/1066/vivaldi
 p:It's Dr. Vivaldi!
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You reach the shore and the #Archpods take you #Prisoner and #March you to their #Village. You are lead into the largest #Agon where you find #DrVivaldi! #DevaWorld #UKCYOA #0x66 #R1066 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

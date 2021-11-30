@@ -5,9 +5,7 @@ You can see the Surities room whre Guarantees/Surities is established.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3315.htm
+## Sureties
 
 talk:#docs view vedas/law/surities:1
 talk:#docs view vedas/law/surities:2
@@ -16,5 +14,12 @@ talk:#docs view vedas/law/surities:4
 talk:#docs view vedas/law/surities:5
 talk:#docs view vedas/law/surities:6
 talk:#docs view vedas/law/surities:7
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3315.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-841.5|-1095.5]
 ::END:MAIN

@@ -5,4 +5,19 @@ img:thegame/object/1001/avatar
 ::BEGIN:LOOK
 img:thegame/object/1001/avatar
 name: Signal Transmitter Display
+vector:0x_1001o
 ::END:LOOK
+
+::BEGIN:DISPLAY
+## Transmitter Display
+img:thegame/object/1001/avatar
+
+p:You are looking at the transmitter display used by Dr. Sneeds and Gunnar to measure the depth of the Bottomless Cravasse in Greenland at the Glaciers Edge.
+
+----
+talk:#twitter tweet We are looking at the #Transmitter #Display used by #DrSneeds and #Gunnar to measure the #BottomlessCravasse in #Greeland. #0x1001 #O1001 #DevaWorld #Arjika #Indu #Indra #Deva :id:
+
+#bgcolor = #ffffff
+#color #333333
+::END:DISPLAY
+====

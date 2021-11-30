@@ -1,46 +1,12 @@
 ::BEGIN:LOOK
-You can see The Well from here.
+p:You can see fight club.
 ::END:LOOK
-
-=
-
+====
 ::BEGIN:MAIN
-#bg = world/0016/background
+## FIGHT CLUB
 
-talk:#adv world:thegame 0016/what
-
-talk:#adv world:thegame 0016/how
-
-## RDS Warning
-Located on The Well archive for their Gopher server. A Warning about Robert David Steele from the old days of hackers.
-
-cmd:#adv agent:thegame 0116/warning
-
-## RDS Hack-Tic Notes (Holland)
-Another piece of information located on The Well Gopher archive is a text file from RDS regarding a hacker conference in Holland called Hack-Tic.
-
-cmd:#adv agent:thegame 0116/hack
-
-coordinates:00[-946|-435]
+#color = #eeeeee
+#bgcolor = #333333
+coordinates:00[-715|-334]
 ::END:MAIN
-
-=
-
-::BEGIN:MATRIX
-link]The Matrix]:https://web.archive.org/web/20010729084025/http://gopher.well.com:70/0/matrix/fidonet/fidonews.11.02
-
-::END:MATRIX
-====
-::BEGIN:WHAT
-## What
-The WELL is an online gathering place like no other -- remarkably uninhibited, intelligent, and iconoclastic. For an action-packed fifteen years, it's been a literate watering hole for thinkers from all walks of life, be they artists, journalists, programmers, educators or activists. These WELL members return to The WELL, often daily, to engage in discussion, swap information, express their convictions and greet their friends in online forums known as WELL Conferences.
-
-The WELL is distinguished by its non-anonymous participants, and by uncommon policies. The service does not sell subscriber data to marketers, nor place ads within passworded areas. This unique gathering place is both greatly valued and directly supported by WELL subscribers.
-::END:WHAT
-====
-
-::BEGIN:HOW
-## How
-Stewart Brand and Larry Brilliant founded the Whole Earth 'Lectronic Link in 1985, starting with a dialog between the fiercely independent writers and readers of the Whole Earth Review. This set the tone for the open but remarkably literate and uninhibited intellectual gathering that continues today. Over the years, WELL members have made fast friends, created enduring traditions, gathered casually face-to-face in cities 'round the world, provided support and mentoring to strangers, developed feuds, gone into business, fallen in and out of love... They have founded advocacy organizations like the Electronic Frontier Foundation, and documented what was emerging in books like Howard Rheingold's The Virtual Community and John Seabrook's Deeper.
-::END:HOW
 ====

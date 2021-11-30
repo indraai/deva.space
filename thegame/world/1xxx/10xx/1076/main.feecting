@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-10410576
+
 ::BEGIN:LOOK
 p:You can see the tides pass from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Tides Passing
-
-talk:#twitter tweet The Underground Kingdom 0x076_0123610111619403942445053586667687010410576 #UndergroundKingdom #ARJIKA #R1076 #TG93 :id:
 
 p:When you tell Dr. Vivaldi of the advice you gave the Grand Akpar, she shakes your hand. "I would have said the same thing.
 
@@ -18,6 +18,8 @@ p:It must be midway through the second sleeping tide when the guards awaken you.
 p:"The Archpods and the Rakas have made peace," says Akpar. "From now on we shall build boats for both tribes, and there shall be no bombs!"
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random You and #DrVivaldi are still waiting for the #NEWS. The #GrandAkpar walks in with the #HighRaka. The #Archpods and #Rakas have made #Peace. #DevaWorld #UKCYOA #0x76 #R1076 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

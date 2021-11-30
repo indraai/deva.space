@@ -1,20 +1,15 @@
 ::BEGIN:LOOK
-You can see Age of Chaos MUD.
+p:You can see indra.fun/land from here.
+#bgcolor = #ffffff
+#color = #333333
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-title: Age of Chaos
-year: 1991
-ver: CircleMUD
+img:thegame/world/0247/title
 
-telnet: aoc.pandapub.com:4000
-
-link: http://aocblackbook.com/
-link: http://mudstats.com/World/AgeofChaos
-
-The Dragon is gone... The Dark One is no more... With the new breaking, the very fabric of the world has been torn asunder; unimaginable horrors now roam the realm where dreams and nightmares are no longer bound to the world of Tel'aran'rhiod. The Wheel of Time no longer spins by the hand of the Creator, while heroes of the past are now of the present. Civilizations sundered by the trial of Ages now flourish once more. No longer are their futures predetermined... no longer is one's destiny bound to another^?. And out of Chaos, new powers emerge... - 13 different classes to choose from. - 12 different races to choose from, including Ancient Races should you challenge the insidious Labyrinth. - Battle out...
+## indra.fun/land
+p:You are in indra.fun/land
+#bg = thegame/world/0247/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN
-
-=

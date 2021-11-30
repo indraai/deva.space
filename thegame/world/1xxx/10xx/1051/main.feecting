@@ -1,29 +1,37 @@
+0123610111619403942444851
+01259122125262829757735373843403942444851
+
 ::BEGIN:LOOK
+p:You can see pareparing for war.
 ::END:LOOK
 
 ::BEGIN:MAIN
-"Yes, bad times are upon us," Arton continues.
-"But we shall protect ourselves. We have learned
-to mix powders and call up the fire of the earth in
-a great blast of noise and heat"
-"You mean bombs?"
-"We call them brakpa. With brakpa and with
-your help, we shall destroy the Archpods before
-they destroy us."
-"What do you mean, 'with my help'?" you ask.
-"You come from the Nether World, where war
-is the way of life. If you ride with us, our warriors
-will have courage."
-"What are the Kota beasts?"
-"You ask too many questions!" the High Raka
-snaps back. "Now you must answer mine: Will
-you go with our warriors to attack the Archpods?"
-You shrink back from the choice. The High
-Raka's voice grows stern and cold "If you are not
-with us, then you are against us, and we shall deal
-with you as our enemy."
-If you tell the High Raka that you will go with
-his warriors, turn to page 52.
-If you tell him that you won't take part in a
-war, turn to page 56.
+## Preparing For War
+
+p:"Yes, bad times are upon us," Arton continues.
+
+p:"But we shall protect ourselves. We have learned to mix powders and call up the fire of the earth in a great blast of noise and heat"
+
+p:"You mean bombs?"
+
+p:"We call them brakpa. With brakpa and with your help, we shall destroy the Archpods before they destroy us."
+
+p:"What do you mean, 'with my help'?" you ask.
+
+p:"You come from the Nether World, where war is the way of life. If you ride with us, our warriors will have courage."
+
+p:"What are the Kota beasts?"
+
+p:"You ask too many questions!" the High Raka snaps back. "Now you must answer mine: Will you go with our warriors to attack the Archpods?"
+
+p:You shrink back from the choice. The High Raka's voice grows stern and cold "If you are not with us, then you are against us, and we shall deal with you as our enemy."
+
+mud[Go with the warriors...]:n
+mud[Don't take part in the war...]:s
+
+talk:#twitter tweet:random The #HighRaka asks... Will you go with our #WARRIORS to attack the #Archpods? #DevaWorld #0x51 #R1051 :tags: :id:
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
 ::END:MAIN

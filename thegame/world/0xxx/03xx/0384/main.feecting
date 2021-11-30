@@ -5,9 +5,7 @@ You will learn about protocols for dealing with when there is a default of witne
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3325.htm
+## Default of Witnesses and Documents
 
 talk:#docs view vedas/law/defaultwitness:1
 talk:#docs view vedas/law/defaultwitness:2
@@ -16,5 +14,12 @@ talk:#docs view vedas/law/defaultwitness:4
 talk:#docs view vedas/law/defaultwitness:5
 talk:#docs view vedas/law/defaultwitness:6
 talk:#docs view vedas/law/defaultwitness:7
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3325.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
+
 coordinates:00[-911.5|-1095.5]
 ::END:MAIN

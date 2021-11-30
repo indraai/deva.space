@@ -1,12 +1,17 @@
 ::BEGIN:LOOK
-You can see the Marines Kitchen from here.
+p:You can see indra.farm/vine from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
-YOU ARE IN THE MARINES KITCHEN.
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-876|-265]
+img:thegame/world/0196/title
+
+talk:#vedas view 06039
+
+--
+
+talk:#twitter tweet:random This Indu lighted darksome nights, O Indra, throughout the years, at morning and at evening. #RigVeda #Indu #Indra #DevaWorld #R196 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv06039.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-300]
 ::END:MAIN

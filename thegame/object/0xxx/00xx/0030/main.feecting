@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/0030/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0030/avatar
+name: Academy Level 10 Course
+level: 10
+vector:0x0030
+describe:This is the Level 10 course for the realm.
+::END:LOOK

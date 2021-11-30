@@ -1,10 +1,10 @@
+0x012-5-912-1821-2526-282975
 ::BEGIN:LOOK
+p:You can see Dr. Bruckner talking about the black hole.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## The Black Hole
-
-talk:#twitter tweet The Underground Kingdom 0x075_0125912212526282975 #UndergroundKingdom #ARJIKA #R1075 #TG93 :id:
+## Who Will Volunteer
 
 p:"But what does that have to do with the black hole?" you ask Bruckner.
 p:The professor pauses to fill his pipe. "As I explained in my published theory, a tiny black hole lodged in the center of the earth more than a billion years ago. It pulled the interior of the earth—everything except for the crust and mantle into itself, leaving the earth hollowed out like a Halloween pumpkin.
@@ -22,6 +22,8 @@ p:Professor Bruckner lights his pipe, then says, "I did not expect to undertake 
 p:Who will volunteer to come with me?"
 
 mud[Continue...]:e
+
+talk:#twitter tweet:random What does it have to do with a #BlackHole? Professor Bruckner asks "Who will volunteer to come with me?" #DevaWorld #0x1075 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff

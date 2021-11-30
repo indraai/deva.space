@@ -5,10 +5,14 @@ This room teaches about what is valid evidence in a legal proceeding.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bgcolor = #cccccc
-#color = #333333
-link: https://www.sacred-texts.com/hin/sbe33/sbe3323.htm
+## Valid Evidence
 
 talk:#docs view vedas/law/evidence:1
+
+link: https://www.sacred-texts.com/hin/sbe33/sbe3323.htm
+
+#bgcolor = #cccccc
+#color = #333333
+#bg = thegame/world/0329/background
 coordinates:00[-841.5|-1095.5]
 ::END:MAIN

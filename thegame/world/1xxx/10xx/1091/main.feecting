@@ -1,11 +1,11 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-
+
 ::BEGIN:LOOK
-You can see the diamonds from here.
+p:You can see the diamonds from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## The Diamonds
-
-talk:#twitter tweet The Underground Kingdom 0x091_012361011161940394244505358666768701041057881838891 #UndergroundKingdom #ARJIKA #R1091 #TG93 :id:
 
 p:"Look at all those diamonds," you say. "I'm surprised the Archpods haven't already taken
 them."
@@ -28,8 +28,11 @@ p:"I don't think we have time to figure it out now," you say.
 p:"You may be right," Dr. Vivaldi admits. "In any event, I would guess that the Archpods have good reasons for their fears.
 p:Are you willing to risk continuing on to the Hills of Diamonds, or do you want to turn back?"
 
-pIf you say you want to continue, turn to page 94.
-p:If you say you want to turn back, turn to page 97.
+mud[You want to continue...]:n
+mud[You want to turn back...]:s
+
+talk:#twitter tweet:random  Look at all the #DIAMONDS... suddenly the #Archpod is screaming "Villa tarem, zaark!" It must be the #GhostWolf. Do you continue or turn back? #0x91 #R1091 :tags: :id:
+
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
 #color = #333333

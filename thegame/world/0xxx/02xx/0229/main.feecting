@@ -1,17 +1,17 @@
 ::BEGIN:LOOK
-You can see MARINES RESEARCH from here.
+p:You can see indra.farm/coop from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0165/logo
+img:thegame/world/0229/title
 
-The Marine Corps Warfighting Laboratory generates and examines threat-informed, operating concepts and capabilities and provides analytically-supported recommendations to inform subsequent force design and development activities.
+talk:#vedas view 09112
 
-link[DEVELOPING BETTER DECISION MAKERS THROUGH WARGAMING]:https://www.marines.mil/News/News-Display/Article/2835410/developing-better-decision-makers-through-wargaming/
-link[2030 AND BEYOND: DELIVERING CORPS’ NEW WARGAMING CENTER WILL ‘TAKE A VILLAGE’]:https://www.marines.mil/News/News-Display/Article/2833126/2030-and-beyond-delivering-corps-new-wargaming-center-will-take-a-village/
+--
 
-#bg = thegame/world/0165/background
-#bgcolor = #332e06
-#color = #ffffff
-coordinates:00[-865|-311]
+talk:#twitter tweet:random The male desires his mate's approach, the frog is eager for the flood, Flow, Indu, flow for Indra's sake. #Frog #Indu #Indra #Soma :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv09112.htm
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-859|-334]
 ::END:MAIN

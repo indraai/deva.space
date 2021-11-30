@@ -1,3 +1,5 @@
+0x012-5-912-1821-2526-30
+
 ::BEGIN:LOOK
 p:You can see it's too dangerous from here.
 ::END:LOOK
@@ -21,7 +23,9 @@ p:The next morning you call Professor Bruckner's office at the National Research
 
 p:"I was wondering whether there were any plans for another expedition to the Bottomless Crevasse," you say.
 
-mud[Continue...]:e
+mud[Continue...]:w
+
+talk:#twitter tweet:random In the months that follow you hear nothing further about the #BottomlessCrevasse. Then a message is received... #DevaWorld #0x30 :tags: :id:
 
 #bg = thegame/world/1000/background
 #bgcolor = #ffffff
