@@ -1,18 +1,21 @@
 ::BEGIN:LOOK
-You can see the Western indra.agency from here.
+p:You can see the Western indra.agency from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0096/title
-p:You are at the Western Gate of Arjika where SecurityDEVA D175 (Guard) stands watch.
-p:To the look[east] you enter the City of Arjika and it's wonderious attractions.
-p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
-p:There is also a security board here to read the latest bulletins.
-bmud[Read Security Board]:read security
 
-talk:#twitter tweet:securitydeva At the Western Gate #R243 where #SecurityDEVA guards the entrance to #AdventureLand of #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
+p:You are at the Western Gate of Arjika where SecurityDEVA D175 (Guard) stands watch.
+
+p:To the look[east] you enter the City of Arjika and it's wonderious attractions.
+
+p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
+
+p:There is also a security board here to read the latest bulletins.
+
+bmud[Read Security Board]:read security
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000

@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Vaikuntha Portal from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Vaikuntha Portal
+
+p:The following description of Vaikuntha, the heaven of Vishnu, is from the Mahābhārata. * It is made entirely of gold, and is 80,000 miles in circumference. All its buildings are made of jewels. The pillars and ornaments of the buildings are of precious stones. The crystal waters of the Ganges fall from the higher heavens on the head of Druva; from thence into the hair of the seven Rishis; and from thence they fall and form a river. Here are also five pools containing blue, red, and white lotuses. On a seat glorious as the meridian sun, sitting on white lotuses, is Vishnu; and on his right hand Lakshmi, who shines like a continued blaze of lightning, and from whose body the fragrance of the lotus extends 800 miles.
+
+link[VISHNU AND LAKSHMI]:https://www.sacred-texts.com/hin/hmvp/hmvp18.htm
+
+#color = #333333
+#bgcolor = #eeeeee
+::END:MAIN
+3

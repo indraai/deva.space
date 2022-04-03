@@ -1,0 +1,25 @@
+0x012-5-912-1821-2526-28297577
+::BEGIN:LOOK
+p:You can see the team shake their heads from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Shake their heads
+
+p:One after another, the team members shake their heads.
+
+p:Finally Bruckner turns to you. "Well?"
+
+p:You hesitate. You don't want to risk your life.
+
+p:But this could be the only chance of finding your lost friends.
+
+mud[You decide to risk it...]:n
+mud[You decide to play it safe...]:s
+
+talk:#adv hash add 77
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

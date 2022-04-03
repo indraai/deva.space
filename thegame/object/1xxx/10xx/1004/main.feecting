@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/1004/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1004/avatar
+## Token Wallet
+name: Token Wallet
+vector: 0x1004
+describe: The token wallet is for storing the various tokens you collect along your adventure.
+::END:LOOK

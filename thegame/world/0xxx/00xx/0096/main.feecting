@@ -11,8 +11,6 @@ p:You have arrived in our Northern Branch Office where all persons in Arjika are
 p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
 p:-Mangement
 
-talk:#twitter tweet:securitydeva Entering the #North Indra.agency office in #R96 where Always #SecurityPRIME and #SecurityDEVA are watching for bad guys to #TACKLE! #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
-
 #bg = thegame/world/0096/background
 #bgcolor = #000000
 coordinates:00[-508|-368.5]

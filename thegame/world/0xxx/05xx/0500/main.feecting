@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Mahatala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Mahatala
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:05[-473|-432]
+::END:MAIN

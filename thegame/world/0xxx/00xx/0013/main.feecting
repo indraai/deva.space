@@ -1,12 +1,14 @@
 ::BEGIN:LOOK
-p:You can see fight club.
+p:You can see indra.church/b3
 ::END:LOOK
 ====
 ::BEGIN:MAIN
-## FIGHT CLUB
+img:thegame/world/0013/title
+
+talk:#vedas book 3
 
 #color = #eeeeee
-#bgcolor = #333333
-coordinates:00[-715|-334]
+#bg = thegame/world/0013/background
+coordinates:00[-392|-265]
 ::END:MAIN
 ====

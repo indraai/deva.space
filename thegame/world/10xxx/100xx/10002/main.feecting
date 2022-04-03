@@ -1,0 +1,33 @@
+0x012-
+::BEGIN:LOOK
+p:You can see the Toan Glacier edge from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Glaciers Edge
+
+p:Now you stand at the edge, lost in thought
+
+p:How could the crevasse have no bottom?
+
+p:Could it really lead to an underground kingdom?
+
+p:What happened to Dr. Vivaldi?
+
+p:But your thoughts are shattered.
+
+p:You didn't seem to slip, yet suddenly you are falling into the crevasse! A ledge is coming up fast beneath you.
+
+p:You could land on it, but you're falling so fast you're sure to be badly injured. You might only be saving yourself for a slow, agonizing death.
+
+p:These thoughts race through your head in a split second.
+
+mud[Try to land on the ledge...]:n
+mud[Continue falling...]:d
+
+talk:#adv hash add 2
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

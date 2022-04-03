@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/object/0306/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0306/avatar
+name:Panchajanya
+vector:0x_0306o
+describe:...
+
+link[Google Maps]:https://goo.gl/maps/H9XY414RjES8mRhQ8
+
+::begin:hymn
+talk:#docs view vedas/shell
+::end:hymn
+::END:LOOK

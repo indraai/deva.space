@@ -1,0 +1,28 @@
+0x012-3610-1116-194039-4244-5053-58-666768
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-666768=
+::BEGIN:LOOK
+p:You can see what can we do from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## What Can We Do?
+
+p:"What can we do?" you ask.
+
+p:Dr. Vivaldi looks at you thoughtfully, then says,
+
+p:"If there is a war, we cannot expect to survive. I am going to talk to the Grand Akpar. But here, take my gold bracelet. If you give it to the guard, he will let you escape."
+
+p:"But what will happen to you? I don't want to leave you here. I'll go to the Grand Akpar with you!"
+
+p:Dr. Vivaldi replies, "Think carefully before you make such a decision."
+
+mud[Face the Grand Akpar...]:n
+mud[Escape the Grand Akpar...]:s
+
+talk:#adv hash add 68
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -4,6 +4,7 @@ img:thegame/agent/0187/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0187/avatar
-
-p:Garry looks very rugged.  Years of baking have given him arms like a smithy. Very scary, especially considering he is bigger than most smithies you've seen.
+name: Garry The Baker
+vector: 0x0187a
+describe: Garry the baker bakes the finest Jalapeno Cheese Bread in the land.
 ::END:LOOK

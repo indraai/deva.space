@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0500/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0500/avatar
+name: Kuhaka
+vector: 0x0500a
+::END:LOOK

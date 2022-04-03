@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0122/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0122/avatar
+name:Slacker
+vector:0x122a
+::END:LOOK

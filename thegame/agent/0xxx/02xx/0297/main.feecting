@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0297/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0297/avatar
+name: ARMY Cyber4
+vector: 0x0297a
+describe: ARMY Cyber4 is a specialist at handling L4 Cyber issues.
+::END:LOOK

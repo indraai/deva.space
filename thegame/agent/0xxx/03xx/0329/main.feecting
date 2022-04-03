@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0329/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0329/avatar
+name: Anumati
+vector: 0x0329a
+::END:LOOK

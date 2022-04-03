@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Tapaloka Portal from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Tapaloka Portal
+
+p:Tapaloka, the world of the seven sages
+
+link[CHAP. VI.]:https://www.sacred-texts.com/hin/vp/vp040.htm
+
+#bgcolor = #cccccc
+#color = #333333
+::END:MAIN

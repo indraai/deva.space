@@ -4,7 +4,7 @@ img:thegame/agent/0120/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0120/avatar
-name:Sarya
-vector:0x_0120a
-describe:Sarya
+name: Sarya
+vector: 0x_120a
+describe: Sarya
 ::END:LOOK

@@ -1,0 +1,22 @@
+0x012-5-912-1821-2526-28297577-3537
+
+::BEGIN:LOOK
+p:You can see EMERGENCY REVERSE from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Emergency Reverse
+
+p:Thanks to the dual control system, it looks as if you have a chance to escape this madness. Still, you can't be sure it will save you....
+
+img:thegame/world/1037/craft
+
+mud[Press Emergency Reverse...]:n
+mud[Reason with Dr. Bruckner...]:s
+
+talk:#adv hash add 37
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

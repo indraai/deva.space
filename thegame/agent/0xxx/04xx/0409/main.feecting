@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0409/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0409/avatar
+name: As’vatara
+vector: 0x0324a
+::END:LOOK

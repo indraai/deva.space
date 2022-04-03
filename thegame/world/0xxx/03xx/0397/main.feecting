@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Janaloka Portal from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Janaloka Portal
+
+p:These, when the heat of the flames that destroy the world reaches to Maharloka, repair to Janaloka in their subtle forms, destined to become re-embodied in similar capacities as their former, when the world is renewed, at the beginning of the succeeding Kalpa.
+
+link[THE PURĀNIC DIVISIONS OF TIME.]:https://www.sacred-texts.com/hin/hmvp/hmvp37.htm
+
+#bgcolor = #cccccc
+#color = #333333
+::END:MAIN

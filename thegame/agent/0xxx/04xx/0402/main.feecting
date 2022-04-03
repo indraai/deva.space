@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0402/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0402/avatar
+name: Kulika
+vector: 0x0317a
+::END:LOOK

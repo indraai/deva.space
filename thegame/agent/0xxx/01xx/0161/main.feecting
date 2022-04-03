@@ -1,10 +1,12 @@
 ::BEGIN:AVATAR
-img:thegame/agent/0161/avatar
+img: thegame/agent/0161/avatar
 ::END:AVATAR
 ====
 
 ::BEGIN:LOOK
-img:thegame/agent/0161/avatar
-p:ServiceDEVA D161 is out here day and night keeping the realm tidy.
+img: thegame/agent/0161/avatar
+name: Service Deva
+vector: 0x_0161a
+describe: ServiceDEVA D161 is out here day and night keeping the realm tidy.
 ::END:LOOK
 ====

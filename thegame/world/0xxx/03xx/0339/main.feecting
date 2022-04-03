@@ -4,15 +4,8 @@ You can see 0x the King of Arjika Daycare!
 
 ::BEGIN:MAIN
 img:thegame/world/0339/title
-p:This is the Throne of 0x the Super King of Arjika Daycare. This is where he manages the affairs of his micro-kingdom known as #ADC that resides here in the Adventure Arcade.
 
-p:0x and his brothers are such Adventure Freaks that they created their own kingdom here at the Adventure Arcade, so we decided to make it an official Micro Kingdom that is heralded by none other than 0x himself.
-
-p:All day everyday 0x and his princly brothers are Adventuring their Minds to the Max and earning learning points while doing it.
-
-p:So when you come to the Adventure Arcade make sure to pay respects to the local king 0x and inhabitants of his micro kingdom of Arjika Daycare!
-
-Adventure On!
+p:Adventure On!
 
 ::begin:arcade
 talk:#docs view games/main:telehack

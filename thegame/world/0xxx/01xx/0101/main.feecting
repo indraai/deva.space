@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-p:You can see indra.business from here.
+p:You can see Pitriloka from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## indra.business
-p:You are in indra.business.
+## Pitriloka Portal
+p:You are in Pitriloka Portal.
+
+Thereby they were freed of their sins and they got so much pleasure! Such is the greatness of Bhasma! Henceforth the Kumbhîpâka will no more be a hell. It will be a Tîrtha (holy place of pilgrimage) of the residents of the Pitrilokas. Whoever will bathe there will be very happy. There is no doubt in this. Its name will be henceforth the Pitri Tîrtha.
+
+link[Tripundra and Ûrdhapundra marks]:https://www.sacred-texts.com/hin/db/bk11ch15.htm
+link[SRIMAD-BHAGAVAD-GITA]:https://www.sacred-texts.com/hin/sbg/sbg06.htm
+
 #bgcolor = #cccccc
 #color = #333333
 ::END:MAIN

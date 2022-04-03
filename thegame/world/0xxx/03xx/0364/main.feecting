@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+You can see Pitala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+talk:#docs view vedas/regions/vitala
+
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:08[-473|-473]
+::END:MAIN

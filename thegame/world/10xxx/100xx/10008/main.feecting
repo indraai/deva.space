@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+p:You can see run as fast as you can.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Run
+p:You run as fast as you can, hoping that once the mother sees her baby is safe, she will not pursue you.
+
+p:You dart into a cavern. It's darker and hotter than the pleasant spot where you found the fledgling.
+
+p:Is it the same passageway you came through?
+
+p:Still running, you look back over your shoulder to see if the mother bird is following. At that moment you find yourself falling, or rather rising,
+toward the earth's surface—drawn up into what must be the same shaft that forms the Bottomless Crevasse!
+
+p:Soon you stop rising and start falling. Then you rise a shorter distance, stop, and begin to fall again. You feel like a yo-yo, bouncing up and down, up and down, until you finally come to rest at the center of gravity, the point where you will neither rise nor fall. Like a cork thrown in the ocean, you seem doomed to drift forever.
+
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+talk:#adv hash add 8
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

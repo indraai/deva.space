@@ -1,0 +1,23 @@
+0x012-3610-1116-194039-
+0x012-5-912-1821-2526-28297577-3537-38434039-
+
+::BEGIN:LOOK
+p:You can see facing the inhabitants.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Creatures
+
+p:You could probably climb a nearby tree and hide among the clusters of giant leaves. But is it wise to run like a frightened animal?
+
+p:Maybe things will go better for you if you bravely face the inhabitants of this world.
+
+mud[Face the creatures...]:n
+mud[Hide in the cluster of leaves...]:s
+
+talk:#adv hash add 39
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,10 +1,10 @@
 ::BEGIN:AVATAR
-img:thegame/agent/0184/avatar
+img:thegame/agent/0180/avatar
 ::END:AVATAR
 ====
 
 ::BEGIN:LOOK
-img:thegame/agent/0184/avatar
-p:You can see Peter Thiel
+img:thegame/agent/0180/avatar
+name: BigTyler
 ::END:LOOK
 ====

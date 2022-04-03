@@ -1,8 +1,19 @@
 ::BEGIN:LOOK
-You can see the ARMY Library from here.
+p:You can see the ARMY CCOE from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-A large bookshelf is overburdened and looking about ready to collapse from the hundreds of volumes of books it holds.  These are the chronicles of the Magi.  Within them they hold the secrets of their mystical art.  A large sign above the bookshelf warns anyone from attempting to touch the books.
-coordinates:00[-830.5|-633]
+img:thegame/world/0284/title
+
+# ARMY CCOE
+
+title: CCOE
+opsec: L5
+room: 284
+describe:  THE ARMY CYBER CENTER OF EXCELLENCE
+
+#bgcolor = #000000
+#color = #ffc900
+#bg = thegame/world/0284/background
+coordinates:00[-830.5|-611]
 ::END:MAIN

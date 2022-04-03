@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+p:You can see lunging at the baby bird.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Lunge For The Baby Bird
+
+p:You lunge for the baby bird, hoping that you can use it as a shield.
+
+p:Even as you move, you feel a rush of wind as the mother dives to protect her baby. You realize that you've just made the stupidest decision of your life.
+
+p:Strangely, the mother bird did not harm you.
+
+p:Instead, you feel that you have been put into a trance. Stranger still, you sense that something has set time back—that you are being given another chance!
+
+mud[Continue...]:w
+
+talk:#adv hash add 14
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

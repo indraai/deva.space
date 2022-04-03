@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0142/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0142/avatar
+## Vitasta
+name: Vitasta
+vector: 0x0142a
+describe: Vitasta is a one hitter.
+
+talk:#vedas view 10075
+
+::END:LOOK

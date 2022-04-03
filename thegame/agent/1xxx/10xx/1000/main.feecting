@@ -4,6 +4,11 @@ img:thegame/agent/1000/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/1000/avatar
-name:Gunnar Larsen
-job:National Research Institute
+
+## Gunnar Larsen
+name: Gunnar Larsen
+vector: 0x1000a
+job: Dude
+employer: National Research Institute
+describe: Gunnar Larsen works with the National Research Institute as a "does everything" guy. A jack of all trades who assists various scientists in their experiments.
 ::END:LOOK

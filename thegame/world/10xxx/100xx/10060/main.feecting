@@ -1,0 +1,28 @@
+012361011161940394244505357
+0x012-5-912-1821-2526-28297577-3537-38434039-4244-5053-5760
+
+::BEGIN:LOOK
+p:You can see hours later from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Hours Later
+
+p:Hours later you awake, stiff and shaking from the cold. Cautiously you pull off your blindfold. Your captors are gone. All around you is dark brown clay. There are no trees, no water, and no shelter from the cold wind that blows across the
+vast, empty plain. So this is your intended fate you will be left to die of exposure under the Black Sun.
+
+p:It's a long trek across the desert of the Underground Kingdom, but if you can only reach some trees, you may be able to find a warm place to rest. Somehow you know that you'll make it, if you have the will.
+
+p:Do you?
+
+p:The End
+
+talk:#adv world:thegame 1000/thankyou
+
+talk:#adv hash add 60
+
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

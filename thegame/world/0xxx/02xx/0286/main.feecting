@@ -1,8 +1,13 @@
 ::BEGIN:LOOK
-You can see the AIRFORCE Kitchen from here.
+p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-This is the room where the High Council meets with any who bring forth problems.  The High Council will then vote and decide on a way to settle the matter.  Their word is final and none ever disobey them.  They are respected for their intelligence and wisdom.
-coordinates:00[-70|-679]
+# City Park
+
+p:You are in the City Park
+
+#bgcolor = #228200
+#color = #ffffff
+coordinates:00[-335|-714]
 ::END:MAIN

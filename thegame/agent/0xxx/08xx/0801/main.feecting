@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0801/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0801/avatar
+name: Bhavânî
+vector: 0x0801a
+::END:LOOK

@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/object/0308/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0308/avatar
+name:Mace
+vector:0x_0306o
+describe:...
+
+link[Google Maps]:https://goo.gl/maps/nYWBriVj82LRbReKA
+
+::begin:hymn
+talk:#docs view vedas/mace
+::end:hymn
+::END:LOOK

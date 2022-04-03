@@ -1,12 +1,24 @@
 ::BEGIN:LOOK
-You can see ARMY Operations from here.
+p:You can see ARMY Operations from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-Three sets of beds and closets are all colored differently.  One Blue, one Green, and one Yellow.  The closets are filled with robes and small sandals, all of the same three colors.  You have trespassed on three of the five orders of the Master Magi.
-coordinates:00[-830.5|-599]
+img:thegame/world/0349/title
+
+# ARMY OPERATIONS
+
+title: OPERATIONS
+opsec: L5
+room: 271
+describe:  THE ARMY OPERATIONS CENTER
+
+#bgcolor = #000000
+#color = #ffc900
+#bg = thegame/world/0271/background
+
+coordinates:00[-830.5|-577]
 ::END:MAIN
 
 =

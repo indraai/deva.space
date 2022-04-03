@@ -1,8 +1,13 @@
 ::BEGIN:LOOK
-You can see the AIRFORCE Barracks from here.
+p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Neatly made bunks are arranged in precise rows and colums filling the room from wall to wall.  Every rack is made precisely to standard, every sheet a pristine white, without even a speck of dust.  The Arjika lead a disciplined life.
-coordinates:00[-70|-748]
+# City Park
+
+p:You are in the City Park
+
+#bgcolor = #228200
+#color = #ffffff
+coordinates:00[-231|-681]
 ::END:MAIN

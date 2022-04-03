@@ -7,9 +7,9 @@ p:You can see indra.center from here.
 ::BEGIN:MAIN
 img:thegame/world/0251/title
 
-## indra.center
+## City Center
 
-p:You are in indra.center.
+p:You are in City Center.
 
 ### North
 p:To the look[north] you will find indra.services, indra,care, indra.agency, indra.email, indra.money, indra.house, and indra.agency/n.
@@ -26,8 +26,6 @@ mud[Goto indra.city/s]:s
 ### West
 p:To the look[west] you will find indra.store/grocery, indra.store/jeweler, indra.store/toys, indra.store/body, and indra.agency/w.
 mud[Goto indra.city/w]:w
-
-talk:#twitter tweet:random Arriving in the #CENTER of it all at indra.center. Routes from here go #North #South #East #West to all sorts of places in #R251. #DevaWorld #R251 :tags: :id:
 
 #bgcolor = #ffffff
 #color = #333333

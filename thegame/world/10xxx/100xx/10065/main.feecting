@@ -1,0 +1,27 @@
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-65
+
+::BEGIN:LOOK
+p:You can see swim back across the river.
+::END:LOOK
+
+::BEGIN:MAIN
+## Swim Across River
+
+p:You try to row back to the Rakmara shore, but the current is now so swift that you find yourself being carried downstream.
+
+p:Desperately you try to paddle against it It's no use. And there's bad trouble up ahead—foaming, white rapids! You hang on for your life, but your raft smashes into a rock with a terrific thunk. One end tilts straight up, dumping you into the wild, swirling waters.
+
+p:You try to grab the raft, but you can't reach it. You start swimming toward shore, but you can't make any headway.
+
+p:You're not a quitter. You'll go down trying.
+
+p:The End
+
+talk:#adv hash add 65
+
+talk:#adv world:thegame 1000/thankyou
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

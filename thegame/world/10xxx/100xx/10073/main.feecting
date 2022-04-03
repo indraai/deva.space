@@ -1,0 +1,27 @@
+::BEGIN:LOOK
+p:You can see play along from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Play Along
+
+p:You try to think fast. You don't want to be responsible for killing the Rakas, but you have to sound helpful. "Land your fleet during the sleeping tide," you say. "That way you will surprise them."
+
+p:"Thank you." The Grand Akpar smiles. "But, if your advice fails, you will be taken to the Mouth of Fire." The Grand Akpar motions to his guards. They lead you back to Dr. Vivaldi.
+
+p:You and Dr. Vivaldi wait anxiously, wishing that you could do something to prevent the war. You know that the Archpods are building boats as fast as they can.
+
+p:Dr. Vivaldi pleads with the guards to let her see the Grand Akpar, but they refuse to listen.
+
+p:One day the Grand Akpar comes to your agon. "Our boats are ready," he says. "We invade Rakmara now."
+
+p:That sleeping tide, you lie on your bed, dreaming of home. An explosion startles you. The war has begun! The Rakas must have had their bombs ready. You wait anxiously for news of what's happened. Finally it comes—in the form of Archpod guards carrying ropes and nets.
+
+mud[Continue...]:e
+
+talk:#adv hash add 73
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

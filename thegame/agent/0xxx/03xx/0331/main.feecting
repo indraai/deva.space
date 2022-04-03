@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/agent/0331/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0331/avatar
+name: Surabhi
+vector: 0x0331a
+
+link[Sacred Text Surabhi]:https://www.sacred-texts.com/hin/db/bk09ch49.htm
+
+## Mantra
+note:Om Surabhyai namah
+
+p:The Devî Surabhi sprang in the Goloka. She was the first in the creation of cows; and, from Her, all the other cows have come. She is the Presiding Deity of the cows. I will now speak Her history from the very beginning. Hear. Before, She appeared in the holy Vrindâban.
+::END:LOOK

@@ -1,0 +1,33 @@
+0x012-3610-1116-194039-4244-50
+0x012-5-912-1821-2526-28297577-3537-384340-394244-50
+::BEGIN:LOOK
+p:You can see refuse to follow from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Refuse To Follow
+
+p:You shake your head and stand your ground.
+
+p:The blue-furred Raka glares at you and strides from the agon. He returns a few moments later with two other Rakas, each holding ropes and a net."
+
+p:I won't be taken captive like some animal!" you shout.
+
+p:A Raka tries to rope you, but you duck out of reach. They draw closer. Like a football quarterback, you spin and dart past them.
+
+p:"Kela! Zaark!" the Rakas yell, but you're already out of the agon, running across the dimly lit land.
+
+p:Helped by the light gravity, you quickly reach a grove of cluster-leaf trees, and you keep running, on and on.
+
+p:At last you reach the open countryside.
+
+p:In the soft reddish gray twilight you see the Great River just ahead. You stop to rest beside its waters.
+
+mud[Continue...]:e
+
+talk:#adv hash add 50
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

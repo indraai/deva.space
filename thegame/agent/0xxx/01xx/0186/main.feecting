@@ -1,9 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0186/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-A healer is bent over from old age. His fellow monks forced this poor old man into retirement.  He didn't
-listen and instead opened up his own shop.  For a small fee he can fix you right up.
+img:thegame/agent/0186/avatar
+name: Medic
+vector: 0x0186a
+describe: Medic A186 provides medical care.
 ::END:LOOK
-====

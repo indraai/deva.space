@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/agent/0334/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0334/avatar
+# ARMY CYBER1
+name: ARMY Cyber1
+vector: 0x0334a
+describe: ARMY Cyber1 is a specialist at his job in handling L1 Cyber issues.
+::END:LOOK

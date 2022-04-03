@@ -1,0 +1,31 @@
+0x012-5-912-1821-2526-282975
+::BEGIN:LOOK
+p:You can see Dr. Bruckner talking about the black hole.
+::END:LOOK
+
+::BEGIN:MAIN
+## Who Will Volunteer
+
+p:"But what does that have to do with the black hole?" you ask Bruckner.
+p:The professor pauses to fill his pipe. "As I explained in my published theory, a tiny black hole lodged in the center of the earth more than a billion years ago. It pulled the interior of the earth—everything except for the crust and mantle into itself, leaving the earth hollowed out like a Halloween pumpkin.
+
+p:That is what the gravity readings tell us."
+
+p:"Then where is the Underground Kingdom?"
+
+p:"It is the whole interior surface of the earth.
+
+p:And if you stood there and looked straight up, you would see the black hole. It would look exactly like our sun except that it would be jet black."
+
+p:Professor Bruckner lights his pipe, then says, "I did not expect to undertake this mission for some months. I only planned to inspect the crevasse and test the Vertacraft, but the crevasse is closing rapidly. I must make the descent today. Otherwise, my return path might be blocked.
+
+p:Who will volunteer to come with me?"
+
+mud[Continue...]:e
+
+talk:#adv hash add 75
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

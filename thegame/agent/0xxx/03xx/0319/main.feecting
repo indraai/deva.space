@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/agent/0319/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0319/avatar
+# ARMY CYBER2
+name: ARMY Cyber2
+vector: 0x0319a
+describe: ARMY Cyber2 is a specialist at his job in handling L2 Cyber issues.
+::END:LOOK

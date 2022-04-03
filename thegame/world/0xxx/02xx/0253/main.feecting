@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see indra.city/e from here.
+p:You can see indra.city/e from here.
 ::END:LOOK
 
 =
@@ -9,8 +9,6 @@ img:thegame/world/0253/title
 p:You are in indra.city/e.
 
 img:thegame/world/0253/area
-
-talk:#twitter tweet Here in indra.directory you can see the current map of our #REALM. Maybe in the future it will be more interactive. #R253 #DevaWorld #Indu #Indra #Vamraka :id:
 
 #bgcolor = #ffffff
 #color = #333333

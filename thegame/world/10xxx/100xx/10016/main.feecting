@@ -1,0 +1,29 @@
+0x012-3610-1116-
+::BEGIN:LOOK
+p:You can see the bird gliding
+::END:LOOK
+
+::BEGIN:MAIN
+## Gliding Bird
+
+p:The angel bird glides through the canyons and corridors beneath the earth. It increases its speed, and you hold tight as it swoops through long, curving passageways. It's the most exciting ride of your life, and would certainly be the scariest if you didn't feel that you've never been safer.
+
+img:thegame/world/1016/bird
+
+p:Then, ahead of you, is a tunnel that flares out into a broad new world. An endless landscape stretches before you. It is bathed in soft, reddish light, as if the sun had just set everywhere around you!
+
+p:A great river forms a curving line that divides the land. Trees line its banks. Farther back from the river are mountains, some of them lavender or blue and others that flicker like glowing embers.
+
+p:Strangely there is no horizon; instead the landscape fades into dusky reds and browns that curve over your head, forming a sky that is almost the same color as the ground. Directly above you is something that looks like the sun, but it is absolutely black!
+
+p:So this is the Underground Kingdom—strange, vast, and very beautiful. What people or creatures live here? What mysteries does it hold? But you are swept from your daydreaming by the realization that your life here could be in danger.
+
+mud[Explore the Underground Kingdom...]:n
+mud[Concentrate on getting home...]:s
+
+talk:#adv hash add 16
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

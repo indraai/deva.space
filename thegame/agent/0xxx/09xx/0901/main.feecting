@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0901/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0901/avatar
+# Pums'chali
+name: Pums'chali
+vector: 0x0901a
+::END:LOOK

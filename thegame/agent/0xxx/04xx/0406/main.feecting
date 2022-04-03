@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0406/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0406/avatar
+name: Dhritarâstra
+vector: 0x0321a
+::END:LOOK

@@ -1,0 +1,30 @@
+0x012-5-912-1821-2526-28297577-35
+
+::BEGIN:LOOK
+p:You can see decide to risk it form here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Decide To Risk It.
+
+p:You know that your chances of surviving the expedition are slim. Even if you safely descend into the Bottomless Crevasse, there's no assurance that the Vertacraft will be able to get you out again. Still, it's your only chance to find your lost friends and to explore a new world.
+p:You grit your teeth and climb aboard. The professor climbs in beside you.
+p:"Ready?" he says. "I'm going to activate us as soon as we're centered."
+p:"Ready."
+
+p:You strap yourself in and say a prayer. You feel like a larva inside a cocoon.
+p:Looking through the port, you watch the others position the Vertacraft over the crevasse. You wave at them, and they wave back. Suddenly you are falling—faster and faster, plummeting toward the center of the earth. Has the Vertacraft gone out of control?
+p:"Professor Bruckner!" you yell. "Won't the rockets work? Can't you slow us?"
+p:"We're saving our fuel," he shouts. "Gravity will slow us—you'll see."
+p:Has he gone mad? You notice a red button on the control panel. Next to it is a sign that reads:
+
+warning:EMERGENCY REVERSE/RETURN TO INITIAL POSITION.
+
+mud[Continue...]:e
+
+talk:#adv hash add 35
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

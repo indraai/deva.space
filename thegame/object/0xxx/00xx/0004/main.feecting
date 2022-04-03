@@ -7,6 +7,4 @@ img:thegame/object/0004/avatar
 name:Cheddar Cheese
 vectorm:0x4o
 describe:You have found the cheddar cheese for a wonderful meal offering.
-
-talk:#twitter tweet:random You have found yourself a nice piece of #CheddarCheese.  Looks tasty. #DevaWorld :tags: :id:
 ::END:LOOK

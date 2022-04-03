@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/0095/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0095/avatar
+## Farm Board
+name: Farm Board
+vector: 0x0095o
+describe: The farm board is used to leave messages on the farm about all kinds of farm things.
+::END:LOOK

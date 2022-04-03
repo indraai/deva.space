@@ -7,10 +7,8 @@ img:thegame/object/0180/avatar
 name:Candy Dirt
 vector:0x0180o
 describe:The Candy Dirt is here. Acquired on adventures with SecurityPRIME we have brought it home so we could offer it ot you.
-
-talk:#twitter tweet:random You are looking at some mighty tasty #CandyDirt right now. #DevaWorld :tags: :id:
 ::END:LOOK
 
 ::BEGIN:ACTION
-YOU CAN SEE SOME TASTY CADY DIRT.
+p:YOU CAN SEE SOME TASTY CADY DIRT.
 ::END:ACTION

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0800/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0800/avatar
+name: Hâtakes’vara
+vector: 0x0800a
+
+::END:LOOK

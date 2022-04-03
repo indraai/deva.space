@@ -1,0 +1,28 @@
+01236101116194039424448515254556122
+012591221252628297577353738434039424448515254556122
+
+::BEGIN:LOOK
+p:You can see concentrate on getting home from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Concentrate On Getting Home
+
+p:Your strongest desire now is to be home again.
+
+p:You cling tightly to the angel bird. As if it knows what you're thinking, it rises in the air, banks steeply, and then, accelerating, hurtles into a corridor within the ground. You nestle into its thick downy coat as it streaks through the darkness. All the while you feel completely safe, and in time you sleep.
+
+p:When you awake, it is much colder. A chill wind bites against your body. The brightness of the world around you is not the warm red light of the Underground Kingdom, but the cold white light of the Arctic.
+
+p:The barren landscape, pocketed with ice and snow, is a familiar scene, as is the rude village of shacks and tin-roofed buildings nearby. You're in Greenland!
+
+p:The village is the coastal settlement from which your party began its trek across the ice fields to the Bottomless Crevasse.
+
+mud[Continue...]:e
+
+talk:#adv hash add 22
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,15 +1,14 @@
 ::BEGIN:LOOK
-You can see the indra.store/bakery from here.
+p:You can see the indra.store/bakery from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0280/title
+
 p:You are inside indra.store/bakery.
 
 bmud[Read the Bakery Sign...]:read sign
 mud[Exit Bakery...]:s
-
-talk:#twitter tweet In the indra.store franchise you'll find the #Bakery where our speciality is #Jalapeno #Cheese #Bread #Bagels and #Bites. Available Now! #R280 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
 
 #bgcolor = #ffffff
 #color = #333333

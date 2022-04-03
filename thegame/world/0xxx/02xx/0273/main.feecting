@@ -1,7 +1,13 @@
 ::BEGIN:LOOK
-You can see AIRFORCE: Research from here.
+p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-coordinates:00[-81|-634]
+# City Park
+
+p:You are in the City Park
+
+#bgcolor = #228200
+#color = #ffffff
+coordinates:00[-404|-714]
 ::END:MAIN

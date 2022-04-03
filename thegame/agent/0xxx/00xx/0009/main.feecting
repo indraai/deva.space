@@ -1,9 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0009/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
 img:thegame/agent/0009/avatar
-p:Barry is a type, or strain, in the sense that he has a broad genetic make-up, a broad standard.  You will see different "types" of Barry, from long-bodied, short, crooked legs to a more proportioned length of body and longer legs.  This is a result of having been hunted since his beginning.
+name: Barry
+vector: 0x0009a
+describe: Barry is a type, or strain, in the sense that he has a broad genetic make-up, a broad standard.  You will see different "types" of Barry, from long-bodied, short, crooked legs to a more proportioned length of body and longer legs.  This is a result of having been hunted since his beginning.
 ::END:LOOK
-====

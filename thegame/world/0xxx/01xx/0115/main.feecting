@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-You can see the Innder Lookout (W) Tower from here.
+p:You can see the Innder Lookout (W) Tower from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-The battlements on top of the inner wall are the last defense in case of an invasion.  All citizens are required to move within the inner city and prepare to fight.  The city has never fallen to this day.  To the north one can see the barracks, to the south the Hall of Clerics.  A stone stairwell leads down to the inner city.
+p:The battlements on top of the inner wall are the last defense in case of an invasion.  All citizens are required to move within the inner city and prepare to fight.  The city has never fallen to this day.  To the north one can see the barracks, to the south the Hall of Clerics.  A stone stairwell leads down to the inner city.
+#bgcolor = #ffffff
+#color = #333333
 coordinates:00[-300|-472]
 ::END:MAIN
 

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0404/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0404/avatar
+name: Dhananjaya
+vector: 0x0319a
+::END:LOOK

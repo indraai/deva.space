@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:thegame/object/0093/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0093/avatar
+## ARMY Board
+name: ARMY Board
+vector: 0x0093o
+describe: The ARMY board is used to leave messages for the ARMY.
+
+p:To read the board use the read command.
+cmd:#mud read board
+
+p:To write a new message to the board use the write command.
+> #mud write *message title*
+::END:LOOK

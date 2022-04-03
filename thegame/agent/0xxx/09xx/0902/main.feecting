@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/agent/0902/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0902/avatar
+# Svairini
+name: Svairini
+vector: 0x0902a
+
+::END:LOOK

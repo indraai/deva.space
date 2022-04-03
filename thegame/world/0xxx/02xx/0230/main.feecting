@@ -1,12 +1,19 @@
 ::BEGIN:LOOK
-You can see Navy Development from here.
+p:You can see The Tech Store from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-This is where the higher ups meet to decide on policies and rules within the army. Many sleepless nights have always been spent in this room during small skirmishes that almost break out into an all out war. Chairs line the walls and a large table fills the center of the room.
-coordinates:00[-81|-345]
-::END:MAIN
+img:thegame/world/0153/logo
 
-=
+# The Tech Store
+
+p:Welcome to The Tech Store
+
+p:To Exit the Tech Store please go east.
+cmd:#mud e
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-87|-369]
+::END:MAIN

@@ -1,8 +1,10 @@
 ::BEGIN:AVATAR
-img:agent/0176/avatar
+img:thegame/agent/0176/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-Arjika Gunney A176 stand here shouting orders. This guy looks mean.  He is stuck in charge of training new recruits to the army.  He pretends to hate his job, but deep down you know he loves making the recruits lives miserable.
+img:thegame/agent/0176/avatar
+name: Female Agent
+vector: 0x0176a
+describe: Female Agent Level 1
 ::END:LOOK
-====

@@ -4,6 +4,13 @@ img:thegame/agent/0105/avatar
 ====
 
 ::BEGIN:LOOK
-YOU CAN SEE MARK PETRAKIS
+img:thegame/agent/0105/avatar
+## Silamavati
+name: Silamavati
+vector: 0x0105a
+describe:Blest Silamavati and young Urnavati invest themselves with raiment rich in store of sweets.
+
+talk:#vedas view 10075
+
 ::END:LOOK
 ====

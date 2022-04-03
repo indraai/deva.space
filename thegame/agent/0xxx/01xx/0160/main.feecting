@@ -4,16 +4,9 @@ img:thegame/agent/0160/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0160/avatar
-## Krumu
-name: Krumu
+## Arjika Captain
+name: Arjika Captain
 vector: 0x160a
 
---
-
-talk:#vedas view 10075
-
---
-
-talk:#twitter tweet:random With #Kubha #Sindhu and #Mehatnu, thou seekest in thy course #Krumu and #Gomati. :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv10075.htm
 
 ::END:LOOK

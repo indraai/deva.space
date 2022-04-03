@@ -1,0 +1,21 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-36
+::BEGIN:LOOK
+p:You can see the Shining Mountains from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Shining Mountains
+
+p:You and Dr. Vivaldi cross the Great River and start your trek to the Shining Mountains. Along the way your guide, Mopur, brings back mountain game, breadbush, and tanga.
+p:The air seems lighter and brighter than in the valley of the Great River. Never have you felt so happy as you do right now—hiking through the Shining Mountains.
+p:But your Archpod guide grumbles and frets.
+p:He blinks and rubs his eyes.
+
+mud[Continue...]:e
+
+talk:#adv hash add 36
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,0 +1,32 @@
+0x012-5-912-1821-2526-28297577-3537-3843
+::BEGIN:LOOK
+p:You can see bury the professor from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Bury The Professor
+
+p:You bury the professor's body near the Vertacraft, and say a prayer. You feel sad and afraid of setting forth alone in a strange world. But there is no choice. You must search for food and shelter.
+
+p:First, you've got to get out of this crater. There is a tunnel nearby. Peering inside, you see that it leads straight down. Suddenly you realize that it was through this tunnel that the Vertacraft traveled; you're looking through the other end of the Bottomless Crevasse.
+
+p:The tunnel doesn't lead straight down, but straight up—to the surface of the earth!
+
+p:So Professor Bruckner was right. The earth is like a hollowed-out pumpkin, and you're standing
+on its inner shell. Your feet must be held to the ground by the gravity of the shell itself.
+
+p:You look around at the walls of the crater. They are too steep to climb. But you feel so light—as if you were walking on the moon—you might be able to jump out.
+
+p:You stand there a minute, wondering why the pull of gravity here isn't as strong as it is on the earth's surface. Then you remember the rest of Bruckner's theory: There is a black hole at the center of the earth, pulling you toward it. You leap as high as you can—twenty feet in the air!
+
+p:Then, with one great bound, you're out, standing  on the surface of the Underground Kingdom.
+
+mud[Continue...]:w
+
+talk:#adv hash add 43
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

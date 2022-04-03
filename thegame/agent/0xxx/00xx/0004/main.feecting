@@ -4,8 +4,8 @@ img:thegame/agent/0004/avatar
 ====
 ::BEGIN:LOOK
 img:thegame/agent/0004/avatar
-name:Soma
+name: Bom
 vector:0x_0004a
-describe:Soma is here to give strength.
+describe: Bom is here.
 ::END:LOOK
 ====

@@ -1,8 +1,18 @@
 ::BEGIN:LOOK
-You can see the ARMY Kitchen from here.
+p:You can see the ARMY Kitchen from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-An assortment of foods are being prepared.  Some on small trays to be served as appetizers, and others in fine silver plates and containers.  The kitchen is cramped, too many things and too many people in one area.  The cooks look overworked and ready to revolt.
-coordinates:00[-877|-679]
+img:thegame/world/0349/title
+
+# ARMY KITCHEN
+
+title: KITCHEN
+room: 305
+describe:  THE ARMY KITCHEN WHERE FOOD IS PREPARED.
+
+#bgcolor = #000000
+#color = #ffc900
+#bg = thegame/world/0320/background
+coordinates:00[-865|-645]
 ::END:MAIN

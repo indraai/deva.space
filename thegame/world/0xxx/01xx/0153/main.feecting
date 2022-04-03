@@ -1,22 +1,16 @@
 ::BEGIN:LOOK
-You can see the Entrance to the NAVY Base.
+p:You can see the Mall Entrance from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0153/logo
 
-The Navy is the maritime service branch of the Armed Forces. It is the largest and most powerful Navy in the known Universe.
+# The Mall
 
-mission: To recruit, train, equip, and organize to deliver combat ready Naval forces to win conflicts and wars while maintaining security and deterrence through sustained forward presence.
-
-The Navy's three primary areas of responsibility:
-
-- The preparation of naval forces necessary for the effective prosecution of war.
-- The maintenance of naval aviation, including land-based naval aviation, air transport essential for naval operations, and all air weapons and air techniques involved in the operations and activities of the Navy.
-- The development of aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements.
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
 
 #bg = thegame/world/0153/background
 #bgcolor = #ffffff
 #color = #000000
-coordinates:00[-116|-92]
+coordinates:00[-122|-161]
 ::END:MAIN

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0405/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0405/avatar
+name: Mahâs’ankha
+vector: 0x0320a
+::END:LOOK

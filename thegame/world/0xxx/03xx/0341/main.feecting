@@ -4,7 +4,8 @@ You can see MUD Courtyard E. from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0341/title
-Adventure Arcade Isle is the center pathway to all your favorite Adventure Realms. Venture to the North or South to find an Adventure of your liking. To the EAST and WEST the Adventure Arcade Isle continues.
+
+p:Adventure Arcade Isle is the center pathway to all your favorite Adventure Realms. Venture to the North or South to find an Adventure of your liking. To the EAST and WEST the Adventure Arcade Isle continues.
 
 ::begin:arcade
 talk:#docs view games/main:achea

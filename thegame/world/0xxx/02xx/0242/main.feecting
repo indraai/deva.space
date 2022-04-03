@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see indra.farm/dairy from here.
+p:You can see the dairy from here.
 ::END:LOOK
 
 =
@@ -7,11 +7,7 @@ p:You can see indra.farm/dairy from here.
 ::BEGIN:MAIN
 img:thegame/world/0242/title
 
-talk:#vedas view 04057
-
---
-
-talk:#twitter tweet:random As the cow yieldeth milk, pour for us freely, Lord of the Field, the wave that beareth sweetness #RigVeda #DevaWorld #IndraFarm #242 :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv04057.htm
+p:Welcome to the farm dairy where you can get your milk and be happy.
 
 #bgcolor = #eeeeee
 #color = #333333

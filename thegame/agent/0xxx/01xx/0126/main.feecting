@@ -4,15 +4,7 @@ img:thegame/agent/0126/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0126/avatar
-## Rasa
-name: Rasa
+## Arjika Intelligence
+name: Arjika Intelligence
 vector: 0x126a
-
---
-
-talk:#vedas view 05053
-
---
-
-talk:#twitter tweet:random So let not #Rasa #Krumu or #Anitabha #Kubha or #Sindhu hold you back. #DevaWorld :tags: https://www.sacred-texts.com/hin/rigveda/rv05053.htm
 ::END:LOOK

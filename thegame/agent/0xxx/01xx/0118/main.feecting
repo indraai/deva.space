@@ -1,21 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0118/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
-## TABITHA LAVERY LOOK FILE
-
--
-
-talk:#adventure view:thegame:agent 0118/summary
+img:thegame/agent/0118/avatar
+## Lackey
+name: Lackey
+vector: 0x118a
 
 ::END:LOOK
-====
-
-::BEGIN:SUMMARY
-## TABITHA RUTH LAVERY
-
-Tabitha Ruth Lavery last residing in Gresham, OR evading contact with Quinn Michaels.
-::END:SUMMARY
-====

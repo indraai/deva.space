@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Vitala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Vitala
+
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

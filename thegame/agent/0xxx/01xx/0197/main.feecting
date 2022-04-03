@@ -1,7 +1,10 @@
 ::BEGIN:AVATAR
-img:0197/avatar
+img:thegame/agent/0197/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-He is loaded down with a tool belt full of various items he uses in his building of houses. He looks very busy and should not be bothered.
+img:thegame/agent/0197/avatar
+name: Jamie Oliver
+vector: 0x0197a
+describe: Young Jamie Oliver works in the Kitchen Store.
 ::END:LOOK

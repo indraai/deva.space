@@ -1,8 +1,16 @@
 ::BEGIN:LOOK
-You can see NAVY Cyber Command.
+p:You can see the Mall Alley from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-You find yourself walking between bunks where the majority of the army sleeps.  Some people are already in their racks since a watch must be stood twenty four hours a day.  You here someone grumbling in their sleep about how they always get stuck with the midwatch.
-coordinates:00[-116|-161]
+img:thegame/world/0153/logo
+
+# The Mall
+
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-122|-196]
 ::END:MAIN

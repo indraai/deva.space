@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0403/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0403/avatar
+name: S’veta
+vector: 0x0318a
+::END:LOOK

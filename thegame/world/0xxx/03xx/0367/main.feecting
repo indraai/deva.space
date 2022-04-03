@@ -1,7 +1,12 @@
 ::BEGIN:LOOK
+You can see Talatala from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 
-coordinates:00[-711.5|-407.5]
+talk:#docs view vedas/regions/talatala
+
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:06[-473|-473]
 ::END:MAIN

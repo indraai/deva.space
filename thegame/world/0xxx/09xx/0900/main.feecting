@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Atala Gateway from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Atala Gateway
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:09[-473|-432]
+::END:MAIN

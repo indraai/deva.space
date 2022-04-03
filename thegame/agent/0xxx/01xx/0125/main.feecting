@@ -1,13 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0125/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
-Mae is playing with a little doll. She is enthralled with reenacting a little skit of some sort where her doll is a powerful Deva and is helping others.  She is almost as happy looking as the doll that she plays with.
+img:thegame/agent/0125/avatar
+name: Medic A125
+vector: 0x0125a
+describe: Medic A125 is here providing medical care.
 ::END:LOOK
-====
-
-::BEGIN:SUMMARY
-::END:SUMMARY
-====

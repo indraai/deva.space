@@ -1,8 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0177/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-A guard watches the entrance to the upstairs warily. He seems content twirling a paint brush between his fingers and occasionally glancing towards the stairs in the back.
+img:thegame/agent/0177/avatar
+name: Cyber Security Man
+vector: 0x0177a
+describe: Cyber Security Man is the strong Cyber Security Agent that is stationed at various cyber security centers.
 ::END:LOOK
-====

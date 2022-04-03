@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0332/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0332/avatar
+name:
+vector: 0x0332a
+::END:LOOK

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0401/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0401/avatar
+name: S’ankha
+vector: 0x0316a
+::END:LOOK

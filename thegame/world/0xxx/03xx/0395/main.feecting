@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Indraloka Portal from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Indraloka Portal
+
+p:Then Arjuna saw standing at the gates (Indra's region) the handsome and ever victorious elephant--Airavata--furnished with four tusks, and resembling the mountain of Kailasa with its summits. And coursing along that path of the Siddhas, that foremost of the Kurus and the son of Pandu, sat in beauty like Mandhata--that best of kings.
+
+link[ndralokagamana Parva]:https://www.sacred-texts.com/hin/m03/m03042.htm
+#color = #333333
+#bgcolor = #eeeeee
+::END:MAIN

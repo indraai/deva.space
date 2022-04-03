@@ -1,0 +1,25 @@
+0x012-3610-1116-194039-4244-5053-
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58
+::BEGIN:LOOK
+p:You can see catch your breath from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Catch Your Breath
+
+p:Once you've caught your breath, you walk along the river bank and soon reach a crude wooden dock. Two Rakas are guarding their hunting boat, a long flat-bottomed shell fashioned from duster-leaf wood.
+
+img:thegame/world/1053/boat
+
+p:Nearby is a smaller boat, one you could paddle yourself. You just might be able to untie it, push off, and get across the river before the guards catch you.
+
+mud[Take the small boat...]:n
+mud[Bluff the guards...]:s
+
+talk:#adv hash add 53
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+
+::END:MAIN

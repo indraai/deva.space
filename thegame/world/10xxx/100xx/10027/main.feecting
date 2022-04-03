@@ -1,0 +1,24 @@
+::BEGIN:LOOK
+p:You can see faint signals from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Faint Signals
+
+p:You shake your head. "I'm afraid not, Professor. I don't think I could go back to the place where my friends died."
+
+p:Smiling, the professor leans toward you. "Would it change your mind if I told you that your friends may still be alive?"
+
+p:"What?"
+
+p:"It's true. We received faint radio signals from a point far beneath the earth's surface. I believe that one or more of the others must be alive somewhere in the Underground Kingdom, and we have the means to reach them. Now will you come?"
+
+mud[Go on the expedition...]:n
+mud[Just too dangerous...]:s
+
+talk:#adv hash add 27
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

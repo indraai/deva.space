@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0701/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0701/avatar
+name: Hari
+vector: 0x0701a
+::END:LOOK

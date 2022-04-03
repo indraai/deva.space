@@ -5,11 +5,12 @@ p:You can see indra.farm from here.
 ::BEGIN:MAIN
 img:thegame/world/0165/title
 
-talk:#vedas view 01130
-
+p:Welcom to The Farm!!!
+p:Here at the farm we have all sorts of fresh grown goodies for you to pick, gather, and harvest to your hearts galore.
+p:You will find here a vegetable gardens, citrus/fruit orchards, grapes, cherries, herbs, eggs, cheese and dairy.
+p:The tools you'll need can be found in the shed, so grab what you need and get to farming.
+note:Pleae make sure to return the tools when you are done. Thank you. 
 --
-
-talk:#twitter tweet:random We come with gifts of pleasant food, with juice poured forth, invoking thee, As sons invite a sire. #Indra #Indu #Arjika #DevaWorld #IndraFarm :tags: :id: https://www.sacred-texts.com/hin/rigveda/rv01130.htm
 
 #bgcolor = #eeeeee
 #color = #333333

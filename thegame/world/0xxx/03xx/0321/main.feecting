@@ -1,9 +1,13 @@
 ::BEGIN:LOOK
-You can see AIRFORCE Training from here.
+p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-Candles are arranged along a set of shelves, some of which are burning, while others remain unlit.  Cushions are arranged along the floor facing the candles, so that one can give thanks for all that has been given in this simple room of prayer.  The walls are unadorned, everything looks to be plain and only used for
-its intended purpose.
-coordinates:00[-70|-783]
+# City Park
+
+p:You are in the City Park
+
+#bgcolor = #228200
+#color = #ffffff
+coordinates:00[-231|-612]
 ::END:MAIN

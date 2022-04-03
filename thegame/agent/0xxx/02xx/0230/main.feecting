@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0230/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0230/avatar
+name: Hackerman
+vector: 0x0230a
+describe: Hackerman works in The Tech Store
+::END:LOOK

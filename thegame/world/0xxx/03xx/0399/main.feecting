@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Satyaloka Portal from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Satyaloka Portal
+
+p:Those that are devotedly attached to their own Dharma (religion) and reside in places other than Tîrthas, go to Satyaloka and again come to Bhârata.
+
+link[On the anecdote of Sâvitrî]:https://www.sacred-texts.com/hin/db/bk09ch29.htm
+#bgcolor = #cccccc
+#color = #333333
+::END:MAIN

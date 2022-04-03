@@ -1,17 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0204/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
-## Winn Schwartau
-
-talk:#wiki summary Winn_Schwartau
-
-> In 2008, he was voted one of the 25 Most Influential People in the Security Industry by Security Magazine.
-> He engineered 96 live concert broadcasts from The Lone Star Cafe 1978-1981.
-> Analogue Network Security, it was named "the Best CyberSecurity Book of all Time" by Cyber Defense Magazine.
-
-----
+img:thegame/agent/0204/avatar
+name: Marth Stewart
+vector: 0x0204a
+describe: Martha Stewart works in the Home Store helping people.
 ::END:LOOK
-====

@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see indra.care from here.
+p:You can see indra.care from here.
 ::END:LOOK
 
 =
@@ -7,10 +7,8 @@ You can see indra.care from here.
 ::BEGIN:MAIN
 img:thegame/world/0097/title
 p:Welcome to Medical,
+
 p:Here MedicPRIME offers the services to get yourself back into physical and mental fitness.
-
-
-talk:#twitter tweet:medicdeva Welcome to Indra.care is where #MedicDEVA provide #CARE services to the #Agents of #TheHabitat #R94 #Arjika #Indu #Soma #Sarya #Indra #Deva :id:
 
 #bg = thegame/world/0097/background
 #bgcolor = #db9cc0

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0152/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0152/avatar
+name: Mall Security
+vector: 0x0152a
+::END:LOOK

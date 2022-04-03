@@ -1,7 +1,13 @@
 ::BEGIN:LOOK
-You can see the AIRFORCE Library from here.
+p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-coordinates:00[-116|-634]
+# City Park
+
+p:You are in the City Park
+
+#bgcolor = #228200
+#color = #ffffff
+coordinates:00[-369|-714]
 ::END:MAIN

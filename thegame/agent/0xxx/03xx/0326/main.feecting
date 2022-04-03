@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0326/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0326/avatar
+name: Ananta Deva
+vector: 0x0326a
+
+docs[Devadeva]:vedas/devadeva/main
+
+docs[Anata Deva]:vedas/devadeva/ananta
+
+::END:LOOK

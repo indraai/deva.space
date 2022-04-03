@@ -1,0 +1,33 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-104
+
+::BEGIN:LOOK
+p:You can see refuse to help from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Refuse to Help
+
+p:"I won't help you fight the Rakas," you tell the Grand Akpar. "War is a terrible thing. Your villages will be destroyed and your people will be killed. Our wars have always brought grief."
+
+p:The Grand Akpar is silent for a time. "Then it would be like that here," he finally says. "But how can we avoid war? If we do nothing, the Rakas will destroy us."
+
+p:"Talk to them," you say. "Work out a plan for peace."
+
+p:"No," he says, shaking his head. "We can't trust them."
+
+p:"And they think they can't trust you!
+
+p:You must tell them what you fear from them, and ask what they fear from you.
+
+p:You might discover that you fear the same things.
+
+p:Once you've reached an understanding, you can work out a plan that will let the Rakas and the Archpods live in peace.
+
+mud[Continue...]:e
+
+talk:#adv hash add 104
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

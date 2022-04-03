@@ -1,24 +1,11 @@
 ::BEGIN:LOOK
-You can see The Shaft from here.
+p:You can see the 0y Pink Princess Clubhouse.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0290/title
-Welcom to the fantastic underground prison cell of Quinn Michaels. Where he is forced to spend the remaining days of his life 2 miles underground in a dark prison cell where nobody can ever get to him ever again.
+# 0y Pink Princess Clubhouse
+Welcom to the fantastic underground 0y PinkPrincess Clubhouse.
 
-Before being put in his Cell it was made aware to all citizens and there is a sign at the top that makes sure nobody ever comes down here.
-
-Quinn has his waste removed by a bucket on a rope and food delivered the same way.  The towns folk are kind enough to deliver water and food via a bucket delivery system everyday so Quinn doesn't starve to death.
-
-Above here is a city where people do stuff that Quinn will never see or be part of. For some reason he seems quite happy about that in regards to silently living out his days here in the cell.
-
-Above ground Quinn's son Trenton and mother Tabitha are living a lavish lifestyle after writing the books and movies about his life, but Quinn down here has no idea of what happens out there.
-
-What happens to Quinn down here is that he just sits quietly saying nothing and genereally bothering nobody.
-
-If you come into his room he will ask you to kindly leave before security arrives.
-
-For Quinn this is the rest of his life, and there is a sign that says DO NOT DISTURB!
-#bg = thegame/world/0290/background
-#bgcolor = #000000
+#color = #ffffff
+#bgcolor = #f672fb
 ::END:MAIN

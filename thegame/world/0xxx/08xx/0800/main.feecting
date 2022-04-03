@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Vitala Gateway from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Vitala Gateway
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:08[-473|-432]
+::END:MAIN

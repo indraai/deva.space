@@ -1,17 +1,16 @@
 ::BEGIN:LOOK
-You can see the Navy Lirbrary from here.
+p:You can see the Mall Alley from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-Although the majority of people believe the army is just good for fighting and winning wars few people realize that recruits go through some educational training as well.  They are taught the basics of reading and writing and strategy to help them become better fighters and better citizens.
-coordinates:00[-116|-311]
+img:thegame/world/0153/logo
+
+# The Mall
+
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-122|-334]
 ::END:MAIN
-
-=
-
-::BEGIN:TWEET
-talk:#twitter tweet NAVY: Library is where you can learn about #CODE #COMMUNICATIONS #SIGNALS #STRATEGY #TACTICS #OPERATIONS to become better #SOLDIERS. #DevaWorld #R218 #NAVY #Arjika #Military #SecurityPRIME :id:
-::END:TWEET
-====

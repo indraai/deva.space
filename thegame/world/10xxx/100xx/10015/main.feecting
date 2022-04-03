@@ -1,0 +1,29 @@
+0x012-36-15
+
+::BEGIN:LOOK
+p:You can see enter the fight.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Run From The Creature
+
+p:You run from the angel bird—up a hill that gets steeper and steeper.
+
+p:In the light gravity of the underworld you can run faster than a deer, even up this mountain. Twenty, thirty, forty feet at a bound! You feel even lighter than you did before. You try to leap only a few feet in the air, but you find yourself floating. There is no way you can get down. You are entombed between the ground above and the ground below.
+
+p:You close your eyes. Then, instead of feeling warm, you feel cold; instead of feeling light, you feel heavy. Instead of floating, you're lying on a hard, cold surface. Opening your eyes, you see ice walls rising above you.
+
+p:Now you understand. When you fell into the crevasse, you landed on this ledge, about thirty feet below the surface. You must have hit your head on the ice. What a strange dream you've had! It seemed so real—as if the angel bird put the dream in your head! But there are other things to think of right now.
+
+p:"HELP!" you shout
+
+p:No one answers. Larsen and Sneed have probably given you up for lost
+
+mud[Continue...]:w
+
+talk:#adv hash add 15
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

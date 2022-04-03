@@ -4,7 +4,8 @@ img:thegame/agent/0117/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0117/avatar
-name:Trenton Lavery
+## Librarian 0x_0117a
+name:Librarian
 vector:0x_0117a
-describe:Trenton Lavery is the son of Quinn Michaels.
+describe:The Librarian
 ::END:LOOK

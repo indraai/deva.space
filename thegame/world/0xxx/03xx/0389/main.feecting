@@ -1,15 +1,11 @@
 ::BEGIN:LOOK
+p:You can see Mahatala from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-title: Lost Souls
-year: 1990
-ver: LpMUD
+talk:#docs view vedas/regions/mahatala
 
-link[Homepage]:http://www.fur.com/tapestries
-link[Mudstats]:http://mudstats.com/World/TapestriesMUCK
-
-telnet: lostsouls.org:23
-
-Lost Souls is a small, long-running LPmud that has produced continuous technical innovation and set ever-higher quality standards since its inception in 1990. The learning curve is steep, but the experience is deep and rewarding. Come by when you're interested in trying something different.
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:05[-473|-473]
 ::END:MAIN

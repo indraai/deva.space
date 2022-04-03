@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see the patala region from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Patala Region
+#bgcolor = #ffffff
+#color = #333333
+coordinates:04[-513|-513]
+::END:MAIN

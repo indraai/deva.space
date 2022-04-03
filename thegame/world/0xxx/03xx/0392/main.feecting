@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You are looking at Goloka
+::END:LOOK
+
+::BEGIN:MAIN
+## Goloka
+
+talk:#docs view vedas/regions/goloka:summary
+
+#color = #333333
+#bgcolor = #eeeeee
+::END:MAIN

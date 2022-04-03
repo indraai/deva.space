@@ -4,11 +4,6 @@ img:thegame/agent/0183/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0183/avatar
-name:Vyasva
-assign:Singer
-describe:Vyaśva the singer of the hymns.
-
-::begin:hymn
-talk:#docs view vedas/arjika/vyasva
-::end:hymn
+name:Muscle
+describe:Fight Club Muscle
 ::END:LOOK

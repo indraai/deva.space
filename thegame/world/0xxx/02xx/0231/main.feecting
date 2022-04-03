@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-You can see NAVY Operations from here.
+p:You can see the Mall Alley from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-The smell is disgusting, a recruit needs to clean this place up soon. A couple of pots lie on the floor and a bucket of water sits on the table.  Very rudimentary, but functional, which seems to be the unsung motto of the army.
-coordinates:00[-116|-345]
-::END:MAIN
+img:thegame/world/0153/logo
 
-=
+# The Mall
+
+p:To the WEST you will find The Tech Store
+
+cmd:#mud w
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-122|-369]
+::END:MAIN

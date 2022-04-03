@@ -1,12 +1,19 @@
 ::BEGIN:LOOK
-You can see NAVY Dining from here.
+p:You can see the Kitchen Store from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-This building is cluttered together in no apparent order, wherever there is room they simply use it.  This hallway has been converted into a small room for the upkeep of armor and weapons.  A grindstone is in one corner.  In another baskets of arrows are being sorted.  A recruit is polishing some armor and a large sack of equipment looks like it is ready to be taken to the Smithy.
-coordinates:00[-70|-230]
-::END:MAIN
+img:thegame/world/0153/logo
 
-=
+# The Kitchen Store
+
+p:Welcome to The Kitchen Store
+
+p: To Exit please go EAST.
+cmd:#mud e
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-87|-265]
+::END:MAIN

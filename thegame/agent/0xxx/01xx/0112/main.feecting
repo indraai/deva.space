@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0112/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
-ELISABETH LAPENSEE
+img:thegame/agent/0112/avatar
+name: Arjika Monk
+vector: 0x0112a
 ::END:LOOK
-====

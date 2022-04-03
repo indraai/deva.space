@@ -1,0 +1,27 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-81
+
+::BEGIN:LOOK
+p:You can see explore the underground from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Explore The Underground
+
+p:"This may be the only chance earth people have to explore the Underground Kingdom," you say, "and I don't want to pass it up."
+p:"I'm glad to hear you say that" Dr. Vivaldi unfolds a map of the Underground Kingdom.
+p:"I made this map from what the Rakas and Archpods have told me. Although the Underground
+img:thegame/world/1081/map
+p:Kingdom has an area sixty percent as large as the surface of the earth, only a very small portion is cool enough to be habitable.
+p:Most of the land is too hot to set foot on. It is the molten red rock, you know, that provides the reddish glow that lights this dim world.
+p:If it were not for the tremendous cooling effect of the Black Sun, life could not exist here."
+p:Sometimes Dr. Vivaldi gets too scientific for you.
+p:"Where do you think we should explore?" you ask.
+
+mud[Continue...]:e
+
+talk:#adv hash add 81
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

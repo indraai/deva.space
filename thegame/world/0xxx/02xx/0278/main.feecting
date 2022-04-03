@@ -9,8 +9,6 @@ p:You are inside indra.store/sweets.
 bmud[Available Offerings...]:list
 mud[Exit Sweets...]:s
 
-talk:#twitter tweet In the indra.store franchise you'll find the #Sweets where our speciality is #CandyDirt. Available Now in #R278 #Arjika #Indu #Indra #Vamraka :id:
-
 #bgcolor = #ffffff
 #color = #333333
 coordinates:00[-404|-611]

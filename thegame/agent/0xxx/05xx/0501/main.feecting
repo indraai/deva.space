@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0501/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0501/avatar
+name: Taksaka
+vector: 0x0501a
+::END:LOOK

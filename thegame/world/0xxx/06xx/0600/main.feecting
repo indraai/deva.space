@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Talatala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Talatala
+
+#bgcolor = #cccccc
+#color = #333333
+coordinates:06[-473|-432]
+::END:MAIN

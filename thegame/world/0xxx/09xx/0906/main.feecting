@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Atala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Atala
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:09[-433|-473]
+::END:MAIN

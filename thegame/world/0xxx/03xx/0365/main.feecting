@@ -1,14 +1,16 @@
 ::BEGIN:LOOK
+p:You can see Sutala from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-From this perilous perch an excellent view is available of the southern half of the city.
 
-A gust of wind howls past threatening to pull anything along with it.
+talk:#docs view vedas/regions/sutala
 
-The only exit is back into the tower or a deadly jump to the cobblestone road below.
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:07[-473|-473]
 ::END:MAIN
 
 =

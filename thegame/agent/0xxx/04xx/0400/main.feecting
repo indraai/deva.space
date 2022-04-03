@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0400/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0400/avatar
+name: Vasuki
+vector: 0x0315a
+::END:LOOK

@@ -1,0 +1,30 @@
+0x012-3610-1116-194039-4244-5053-58-6667
+0x012-36-10-1116-194039-4244-50-58-6667
+
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-6667
+::BEGIN:LOOK
+p: You can see warm hugs from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Grand Akpar
+
+p:She hugs you warmly. "I thought I'd never see another human face!" she cries, tears streaming down her cheeks.
+p:One of the guards says something you cannot understand. Then the Archpods march out of the agon, leaving you alone with your friend.
+
+p:Dr. Vivaldi tells you how she barely survived her fall through the Bottomless Crevasse, how she lived for almost a year with the Rakas and finally swam across the Great River to the land of the Archpods.
+
+p:You tell her of your descent to the Underground Kingdom and your adventures in Rakmara.
+
+p:"We must set upon a plan," she says. "The Archpods have learned that the Rakas are making bombs.
+
+p:They think we may be Raka spies. That is why you were treated so rudely. They have told me that their chief, the Grand Akpar, will soon decide whether to execute us."
+
+mud[Continue...]:e
+
+talk:#adv hash add 67
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

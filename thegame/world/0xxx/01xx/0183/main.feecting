@@ -1,8 +1,16 @@
 ::BEGIN:LOOK
-You can see Navy Cyber2
+p:You can see the Mall Alley from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-The sound of snoring comes from a few of the dozen or so racks crammed together in this confined room.  The racks are stacked four high with only a foot or two of space for someone to sit up.  The mattresses are only about an inch thick and look very uncomfortable.
-coordinates:00[-116|-195]
+img:thegame/world/0153/logo
+
+# The Mall
+
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-122|-231]
 ::END:MAIN

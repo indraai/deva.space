@@ -1,0 +1,9 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+talk:#docs view vedas/regions/vaikuntha
+
+#color = #333333
+#bgcolor = #eeeeee
+::END:MAIN

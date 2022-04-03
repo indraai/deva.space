@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0903/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0903/avatar
+# Kamini
+name: Kamini
+vector: 0x0903a
+::END:LOOK

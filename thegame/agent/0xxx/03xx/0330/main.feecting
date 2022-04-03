@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0330/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0330/avatar
+name: Aramati
+vector: 0x0330a
+::END:LOOK

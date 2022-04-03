@@ -1,12 +1,16 @@
 ::BEGIN:LOOK
-You can see NAVY Cyber4
+p:You can see the Mall Alley from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
-Everything shines a bright silver. Any recruits who misbehave are sent here to polish the kitchen. A small scullery filled with messy pots gives the room a charred smell. Large ovens line the east wall and are cold for the time being.
-coordinates:00[-116|-264]
-::END:MAIN
+img:thegame/world/0153/logo
 
-=
+# The Mall
+
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-122|-300]
+::END:MAIN

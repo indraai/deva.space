@@ -1,0 +1,26 @@
+0x046_0123610111619403946
+0x012-5-912-1821-2526-28297577-3537-384340-3946
+
+::BEGIN:LOOK
+p:You can see hiding from the creatures.
+::END:LOOK
+
+::BEGIN:MAIN
+## Hide In The Leaves
+
+p:You hide in the cluster-leaf tree. The strange creatures pass by except for one straggler, who stops to stretch. For a moment he looks right at you. "Kota zaark!" he cries, then turns and runs after the others.
+
+p:Perhaps you needn't have been so cautious.
+
+p:The creature looked more like a frightened animal than a fierce hunter.
+
+p:As you climb down from the tree, you hear a low moaning coming from the brush. A pair of bright blue lights is shining from within the darkness.
+
+mud[Continue...]:e
+
+talk:#adv hash add 46
+
+#bg = thegame/world/1000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

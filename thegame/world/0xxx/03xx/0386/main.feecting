@@ -1,21 +1,11 @@
 ::BEGIN:LOOK
-This room holds the End of the Line MUD.
+p:You can see Atala from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-title: End of the Line (eotl)
+talk:#docs view vedas/regions/atala
 
-telnet[eotl]: eotl.org:2010
-login: ****
-pass: ****
-
-link[Homepage]: http://www.eotl.org/
-link[MudStats]:http://mudstats.com/World/AardwolfMUD
-
-talk:#adventure view:thegame:world 0386/summary
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:09[-473|-473]
 ::END:MAIN
-
-::BEGIN:SUMMARY
-End of the Line, more commonly known as EotL, is a text-based roleplaying game in which you adventure in a myriad of landscapes and realms. It is an LP style of MUD that was first opened to the public in 1989. EotL was The Mud Connector's March 1998 Mud of the Month.
-::END:SUMMARY
-====
