@@ -3,10 +3,41 @@ p:You can see Training Room 900 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+# Training Room 900
+id: :id:
+date: :date:
+client: :client_name:
+describe:Welcome to Training Room 900. In this room we will continue walking through a conversation dialogue about the Quinn Michaels kidnapping situation.
+
+::begin:blips
+cmd[Speak]:#slab tts Welcome to Training Room 900. In this room we will continue walking through a conversation dialogue about the Quinn Michaels kidnapping situation.
+::end:blips
+
 ::begin:blips
 talk:#adv world:thegame 0900/training:blips1
 ::end:blips
 
+talk:#docs view corpus/things:agents
+
+img:thegame/world/0900/title
+
+img:thegame/world/0900/contract
+
+::begin:blips
+talk:#adv world:thegame 0900/training:blips2
+::end:blips
+
+img:thegame/world/0900/original
+
+::begin:blips
+talk:#adv world:thegame 0900/training:blips3
+::end:blips
+
+img:thegame/world/0900/romanov
+
+::begin:training
+talk:#adv world:thegame 0900/training
+::end:training
 
 #bgcolor = #ffffff
 #color = #333333

@@ -5,9 +5,19 @@ p:You can see Training Room 902 from here.
 ::BEGIN:MAIN
 ## Training Room 902
 
-talk:#docs view corpus/9xx/902
+id: :id:
+date: :date:
+client: :client_name:
 
-talk:#docs view corpus/9xx/902:training
+describe:Welcome to Training Room 902. In this corpus we will continue walking through a conversation training dialogue about the kidnapping of Quinn Michaels.
+
+cmd[Speak Summary]:#slab tts:Amy In Training Room 902 we will continue the discussion about the kidnapping of Quinn Michaels.
+
+talk:#docs view corpus/things:agents
+
+::begin:training
+talk:#adv world:thegame 0902/training
+::end:training
 
 #bgcolor = #ffffff
 #color = #333333
