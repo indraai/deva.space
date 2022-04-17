@@ -1,10 +1,10 @@
 ::BEGIN:LOOK
-You can see Pitala from here.
+p:You can see the Labyrinth Level 2 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
-talk:#docs view vedas/regions/vitala
+# Labyrinth L2
+p:You are in the labyrinth level 2.
 
 #color = #333333
 #bgcolor = #eeeeee

@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Market House from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Market House
+p:You are are at the Market House.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-549|-468]
+::END:MAIN

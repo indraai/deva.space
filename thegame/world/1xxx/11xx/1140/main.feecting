@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see the Town Square Cafe from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1140/title
+
+# Town Square Cafe
+
+p:You are are at the Disneyland Town Square Cafe.
+
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1140/background
+coordinates:11[-589|-656]
+::END:MAIN

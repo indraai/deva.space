@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Emporium from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland Emporium
+
+p:You are are at the Disneyland Emporium.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-390|-594]
+::END:MAIN

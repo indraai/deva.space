@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Plaza Loop (SW) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Plaza Loop (W)
+
+p:You are are at the Disneyland Plaza Loop (SW).
+
+img:thegame/world/1100/dir
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-406|-22]
+::END:MAIN

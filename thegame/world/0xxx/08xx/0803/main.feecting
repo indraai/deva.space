@@ -1,9 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Vitala from here.
+p:You can see Training Room 803 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Vitala
+## Training Room 803
+
+talk:#docs view corpus/8xx/803
+
+talk:#docs view corpus/8xx/803:training
 
 #bgcolor = #ffffff
 #color = #333333

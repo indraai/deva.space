@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see the Club 33 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1233/title
+
+# Club 33
+
+p:You are are at the Club 33.
+
+img:thegame/world/1233/elevator
+
+img:thegame/world/1233/elevator2
+
+#bgcolor = #000000
+#color = #eeeeee
+#bg = thegame/world/1233/background
+coordinates:11-nosq[-431|-665]
+::END:MAIN

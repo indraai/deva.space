@@ -1,9 +1,17 @@
 ::BEGIN:LOOK
+p:You can see the entrance to the World Fight Club.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#docs view vedas/regions/vaikuntha
+# World Fight Club
+
+p:Welcome to the World Fight Club where palyers and agents test their skills both in mind and body.
+
+p:At the World Fight Club we offer lots of fights to participate in like Backyard Brawls and Dark Alley Battles to test your skill.
+p:For those that might not be of a phsyical fighter we have battles of intellect aswell to test your mind prowess against other fighters.
+p:So what ever your flavor if you like battling and are above level 25 then come on in and test yourself to see if you've got what it takes.
 
 #color = #333333
 #bgcolor = #eeeeee
+coordinates:10[-473|-473]
 ::END:MAIN

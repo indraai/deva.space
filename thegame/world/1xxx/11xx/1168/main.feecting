@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the New Century Clock and Watch from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# New Century Clock and Watch
+
+p:You are are at the New Century Clock and Watch.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-409|-450]
+::END:MAIN

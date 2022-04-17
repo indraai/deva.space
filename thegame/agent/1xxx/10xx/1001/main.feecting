@@ -4,11 +4,6 @@ img:thegame/agent/1001/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/1001/avatar
-
-## Dr. James Sneed
-name: Dr. James Sneed
+name: Bloc Fighter
 vector: 0x1001a
-job: Geologist
-employer: National Research Institute
-describe: Dr. Sneed is a geologist for the Natioal Research Instutute specializing in the research of the Bottomless Crevasse in the Toan Glacier of Northern Greenland.
 ::END:LOOK

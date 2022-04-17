@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-You can see the Temple of The Dome
+p:You can see Arjika Tower Level 1 from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## indra.business
-p:You are in indra.business.
+# Arjika Tower
+p:You are in Arjika Tower Level 1
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

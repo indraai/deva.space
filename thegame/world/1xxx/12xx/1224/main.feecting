@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Cafe' Orleans from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1224/title
+
+# Cafe' Orleans
+
+p:You are are at the Cafe' Orleans.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1224/background
+coordinates:11-nosq[-632|-408]
+::END:MAIN

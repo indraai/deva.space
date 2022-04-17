@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Plaza Inn from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Plaza Inn
+p:You are are at the Plaza Inn.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-557|-50]
+::END:MAIN

@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Candy Palace from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Candy Palace
+p:You are are at the Candy Palace.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-402|-232]
+::END:MAIN

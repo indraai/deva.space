@@ -1,0 +1,33 @@
+::BEGIN:AVATAR
+img:thegame/object/10003/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/10003/avatar
+name:Dr. Bruckner Theory
+vector:0x10003o
+
+::begin:theory
+talk:#adv object:thegame 10003/theory
+::end:theory
+::END:LOOK
+
+::BEGIN:THEORY
+## PROFESSOR BRUCKNER'S THEORY
+
+img:thegame/world/10000/blacksun
+
+p:The discovery of the Bottomless Crevasse in Greenland by Dr. Nera Vivaldi supports my theory that the earth is not solid, as has been thought, but that it is hollow. The Bottomless Crevasse is probably the sole route from the earth's surface to a vast "Underground Kingdom." The only other possible link would be an underground river, flowing in alternating directions in response to the tides, but this seems unlikely.
+
+p:How, you may ask, was the earth hollowed out? My studies show that more than a billion years ago a tiny black hole collided with our planet and lodged in its center, pulling the whole molten core into an incredibly massive sphere only a few hundred meters across.
+
+p:If you were to stand on the inner surface of the earth, like a fly on the inner shell of an enormous pumpkin, you would see the black hole directly overhead, like a black sun.
+
+p:The gravity of the earth's thick shell would hold you to the inner shell of the earth, though you would weigh much less than you would on the outer surface because the mass of the Black Sun would tend to pull you toward it. If there were a very tall mountain in the Underground Kingdom and you were to climb to the top of it, you might be pulled up into the Black Sun because gravity gets stronger as you approach a massive object.
+
+p:In all other respects the Black Sun would not be dangerous to any creatures in the Underground Kingdom. On the contrary, the Black Sun would be necessary to life in the underworld, but in the opposite way that the sun is necessary to life on the earth's surface. Our sun gives us heat and keeps us from freezing. The Black Sun absorbs heat. If there is an underground kingdom, it is the Black Sun that keeps its inhabitants from being baked to death by the heat within the earth!
+
+img:thegame/world/10000/hollowearth
+#bgcolor = #ffffff
+#color = #333333
+::END:THEORY

@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-You can see Talatala from here.
+p:You can see the Labyrinth Level 4 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+# Labyrinth L4
+p:You are in the labyrinth level 4.
 
-talk:#docs view vedas/regions/talatala
-
+#color = #333333
+#bgcolor = #eeeeee
 #color = #333333
 #bgcolor = #eeeeee
 coordinates:06[-473|-473]

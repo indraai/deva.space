@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Art Festival from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Art Festival
+p:You are are at the Art Festival.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-557|-390]
+::END:MAIN

@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see Training Room 915 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Training Room 915
+
+talk:#docs view corpus/9xx/915
+
+cmd[BEGIN TRAINING]:#corpus begin:915 :id:
+
+talk:#docs view corpus/9xx/915:training
+
+cmd[END TRAINING]:#corpus end:915 :id:
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:09[-548|-513]
+::END:MAIN

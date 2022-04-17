@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the China Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# China Shop
+p:You are are at the China Shop.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-525|-230]
+::END:MAIN

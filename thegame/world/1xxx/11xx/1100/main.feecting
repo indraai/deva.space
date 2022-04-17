@@ -1,0 +1,32 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Entrance from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1100/title
+
+# Disneyland Entrance
+p:You are are at the Disneyland Entrance.
+
+talk:#wiki summary disneyland
+
+## Tweets
+::begin:twitter
+talk:#twitter timeline:10 disneyland
+::end:twitter
+-
+## YouTube
+::begin:youtube
+talk:#youtube search:10 Disneyland
+::end:youtube
+-
+## Reddit
+::begin:reddit
+talk:#reddit search Disneyland
+::end:reddit
+-
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1100/background
+coordinates:11[-468|-949]
+::END:MAIN

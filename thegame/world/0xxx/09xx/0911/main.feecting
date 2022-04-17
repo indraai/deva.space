@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Training Room 911 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Training Room 911
+
+talk:#docs view corpus/9xx/911
+
+talk:#docs view corpus/9xx/911:training
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:09[-360|-473]
+::END:MAIN

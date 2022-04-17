@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see World Fight Club from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## World Fight Club
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:10[-433|-473]
+::END:MAIN

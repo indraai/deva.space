@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Silhouette Studio from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Silhouette Studio
+p:You are are at the Silhouette Studio.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-525|-269]
+::END:MAIN

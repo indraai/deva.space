@@ -1,13 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Sutala from here.
+p:You can see the Labyrinth Level 3 from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
+# Labyrinth L3
+p:You are in the labyrinth level 3.
 
-talk:#docs view vedas/regions/sutala
-
+#color = #333333
+#bgcolor = #eeeeee
 #color = #333333
 #bgcolor = #eeeeee
 coordinates:07[-473|-473]

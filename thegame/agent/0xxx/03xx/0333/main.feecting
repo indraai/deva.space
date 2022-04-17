@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0333/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0333/avatar
+name: Tyler Deva
+vector: 0x0333a
+
+::END:LOOK

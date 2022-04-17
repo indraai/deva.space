@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Plaza from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1102/title
+
+# Disneyland Plaza
+p:You are are at the Disneyland Plaza.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1102/background
+coordinates:11[-465|14]
+::END:MAIN

@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the One Of A Kind from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1220/title
+
+# One Of A Kind
+
+p:You are are at the One Of A Kind.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1220/background
+coordinates:11-nosq[-647|-616]
+::END:MAIN

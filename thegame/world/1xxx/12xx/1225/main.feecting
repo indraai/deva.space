@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the The Blue Bayou Restaurant from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1225/title
+
+# The Blue Bayou Restaurant
+
+p:You are are at the The Blue Bayou Restaurant.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1225/background
+coordinates:11-nosq[-458|-629]
+::END:MAIN

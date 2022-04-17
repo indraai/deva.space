@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (W) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland Main Street (W)
+
+p:You are are at the Disneyland Main Street (W).
+
+img:thegame/world/1100/dir
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-450|-450]
+::END:MAIN

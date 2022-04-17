@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/10047/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/10047/avatar
+name:The Kota Beast
+vector:0x10047a
+::END:LOOK

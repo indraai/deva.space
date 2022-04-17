@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the New Orleans Square from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# New Orleans Square
+
+p:You are are at the New Orleans Square.
+
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11-nosq[-663|-18]
+::END:MAIN

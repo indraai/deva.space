@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+# The Crisis Room
+
+p:You have found your way into the CRISIS Room... home of the FIXER who will fix you up good... hahahaha.
+
+#bgcolor = #000000
+#color = #eeeeee
+::END:MAIN

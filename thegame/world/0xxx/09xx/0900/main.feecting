@@ -1,9 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Atala Gateway from here.
+p:You can see Training Room 900 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Atala Gateway
+::begin:blips
+talk:#adv world:thegame 0900/training:blips1
+::end:blips
+
 
 #bgcolor = #ffffff
 #color = #333333

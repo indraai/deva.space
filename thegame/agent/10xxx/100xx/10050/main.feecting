@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/10053/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/10053/avatar
+name:The Blue Furred Raka
+vector:0x10053a
+::END:LOOK

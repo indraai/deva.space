@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0335/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0335/avatar
+name: Francis Deva
+vector: 0x0335a
+
+::END:LOOK

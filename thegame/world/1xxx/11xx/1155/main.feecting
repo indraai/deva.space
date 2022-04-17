@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Sunkist Citrus House from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Back Room
+p:You are are at the Disneyland Sunkist Citrus House.
+
+#bgcolor = #000000
+#color = #eeeeee
+coordinates:11[-551|-572]
+::END:MAIN

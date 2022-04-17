@@ -4,6 +4,7 @@ img:thegame/agent/1010/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/1010/avatar
-name:The Agel Bird Fledgling
-vector:0x1010a
+name: The Fixer
+vector: 0x1010a
+describe: The Fixer will fix you right up good... hahahahaha.
 ::END:LOOK

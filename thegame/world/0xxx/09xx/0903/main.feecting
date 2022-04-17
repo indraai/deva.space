@@ -1,9 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Atala from here.
+p:You can see Training Room 903 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Atala
+## Training Room 903
+
+talk:#docs view corpus/9xx/903
+
+talk:#docs view corpus/9xx/903:training
 
 #bgcolor = #ffffff
 #color = #333333

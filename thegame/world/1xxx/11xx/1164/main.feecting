@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Penny Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Penny Arcade
+
+p:You are are at the Penny Arcade.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-400|-285]
+::END:MAIN

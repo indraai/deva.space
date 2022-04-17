@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Candle Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Candle Shop
+
+p:You are are at the Candle Shop.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-362|-480]
+::END:MAIN

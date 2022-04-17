@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+# Backroom Brawls
+
+p:You have found your way into Backroom Brawls where the tooughtest fighters come to show their stuff.
+
+#bgcolor = #000000
+#color = #eeeeee
+::END:MAIN

@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Training Room 908 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Training Room 908
+
+talk:#docs view corpus/9xx/908
+
+talk:#docs view corpus/9xx/908:training
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:09[-395|-513]
+::END:MAIN

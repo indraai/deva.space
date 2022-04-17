@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+::END:LOOK
+
+::BEGIN:MAIN
+# The Back Office
+
+p:The Back Office is where the business for the World Fight Club is handled. To the EAST is The Crisis Room and to the WEST is Backroom Brawls
+
+#bgcolor = #000000
+#color = #eeeeee
+::END:MAIN

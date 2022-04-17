@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Plaza Pavillion from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Plaza Pavillion
+p:You are are at the Plaza Pavillion.
+
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-388|-98]
+::END:MAIN

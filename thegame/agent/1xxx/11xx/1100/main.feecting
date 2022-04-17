@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1100/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1100/avatar
+name: King Barry of Disneyland
+vector: 0x1100a
+::END:LOOK

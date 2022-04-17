@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Underground from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland Underground
+p:You are in the Disneyland Underground. This is not an official part of Disneyland, but you know how things work.  Be careful not to wander too far...
+
+#bgcolor = #000000
+#color = #eeeeee
+coordinates:11[-551|-572]
+::END:MAIN

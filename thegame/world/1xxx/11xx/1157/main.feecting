@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Computer Room from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Computer Room
+p:You are are at the Disneyland Computer Room where the RTC31930 lives.
+
+#bgcolor = #000000
+#color = #eeeeee
+coordinates:11[-551|-572]
+::END:MAIN

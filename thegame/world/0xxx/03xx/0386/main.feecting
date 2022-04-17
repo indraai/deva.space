@@ -1,9 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Atala from here.
+p:You can see Labyrinth Level 1 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#docs view vedas/regions/atala
+# Labyrinth Level 1
+
+p:You have arrived at the Labyrinth Level 1 where players ranging in levels 1-5 can go through quests, advnetuers, battles, and gain experience all while having a good time.
 
 #color = #333333
 #bgcolor = #eeeeee

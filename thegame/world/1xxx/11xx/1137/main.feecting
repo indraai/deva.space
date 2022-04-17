@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (W) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Bank of Arjika
+
+p:You are inside the Disneyland Branch of The Bank of Arjika
+
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-651|-838]
+::END:MAIN

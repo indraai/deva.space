@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Plaza Loop (E) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Plaza Loop (E)
+p:You are are at the Disneyland Plaza Loop (E).
+
+img:thegame/world/1100/dir
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-529|13]
+::END:MAIN

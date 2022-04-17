@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Magic Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# The Magic Shop
+p:You are are at the Disneyland Magic Shop.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-535|-636]
+::END:MAIN

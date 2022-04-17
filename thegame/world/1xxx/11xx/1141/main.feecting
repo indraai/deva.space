@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Coming Attractions from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1141/title
+
+# Disneyland Coming Attractions
+p:You are are at the Disneyland Coming Attractions.
+
+::begin:youtube
+talk:#youtube playlist UUuRtXPHmnpkZetkb8ft7mzw
+::end:youtube
+
+#bgcolor = #000000
+#color = #333333
+coordinates:11[-539|-662]
+::END:MAIN

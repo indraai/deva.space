@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Crystal Arts from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Crystal Arts
+p:You are are at the Crystal Arts.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-525|-300]
+::END:MAIN

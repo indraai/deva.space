@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the The Mad Hatter Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1139/title
+
+# Mad Hatter Shop
+p:You are are at the Mad Hatter Shop.
+
+#bg = thegame/world/1139/background
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-651|-721]
+::END:MAIN

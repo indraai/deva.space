@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see indra.center from here.
+p:You can see Arjika City from here.
 ::END:LOOK
 
 =
@@ -7,25 +7,33 @@ p:You can see indra.center from here.
 ::BEGIN:MAIN
 img:thegame/world/0251/title
 
-## City Center
+## Arjika City
 
-p:You are in City Center.
+p:You are in Arjika City.
 
 ### North
-p:To the look[north] you will find indra.services, indra,care, indra.agency, indra.email, indra.money, indra.house, and indra.agency/n.
-mud[Goto indra.city/n]:n
+p:To the look[north] you will find Serfices, Medical, Security, Post Office, The Bank, Residential Neighborhood.
+mud[NORTH]:n
 
 ### East
-p:To the look[east] you will find indra.store/outfitter, indra.store/fashion, indra.store/water, indra.store/emporium, and indra.agency/e.
-mud[Goto indra.city/e]:e
+p:To the look[east] you will find The Outfitter, Fashion, The Water Store, The Emporium, and Security.
+mud[EAST]:e
 
 ### South
-p:To the look[south] you will find indra.support, indra.care, indra.agency, indra.store/sweets, indra.store/bakery, indra.fun/arcade, indra.city/law, and indra.agency/s.
-mud[Goto indra.city/s]:s
+p:To the look[south] you will Support, Medical, Security, Sweets, Bakery, Arcade, Courts/Law Library.
+mud[SOUTH]:s
 
 ### West
-p:To the look[west] you will find indra.store/grocery, indra.store/jeweler, indra.store/toys, indra.store/body, and indra.agency/w.
-mud[Goto indra.city/w]:w
+p:To the look[west] you will find Groceries, Jeweler, Toys, Bath & Body, and Security.
+mud[WEST]:w
+
+## Up
+P:In the look[up] you will find Arjika Tower where lots of good things are happening.
+mud[UP]:u
+
+## Down
+p:In the look[down] direction you will find the various levels of the Labyrinth and at the bottom is the World Fight Club where the storng test their skills.
+mud[DOWN]:d
 
 #bgcolor = #ffffff
 #color = #333333

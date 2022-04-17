@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the First Aid from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# First Aid
+p:You are are at the First Aid.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-629|-184]
+::END:MAIN

@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/object/1157/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1157/avatar
+## RTC31930
+name: RTC31930
+vector: 0x1157o
+describe: Real Time Computer 31930 does things other computers could only imagine. Specializing in real time calculations that can and do effect reality. The Walt Disney Corporation secretly keeps this computer private from everyone so they can win everything.
+
+::END:LOOK

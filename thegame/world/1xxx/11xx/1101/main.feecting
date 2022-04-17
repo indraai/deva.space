@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Townsquare from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1101/title
+
+# Disneyland Townsquare
+p:You are are at the Disneyland Entrance.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1101/background
+coordinates:11[-467|-777]
+::END:MAIN

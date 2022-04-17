@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Hallmark Communication Center from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Hallmark Communication Center
+p:You are are at the Hallmark Communication Center.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-529|-369]
+::END:MAIN

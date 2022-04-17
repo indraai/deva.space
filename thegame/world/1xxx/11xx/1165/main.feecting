@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Sunkist Citrus House from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Sunkist Citrus House
+
+p:You are are at the Sunkist Citrus House.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-404|-341]
+::END:MAIN

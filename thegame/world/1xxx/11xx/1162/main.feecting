@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Coca Cola Refreshment Center from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Coca Cola Refreshment Center
+p:You are are at the Coca Cola Refreshment Center.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-405|-178]
+::END:MAIN

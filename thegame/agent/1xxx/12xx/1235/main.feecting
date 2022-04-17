@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/1235/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1235/avatar
+name: Alfred
+vector: 0x1235a
+describe: Alfred is the Vulture who listens to everything you say and sends it to the main computer.
+::END:LOOK

@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see the Baby Station from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Baby Station
+p:You are are at the Baby Station.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-582|-193]
+::END:MAIN
