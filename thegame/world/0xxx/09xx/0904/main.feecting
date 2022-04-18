@@ -4,12 +4,18 @@ p:You can see Training Room 904 from here.
 
 ::BEGIN:MAIN
 ## Training Room 904
+id: :id:
+date: :date:
+client: :client_name:
+describe:Welcome to Training Room 904. In this training we will continue walking through a conversation dialogue about the Quinn Michaels kidnapping situation.
 
-talk:#docs view corpus/9xx/904
+cmd[Speak Summary]:#slab tts:Amy In Training Room 904 we will be working through a dialogue on the kidnapping of Quinn Michaels.
 
-talk:#docs view corpus/9xx/904:training
+talk:#docs view corpus/things:agents
 
-#bgcolor = #ffffff
-#color = #333333
+talk:#adv world:thegame 0904/main:training
+
+#color = #eeeeee
+#bgcolor = rbba(0,0,0,.5)
 coordinates:09[-473|-513]
 ::END:MAIN

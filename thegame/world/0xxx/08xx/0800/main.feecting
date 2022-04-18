@@ -9,7 +9,7 @@ talk:#docs view corpus/8xx/800
 
 talk:#docs view corpus/8xx/800:training
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = rgba(0,0,0,.75)
+#color = #eeeeee
 coordinates:08[-473|-432]
 ::END:MAIN

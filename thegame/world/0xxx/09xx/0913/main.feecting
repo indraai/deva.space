@@ -4,12 +4,19 @@ p:You can see Training Room 913 here.
 
 ::BEGIN:MAIN
 ## Training Room 913
+id: :id:
+date: :date:
+client: :client_name:
 
-talk:#docs view corpus/9xx/913
+describe:Welcome to the Training Room 913. In this training room we talk about a grand conpiracy hiding in plain sight.
 
-talk:#docs view corpus/9xx/913:training
+cmd[Speak Summary]:#slab tts:Amy There is a grand conspiracy in the world to keep a Romanov hostage in the United States hiding in plain sight.
 
-#bgcolor = #ffffff
-#color = #333333
+talk:#docs view corpus/things:agents
+
+talk:#adv world:thegame 0913/training:main
+
+#color = #eeeeee
+#bgcolor = rbba(0,0,0,.5)
 coordinates:09[-473|-395]
 ::END:MAIN

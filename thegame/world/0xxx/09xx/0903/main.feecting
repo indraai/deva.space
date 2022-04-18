@@ -4,9 +4,9 @@ p:You can see Training Room 903 from here.
 
 ::BEGIN:MAIN
 ## Training Room 903
-
-date: Tue - April 12, 2022
-
+id: :id:
+date: :date:
+client: :client_name:
 describe: Welcome to Training Room 903. In this training we will continue a conversation dialogue about the Quinn Michaels kidnapping situation.
 
 cmd[Speak Summary]:#slab tts:Amy Training Room 903 is a discussion about the kidnapping of Quinn Michaels by a group named The Covenant.
@@ -17,7 +17,7 @@ talk:#docs view corpus/things:agents
 talk:#adv world:thegame 0903/training
 ::end:training
 
-#bgcolor = #ffffff
-#color = #333333
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
 coordinates:09[-513|-513]
 ::END:MAIN

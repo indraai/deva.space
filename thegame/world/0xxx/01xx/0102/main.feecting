@@ -1,15 +1,18 @@
 ::BEGIN:LOOK
-You can see Innder Arjika.
+p:You can see the Recipe room.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-This appears to be the highest room in the tower of Arjika where only those devoted to the guild of Clerics are allowed to practice their skills and spells to become masters of their discipline.
 
-The walls are covered in a white see through cloth giving one the impression of being inside of a tent rather than in a room.
+p:Some of our favorite recipes.
 
-The room glows brightly, though one cannot tell from what source.
+## Soups
+talk:#adv world:thegame 0102/recipes:soups
+
+#color = #333333
+#bgcolor = #eeeeee
 ::END:MAIN
 
 =

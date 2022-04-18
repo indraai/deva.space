@@ -9,7 +9,7 @@ talk:#docs view corpus/9xx/910
 
 talk:#docs view corpus/9xx/910:training
 
-#bgcolor = #ffffff
-#color = #333333
+#color = #eeeeee
+#bgcolor = rbba(0,0,0,.5)
 coordinates:09[-395|-473]
 ::END:MAIN

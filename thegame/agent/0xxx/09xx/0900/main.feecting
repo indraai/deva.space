@@ -3,7 +3,12 @@ img:thegame/agent/0900/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Trainer 900
 img:thegame/agent/0900/avatar
-name:Bala
+name:Trainer 900
 vector: 0x0900a
+describe: Training Agent 900 is here to help you with your various needs in Training Room 900. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
 ::END:LOOK

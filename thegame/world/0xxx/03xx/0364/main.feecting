@@ -3,10 +3,31 @@ p:You can see the Labyrinth Level 2 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Labyrinth L2
-p:You are in the labyrinth level 2.
+p:You have made it to Training Level 2
 
-#color = #333333
-#bgcolor = #eeeeee
+talk:#youtube video ScEVsbj2uzY
+
+-
+
+cmd[Say - Amy Greeting...]:#corpus say:jess Hello Everybody... I hope everyone is doing well today. We are going to get today's stream started shortly.
+
+cmd[Chat - Individuals in chat...]:#corpus chat:tyler Individuals in chat will turn the conversation to say Trenton was kidnapped. ​Trenton is safe and sound at home with his mother in Oregon pretending like none of this is happening.
+
+cmd[Train - Trenton was never...]:#corpus train:brian Trenton was never Kidnapped, Quinn Michaels is the Kidnapped/child trafficking victim.
+
+cmd[It seems that it is a battle...]:#corpus chat:indra It seems that it is a battle to focus on the kidnapping of Quinn Michaels as it was told by Trenton.
+
+cmd[This is where we can...]:#corpus chat:rahula This is where we can then build dialogue specificially to a stream or video as we go through it's details.
+
+cmd[As the stream moves on...]:#corpus chat:harry You don't mess with Harry... that is hwo it works.
+
+cmd[Then Ben Woo comes here...]:#corpus chat:larry Then Ben Woo comes here to ignore and distract from the kidnapping to talk about himself and use Quinn as his make me feel better cushion.
+
+cmd[That guy is always...]:#corpus chat:jess That guy is always Quinn and his channel as his make himself feel better about myself chat.
+
+cmd[Are we going to start...]:#corpus chat:rahula Are we going to start talking about the Kidnapping situation any time soon?
+
+#color = #eeeeee
+#bgcolor = #rgba(0,0,0,.75)
 coordinates:08[-473|-473]
 ::END:MAIN

@@ -4,12 +4,16 @@ p:You can see Training Room 906 from here.
 
 ::BEGIN:MAIN
 ## Training Room 906
+id: :id:
+date: :date:
+client: :client_name:
+describe: Training Room 906
 
 talk:#docs view corpus/9xx/906
 
 talk:#docs view corpus/9xx/906:training
 
-#bgcolor = #ffffff
-#color = #333333
+#color = #eeeeee
+#bgcolor = rbba(0,0,0,.5)
 coordinates:09[-433|-473]
 ::END:MAIN

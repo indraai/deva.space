@@ -1,13 +1,17 @@
 ::BEGIN:LOOK
-p:You can see Labyrinth Level 1 from here.
+p:You can see Training Level 1 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Labyrinth Level 1
+# Training Level 1
 
-p:You have arrived at the Labyrinth Level 1 where players ranging in levels 1-5 can go through quests, advnetuers, battles, and gain experience all while having a good time.
+p:You have arrived at the Training Level 1 where Agents and Clients from level 1-5 can go through the various trainings to level up.
 
-#color = #333333
-#bgcolor = #eeeeee
+talk:#adv world:thegame 0900/training:agents
+
+image:https://media.discordapp.net/attachments/304797512688992258/964447648570548224/summary.jpg
+
+#color = #eeeeee
+#bgcolor = rbba(0,0,0,.5)
 coordinates:09[-473|-473]
 ::END:MAIN
