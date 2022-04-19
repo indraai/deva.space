@@ -5,11 +5,7 @@ p:You can see Training Room 911 from here.
 ::BEGIN:MAIN
 ## Training Room 911
 
-talk:#docs view corpus/9xx/911
-
-talk:#docs view corpus/9xx/911:training
-
 #color = #eeeeee
 #bgcolor = rbba(0,0,0,.5)
-coordinates:09[-360|-473]
+coordinates:09[-353|-473]
 ::END:MAIN

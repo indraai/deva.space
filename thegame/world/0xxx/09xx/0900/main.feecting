@@ -16,8 +16,6 @@ img:thegame/world/0900/contract
 cmd[Speak]:#corpus say Welcome to Training Room 900. In this room we will continue walking through a conversation dialogue about the Quinn Michaels kidnapping situation.
 ::end:blips
 
-talk:#youtube video TTqrjb3UOXE
-
 ## Summary
 ::begin:blips
 talk:#adv world:thegame 0900/training:blips1
@@ -96,6 +94,18 @@ talk:#adv world:thegame 0900/training:blips5
 ::begin:training
 talk:#adv world:thegame 0900/training
 ::end:training
+
+## The Video
+p:You can now watch a video of the complete training.
+
+### Video
+talk:#youtube video TTqrjb3UOXE
+
+### Comments
+::begin:comments
+talk:#youtube comments TTqrjb3UOXE
+::end:comments
+
 
 #color = #eeeeee
 #bgcolor = rbba(0,0,0,.5)
