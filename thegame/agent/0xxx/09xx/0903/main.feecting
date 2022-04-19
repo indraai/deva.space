@@ -3,8 +3,12 @@ img:thegame/agent/0903/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Trainer 903
 img:thegame/agent/0903/avatar
-# Kamini
-name: Kamini
+name:Trainer 903
 vector: 0x0903a
+describe: Training Agent 903 is here to help you with your various needs in Training Room 903. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
 ::END:LOOK

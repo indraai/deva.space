@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0916/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Trainer 916
+img:thegame/agent/0916/avatar
+name:Trainer 916
+vector: 0x0916a
+describe: Training Agent 916 is here to help you with your various needs in Training Room 916. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

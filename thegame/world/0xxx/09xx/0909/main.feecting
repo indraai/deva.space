@@ -3,10 +3,12 @@ p:You can see Training Room 908 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Training Room 909
+id: :id:
+date: :date:
+client: :client_name:
 
 
 #color = #eeeeee
-#bgcolor = rbba(0,0,0,.5)
-coordinates:09[-353|-513]
+#bgcolor = rgba(0,0,0,.5)
+coordinates:09[-352|-513]
 ::END:MAIN

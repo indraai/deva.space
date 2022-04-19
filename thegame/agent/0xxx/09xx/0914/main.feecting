@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0914/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Trainer 914
+img:thegame/agent/0914/avatar
+name:Trainer 914
+vector: 0x0914a
+describe: Training Agent 914 is here to help you with your various needs in Training Room 914. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

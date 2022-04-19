@@ -3,16 +3,15 @@ p:You can see Training Room 901 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Training Room 901
 id: :id:
 date: :date:
 client: :client_name:
-describe:Welcome to the kidnapping Training Room 901. In this room we will continue walking through a conversation about the Quinn Michaels kidnapping situation.
 
-cmd[Speak Summary]:#slab tts:Amy In Training Room 901 we continue our conversation about the kidnapping of Quinn Michaels by The Covenant.
-
+::begin:summary
+talk:#adv world:thegame 0901/training:summary
+::end:summary
 ::begin:training
-talk:#adv world:thegame 0901/training
+talk:#adv world:thegame 0901/training:main
 ::end:training
 
 ::begin:training
@@ -20,6 +19,6 @@ talk:#adv world:thegame 0901/training:youtube
 ::end:training
 
 #color = #eeeeee
-#bgcolor = rbba(0,0,0,.5)
+#bgcolor = rgba(0,0,0,.5)
 coordinates:09[-513|-432]
 ::END:MAIN

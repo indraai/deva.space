@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0908/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Trainer 908
+img:thegame/agent/0908/avatar
+name:Trainer 908
+vector: 0x0908a
+describe: Training Agent 908 is here to help you with your various needs in Training Room 908. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

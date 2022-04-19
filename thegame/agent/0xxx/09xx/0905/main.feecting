@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0905/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Trainer 905
+img:thegame/agent/0905/avatar
+name:Trainer 905
+vector: 0x0905a
+describe: Training Agent 905 is here to help you with your various needs in Training Room 905. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

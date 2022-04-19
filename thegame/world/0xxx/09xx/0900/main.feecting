@@ -108,6 +108,6 @@ talk:#youtube comments TTqrjb3UOXE
 
 
 #color = #eeeeee
-#bgcolor = rbba(0,0,0,.5)
+#bgcolor = rgba(0,0,0,.5)
 coordinates:09[-473|-432]
 ::END:MAIN

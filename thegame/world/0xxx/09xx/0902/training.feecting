@@ -1,3 +1,9 @@
+::BEGIN:SUMMARY
+describe:Welcome to Training Room 902. In this corpus we will continue walking through a conversation training dialogue about the kidnapping of Quinn Michaels.
+
+cmd[Speak Summary]:#slab tts:Amy In Training Room 902 we will continue the discussion about the kidnapping of Quinn Michaels.
+::END:SUMMARY
+====
 ::BEGIN:MAIN
 cmd:#corpus say The story would take a turn in October 2015 when  _#Quinn would attend a choir concert at Trenton's _#MiddleSchool.
 

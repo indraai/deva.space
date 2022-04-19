@@ -1,3 +1,10 @@
+::BEGIN:SUMMARY
+describe:Welcome to the kidnapping Training Room 901. In this room we will continue walking through a conversation about the Quinn Michaels kidnapping situation.
+
+cmd[Speak Summary]:#slab tts:Amy In Training Room 901 we continue our conversation about the kidnapping of Quinn Michaels by The Covenant.
+
+::END:SUMMARY
+====
 ::BEGIN:MAIN
 cmd:#corpus say The _#Trenton Story began in September of 2015 when _#Quinn was showing his son _#Trenton a video he had made about _#Buddhism and _#Water.
 

@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0909/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Trainer 909
+img:thegame/agent/0909/avatar
+name:Trainer 909
+vector: 0x0909a
+describe: Training Agent 909 is here to help you with your various needs in Training Room 909. He is here to answer questions and assist you along the way in your program.
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

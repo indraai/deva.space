@@ -1,0 +1,36 @@
+::BEGIN:AVATAR
+img:thegame/agent/0915/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0915/avatar
+name: FBI Trainer 915
+vector: 0x0915a
+describe: FBI Trainer 915 is here to help us learn all about the the FBI.
+
+cmd:#slab voice:Joey
+cmd:#slab tts The FBI has a reputation of coming in guns blazing, and constant rumors of corruption have plagued the agency.
+
+cmd:#slab tts Often times when you have to deal with the worst of the worst on a daily basis it can be difficult to maintain your compassionate side.
+
+cmd:#slab tts Beyond assisting Agents in procedures, investigations, and other required duties. The Quinndiana Jones and The Temple of SecurityPRIME Multi-Agent System can help maintain your compassionate side.
+
+cmd:#slab tts By placing Digital Agents and information in certain places and perspectives, and using our Multi Agent System the FBI can go way above and beyond their call of duty.
+
+cmd:#slab tts Beyond protecting citizens from criminals it should also be about ensuring civilians that they are safe and Agencies like the FBI are watching over that safety when they sleep at night.
+
+cmd:#slab tts Using our Multi-Agent System various Agents can monitor Wikipedia information, Youtube Channels, Twitch Channels, Twitter feeds, Reddit posts, Discord Servers,  IBM Watson Analysis, and many  other information sources that can be gathered into one place.
+
+cmd:#slab tts This is all possible with a custom programming language called Feecting.
+
+cmd:#slab tts Feecting is a key-value pair data driven meta language that allows Agents to write simple documents that can collect live-data from various available sources.
+
+cmd:#slab tts With a companion light weight user interface, custom web-socket client, telnet client, and http client. Our system is built to do it's job today and grow into the unknown jobs of tomorrow.
+
+cmd:#slab tts Thank you for your time, and have a wonderful day. It has been a pleasure speaking with you.
+
+cmd[Return to main screen...]:#mud look
+
+#color = #333333
+#bgcolor = #ffffff
+::END:LOOK

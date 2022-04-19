@@ -3,13 +3,12 @@ p:You can see Training Room 916 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Training Room 916
+id: :id:
+date: :date:
+client: :client_name:
 
-talk:#docs view corpus/9xx/916
 
-talk:#docs view corpus/9xx/916:training
-
-#bgcolor = #ffffff
-#color = #333333
-coordinates:09[-473|-548]
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+coordinates:09[-473|-553]
 ::END:MAIN
