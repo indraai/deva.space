@@ -9,7 +9,7 @@ p:A few tides later you and Dr. Vivaldi set out for the Weightless Peaks. With y
 
 p:On the trek from the Archpod village to the Weightless Peaks, Katu tells you the legend of the Archpods who traveled through a shaft that led to a new universe. Few Archpods believed there could be such a place. Most of them thought that the earth was infinitely thick, that nothing could lie beyond it.
 
-img:thegame/world/1085/peaks
+img:thegame/world/10085/peaks
 
 p:"Now that human beings have arrived, we know that there is a whole new world right under our feet. We call your world the Nether World," she says. "We are curious about it. But we are also afraid of it, and of its creatures who could destroy us."
 
@@ -25,7 +25,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 85
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

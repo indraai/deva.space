@@ -18,7 +18,7 @@ mud[Just too dangerous...]:s
 
 talk:#adv hash add 27
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -9,7 +9,7 @@ p:You can see giving advice from here.
 
 p:From then on you and Dr. Vivaldi are treated like honored guests. The Archpods bring you baskets heaped with tanga, and cakes made from golden grain.
 
-img:thegame/world/1078/guests
+img:thegame/world/10078/guests
 
 p:They show you their mineral pools where you swim in the swirling, bubbly water.
 
@@ -26,7 +26,7 @@ mud[Return to the surface...]:s
 
 talk:#adv hash add 78
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

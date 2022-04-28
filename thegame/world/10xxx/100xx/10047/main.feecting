@@ -10,7 +10,7 @@ p:You can see something behind you.
 p:Now the moaning comes from behind you.
 p:Turning, you see another pair of blue lights. Beneath them are long, glistening fangs. Slowly the creatures closes in on you; their moans rise into high-pitched shrieks. What are they?
 
-img:thegame/world/1047/fangers
+img:thegame/world/10047/fangers
 
 p:You have only a few seconds to live, so it hardly matters.
 
@@ -20,7 +20,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 47
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

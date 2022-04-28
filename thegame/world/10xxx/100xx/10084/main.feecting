@@ -13,7 +13,7 @@ p:He turns to the others behind him. "Bind them and take them to the Mouth of Fi
 
 p:You cry out for mercy, but you know there will be none.
 
-img:thegame/world/1084/betray
+img:thegame/world/10084/betray
 
 p:The End
 
@@ -21,7 +21,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 84
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

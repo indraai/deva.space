@@ -10,7 +10,7 @@ p:You can see inside the agon.
 
 p:The interior of the agon, as it seems to be called, is lit by glowing stones circling the inner wall. In the center is a small fountain. Clear water bubbles forth and flows along a silver trough before disappearing underground. The floor is soft and spongy, like a thick bed of moss.
 
-img:thegame/world/1044/agon
+img:thegame/world/10044/agon
 
 p:The leader steps forward. "Ket," he says, pointing to himself. "Ket Raka." Pointing to the others, he says, "Akim Raka, Tor Raka ..."
 
@@ -33,7 +33,7 @@ mud[Refuse to follow...]:s
 
 talk:#adv hash add 44
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

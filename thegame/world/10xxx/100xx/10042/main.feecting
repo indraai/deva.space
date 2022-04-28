@@ -10,7 +10,7 @@ p:You can see stepping forward from here.
 
 p:You step forward to meet the strange procession.
 
-img:thegame/world/1042/creatures
+img:thegame/world/10042/creatures
 
 p:The underworld creatures form a circle around you, cackling and gesturing to each other.
 
@@ -34,7 +34,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 42
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -17,7 +17,7 @@ p:"Good luck. . . . " Dr. Vivaldi's voice fades as the guards march you out of t
 
 p:A few minutes later you are standing in the central agon.
 
-img:thegame/world/1070/akpar
+img:thegame/world/10070/akpar
 
 p:Facing you is the Grand Akpar. His long, silky fur is combed like an oval frame around his stern, gray face. A pendant made of smooth black stone hangs from his neck.
 
@@ -34,7 +34,7 @@ mud[Refuse to help...]:s
 
 talk:#adv hash add 70
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

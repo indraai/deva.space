@@ -8,7 +8,7 @@ p:You can see the Great Bird from here.
 
 p:You stand there and watch as the strange creature walks slowly toward you. Then you see the large, blue-white pieces of broken shell. This angel bird is only a fledgling, just hatched!
 
-img:thegame/world/1010/bird
+img:thegame/world/10010/bird
 
 p:Losing your fear, you walk up and stroke the creature gently. It cocks its head to the side and touches you with one of its wings. At that moment it seems almost human.
 
@@ -20,7 +20,7 @@ mud[Dive to the ground and shield yourself...]:s
 
 talk:#adv hash add 10
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

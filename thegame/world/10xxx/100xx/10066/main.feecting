@@ -12,7 +12,7 @@ p:Trying to act unafraid, you row straight in to shore, hop out of the boat, and
 
 p:You soon find that the Archpods live in agons similar to those of the Rakas. Your captors lead you into the largest one, where you expect to be presented to their chief. Instead, a woman calls your name.
 
-img:thegame/world/1066/vivaldi
+img:thegame/world/10066/vivaldi
 
 p:It's Dr. Vivaldi!
 
@@ -20,7 +20,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 66
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -10,7 +10,7 @@ p:You can see the diamonds from here.
 p:"Look at all those diamonds," you say. "I'm surprised the Archpods haven't already taken
 them."
 
-img:thegame/world/1091/diamonds
+img:thegame/world/10091/diamonds
 
 p:"Villa tarem, zaark!" One of the Archpods is screaming. Several of them point to the north.
 "Tarem Agax!"
@@ -33,7 +33,7 @@ mud[You want to turn back...]:s
 
 talk:#adv hash add 91
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

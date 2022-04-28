@@ -10,7 +10,7 @@ p:Your whole body is racked with pain as you crash onto the ledge. You're shaken
 
 p:"HELP!" you cry.
 
-img:thegame/world/1005/ledge
+img:thegame/world/10005/ledge
 
 p:"Hold on!" Larsen yells. "It's going to be tricky, but we're rigging our ropes. We'll get you up."
 
@@ -28,7 +28,7 @@ mud[Yell Please Hurry!...]:s
 talk:#adv hash add 5
 
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

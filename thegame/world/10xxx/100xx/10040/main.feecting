@@ -9,7 +9,7 @@ You can see the landscape from here.
 
 p:The scene around you reminds you of a photographic negative. All the shades and colors seem reversed. The ground is grayish pink clay with white outcroppings. In the distance you can see areas that glow like beds of hot coals. Nearby is a forest of trees with green trunks and white leaves.
 
-img:thegame/world/1040/landscape
+img:thegame/world/10040/landscape
 
 p:The trees are short; yet their branches, taking advantage of the light gravity, spread out for hundreds of feet in all directions.
 
@@ -29,12 +29,12 @@ mud[Continue...]:w
 
 talk:#adv hash add 40
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
 
 ::BEGIN:SCENE
-img:thegame/world/1040/scene
+img:thegame/world/10040/scene
 ::END:SCENE
 ====

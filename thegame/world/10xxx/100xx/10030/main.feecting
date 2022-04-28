@@ -15,7 +15,7 @@ p:From then on, you follow the news eagerly, hoping to hear some report on Profe
 
 extra:PROFESSOR AND PARTY MISSING IN WORLD'S MOST DANGEROUS ICE FIELDS!
 
-img:thegame/world/1030/party
+img:thegame/world/10030/party
 
 p:In the months that follow you hear nothing further about the Bottomless Crevasse, until one night, watching the news, you hear an interview with two scientists who claim to have picked up radio signals coming from inside the earth. "We can't explain their seemingly impossible origin," one of them reports, "nor can we decipher the message, except for two words, All Safe."
 
@@ -27,7 +27,7 @@ mud[Continue...]:w
 
 talk:#adv hash add 30
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

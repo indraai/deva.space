@@ -9,7 +9,7 @@ p:You can see the Kota Beasts from here.
 
 p:Suddenly, you feel a presence. Looking around, you see pairs of bright blue lights staring at you.
 
-img:thegame/world/1072/kota
+img:thegame/world/10072/kota
 
 p:Then you see brown bristly faces, iron fangs, and long curled claws. Kota beasts! The last sounds you hear are their unearthly shrieks of triumph.
 
@@ -19,7 +19,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 72
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

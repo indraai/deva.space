@@ -11,7 +11,7 @@ p:"I don't believe the Archpods are running from nothing," you say. "Let's get o
 
 p:"OK!" Dr. Vivaldi starts back across the field of white clay, and you are right behind her.
 
-img:thegame/world/1097/nothing
+img:thegame/world/10097/nothing
 
 p:Running as fast as you can, still loaded down by your pack, you feel a rumbling beneath your feet. The ground begins to split apart. Great slivers of clay are heaved up. Wide cracks open around you. You think back to when you fell into the Bottomless Crevasse in Greenland. This time there may be no escape.
 
@@ -24,7 +24,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 97
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

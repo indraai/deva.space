@@ -13,7 +13,7 @@ p:"Why is it so bright?"
 
 p:You are interrupted by cries from Mopur.
 
-img:thegame/world/1092/birds
+img:thegame/world/10092/birds
 
 p:"Clera! The Flying Clera!"
 
@@ -52,7 +52,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 92
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

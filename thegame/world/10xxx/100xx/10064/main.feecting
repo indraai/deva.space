@@ -12,7 +12,7 @@ p:So, the Great River must be an underground link between the earth's seas.
 
 p:The tides were with you and carried you through the earth's mantle and crust to the surface. There's land nearby. And you notice a faint glow on the horizon.
 
-img:thegame/world/1064/sun
+img:thegame/world/10064/sun
 
 p:Soon the sun will be rising, not the cold Black Sun of the Underground Kingdom, but your own warm, bright, life-giving sun!
 
@@ -22,7 +22,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 64
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

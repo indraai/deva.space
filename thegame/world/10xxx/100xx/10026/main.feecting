@@ -9,7 +9,7 @@ p:You can see passing months from here.
 
 p:Three months have passed. You return home late one afternoon to find a man waiting at your front door. "I'm Professor Bruckner. From the National Research Institute in Washington." He shakes your hand warmly.
 
-img:thegame/world/1026/bruckner
+img:thegame/world/10026/bruckner
 
 p:"Please come in. Are you still studying the Bottomless Crevasse?"
 
@@ -19,7 +19,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 26
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

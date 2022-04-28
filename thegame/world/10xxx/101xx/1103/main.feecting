@@ -22,7 +22,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 103
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

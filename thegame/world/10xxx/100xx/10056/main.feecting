@@ -16,7 +16,7 @@ p:As you dart through the groves of duster-leaf trees, you can hear the cries of
 
 p:You quickly untie it, and push off as you jump aboard. The current soon takes you around a bend in the river and safely out of sight.
 
-img:thegame/world/1056/raft
+img:thegame/world/10056/raft
 
 p:You lie low on the raft, afraid of landing until you are well past Rakmara. Now you have time to think. Where will the river take you? What will be your fate?
 
@@ -24,7 +24,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 55
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

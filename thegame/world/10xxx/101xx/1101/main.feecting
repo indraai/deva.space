@@ -21,7 +21,7 @@ mud[Containue...]:e
 
 talk:#adv hash add 101
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

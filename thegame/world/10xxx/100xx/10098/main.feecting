@@ -14,7 +14,7 @@ p:Led by the Archpod guide, you begin the long trek back to the Great River.
 
 p:Six tides have passed before your party descends the mountain trail into the valley of the Great River. You are eager to get back to the Bottomless Crevasse—your only hope of returning to the surface of the earth and home. As you strain your eyes, looking for the Raka village, you see two figures headed toward you up the trail.
 
-img:thegame/world/1098/valley
+img:thegame/world/10098/valley
 
 p:They're human!
 
@@ -28,7 +28,7 @@ mud[Continue]:w
 
 talk:#adv hash add 98
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

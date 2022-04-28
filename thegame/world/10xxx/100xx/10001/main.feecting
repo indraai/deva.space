@@ -10,7 +10,7 @@ p:You are standing on the Toan Glacier in nortern Greenland, staring down into t
 
 p:Standing next to you are Gunnar Larsen of the National Research Institute and Dr. James Sneed, a geologist.
 
-img:thegame/world/1001/crevasse
+img:thegame/world/10001/crevasse
 
 p:A small black box containing a signal transmitter is suspended over the crevasse by two long poles. The transmitter is wired to a console a few yards away in the ice. Dr. Sneed turns a dial as he monitors the display screen.
 
@@ -36,7 +36,7 @@ mud[Continue to the edge...]:n
 
 talk:#adv hash add 1
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

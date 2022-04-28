@@ -18,7 +18,7 @@ p:"Ig riba!" the Rakas shout. "Ig zaark!" They begin to unload the heavy brakpa.
 
 p:Frantically you help, but at the sight of the boiling white rapids ahead, you lose heart. Moments later the boat smashes into the rocks, and you and the Raka warriors are swept away by the raging torrent.
 
-img:thegame/world/1062/rapids
+img:thegame/world/10062/rapids
 
 p:The End
 
@@ -26,7 +26,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 62
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

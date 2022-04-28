@@ -10,7 +10,7 @@ p:You can see the frozen slope.
 
 p:As you trudge across the frozen slope to the village, you think about the angel bird and the Underground Kingdom, and you think how much more there must be in the universe, and even on our own planet, than we can ever imagine.
 
-img:thegame/world/1023/scene
+img:thegame/world/10023/scene
 
 p:The End
 
@@ -18,7 +18,7 @@ talk:#adv world:thegame 1000/thankyou
 
 talk:#adv hash add 23
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

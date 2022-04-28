@@ -8,7 +8,7 @@ p:You can see the bird gliding
 
 p:The angel bird glides through the canyons and corridors beneath the earth. It increases its speed, and you hold tight as it swoops through long, curving passageways. It's the most exciting ride of your life, and would certainly be the scariest if you didn't feel that you've never been safer.
 
-img:thegame/world/1016/bird
+img:thegame/world/10016/bird
 
 p:Then, ahead of you, is a tunnel that flares out into a broad new world. An endless landscape stretches before you. It is bathed in soft, reddish light, as if the sun had just set everywhere around you!
 
@@ -23,7 +23,7 @@ mud[Concentrate on getting home...]:s
 
 talk:#adv hash add 16
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

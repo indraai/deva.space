@@ -14,7 +14,7 @@ p:When you reach the central agon the bluefurred Raka lets out a long, low hooti
 
 p:A large black disc hangs from his neck. For a long time he stares at you. Finally he rises and steps closer. "So, you are what my hunters found. My name is Arton. I am the High Raka of the village of Rakmara."
 
-img:thegame/world/1048/arton
+img:thegame/world/10048/arton
 
 p:You are so startled by the familiar words that it takes you a minute to answer. "How is it you speak my language?" you finally ask.
 
@@ -40,7 +40,7 @@ mud[Continue...]:e
 
 talk:#adv hash add 48
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

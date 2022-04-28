@@ -10,7 +10,7 @@ p:You can see the war boat from here.
 
 p:The Raka hunters are clumsy at rowing, and the boat is so heavy that a few small waves would easily swamp it. You realize you might be able to swim to shore before the Rakas could turn around and catch you.
 
-img:thegame/world/1055/boat
+img:thegame/world/10055/boat
 
 p:It's risky, but it's your only chance to avoid the war!
 
@@ -19,7 +19,7 @@ mud[Stay with the war boat...]:s
 
 talk:#adv hash add 55
 
-#bg = thegame/world/1000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
