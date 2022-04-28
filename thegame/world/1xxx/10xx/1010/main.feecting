@@ -2,9 +2,11 @@
 ::END:LOOK
 
 ::BEGIN:MAIN
-# The Crisis Room
+# The Rasakunda Room
 
-p:You have found your way into the CRISIS Room... home of the FIXER who will fix you up good... hahahaha.
+p:You have found your way into the Rasakunda Room... home of Aryaka and the Nectar that will fix you up good... hahahaha.
+
+link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
 
 #bgcolor = #000000
 #color = #eeeeee
