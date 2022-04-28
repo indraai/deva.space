@@ -1,0 +1,62 @@
+::BEGIN:SUMMARY
+p[speak]:In Training Room 915 we will be building a professional corpus to train agents on the topic FBI. Here you will find tweets, videos, and other information relating to training the Agents.
+::END:SUMMARY
+
+::BEGIN:MAIN
+talk:#wiki summary fbi
+
+::begin:blips
+p[speak]:tts This portion of the corpus we bring in the Wikipedia summary, so all the agents learn from the same information.
+::end:blips
+
+::begin:youtube
+talk:#youtube channel UCpE5S-iuV221aM4vxaHbU6w
+::end:youtube
+
+::begin:blips
+p[speak]:Next you can see the corpus brings in the information from the official FBI Youtube page. This ensures that every Agent trained with the latest information.
+::end:blips
+
+::begin:youtube
+talk:#youtube playlist UUpE5S-iuV221aM4vxaHbU6w
+::end:youtube
+
+::begin:blips
+p[speak]:After the channel information is loaded we grab the video uploads, so that Agents can train against the latest videos from the FBI Youtube Channel.
+::end:blips
+
+
+::begin:twitter
+talk:#twitter user fbi
+::end:twitter
+
+::begin:blips
+p[speak]:After the Agent is done training on the Youtube Videos they jump to the Twitter profile where they can see the FBI latest tweets.
+::end:blips
+
+::begin:twitter
+talk:#twitter timeline fbi
+::end:twitter
+
+### Videos: #FBI #KIDNAPPING
+::begin:youtube
+talk:#youtube search:5 #FBI #Kidnapping
+::end:youtube
+
+::begin:blips
+p[speak]:We can also include latest search results for any topic of interest from the Youtube Data API.
+::end:blips
+
+--
+
+### Tweets: #FBI #KIDNAPPING
+::begin:twitter
+talk:#twitter search #fbi #kidnapping
+::end:twitter
+
+::begin:blips
+cmd[Speak]:#slab tts Next we include the latest twitter search results for our desired topic to keep upto day on what is happening now.
+cmd[Speak]:#slab tts This concludes our short demonstration of Quinn Michaels multi agent system, and information sharing related to the kidnapping situation.
+cmd[Speak]:#slab tts If you are a Government Entity or Military Branch of the United States of America, and are interested in using the Quinn Michaels system please contact _#SecurityPRIME for licensing information.
+::end:blips
+::END:MAIN

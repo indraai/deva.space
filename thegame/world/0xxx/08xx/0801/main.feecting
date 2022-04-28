@@ -5,9 +5,6 @@ p:You can see Training Room 801 from here.
 ::BEGIN:MAIN
 ## Training Room 801
 
-talk:#docs view corpus/8xx/801
-
-talk:#docs view corpus/8xx/801:training
 
 #bgcolor = #ffffff
 #color = #333333

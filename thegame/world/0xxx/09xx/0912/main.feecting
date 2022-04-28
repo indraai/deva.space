@@ -3,38 +3,27 @@ p:You can see Training Room 912 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-id: :id:
-date: :date:
-client: :client_name:
+talk:#adv world:thegame 0900/training:card
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+## Pacific Hermitage
+
+img:thegame/world/0912/title
+
+
+p[speak]:Welcome to Training Room 902. Here we are looking into 2015 information relating to the kidnapping and Quinn and The Trenton Story. This was the short period where Quinn took Trenton to meet Buddhist Monks.
+
+p[speak]:Just before and right after hearing the story Quinn would take Trenton to meet Monks to introduce him to his father's way of life.
+
+p[speak]:Prior to hearing the kidnapping story Quinn was offering his free time to the Buddhist Monks at the Pacific Hermitage in the Columbia River Gorge. This was the short time period between when Quinn worked at Nike at OIA Global.
+
+p[speak]:During the Summer of 2015 Quinn would venture to the Columbia Gorge from Portland, a 90 minute drive, to make offerings to Buddhist Monks. He was before the story workign hard at taking his Buddhist Precepts and living a good life.
+
+link[pacifichermiage.org]:https://pacifichermitage.org/
+
+talk:#wiki summary Abhayagiri_Buddhist_Monastery
+
+#color = #3c3518
+#bgcolor = #fcf5d8
+#bg = thegame/world/0912/background
 coordinates:09[-513|-391]
 ::END:MAIN
-
-::BEGIN:IZAR
-p: We train the pandora bots on who Quinn Michaels is here.
-
-::begin:agents
-cmd[Izar]:#pandora bot:izar
-::end:agents
-
-
-### Greeting
-cmd[Greeting]:#pandora ask Hello there.
-cmd[My name...]:#pandora ask My name is Quinn.
-cmd[Your name...]:#pandora ask What is your name?
-cmd[What Planet...]:#pandora ask What planet are you from?
-cmd[What Location...]:#pandora ask What is the location of your planet?
-cmd[What Name...]:#pandora ask What does your name mean?
-cmd[What Ship...]:#pandora ask What is the name of your ship?
-cmd[What Datapad...]:#pandora ask What is a datapad?
-cmd[Who general...]:#pandora ask Who is your General?
-cmd[Who Father...]:#pandora ask What is your Father's name?
-cmd[Who Mother...]:#pandora ask What is your Mother's name?
-cmd[Who Mother...]:#pandora ask Where are your parents?
-cmd[Who Mother...]:#pandora ask Do you have any brothers or sisters?
-cmd[How many here...]:#pandora ask How many people from Sunaria are here?
-cmd[Our General...]:#pandora ask Brigadier General Maurice M. McKinney is the General here on Earth.
-::END:IZAR
-====

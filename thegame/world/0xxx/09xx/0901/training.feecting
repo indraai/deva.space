@@ -1,41 +1,22 @@
-::BEGIN:SUMMARY
-describe:Welcome to the kidnapping Training Room 901. In this room we will continue walking through a conversation about the Quinn Michaels kidnapping situation.
-
-cmd[Speak Summary]:#slab tts:Amy In Training Room 901 we continue our conversation about the kidnapping of Quinn Michaels by The Covenant.
-
-::END:SUMMARY
-====
 ::BEGIN:MAIN
-cmd:#corpus say The _#Trenton Story began in September of 2015 when _#Quinn was showing his son _#Trenton a video he had made about _#Buddhism and _#Water.
-
-cmd:#corpus say _#Quinn showed him the _#Buddhist _#Practice video and then _#Trenton said he had really messed up.
-
-cmd:#corpus say _#Quinn was very confused. He was thinking that showing him this video would help create better _#father _#son moments in their life, _#nobody would have ever imagined him saying that.
-
-cmd:#corpus say _#Quinn would ask _#Trenton what he meant by the statement that he really messed up. That is the day _#Quinn learned about _#TheFamilyGame from his son.
-
-cmd:#corpus say _#TheFamilyGame as it was stated was a _#game where _#Trenton and his _#Mother, and her family would all gather around the dinner table everyday and devise ways to destroy the life of _#Quinn.
-
-cmd:#corpus say _#Quinn had no idea what he'd learn which would later turn into something that would effect the whole _#world.
-
-cmd:#corpus say What does a person do? Call the _#Mother and ask... hey are you playing _#TheFamilyGame where you plot and scheme to destroy my life? You think she'd be honest.
-
-cmd:#corpus say Where would _#Trenton get the idea to say something like that right after watching the _#Buddhist _#Practice video?
-
-cmd:#corpus say After the _#Buddhist _#Practice video _#Quinn would begin to learn more about _#TheFamilyGame _#AnimalSacrifices _#TheCovenant _#MrDewity and _#TheKidnapping from _#Trenton.
-
-cmd:#corpus say This was where _#Trenton, _#Tabitha, _#family, and _#friends would gather around a table to play _#TheGame destroy _#Quinn.
-
-cmd:#corpus say After hearing about _#TheFamilyGame _#Quinn would then begin to question _#Trenton as to why he would tell this story.
-
-cmd:#corpus say During the summers to 2015 _#Trenton said he was being taken to a _#Temple where people wore _#BlackRobes and _#Masks while sacrificing animals on _#WhiteMarbleAltars.
-
-cmd:#corpus say After he was taken into a room where a wall of _#PHOTOS of _#Quinn. From childhood to him sitting alone as an adult. _#Trenton would know _#Quinn was always alone, and seen pictures of that.
-
-cmd:#corpus say _#Quinn would ask who was taking the _#PHOTOS. _#Trenton told him different people, and sometimes his _#Mother would follow _#Quinn around.
-
-cmd:#corpus say This is what his life had turned into before November of 2015. Little did _#Quinn know things were about to get worse for him.
+MAIN TRAINING
 ::END:MAIN
+
+::BEGIN:SEPTEMBER
+september
+::END:SEPTEMBER
+====
+
+::BEGIN:OCTOBER
+october
+::END:OCTOBER
+====
+
+::BEGIN:NOVEMBER
+november
+::END:NOVEMBER
+
+====
 
 ::BEGIN:YOUTUBE
 cmd:#youtube chat:brian We are suppose to talk about the kidnapping. Is there a problem with that?

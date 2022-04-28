@@ -3,13 +3,16 @@ p:You can see Training Level 1 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Training Level 1
+img:thegame/world/0900/contract
 
-p:You have arrived at the Training Level 1 where Agents and Clients from level 1-5 can go through the various trainings to level up.
+img:thegame/world/0903/title
 
-talk:#adv world:thegame 0900/training:agents
+p:You have arrived at the Training Level 1 please move north to begin your trianing.
 
-image:https://media.discordapp.net/attachments/304797512688992258/964447648570548224/summary.jpg
+talk:#docs view videos/current:main
+
+talk:#docs view emojis:main
+
 
 #color = #eeeeee
 #bgcolor = rbba(0,0,0,.5)

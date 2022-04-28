@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0015/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0015/avatar
+name: Agni
+vector: 0x0015a
+::END:LOOK

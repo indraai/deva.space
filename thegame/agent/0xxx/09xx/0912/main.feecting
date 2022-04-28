@@ -5,9 +5,18 @@ img:thegame/agent/0912/avatar
 ::BEGIN:LOOK
 ## Trainer 912
 img:thegame/agent/0912/avatar
-name:Trainer 912
+name:Ajahn Sudanto
 vector: 0x0912a
-describe: Training Agent 912 is here to help you with your various needs in Training Room 912. He is here to answer questions and assist you along the way in your program.
+
+p[speak]:Born in Portland, Oregon in 1968, Ajahn Sudanto became interested in Buddhism and Indian spiritual traditions while completing a Bachelor of Fine Arts from the University of Oregon. After graduation he set off for a open-ended period of travel and spiritual seeking in India and Southeast Asia.
+
+p[speak]:After a year of traveling, he proceeded to Thailand to begin a period of intensive study and meditation, which drew him to Wat Pah Nanachat in the Northeast of Thailand.
+
+p[speak]:There he met Ajahn Pasanno (then the abbot) and requested to ordain and train with the resident community, taking full ordination as a bhikkhu in 1994. After training for five years at Wat Pah Nanachat and various branch monasteries in the Ajahn Chah tradition, he came to Abhayagiri to live and train with the emerging sangha in America.
+
+p[speak]:Ajahn spent the summer of 2007 together with Ajahn Karunadhammo in the Columbia River Gorge on retreat in an impromptu forest hermitage supported by the Portland Friends of the Dhamma. Later he was asked by the Abhayagiri community to lead the effort to establish the Pacific Hermitage in 2010.
+
+p[speak]:Ajahn Sudanto is on sabbatical for the entirety of 2021 and winter of 2022. He was residing at Abhayagiri Monastery for his first year away in 2021 and is spending the winter at Birken Monastery in British Columbia until his return in early Spring, 2022.
 
 #bgcolor = #ffffff
 #color = #333333

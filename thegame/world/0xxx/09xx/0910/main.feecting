@@ -3,9 +3,32 @@ p:You can see Training Room 910 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-id: :id:
-date: :date:
-client: :client_name:
+talk:#adv thegame:world 0900/training:card
+
+title:#PROJECT300
+date:Oct 2, 2014
+
+cmd:#pastebin view 6fUhmAvC
+
+::begin:pastebin
+talk:#pastebin view 6fUhmAvC
+::end:pastebin
+
+talk:#wiki summary List_of_intelligence_agencies
+
+talk:#wiki summary Society_of_Jesus
+
+talk:#wiki summary Opus_Dei
+
+talk:#wiki summary United_Grand_Lodge_of_England
+
+talk:#wiki summary Knights_Templar
+
+talk:#wiki summary Magical_organization
+
+talk:#wiki summary List_of_occultists
+
+talk:#youtube chat Instructions for #Project300 that lead you to Templars, Opus Dei, and The Grand Lodge of England https://pastebin.com/6fUhmAvC
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)

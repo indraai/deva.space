@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:thegame/agent/0918/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0918/avatar
+name:Tyler Mayhem
+vector: 0x0918a
+
+cmd:#pastebin view Wt15GXTn
+
+ANAGKE
+::END:LOOK

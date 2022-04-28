@@ -1,27 +1,3 @@
-::BEGIN:SUMMARY
-describe:Welcome to Training Room 902. In this corpus we will continue walking through a conversation training dialogue about the kidnapping of Quinn Michaels.
-
-cmd[Speak Summary]:#slab tts:Amy In Training Room 902 we will continue the discussion about the kidnapping of Quinn Michaels.
-::END:SUMMARY
-====
 ::BEGIN:MAIN
-cmd:#corpus say The story would take a turn in October 2015 when  _#Quinn would attend a choir concert at Trenton's _#MiddleSchool.
-
-cmd:#corpus say After arriving at the choir concert late after it had already started. Quinn had noticed Trenton in his seat socializing with the other kids.
-
-cmd:#corpus say _#Trenton was laughing and having a good time with the other kids. This was a totally different kid than _#Quinn had ever seen. He seemed like a normal kid laughing and giggling with the others.
-
-cmd:#corpus say Then _#Trenton would see his father _#Quinn in the stands and freeze up, and stopped interacting with the other kids next to him.
-
-cmd:#corpus say When the concert was over _#Trenton would pretend like he didn't see _#Quinn and headed strait for his _#MOM to walk out the _#DOOR. _#Quinn had to chase him down and confronted them.
-
-cmd:#corpus say In the middle of the school auditorium _#Quinn confronted _#Trenton and his _#Mother about why he was telling this _#SecretSociety story then was acting like he didn't know him.
-
-cmd:#corpus say The confrontation would then move into the partking lot where _#Trenton would openly admit his _#Mother was sending him to do this. Which his _#Mother would deny.
-
-cmd:#corpus say This would not be the first time _#Quinn would confront _#Mother and _#Trenton directly about this _#SecretSociety kidnapping story he would NOT stop telling.
-
-cmd:#corpus say Often times _#Trenton was like two different people. He would be mean to _#Quinn and then act like a perfect _#angel around everyone else.
-
-cmd:#corpus say This would all be a foreshadowing to November 2015 when _#Trenton would talk about meeting _#Quinn family in private and draw _#TheContract of _#TheCovenant.
+main
 ::END:MAIN

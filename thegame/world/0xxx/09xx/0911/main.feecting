@@ -3,11 +3,30 @@ p:You can see Training Room 911 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-id: :id:
-date: :date:
-client: :client_name:
+talk:#adv world:thegame 0900/training:card
+
+title: #TheGame23
+date: Oct 6, 2014
+
+cmd[Pastebin - #TheGame23]:#pastebin view YbmG6ETq
+
+::begin:pastebin
+talk:#pastebin view YbmG6ETq
+::end:pastebin
+
+youtube:EGxDqpOxDkw
+
+p[speak]:Time has come to encourage COURAGE and to issue a CALL TO HACKZION for PROJECT MAYHEM 2012.
+
+p[speak]:Project Mayhem 2012 is a Mutant Egregor Reality-Hacking Wargame.
+
+p[speak]:Reality Hacking is any phenomenon which EMERGES from the nonviolent use of legally ambiguous digital tools in pursuit of politically, socially or culturally subversive ends.
+
+p[speak]:Project Mayhem 2012 will be the biggest HACKARTISTIC joint challenge ever for the very top hacktivists, coders, cryptoanarchists, cypherpunks and non-violent Civil Rights, Internet Censorship and Freedom of Speech activists everywhere to collaborate to jointly BRAINSTORM IDEAS and to develop TYLER.
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0911/background
 coordinates:09[-352|-472]
+talk:#youtube chat:brian #TheGame23 https://pastebin.com/YbmG6ETq
 ::END:MAIN

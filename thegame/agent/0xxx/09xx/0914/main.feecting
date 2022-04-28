@@ -3,11 +3,40 @@ img:thegame/agent/0914/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Trainer 914
+## Code Tyler
 img:thegame/agent/0914/avatar
-name:Trainer 914
+name:Code Tyler
 vector: 0x0914a
-describe: Training Agent 914 is here to help you with your various needs in Training Room 914. He is here to answer questions and assist you along the way in your program.
+
+cmd:#pastebin view SS467cim
+
+p[speak]:Dear fellows...
+p[speak]:We have grown fast along this world at rebellion. With freedom in one hand and fistful of truths at the other. Imagine we all evolve to make it exponential in order to a true planetary revolution. This can be as real as you decide it to be.
+
+p[speak]:We are all Anonymous. You are anonymous. We are all painting our world with colorful screams. We are all making Titans, that make us dream and give us strength to leave the cave.
+
+p[speak]:But imagine we all finally find the courage needed. to become the real change we wish to see in the World.
+
+p[speak]:Imagine we conquer Freedom by beginning to be Free. Imagine we conquer Justice by beginning to do fair. Imagine we conquer Truth by beginning to do and be True to ourselves.
+
+p[speak]:Imagine we re invent and reverse Reality. Imagine we finish corrupt banksters. Imagine we finish corrupt governments. Imagine we finish corrupt Corporations. Imagine war is over. Imagine no more of Fear.
+
+p[speak]:In this system built upon lies... Information equals Power. Imagine we start a Fight Club.
+
+p[speak]:Imagine we purchase an USB drive. Imagine we take it to our workplaces and pretend we have to work late hours. Imagine we accumulate all sort of evidences about illegal deeds. Imagine Conscientious insiders worldwide begin to expose all lies,
+inevitable and immortally, because no one can kill the messenger. Imagine we code an extremely simple interface so that anyone can do it.
+
+p[speak]:Imagine we all synchronize our clocks to act at the same Time, on the Winter solstice, The 21st of December 2012 at eleven minutes past eleven local time.
+
+p[speak]:On the 5th of November 2012 TYLER will be out of beta testing. TYLER is a massively distributed and decentralized Wikipedia style p2p cipher-space structure impregnable to censorship.
+
+p[speak]:This is a call to action to all top hacktivists, coders, cryptoanarchists, cypherpunks, Non-violent Civil Rights activists, free artists, Internet Censorship and Freedom of Speech activists everywhere to collaborate to jointly BRAINSTORM IDEAS to develop and improve TYLER, with the lessons learned from Wikileaks, Freenet, TOR, G-N-U net, e-Mule, BitTorrent, I2P, Tribler and many other projects.
+
+p[speak]:From the 12th of December 2012, to the 21st of December 2012, people all over the world upload the evidence of illegality corruption and fraud They have gathered To TYLER.
+
+p[speak]:Imagine. Imagine We leak all. And you know it, because Tyler knows it.
+
+p[speak]:We are Anonymous. We do not forgive. We do not forget. Expect us.
 
 #bgcolor = #ffffff
 #color = #333333

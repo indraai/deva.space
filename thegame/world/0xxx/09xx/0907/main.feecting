@@ -7,6 +7,8 @@ id: :id:
 date: :date:
 client: :client_name:
 
+img:thegame/world/0907/romanov
+
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-433|-432]

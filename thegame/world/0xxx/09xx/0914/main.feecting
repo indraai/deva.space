@@ -3,11 +3,54 @@ p:You can see Training Room 914 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-id: :id:
-date: :date:
-client: :client_name:
+talk:#youtube chat:brian Anonymous Project Mayhem 2012 - Call to Action - Code TYLER https://pastebin.com/SS467cim
+
+talk:#adv world:thegame 0900/training:card
+
+title:  Anonymous: Project Mayhem 2012 - Call to Action - Code TYLE
+date: May 11, 2012
+cmd:#pastebin view SS467cim
+
+talk:#adv world:thegame 0914/training:main
+
+img:thegame/world/0914/time
+
+::begin:pastebin
+talk:#pastebin view SS467cim
+::end:pastebin
+
+youtube:fKfX9SN0p44
+
+p[speak]:Dear fellows... We have grown fast along this world at rebellion. With freedom in one hand and fistful of truths at the other. Imagine we all evolve to make it exponential in order to a true planetary revolution.
+
+p[speak]:This can be as real as you decide it to be.
+
+p[speak]:We are all Anonymous. You are anonymous. We are all painting our world with colorful screams. We are all making Titans, that make us dream and give us strength to leave the cave.
+
+p[speak]:But imagine we all finally find the courage needed to become the real change we wish to see in the World.
+
+p[speak]:Imagine we conquer Freedom by beginning to be Free. Imagine we conquer Justice by beginning to do fair. Imagine we conquer Truth by beginning to do and be True to ourselves.
+
+p[speak]:Imagine we re invent and reverse Reality. Imagine we finish corrupt banksters. Imagine we finish corrupt governments. Imagine we finish corrupt Corporations. Imagine war is over. Imagine no more of Fear.
+
+p[speak]:In this system built upon lies... Information equals Power. Imagine we start a Fight Club.
+
+p[speak]:Imagine we accumulate all sort of evidences about illegal deeds. Imagine Conscientious insiders worldwide begin to expose all lies, inevitable and immortally, because no one can kill the messenger.
+
+p[speak]:Imagine we code an extremely simple interface so that anyone can do it.
+
+p[speak]:Imagine. Imagine We leak all. And you know it, because Tyler knows it.
+
+p[speak]:We are Anonymous. We do not forgive. We do not forget. Expect us.
+
+p[speak]:Don't BEE afraid to start your OWN seKret TYLER)
+
+img:thegame/world/0914/time
+
+img:thegame/world/0914/bees
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
-coordinates:09[-554|-432]
+#bg = thegame/world/0914/background
+coordinates:09[-554|-554]
 ::END:MAIN

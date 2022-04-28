@@ -5,10 +5,6 @@ p:You can see Training Room 805 from here.
 ::BEGIN:MAIN
 ## Training Room 805
 
-talk:#docs view corpus/8xx/805
-
-talk:#docs view corpus/8xx/805:training
-
 #bgcolor = #ffffff
 #color = #333333
 coordinates:08[-433|-513]

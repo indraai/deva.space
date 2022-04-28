@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/agent/0917/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0917/avatar
+name:PM2012
+vector: 0x0917a
+
+cmd:#pastebin view sLLwJbtz
+
+::END:LOOK
