@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/1010/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1010/avatar
+## Rasakunda Nectar Fountain
+name: Rasakunda Nectar Fountain
+vector: 0x1010o
+describe: Permit him to drink of rasakunda (nectar-vessels) and thus acquire immeasurable strength. There is the strength of a thousand elephants in each one of those vessels.
+::END:LOOK
