@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/object/1000/avatar
+img:thegame/object/10000/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1000/avatar
+img:thegame/object/10000/avatar
 name: Signal Transmitter
 vector:0x_1000o
 ::END:LOOK

@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/object/1074/avatar
+img:thegame/object/10074/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1074/token
+img:thegame/object/10074/token
 name:0x1074 Token
 vector:0x1074
 describe:The 0x1074 Token

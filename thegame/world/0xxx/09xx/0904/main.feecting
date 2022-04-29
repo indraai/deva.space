@@ -5,9 +5,13 @@ p:You can see Training Room 904 from here.
 ::BEGIN:MAIN
 talk:#adv world:thegame 0900/training:card
 
-img:thegame/world/0904/title
+title: ProjecT mayhEM 2013 - reVelations 1-5
+date: Jan 1st 2013
 
 cmd:#pastebin view scNXFWRP
+
+img:thegame/world/0904/title
+
 ::begin:pastebin
 talk:#pastebin view scNXFWRP
 ::end:pastebin

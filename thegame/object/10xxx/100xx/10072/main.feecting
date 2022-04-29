@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/object/1072/avatar
+img:thegame/object/10072/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1072/token
+img:thegame/object/10072/token
 name:0x1072 Token
 vector:0x1072
 describe:The 0x1072 Token.

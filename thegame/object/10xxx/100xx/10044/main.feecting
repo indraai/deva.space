@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/object/1044/avatar
+img:thegame/object/10044/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1044/avatar
+img:thegame/object/10044/avatar
 name:Tanga Fruit
 vector:0x1044o
 describe:Tanga is a small pink fruit that looks something like cheese but tastes like honey.

@@ -6,8 +6,11 @@
 
 p:You have found your way into the Rasakunda Room... home of Aryaka and the Nectar that will fix you up good... hahahaha.
 
+img:thegame/world/1010/infinity
+
 link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
 
 #bgcolor = #000000
 #color = #eeeeee
+#bg = thegame/world/1010/background
 ::END:MAIN

@@ -5,7 +5,7 @@ p:You can see the Underground Kingdom from here.
 
 
 ::BEGIN:MAIN
-img:thegame/world/100000/title
+img:thegame/world/10000/title
 
 author: Edward Packard
 illustrator: Anthony Kramer
@@ -26,7 +26,7 @@ mud[Continue to the glacier...]:n
 talk:#adv hash clear
 talk:#adv hash add 0
 
-#bg = thegame/world/100000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
@@ -47,7 +47,7 @@ p:Hello Adventurer,
 p:It appears as though you have already collected the token from this path. Please try another.
 
 p:Happy Adventuring!
-#bg = thegame/world/100000/background
+#bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:CLOSED
