@@ -1,14 +1,12 @@
 ::BEGIN:LOOK
-p:You can see the New Orleans Square from here.
+p:You can see the SOUTH LINAC from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# New Orleans Square
+# LINAC - RTC31930 (SOUTH)
+p:You are are at the south end of the Disneyland LINAC - RTC31930.
 
-p:You are are at the New Orleans Square.
-
-
-#bgcolor = #ffffff
-#color = #333333
-coordinates:12[-663|-18]
+#bgcolor = #000000
+#color = #eeeeee
+coordinates:11[-467|-777]
 ::END:MAIN

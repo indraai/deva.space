@@ -1,18 +1,12 @@
 ::BEGIN:LOOK
-p:You can see the New Orleans Square from here.
+p:You can see the NORTH LINAC from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/1173/title
+# LINAC - RTC31930 (NORTH)
+p:You are are at the north end of the Disneyland LINAC - RTC31930.
 
-# New Orleans Square
-
-p:You are are at the New Orleans Square.
-
-img:thegame/world/1173/guide
-
-#bgcolor = #ffffff
-#color = #333333
-#bg = thegame/world/1173/background
-coordinates:12[-790|-604]
+#bgcolor = #000000
+#color = #eeeeee
+coordinates:11[-463|12]
 ::END:MAIN
