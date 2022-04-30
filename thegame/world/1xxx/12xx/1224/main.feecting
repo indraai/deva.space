@@ -12,5 +12,5 @@ p:You are are at the Cafe' Orleans.
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/1224/background
-coordinates:11-nosq[-632|-408]
+coordinates:12[-632|-408]
 ::END:MAIN

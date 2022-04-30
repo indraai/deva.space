@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1163/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1163/avatar
+name: Candy Attendant
+vector: 0x1163a
+::END:LOOK

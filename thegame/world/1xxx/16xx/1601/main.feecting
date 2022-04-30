@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Tomorrowland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+## Tomorrowland
+
+coordinates:16[-413|-495]
+::END:MAIN

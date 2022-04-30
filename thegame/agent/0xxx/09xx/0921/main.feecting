@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/agent/0921/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0921/avatar
+name:John Romero
+vector: 0x0921a
+link[Romero.games]:http://romerogames.com/
+
+### Biography
+
+talk:#wiki summary John_Romero
+
+::END:LOOK

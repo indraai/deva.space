@@ -12,5 +12,5 @@ p:You are are at the Cristal d' Orleans.
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/1223/background
-coordinates:11-nosq[-486|-518]
+coordinates:12[-486|-518]
 ::END:MAIN

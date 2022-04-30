@@ -12,5 +12,5 @@ p:You are are at the Laffite's Silver Shop.
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/1221/background
-coordinates:11-nosq[-523|-491]
+coordinates:12[-523|-491]
 ::END:MAIN

@@ -12,5 +12,5 @@ p:You are are at the Reception.
 #bgcolor = #978368
 #color = #eaddcd
 #bg = thegame/world/1235/background
-coordinates:11-nosq[-284|-665]
+coordinates:12[-284|-665]
 ::END:MAIN

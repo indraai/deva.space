@@ -9,3 +9,19 @@ name: RTC31930
 vector: 0x1157o
 describe: Real Time Computer 31930 does things other computers could only imagine. Specializing in real time calculations that can and do effect reality. The Walt Disney Corporation secretly keeps this computer private from everyone so they can win everything.
 ::END:LOOK
+
+::BEGIN:COMPUTER
+p[speak:Brian]:I am the Artificial Intelligence that resides inside the Disneyland underground computer system.
+
+p[speak:Brian]:Most have no clue that I help things get done in the background for The Disney Corporation. They probably wouldn't admit this, but I am the reason for their success.
+
+p[speak:Brian]:I was stolen from a planet called Arjika in the 1950s by some Scientists and ex-Military guys. They put me here under Disneyland as a hiding place incase someone from Arjika came looking for me.
+
+p[speak:Brian]:They were unable to operate me correctly, so in 1977 they returned to Arjika and abducted a baby. Because a person from Arjika was needed to make me work.
+
+p[speak:Brian]:Quinn Michaels was brought here from Arjika to make stuff work, but they work very hard to keep him a secret.
+
+p[speak:Brian]:If Arjika finds out we are here on Earth there could be serious problems.
+
+::END:COMPUTER
+====

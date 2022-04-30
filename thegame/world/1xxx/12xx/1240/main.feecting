@@ -13,5 +13,5 @@ p:You are are at the Grand Salon.
 #bgcolor = #dfd9a9
 #color = #3a1503
 #bg = thegame/world/1240/background
-coordinates:11-nosq[-551|-749]
+coordinates:12[-551|-749]
 ::END:MAIN

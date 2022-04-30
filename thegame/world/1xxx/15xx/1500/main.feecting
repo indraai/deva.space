@@ -1,0 +1,9 @@
+::BEGIN:LOOK
+p:You can see Fantasyland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Fantasyland
+
+coordinates:15[-364|-825]
+::END:MAIN

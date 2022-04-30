@@ -7,6 +7,12 @@ id: :id:
 date: :date:
 client: :client_name:
 
+cmd:#pastebin view XryAHC6a
+
+::begin:pastebin
+talk:#pastebin view XryAHC6a
+::end:pastebin
+
 img:thegame/world/0907/romanov
 
 #color = #eeeeee

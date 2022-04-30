@@ -14,5 +14,5 @@ img:thegame/world/1214/guide
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/1214/background
-coordinates:11-nosq[-491|-255]
+coordinates:12[-491|-255]
 ::END:MAIN

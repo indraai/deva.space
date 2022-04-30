@@ -1,0 +1,8 @@
+::BEGIN:LOOK
+p:You can see Frontierland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Frontierland
+coordinates:14[-741|-405]
+::END:MAIN

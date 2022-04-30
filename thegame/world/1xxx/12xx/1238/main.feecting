@@ -21,5 +21,5 @@ img:thegame/world/1238/ship
 #bgcolor = #000000
 #color = #b46dd4
 #bg = thegame/world/1238/background
-coordinates:11-nosq[-432|-749]
+coordinates:12[-432|-749]
 ::END:MAIN

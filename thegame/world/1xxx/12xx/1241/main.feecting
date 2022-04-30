@@ -12,5 +12,5 @@ p:You are are at the Pirates of the Caribbean.
 #bgcolor = #000000
 #color = #c9a35c
 #bg = thegame/world/1241/background
-coordinates:11-nosq[-711|-691]
+coordinates:12[-711|-691]
 ::END:MAIN

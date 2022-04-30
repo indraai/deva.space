@@ -1,0 +1,24 @@
+::BEGIN:AVATAR
+img:thegame/agent/0919/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0919/avatar
+name:Elizabeth LaPensee
+vector: 0x0919a
+link[Personal Website]:http://www.elizabethlapensee.com/
+link[Michigan State University]:https://comartsci.msu.edu/our-people/elizabeth-lapensee
+
+p[speak:Amy]:Elizabeth LaPensée, Ph.D. is an award-winning designer, writer, artist, and researcher who creates and studies Indigenous-led media such as games and comics.
+
+p[speak:Amy]:She is Anishinaabe with family from Bay Mills, Métis, and Irish. She is an Assistant Professor of Media & Information and Writing, Rhetoric & American Cultures at Michigan State University and a 2018 Guggenheim Fellow.
+
+p[speak:Amy]:Most recently, she designed When Rivers Were Trails (2019), a 2D adventure game following a displaced Anishinaabe during allotment in the 1890’s, which won the Adaptation Award at IndieCade 2019.
+
+p[speak:Amy]:She designed and created art for Thunderbird Strike (2017), a lightning-searing side-scroller game which won Best Digital Media at imagineNATIVE Film + Media Arts Festival 2017.
+
+p[speak:Amy]:She also designed and created art for Honour Water (2016), an Anishinaabe singing game for healing the water. Her work also includes designing analog games, such as The Gift of Food (2014), a board game about Northwest Native traditional foods.
+
+talk:#wiki summary Elizabeth_LaPensee
+
+::END:LOOK

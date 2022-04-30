@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1161/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1161/avatar
+name:Plaza Attendant
+vector: 0x1161a
+::END:LOOK

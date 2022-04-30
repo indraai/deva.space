@@ -12,5 +12,5 @@ p:You are are at the Pirates Arcade.
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/1202/background
-coordinates:11-nosq[-546|-650]
+coordinates:12[-546|-650]
 ::END:MAIN

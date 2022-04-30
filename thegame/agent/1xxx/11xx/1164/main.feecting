@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1164/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1164/avatar
+name:Penny Arcade Attendant
+vector: 0x1164a
+::END:LOOK
