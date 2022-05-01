@@ -1,0 +1,49 @@
+::BEGIN:LOOK
+p:You can see Training Room 905 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+talk:#adv world:thegame 0900/training:card
+
+img:thegame/world/0923/title
+
+title:lolapps
+date: 2007
+
+talk:#wiki summary lolapps
+
+p[speak:Matthew]:Lolapps was founded in 2007 by Brian Rue, Kamo Asatryan, Annie Chang, and Kavin Stewart. It started with Quiz Creator, a Facebook app that allowed users to create their own quizzes and invite their friends to play.
+
+p[speak:Matthew]:Game designer Brenda Romero joined Lolapps in May 2010. She brought on John Romero to work on Lolapps' new title Ravenwood Fair, which launched in October 2010. By March 2011, Ravenwood Fair had 25 million users worldwide.
+
+p[speak:Matthew]:In October 2010, the Wall Street Journal discovered that a number of Facebook apps—including Lolapps apps—were transmitting Facebook user data to third parties like ad networks and user tracking services.
+
+talk:#wiki summary RapLeaf
+
+p[speak:Matthew]:The Journal found that some LOLapps applications were transmitting users' Facebook ID numbers to internet tracking service RapLeaf.
+
+p[speak:Matthew]:RapLeaf then linked those ID numbers to dossiers it had previously assembled on those individuals, according to RapLeaf.
+
+p[speak:Matthew]:RapLeaf then embedded that information in an Internet-tracking file known as a cookie.
+
+p[speak:Matthew]:RapLeaf was a US-based marketing data and software company, which was acquired by email data provider TowerData in 2013.
+
+p[speak:Matthew]:In May 2006 Founders Fund led a seed round of about 1 million dollars, including angel investors such as Peter Thiel and Ron Conway. In June 2007 a second round included Founders Fund, Rembrandt Venture Partners and Conway.
+
+talk:#wiki summary Peter_Thiel
+
+talk:#wiki summary Ron_Conway
+
+talk:#wiki summary Founders_Fund
+
+p[speak:Matthew]:The company's first product was a meta-reputation system that allows users to create reviews and ratings of consumer transactions, which they then contribute to multiple e-commerce websites.
+
+p[speak:Matthew]:CNN Money described RapLeaf as selling your identity, and TechCrunch characterized its method of identifiable data extraction of Google and Microsoft employees as creepy.
+
+p[speak:Matthew]:A 2011 report said the company could tell the food preferences of employees of major companies.
+
+#color = #333333
+#bgcolor = #eeeeee
+#bg = thegame/world/920/background
+coordinates:09[-272|-513]
+::END:MAIN

@@ -4,9 +4,6 @@ img:thegame/agent/1102/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/1102/avatar
-name: Esmeralda
+name: Mickey Mouse
 vector: 0x1102a
-
-img:thegame/agent/1102/1950
-img:thegame/agent/1102/1960
 ::END:LOOK
