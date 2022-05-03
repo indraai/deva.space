@@ -3,10 +3,10 @@ p:You can see Tomorrowland from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+## Mission to Mars
 
-## Tomorrowland
 
 #bgcolor = #73b9c5
 #color = #ffffff
-coordinates:16[-413|-495]
+coordinates:16[-574|-751]
 ::END:MAIN

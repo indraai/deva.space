@@ -6,5 +6,7 @@ p:You can see Tomorrowland from here.
 
 ## Tomorrowland
 
-coordinates:16[-453|-410]
+#bgcolor = #73b9c5
+#color = #ffffff
+coordinates:16[-435|-389]
 ::END:MAIN

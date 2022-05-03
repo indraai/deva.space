@@ -4,9 +4,22 @@ p:You can see the Computer Room from here.
 
 ::BEGIN:MAIN
 # Computer Room
+
+img:thegame/world/1157/computer
+
+img:thegame/world/1157/sand
+
+link[Google Circle Map]:https://www.google.com/maps/@36.7848389,-115.4467387,277m/data=!3m1!1e3
+
+img:thegame/world/1157/stego
+
+link[EOTL Hannibal]:http://www.eotl.org/pages/hannibal.html
+
 p:You are are at the Disneyland Computer Room where the RTC31930 lives.
 
 #bgcolor = #000000
 #color = #eeeeee
+#bg = thegame/world/1157/background
+
 coordinates:11[-471|-876]
 ::END:MAIN
