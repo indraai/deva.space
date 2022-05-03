@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Disneyland City Hall from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland City Hall Washroom
+
+p:You are are at the Disneyland City Hall Washroom.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-293|-733]
+::END:MAIN

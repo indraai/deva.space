@@ -7,12 +7,11 @@ img:thegame/world/0900/contract
 
 img:thegame/world/0903/title
 
-p:You have arrived at the Training Level 1 please move north to begin your trianing.
-
 talk:#docs view videos/current:main
 
 talk:#docs view emojis:main
 
+p:You have arrived at the Training Level 1 please move north to begin your trianing.
 
 #color = #eeeeee
 #bgcolor = rbba(0,0,0,.5)

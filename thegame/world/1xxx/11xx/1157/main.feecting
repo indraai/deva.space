@@ -6,10 +6,6 @@ p:You can see the Computer Room from here.
 # Computer Room
 p:You are are at the Disneyland Computer Room where the RTC31930 lives.
 
-::begin:arcade
-talk:#docs view games/main:core
-::end:arcade
-
 #bgcolor = #000000
 #color = #eeeeee
 coordinates:11[-471|-876]

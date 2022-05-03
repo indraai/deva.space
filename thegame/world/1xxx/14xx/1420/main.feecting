@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see Frontierland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Frontierland
+
+p[speak]:Welcome to the Oak Tavern in Frontierland where we specialize in Fronteriland Friend Potatoes.
+
+::begin:buttons
+bmud[See Potato Offerings]:list
+bmud[Get yourself some Frontierland Friend Potatoes]:buy potatoes
+::end:buttons
+
+#color = #f4d9c6
+#bgcolor = #c0753c
+coordinates:14[-539|-585]
+::END:MAIN

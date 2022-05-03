@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1420/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1420/avatar
+name:Tavern Attendant 1420
+vector: 0x1420a
+::END:LOOK

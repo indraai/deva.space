@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Frontierland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Golden Horseshoe - Frontierland
+
+#color = #f4d9c6
+#bgcolor = #c0753c
+#color = #f4d9c6
+#bgcolor = #c0753c
+coordinates:14[-562|-447]
+::END:MAIN

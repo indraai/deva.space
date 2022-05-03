@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see Training Room 905 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+talk:#adv world:thegame 0900/training:card
+
+title:Founders Fund
+date: 2005
+
+talk:#wiki summary Founders_Fund
+
+talk:#wiki summary Peter_Thiel
+
+
+#color = #333333
+#bgcolor = #eeeeee
+coordinates:09[-231|-472]
+::END:MAIN

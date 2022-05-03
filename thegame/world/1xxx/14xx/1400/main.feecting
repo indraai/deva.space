@@ -4,5 +4,7 @@ p:You can see Frontierland from here.
 
 ::BEGIN:MAIN
 ## Frontierland
+#color = #f4d9c6
+#bgcolor = #c0753c
 coordinates:14[-741|-405]
 ::END:MAIN

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Glassblower from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland Glassblower
+
+p:You are are at the Disneyland Glassblower.
+
+#bgcolor = #ffffff
+#color = #333333
+coordinates:11[-367|-528]
+::END:MAIN

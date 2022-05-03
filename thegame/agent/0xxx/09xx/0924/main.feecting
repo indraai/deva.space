@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0924/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0924/avatar
+name: Auren 924
+vector: 0x0924a
+::END:LOOK

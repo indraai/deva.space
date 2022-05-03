@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0925/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0925/avatar
+name: Peter 925
+vector: 0x0925a
+::END:LOOK

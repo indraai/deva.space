@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/1420/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1420/avatar
+## Frontierland Friend Potatoes
+name: Frontierland Friend Potatoes
+vector: 0x1420o
+describe: With the Frontierland Fried Potatoes you can taste all the best potatoes grown in the Arjika Farms.
+::END:LOOK

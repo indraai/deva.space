@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Casa de Fritos from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Casa de Fritos
+
+link[Casa de Fritos]:https://www.yesterland.com/casafritos.html
+
+#color = #f4d9c6
+#bgcolor = #c0753c
+coordinates:14[-612|-292]
+::END:MAIN

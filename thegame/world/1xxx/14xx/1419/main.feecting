@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see the Frontierland Camera Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Camera Shop - Frontierland
+
+#color = #f4d9c6
+#bgcolor = #c0753c
+coordinates:14[-558|-530]
+::END:MAIN
