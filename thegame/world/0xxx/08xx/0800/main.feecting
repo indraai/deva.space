@@ -7,7 +7,51 @@ p:You can see Training Room 800 from here.
 
 talk:#adv world:thegame 0900/training:card
 
+img:thegame/world/0800/title
+
+link[The Unix Terrorist]:http://phrack.org/issues/65/2.html
+
+warning:This prophile was realized by The Paper Street Hacker in November 2007 for publication in Phrack Magazine #65 by TCLH. Remember the opinion reflected in this interview only engages the UNIX Terrorist and does not represent the opinion of the Phrack editors.
+
+---
+
+handle:the_uT
+
+aka:daemon10, yu0, jungjeezy
+
+handle_origin: Africa
+
+age: 24
+
+produced:The Heart of Darkness, USA
+
+living:The Paper Street Soap Company, USA
+
+height_weight:Excessive / 250lbs
+
+link[EL8 Textfiles]:http://web.textfiles.com/ezines/EL8/
+
+computer: Anything with a network connection and a working ssh client will do... I'd rather spend my money on clothes & entertainment... less tech garbage also means my bedroom doesn't scare the bitches away.
+
+creator: PROJEKT MAYHEM / Phrack High Council / anti.security.is
+
+admin:Most of South Korea/China ...
+
+membership:NAMBLA (proud sponsors of TOR!) / ANONYMOUS
+
+projects:M4YH3M
+
+code:stealthrm, the first blackhat RM(1) utility, designed to rm desktop computers silently. Distributed as a Linux LKM, VFS functions are hijacked so that file indexing and rm'ing can be smuggled and interleaved discretely amongst existing file operations. Additionally, keyboard I/O is monitored to determine the sysadmin's presence. Sporadic file wiping occurs either during heavy PLANNED system hard drive use, or occurs slowly and steadily, with timed delays, while the console user is absent. The primary purpose is to avoid the alarming and sickeningly unexpected HDD "crunching" sound that alerts many would-be "rm -rf /" victims to their impending doom. File removal is scheduled according to a proprietary prioritization algorithm whose factors include criteria such as inode atimes and VFS type. Files are secure DOD-wiped in place, but not unlinked, preserving disk statistics.
+
+active:1998
+
+inactive:I don't sleep... I metastasize
+
+---
+
+
 #bgcolor = rgba(0,0,0,.75)
 #color = #eeeeee
+#bg = thegame/world/0800/background
 coordinates:08[-473|-432]
 ::END:MAIN

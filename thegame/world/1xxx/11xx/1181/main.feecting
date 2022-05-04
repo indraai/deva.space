@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-p:You can see the Plaza Inn from here.
+p:You can see the Plaza Inn Washroom from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Plaza Inn
+# Plaza Inn Washroom
 p:You are are at the Plaza Inn.
 
 #bgcolor = #ffffff
 #color = #333333
-coordinates:11[-548|-61]
+coordinates:11[-566|-30]
 ::END:MAIN

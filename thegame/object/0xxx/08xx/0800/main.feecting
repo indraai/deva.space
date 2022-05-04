@@ -1,0 +1,49 @@
+::BEGIN:AVATAR
+img:thegame/object/0800/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: el8 the_uT textfiles
+vector: 0x0800a
+
+::begin:buttons
+cmd[el8.0.txt]:#adv object:thegame 0800/main:e0
+cmd[el8.1.txt]:#adv object:thegame 0800/main:e1
+cmd[el8.2.txt]:#adv object:thegame 0800/main:e2
+cmd[el8.3.txt]:#adv object:thegame 0800/main:e3
+::end:buttons
+
+::END:LOOK
+
+::BEGIN:E0
+::begin:code
+<pre><code>
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.0.txt
+</code></pre>
+::end:code
+::END:E0
+====
+::BEGIN:E1
+::begin:code
+<pre><code>
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.1.txt
+</code></pre>
+::end:code
+::END:E1
+====
+::BEGIN:E2
+::begin:code
+<pre><code>
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.2.txt
+</code></pre>
+::end:code
+::END:E2
+====
+::BEGIN:E3
+::begin:code
+<pre><code>
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.3.txt
+</code></pre>
+::end:code
+::END:E3
+====

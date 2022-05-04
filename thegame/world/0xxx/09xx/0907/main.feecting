@@ -3,17 +3,17 @@ p:You can see Training Room 907 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+talk:#adv world:thegame 0900/training:card
+
 id: :id:
 date: :date:
 client: :client_name:
 
-cmd:#pastebin view XryAHC6a
+::begin:instructions
+talk:#feecting get https://raw.githubusercontent.com/indraai/language-feecting/master/agents/deva.feecting
+::end:instructions
 
-::begin:pastebin
-talk:#pastebin view XryAHC6a
-::end:pastebin
-
-img:thegame/world/0907/romanov
+-
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)

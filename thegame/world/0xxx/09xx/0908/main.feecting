@@ -3,9 +3,9 @@ p:You can see Training Room 908 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv thegame:world 0900/training:main
-
 ## #eTHErSEC Project ∞ 2020
+
+talk:#adv world:thegame 0900/training:card
 
 title: #eTHErSEC Project ∞ 2020
 date: Oct 22, 2013
@@ -53,17 +53,15 @@ cmd:#pastebin view LuRF9ffh
 
 "Project Mayhem 2012"
 
-p[speak]:Dangerous Idea 1: _#LeakItAll TYLER: uncontrollable and uncensored information network. Expose hidden information. Unfilter and share the TRUTH.
+p[speak]:Dangerous Idea 1 - _#LeakItAll TYLER: uncontrollable and uncensored information network. Expose hidden information. Unfilter and share the TRUTH.
 
-p[speak]:Dangerous Idea 2: _#Dare2Kreate Dare to create: Motivate, Inspire, come up with knew ideas. Collect, inspect, and reflect.
+p[speak]:Dangerous Idea 2 - _#Dare2Kreate Dare to create Motivate, Inspire, come up with knew ideas. Collect, inspect, and reflect.
 
-p[speak]:Dangerous Idea 3: _#withdrawitall BITCOIN: uncontrollable monetary system. Money is Power. Empowering people to have the ability to function outside of the control of larger institutions. Withdraw yourself from systems of control.
+p[speak]:Dangerous Idea 3 - _#withdrawitall BITCOIN uncontrollable monetary system. Money is Power. Empowering people to have the ability to function outside of the control of larger institutions. Withdraw yourself from systems of control.
 
-p[speak]:Dangerous Idea 4: _#OccupyItAll Panic Dance: People acting in unison. Protests. petitions. redress of grievances. Actions. Both as an individual and as a group.
+p[speak]:Dangerous Idea 4 - _#OccupyItAll Panic Dance People acting in unison. Protests. petitions. redress of grievances. Actions. Both as an individual and as a group.
 
-p[speak]:Dangerous Idea 5: "V" };-D ? (-;{. Results. Evolution. Renaiscience. Eschaton. Repeat and Improve. Change based on the will of free thinking and informed individuals, acting in line with the best interests of all living things.
-
-youtube:MseMobwg_mo
+p[speak]:Dangerous Idea 5 - "V" };-D ? (-;{. Results. Evolution. Renaiscience. Eschaton. Repeat and Improve. Change based on the will of free thinking and informed individuals, acting in line with the best interests of all living things.
 
 p[speak]:These ideas are not new, an individual did not create them. THE EGREGORE has been giving them to us for ages in different forms. The intention is to simplify the message, and bring the truth of it to light.
 

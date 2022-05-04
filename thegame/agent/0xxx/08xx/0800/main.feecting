@@ -4,7 +4,6 @@ img:thegame/agent/0800/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0800/avatar
-name: Hâtakes’vara
+name: the_uT
 vector: 0x0800a
-
 ::END:LOOK

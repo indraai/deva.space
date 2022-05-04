@@ -6,7 +6,7 @@ p:You can see the COOLING from here.
 # COOLING - RTC31930
 p:You are are at the cooling systems of the RTC31930.
 
-#bgcolor = #000000
+#bgcolor = #cc834d
 #color = #eeeeee
 coordinates:14[-561|-394]
 ::END:MAIN

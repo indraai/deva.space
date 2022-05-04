@@ -3,7 +3,7 @@ p:You can see Training Room 910 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv thegame:world 0900/training:card
+talk:#adv world:thegame 0900/training:card
 
 title:#PROJECT300
 date:Oct 2, 2014
