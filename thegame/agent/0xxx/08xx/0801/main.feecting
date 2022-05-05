@@ -4,6 +4,36 @@ img:thegame/agent/0801/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0801/avatar
-name: Bhavânî
+name: Kent Browne (@RLoxley)
 vector: 0x0801a
+
+describe:Kent has over 20 years of security industry experience in Information Technology and Information Security. He is currently the Global Director of Stealth Identity - GTM & Innovation Lead within Unisys Corporation. Kent frequently consults with Companies and Governments on important issues concerning their security posture, both physical and logical. Kent is well versed in physical and cybersecurity security infrastructure and strategy, and is asked to speak regularly on the convergence between physical and logical (network) security. Kent has spoken at leading industry events, such as IBM Interconnect, RSA, Interop, InfoSec, BICSI, ISC, Infragard, ISACA, The Conference Board, Harvard University, Yale University, etc. He has been a featured guest on television (BBC, RAI, ABC News, Silicon Spin...), radio, and in magazines (Computer World, Business News, New York Times, Wired, etc) to name a few. Kent received a Bachelors Degree in Business Management/Marketing, Summa Cum Laude, from American Intercontinental University. He has been a penetration tester for the public and private sector, and uses this unique view of security to help others better understand the taxonomy of an attack and the strategies to prevent these attacks and the associated damage from them.
+
+--
+
+title: World's top hackers to form new security firm
+author: Will Knight
+date: April 14, 2000
+describe: Ten of the world's "most well known and talented hackers," are to establish a new computer security company, Kent Browne of ethical hacking group Condemned.org announced at London's Infosec conference Thursday.
+
+link[ZDNET Article]:https://www.zdnet.com/article/worlds-top-hackers-to-form-new-security-firm/
+
+--
+
+title: Vigilante group targets child-porn sites
+author: Deborah Radcliff
+date: Jan 1, 2000
+describe: In mid-December, some 30 seasoned information security professionals, "white hat" hackers and technologists formed Condemned.org, an activist group dedicated to "eradicat[ing] the existence of child pornography, pedophilia, and exploitation on the Internet."
+
+link[Vigilante group targets - cnn.com]:https://j.mp/3iKfVBZ
+link[Vigilante Group - Computerworld.com]:https://j.mp/3F7yauu
+
+--
+
+title: El8 3
+author: Stephen Watt Ezine
+date: 2001/02
+describe:I wanted to get my website in your ezine again, and tell everyone how ethical hacking is the best hacking ever. I have included bronc's bash history from one of my machines. Also, remember young hackers, if you break into a system, tell the admin how to patch it, do a good deed for society. If you hack any child porn people, turn them into authorities and send all of the downloaded movie/picture evidence to my personal account: rloxley@hackphreak.org. Stop child porn!
+
+link[EL8 - textfiles.com]:https://j.mp/3B8at2M
 ::END:LOOK

@@ -3,7 +3,6 @@ p:You can see Training Room 914 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
 
 title:  Anonymous: Project Mayhem 2012 - Call to Action - Code TYLE
 date: May 11, 2012
@@ -51,4 +50,5 @@ img:thegame/world/0914/bees
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0914/background
 coordinates:09[-554|-554]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

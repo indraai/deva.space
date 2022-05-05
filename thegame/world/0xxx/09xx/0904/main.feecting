@@ -3,14 +3,13 @@ p:You can see Training Room 904 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0904/title
 
 title: ProjecT mayhEM 2013 - reVelations 1-5
 date: Jan 1st 2013
 
 cmd:#pastebin view scNXFWRP
 
-img:thegame/world/0904/title
 
 ::begin:pastebin
 talk:#pastebin view scNXFWRP
@@ -78,11 +77,13 @@ p[speak]:Everyone who has read this, and understands the truth of what it says, 
 
 p[speak]:Become like Michael
 
-img:thegame/world/0904/title
-
 img:thegame/world/0904/info
+
+img:thegame/world/0904/title
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0904/background
 coordinates:09[-473|-513]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -1,0 +1,29 @@
+::BEGIN:AVATAR
+img:thegame/object/0914/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: Anonymous: Project Mayhem 2012 Call to Action - Code TYLE
+date: May 22, 2012
+vector: 0x0914o
+
+link[Pastebin - PM2012]:https://pastebin.com/SS467cim
+
+::begin:pastebin
+talk:#pastebin view SS467cim
+::end:pastebin
+
+#bgcolor = rgba(0,0,0,0)
+#color = var(--color-green)
+::END:LOOK
+
+::BEGIN:TEXT
+title: Anonymous Project Mayhem 2012 Call to HackZION!
+date: May 22, 2012
+::begin:pastebin
+talk:#pastebin view SS467cim
+::end:pastebin
+#bgcolor = rgba(0,0,0,0)
+#color = var(--color-orange)
+::END:TEXT
+====

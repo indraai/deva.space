@@ -1,0 +1,29 @@
+::BEGIN:AVATAR
+img:thegame/object/0904/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: ProjecT mayhEM 2013 - reVelations 1-5
+date: Jan 1, 2013
+vector: 0x0904o
+
+link[Pastebin - ProjecT mayhEM 2013]:https://pastebin.com/scNXFWRP
+
+::begin:pastebin
+talk:#pastebin view scNXFWRP
+::end:pastebin
+
+#bgcolor = rgba(0,0,0,0)
+::END:LOOK
+
+::BEGIN:TEXT
+title: ProjecT mayhEM 2013 - reVelations 1-5
+date: Jan 1, 2013
+::begin:pastebin
+
+talk:#pastebin view scNXFWRP
+::end:pastebin
+
+#bgcolor = rgba(0,0,0,0)
+::END:TEXT
+====
