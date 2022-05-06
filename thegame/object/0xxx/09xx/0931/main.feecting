@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:thegame/object/0930/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: The Receda Cube
+vector: 0x0930o
+link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
+::END:LOOK
+====
+
+
+::BEGIN:TEXT
+link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
+::END:TEXT
+====

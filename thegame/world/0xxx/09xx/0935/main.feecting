@@ -1,0 +1,30 @@
+::BEGIN:LOOK
+p:You can see Training Room 934 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0935/title
+
+## Evil People Inc.
+
+talk:#adv world:thegame 0900/training:card
+
+title: Evil People Inc.
+link[Archive - Evil People Inc]:https://bit.ly/3MWzofm
+
+p[speak:Brian]:Many, many moons ago, when the lump of dirt that would be named "Earth" was beginning to cool from it's fresh creation, the Creator said, "This ball of dirt is good and creation itself is good, but it must all be UNMADE some day." So He thought and thought and scratched himself and thought, and then he turned to one of his employees, who was becoming more than a bit disgruntled and gave him the job of destroying everything.
+
+p[speak:Brian]:Since that day, EvilPeople,INC.(tm) has strived to make this dream of Ultimate Destruction a reality.
+
+p[speak:Brian]:Founded before the Dark Ages (our fault, thanks) by a group of Darkness-Worshipping ex-GoodPeople, EvilPeople,INC.(tm) has worked behind the scenes, helping to bring about poverty, despair, death, and the cries of war to every part of the world. Historically, secret societies tend to not possess personal armies, or engage in commerce with lower planes of existence, but EvilPeople,INC.(tm) has ever been one to go against the grain. Bringing into the world such products as the Bubonic Plague, the Mongolian Hoards, and the Spanish Inquisition, EvilPeople,INC.(tm) began to show the world it's power.
+
+p[speak:Brian]:Silently engineering all the badness that must exist for there to be goodness, EvilPeople,INC.(tm) entered the 20th century and, in 1994, decided to throw off it's cloak of secrecy and announce it's dark, twisted presence to a world that was ready for it.
+
+p[speak:Brian]:Beginning with a massive campaign to buy up all the souls possible (you thought we were kidding), EvilPeople,INC.(tm) took the World Wide Web by storm, spawning several copy-cat sites within months (so many that Yahoo was forced to develop a seperate sub-section devoted only to web pages where someone can sell their soul. We were the first. All else is blithe imitation and copyright infringement, and you will be hearing from our lawyers. You know who you are. You cannot escape.)
+
+p[speak:Brian]:From a hidden location in the heart of San Francisco's SOMA district (That's "SOuth of MArket" for you foreigners (you will be executed too)), EvilPeople,INC.(tm) spreads it's dark web of corruption and decadence to the rest of the world, sliding like a black cancer through your every day lives. Sure, it's hard work, but the benefits are good, and, well, someone has to do it. Might as well be us, the top name in Evil(tm) (Microsoft is number three. Betcha wonder who number two is, don'tcha?).
+
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+coordinates:09[-554|-593]
+::END:MAIN

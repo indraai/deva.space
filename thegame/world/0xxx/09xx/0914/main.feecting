@@ -49,6 +49,6 @@ img:thegame/world/0914/bees
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0914/background
-coordinates:09[-554|-554]
+coordinates:09[-514|-593]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

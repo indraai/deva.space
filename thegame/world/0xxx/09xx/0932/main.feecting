@@ -1,0 +1,28 @@
+::BEGIN:LOOK
+p:You can see Training Room 932 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0932/title
+
+## Mind Candy
+
+talk:#adv world:thegame 0900/training:card
+
+title: Mind Candy
+date: January 16, 2004
+link[Web Archive]:https://bit.ly/3shEEC6
+
+p[speak:Brian]:Mind Candy is an unusual company. Founded in 2003 and based primarily in London, England, we specialise in the design of puzzles. Not traditional puzzles, but a new style that goes well beyond the boring and lifeless ones that have dominated for years. Our early focus has been on developing ways to weave puzzles into the rapidly burgeoning fields of Cross Media Entertainment (XME) and Alternate Reality Games (ARGs).
+
+p[speak:Brian]:After we were contacted in early 2004 by Sente Kiteway from the Perplex City Academy, these projects were put on hold. Mind Candy has been selected as agents on Earth for the Academy, who were designing a highly innovative puzzle based game. The purpose of the game is to help them recover a valuable object, the Receda Cube, which has been stolen from Perplex City and buried at an unknown location on Earth.
+
+p[speak:Brian]:Despite working on the Cube retrieval project with Perplex City, Mind Candy maintains a high interest in the future of puzzles, Cross Media Entertainment and Alternate Reality Gaming. We would like to work with companies and brands that recognise the enormous potential of these genres to help promote their own products and brands.
+
+p[speak:Brian]:The Perplex City Academy is currently Mind Candy's main client. We are providing them with a range of services, including assisting the Academy with the design, distribution and marketing of the Perplex City puzzle cards, as well as the maintenance of the Perplex City/Internet data link.
+
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0930/background
+coordinates:09[-594|-553]
+::END:MAIN

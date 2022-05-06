@@ -1,5 +1,5 @@
 ::BEGIN:AVATAR
-img:thegame/agent/0207/avatar
+img:thegame/agent/0937/avatar
 ::END:AVATAR
 ====
 
@@ -7,13 +7,18 @@ img:thegame/agent/0207/avatar
 ## Eric Sorenson
 link[Eric Sorenson - Archive]:https://web.archive.org/web/19990128174323/http://explosive.net/eric/
 
-image:https://web.archive.org/web/19990202064353if_/http://explosive.net:80/eric/pics/eric-scared.jpg
+img:thegame/agent/0936/avatar
 
-talk:#adventure view:thegame:agent 0207/intro
-talk:#adventure view:thegame:agent 0207/computers
-talk:#adventure view:thegame:agent 0207/net
-talk:#adventure view:thegame:agent 0207/musical
-talk:#adventure view:thegame:agent 0207/personal
+talk:#adv agent:thegame 0936/main:intro
+
+talk:#adv agent:thegame 0936/main:computers
+
+talk:#adv agent:thegame 0936/main:net
+
+talk:#adv agent:thegame 0936/main:musical
+
+talk:#adv agent:thegame 0936/main:personal
+
 ::END:LOOK
 ====
 

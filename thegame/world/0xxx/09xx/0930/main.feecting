@@ -1,0 +1,47 @@
+::BEGIN:LOOK
+p:You can see Training Room 930 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0930/title
+
+## Perplex City
+
+talk:#adv world:thegame 0900/training:card
+
+title: Project Syzygy
+date: January 16, 2004
+link[Web Archive]:https://bit.ly/3shEEC6
+
+p:Very early in the morning of January 16th 2004, an object of immeasurable value, the Receda Cube, was stolen from my city and taken to Earth. It is of the utmost importance that the Cube is returned to us. Though we do not know where it is, we have created a puzzle game that we hope will help you find the Cube and result in its safe return. The game is made up of hundreds of puzzle cards that will open a window into our world.
+
+p:Through the cards, you will learn about the people and places of Perplex City and, most importantly, our way of thinking. We have investigated the theft very thoroughly and have been unable to solve the mystery. We hope that you will be able to make links and propose solutions that we might have overlooked. It is also our firm belief that the greatest problems are solved by new thinking, by lateral thinking; the kind of thinking that is engendered by a game or puzzle.
+
+p:As a further incentive and to encourage the largest possible number of participants, our agents on Earth, Mind Candy, are able to offer a reward of PCL 2,000,000 which is approximately equivalent to £100,000, $200,000, €150,000 or ¥20,000,000 to the person who finds the Cube. Mind Candy will also be arranging the distribution and marketing of these cards across your world. They will be selling the cards for PCL50, £2.50 or $5.00 for each pack of six. There is yet more I have planned, but this must all wait for now.
+
+p:Nine stores from nine major cities across Earth have been chosen to stock the cards at launch. These will be made available from June 2005. They will also be available online at Firebox.
+
+- PlayLounge, London
+- Jeremyville, Sydney
+- Games of Berkeley, Berkeley
+- Colette, Paris
+- Gadget Guru, Cape Town
+- Dino, Stockholm
+- Gadgets.dk, Copenhagen
+- Luckys, Vancouver
+- Toy Tokyo, New York
+
+p:It may strike some as perverse to create a game in such a grave situation as this. For us in Perplex City and in the Academy, the logic is clear. We have observed your culture and witnessed how fast information can spread in the right circumstances. We want as many people to be looking for the Cube as possible; we want the news of our quest to spread rapidly by word of mouth. A game, in your world and in ours, gets people talking. This plan has already met with success, as your media is taking a keen interest in the missing Cube. My daughter Scarlett has been tracking this at her website, The Scarlett Kite. To enable you to investigate our own media, we have made our newspaper, the Perplex City Sentinel, available to you as well.
+
+p:The Cube is an irreplaceable part of our history; it is vital for us to retrieve it, and for this we need your help. This is only the beginning of the journey we will make together. May we find success waiting for us at the end.
+
+
+
+img:thegame/world/0930/card
+
+
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0930/background
+coordinates:09[-594|-513]
+::END:MAIN

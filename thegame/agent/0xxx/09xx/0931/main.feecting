@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0931/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0931/avatar
+name:Scarlett Kiteway
+vector: 0x0931a
+link[Perplex City Wiki]:https://perplexcitywiki.com/wiki/Sente_Kiteway
+::END:LOOK
