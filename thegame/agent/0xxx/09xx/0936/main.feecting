@@ -5,10 +5,14 @@ img:thegame/agent/0936/avatar
 ====
 
 ::BEGIN:LOOK
+img:thegame/agent/0936/avatar
+
 ## Eric Sorenson
+name: Eric Sorenson
+vector: 0x0936a
+
 link[Eric Sorenson - Archive]:https://web.archive.org/web/19990128174323/http://explosive.net/eric/
 
-img:thegame/agent/0936/avatar
 
 talk:#adv agent:thegame 0936/main:intro
 

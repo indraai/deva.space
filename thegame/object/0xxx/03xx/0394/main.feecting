@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/0394/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0394/avatar
+## Isotropic Antenna
+name: Isotropic Antenna
+vector: 0x0394o
+::END:LOOK

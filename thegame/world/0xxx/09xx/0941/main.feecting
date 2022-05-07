@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+p:You can see End Of The Line from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0941/title
+
+## End Of The Line
+
+talk:#adv world:thegame 0900/training:card
+
+title: End Of The Line (MUD)
+link[Archive - Angst Central]:https://bit.ly/3vOAMuD
+
+::begin:arcade
+talk:#docs view games/main:eotl
+::end:arcade
+
+::begin:note
+## Important Notice May 2001
+p:The administrators at Stanford, in their infinite wisdom, have become concerned with the trafficking of bootleg software and pornography information via the mud. This is, of course, a ludicrous view, as is obvious to any regular inhabitant of this multi user environment.
+
+p:EOTL is an open communications medium.
+
+p:The administrators of this mud cannot police what people say, anymore than telephone operators companies can monitor what conversation goes over the telephone lines every day. In order to be in total compliance with these requests, we would have to institute monitoring of every single person who logs on this mud.
+
+p:We have neither the computer resources nor the manpower to oversee such activities, and even if we did, it would be of highly questionable ethics to do so. What we can do, in our limited power, is sitebanish any we personally catch engaging in these illicit activities. We must clamp down on these activities, or this _game_ which we all enjoy will be shut down.
+
+p:EotL is a labor of love (and more than a bit of boredom) built by the volunteer efforts of many around the world. Its developers hail from such far ranging locales as Russia, Australia, Canada, Hong Kong, and Switzerland, and the demographics of its player population is even more diverse.
+
+p:We have law and precedent on our side (Compuserve was acquitted of responsibility of such activities engaged on their network), but what we do not have is the financial or legal resources to combat any move made by outraged mothers who mistakenly lash out at the mud (laughably enough, a text-based environment).
+
+p:Try to behave.
+::end:note
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+coordinates:09[-191|-674]
+::END:MAIN

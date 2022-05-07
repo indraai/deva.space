@@ -1,0 +1,25 @@
+::BEGIN:AVATAR
+img:thegame/agent/0932/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0932/avatar
+name:Brian Enigma
+vector: 0x0932a
+
+link[NetNinja.com]:https://netninja.com/
+link[Perplex City Wiki]:https://perplexcitywiki.com/wiki/Brian_Enigma
+
+p:My name is Brian Enigma (@BrianEnigma) and I live in Portland, Oregon. I enjoy interesting technology, a good drink, and a good story. Sometimes I pretend I am a writer or reporter and compose nonfiction text on such subjects here. Sometimes I fall back to posting pictures of my naked cat.
+
+::begin:twitter
+talk:#twitter user BrianEnigma
+::end:twitter
+
+::begin:twitter
+talk:#twitter timeline BrianEnigma
+::end:twitter
+
+#bgcolor = #000000
+#color = #eeeeee
+::END:LOOK

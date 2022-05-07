@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/agent/0935/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0935/avatar
+name:Jörmungandr
+vector: 0x0935a
+
+talk:#wiki summary Jormungandr
+
+#bgcolor = #000000
+#color = #eeeeee
+::END:LOOK

@@ -9,7 +9,7 @@ img:thegame/world/0930/title
 
 talk:#adv world:thegame 0900/training:card
 
-title: Project Syzygy
+title: Perplex City
 date: January 16, 2004
 link[Web Archive]:https://bit.ly/3shEEC6
 
@@ -35,10 +35,9 @@ p:It may strike some as perverse to create a game in such a grave situation as t
 
 p:The Cube is an irreplaceable part of our history; it is vital for us to retrieve it, and for this we need your help. This is only the beginning of the journey we will make together. May we find success waiting for us at the end.
 
-
-
 img:thegame/world/0930/card
 
+talk:#wiki summary Perplex_City
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)

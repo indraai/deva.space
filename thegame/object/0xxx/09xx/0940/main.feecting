@@ -1,0 +1,20 @@
+::BEGIN:AVATAR
+img:thegame/object/0940/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Cypherpunk Manifesto
+name: Cypherpunk Manifesto
+vector: 0x0940o
+link[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+
+img:thegame/object/0940/manifesto
+
+::END:LOOK
+
+::BEGIN:TEXT
+img:thegame/object/0940/manifesto
+
+link[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+::END:TEXT
+====
