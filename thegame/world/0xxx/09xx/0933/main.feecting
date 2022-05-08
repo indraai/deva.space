@@ -28,5 +28,5 @@ p[speak:Brian]:A short time before the event, Von started telling us about himse
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0930/background
-coordinates:09[-594|-594]
+coordinates:09[-594|-593]
 ::END:MAIN
