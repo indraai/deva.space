@@ -7,8 +7,11 @@ p:You can see Arjika Tower Level 1 from here.
 ::BEGIN:MAIN
 # Arjika Tower
 p:You are in Arjika Tower Level 1
-#bgcolor = #ffffff
-#color = #333333
+
+youtube:tub93PAAO3k
+
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN
 
 =

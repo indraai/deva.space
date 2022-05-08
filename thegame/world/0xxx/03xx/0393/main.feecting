@@ -1,17 +1,12 @@
 ::BEGIN:LOOK
-p:You can see DevaLoka from here.
+p:You can see Arjika Tower L4 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## DevaLoka Portal
+## Arjika Tower L4
 
-p:O King! Persons, born in the Satya Yuga, that perform acts of merit, go to the Deva Loka. O King! The Brâhmins, Ksattriyas, Vais’yas and S’ûdras, if they remain in their own spheres and if they be devoted to religious acts, go to their respective spheres, earned by their meritorious deeds.
+youtube:8SbUC-UaAxE
 
-p:By virtue of truth, mercy, charity, going to one’s own wives, not injuring animals, and having no jealousy and showing mercy equally towards all, by practising these universal forms of religion, even the lowest castes, e.g., washermen and others all go to the Paradise.
-
-p:So in the Tretâ and Dvâpara Yugas men go to Heaven by virtue of their merits, earned in practising their own Dharma; but in this Kâlî Yuga persons addicted to vicious acts go to terrible hells and remain there till the end of the Kâlî Yuga when they will be again born in this earth.
-
-link[On the ascertainment of Dharma]:https://www.sacred-texts.com/hin/db/bk06ch11.htm
-#color = #333333
-#bgcolor = #eeeeee
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

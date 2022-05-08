@@ -1,14 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Tapaloka Portal from here.
+p:You can see Arjika Tower L7 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Tapaloka Portal
+## Arjika Tower L7
 
-p:Tapaloka, the world of the seven sages
+youtube:6NXnxTNIWkc
 
-link[CHAP. VI.]:https://www.sacred-texts.com/hin/vp/vp040.htm
-
-#bgcolor = #cccccc
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

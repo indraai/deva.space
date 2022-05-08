@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-p:You are looking at Goloka
+p:You are looking at Arjika Tower L9
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Goloka
+## Arjika Tower L9
 
-talk:#docs view vedas/regions/goloka:summary
+youtube:djV11Xbc914
 
-#color = #333333
-#bgcolor = #eeeeee
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

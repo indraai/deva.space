@@ -1,13 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Satyaloka Portal from here.
+p:You can see Arjika Tower L8 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Satyaloka Portal
+## Arjika Tower L8
 
-p:Those that are devotedly attached to their own Dharma (religion) and reside in places other than Tîrthas, go to Satyaloka and again come to Bhârata.
+youtube:1ISYT6EeUM0
 
-link[On the anecdote of Sâvitrî]:https://www.sacred-texts.com/hin/db/bk09ch29.htm
-#bgcolor = #cccccc
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

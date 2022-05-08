@@ -1,18 +1,15 @@
 ::BEGIN:LOOK
-p:You can see Pitriloka from here.
+p:You can see Arjika Tower L2 here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## Pitriloka Portal
-p:You are in Pitriloka Portal.
+## Arjika Towr L2
+p:You are on Arjika Tower L2
 
-Thereby they were freed of their sins and they got so much pleasure! Such is the greatness of Bhasma! Henceforth the Kumbhîpâka will no more be a hell. It will be a Tîrtha (holy place of pilgrimage) of the residents of the Pitrilokas. Whoever will bathe there will be very happy. There is no doubt in this. Its name will be henceforth the Pitri Tîrtha.
+youtube:K1b8AhIsSYQ
 
-link[Tripundra and Ûrdhapundra marks]:https://www.sacred-texts.com/hin/db/bk11ch15.htm
-link[SRIMAD-BHAGAVAD-GITA]:https://www.sacred-texts.com/hin/sbg/sbg06.htm
-
-#bgcolor = #cccccc
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

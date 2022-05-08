@@ -1,14 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Janaloka Portal from here.
+p:You can see Arjika Tower L6 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Janaloka Portal
+## Arjika Tower L6
 
-p:These, when the heat of the flames that destroy the world reaches to Maharloka, repair to Janaloka in their subtle forms, destined to become re-embodied in similar capacities as their former, when the world is renewed, at the beginning of the succeeding Kalpa.
+youtube:ybmEK64OkjA
 
-link[THE PURĀNIC DIVISIONS OF TIME.]:https://www.sacred-texts.com/hin/hmvp/hmvp37.htm
-
-#bgcolor = #cccccc
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-dark-grey)
 ::END:MAIN

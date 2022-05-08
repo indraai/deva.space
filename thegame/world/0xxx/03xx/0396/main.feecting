@@ -1,15 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Maharloka Portal from here.
+p:You can see Arjika Tower L5 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Maharloka Portal
+## Arjika Tower L5
 
-p:Náráyańa's appearance, in the beginning of the Kalpa, as the Varsha or boar: Prithiví (Earth) addresses him: he raises the world from beneath the waters: hymned by Sanandana and the Yogis. The earth floats on the ocean: divided into seven zones. The lower spheres of the universe restored. Creation renewed.
+youtube:8SbUC-UaAxE
 
-p:Having then divided the earth into seven great portions or continents, as it was before, he constructed in like manner the four (lower) spheres, earth, sky, heaven, and the sphere of the sages (Maharloka).
-
-link[CHAP. IV.]:https://www.sacred-texts.com/hin/vp/vp038.htm
 #bgcolor = #cccccc
 #color = #333333
 ::END:MAIN
