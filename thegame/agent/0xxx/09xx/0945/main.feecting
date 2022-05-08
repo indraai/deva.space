@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0945/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0945/avatar
+name:Emmanuelle
+vector: 0x0945a
+::END:LOOK

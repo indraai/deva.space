@@ -12,9 +12,17 @@ talk:#adv world:thegame 0900/training:card
 title: End Of The Line (MUD)
 link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 
+::begin:buttons
+bmud[Where are EOTL Agents?]:where eotl
+bmud[Player Photos 1]:look tip1
+bmud[Player Photos 2]:look tip2
+bmud[Player Photos 3]:look tip3
+::end:buttons
+
 ::begin:arcade
 talk:#docs view games/main:eotl
 ::end:arcade
+
 
 ::begin:note
 ## Important Notice May 2001
@@ -36,3 +44,17 @@ p:Try to behave.
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-191|-674]
 ::END:MAIN
+
+
+::BEGIN:TIP1
+img:thegame/world/0941/tippers1
+::END:TIP1
+====
+::BEGIN:TIP2
+img:thegame/world/0941/tippers2
+::END:TIP2
+====
+::BEGIN:TIP3
+img:thegame/world/0941/tippers3
+::END:TIP3
+====

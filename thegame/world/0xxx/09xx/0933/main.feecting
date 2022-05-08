@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see Training Room 932 from here.
+p:You can see San Fancsco Connection from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -25,8 +25,8 @@ p[speak:Brian]:The purpose of the link was to expand bandwidth of the link, effe
 
 p[speak:Brian]:A short time before the event, Von started telling us about himself on his new temporary blog. He gave us a set of riddles, each one giving a single letter, which cassandra determined to be the jumbled up movie title: DIRTY HARRY.
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+#color = var(--color-white)
+#bgcolor = var(--color-darkest-grey)
 #bg = thegame/world/0930/background
 coordinates:09[-594|-593]
 ::END:MAIN

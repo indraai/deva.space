@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0948/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0948/avatar
+name: Mark Petrakis (Spoonman)
+vector: 0x0948a
+::END:LOOK

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0943/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0943/avatar
+name:Dead Addict
+vector: 0x0943a
+::END:LOOK

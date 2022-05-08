@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0944/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0944/avatar
+name: Dan Farmer
+vector: 0x0944a
+::END:LOOK

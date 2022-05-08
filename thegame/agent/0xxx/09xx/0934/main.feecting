@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0934/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0934/avatar
+name: Cyrus Quinton (V)
+vector: 0x0934a
+link[Wiki - Perplex City]: https://perplexcitywiki.com/wiki/Cyrus_Quinton
+::END:LOOK
