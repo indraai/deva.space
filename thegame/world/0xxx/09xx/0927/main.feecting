@@ -3,7 +3,7 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0927/title
 
 ## GhostNet
 
@@ -12,7 +12,9 @@ date: 2009
 
 talk:#wiki summary GhostNet
 
-#color = #333333
-#bgcolor = #eeeeee
+#color = var(--color-baby-blue)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0927/background
 coordinates:09[-353|-432]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

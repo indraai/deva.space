@@ -3,16 +3,10 @@ p:You can see Training Room 911 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
-
 title: #TheGame23
 date: Oct 6, 2014
 
 cmd[Pastebin - #TheGame23]:#pastebin view YbmG6ETq
-
-::begin:pastebin
-talk:#pastebin view YbmG6ETq
-::end:pastebin
 
 youtube:EGxDqpOxDkw
 
@@ -28,5 +22,5 @@ p[speak]:Project Mayhem 2012 will be the biggest HACKARTISTIC joint challenge ev
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0911/background
 coordinates:09[-352|-472]
-
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0960/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0960/avatar
+name:SecurityDEVA 960
+vector: 0x0960a
+::END:LOOK

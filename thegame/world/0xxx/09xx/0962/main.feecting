@@ -1,0 +1,33 @@
+::BEGIN:LOOK
+p:You can see Training Room 934 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0963/title
+
+## Operation Death Star
+
+link[Operation Death Star]:https://bit.ly/3sm8GEX
+
+p:Speculation was rising about what @GailThackery would be like, and when Gillian from New Media Magazine showed up to cover the event people figured that she must be Gail.  Nope.  Gail showed up about a half hour later. Conversation in the room stopped, and all eyes were on Gail.  She didn't seem to notice, and came up and said hello.  I gave her a speakers id pass, and she went off to find a drink.  When she returned people started to talk to her, and by about midnight she was mobbed with people.  She had a captive audience at the back of the room and was fielding all types of questions.  Some guy was saying "Say, hypothetically, that you have 9 gigs all encrypted on your, re,
+a bbs and you get raided, wow will they get the evidence?"  Gail's response was basically if they have enough evidence to boot in your door they should have enough evidence to prosecute a case.  Want to be a test case for encryption?  Neither did he.
+
+p:@DanFarmer showed up with a #female harem in tow.  He seemed to have this ability to #magically attract #females, but we won't get into that here.  He would make an appearance and then leave every once in a while.  His #women looked bored (there were three of them) so I assume he was keeping them entertained by #gambling or something.
+
+p:It was decided it was time for a #DeathStar raid (we had spotted the local AT&T office with a billion repeaters and microwave shit on the roof) and rounded up a crew to go attack it.  Of course @RedFive was standing by (Ow!) and @Gillian offered to rent a limo to go trashing in.  It turned out that it would take 1/2 hour to get the limo, so we went in two cars instead. After getting lost in the #LasVegas Hell we found the target.  Fences everywhere, a guard patrolling, and an unprotected dumpster just by the fences.  @RedFive radioed to his friend, we coordinated an attack plan. laid down flat in the back of the truck, another car was "blocker" on the street.
+
+p:We turned in, screeched up to the treasure chest, I bailed out and hurled the bags into the truck and pounced on top of them to the papers wouldn't fly out as we hauled ass outta there.  Those #Vegas telco employees eat more dino-sized #McMeals and burgers than I can count.  My body was almost covered in #ApplePie containers and #HappyMeals, yuck.  We hauled the find up to the room, and the people who were still up dived on it.  @JaminTheShamin went bonkers rooting through crap, and I think White Ninja was sportin' wood.
+
+p:People got some interesting items (catalogues, some x.25 phone numbers, etc..) while I got to clean up the mess, er, wreckage in the room.  Everyone pitched in and by two thirty a.m. it was time to snooze.  Everyone took off to wherever they were going, and a few people stuck around to crash in the conference room.
+
+p:It seems over the night that the late shift of security personnel were not informed that I had the conference room 24 hours.  They showed up at around r a.m. and saw Code Ripper, The @Prophet and @Merc crashed out and they went nuts.  At first they asked them to leave to room.  Then @Prophet explained that the room was rented 24 hours, and they didn't care.  He then asked to talk to the assistant manager.  They didn't like this and called in the goons.  Like five or more guards showed up.  In Las Vegas the goons carry guns.  These guys
+asked to have 'em leave and Code Ripper and Merc were like "Sure, no prob. Later!"
+
+p:The Prophet continued to bitch and got a personal interview with head guard man and then a personal boot off the hotel's property.
+
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0963/background
+coordinates:09[-681|-588]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

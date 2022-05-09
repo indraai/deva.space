@@ -7,12 +7,17 @@ p:You can see End Of The Line from here.
 
 talk:#adv world:thegame 0900/training:card
 
-image:https://media.discordapp.net/attachments/917374908114272287/973002323548844032/unknown.png
+img:thegame/world/0942/degree
+
+img:thegame/world/0942/primedegree
+img:thegame/world/0942/primeharvard
+img:thegame/world/0942/primemit
 
 title: Stanford University
 link[Stanford.edu]:https://stanford.edu
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+
+#color = #8c1b1e
+#bgcolor = var(--color-white)
 coordinates:09[-191|-432]
 ::END:MAIN

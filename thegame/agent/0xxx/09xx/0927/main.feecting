@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0927/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0927/avatar
+name:GhostNet
+vector: 0x0927a
+::END:LOOK

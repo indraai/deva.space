@@ -26,7 +26,14 @@ youtube:pKtLtKgKM7s
 
 youtube:yIHhnApcdC8
 
+
+## PROGRAM
+
+talk:#adv object:thegame 0943/main:text
+
+-
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
+#bg = thegame/world/0943/background
 coordinates:09[-594|-674]
 ::END:MAIN

@@ -148,5 +148,5 @@ audio: http://www.h2k2.net/media/intelligence3.mp3
 #HIP = Hacking in Progress
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-light-grey)
-coordinates:09[-675|-674]
+coordinates:09[-634|-674]
 ::END:MAIN

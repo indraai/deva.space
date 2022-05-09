@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:thegame/object/0911/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name:TheGame23
+vector: 0x0911a
+
+talk:#adv object:thegame 0911/main:text
+
+link[Pastebin]:https://pastebin.com/YbmG6ETq
+::END:LOOK
+
+::BEGIN:TEXT
+talk:#pastebin view YbmG6ETq
+::END:TEXT
+====
