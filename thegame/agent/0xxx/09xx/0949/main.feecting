@@ -4,6 +4,8 @@ img:thegame/agent/0949/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0949/avatar
-name: Cobra Woman
+
+## Brenda Laurel
+name: Brenda Laurel
 vector: 0x0949a
 ::END:LOOK

@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see The SpoonKid SpoonKids Washrooom from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:thegame/world/0959/title
+
+## SpoonKids Washrooom
+
+p:Wlecome to the #SpoonKids fancy #Washroom
+
+title: SpoonKids Washrooom
+
+p:This is where the SpoonKids washup for morningtime, nighttime, playtime, bedtime, storytime, funtime, cooltime, aventuretime, snacktime, and any other time they choose.
+
+#color = var(--color-grey)
+#bgcolor = var(--color-white)
+coordinates:09-spoonkids[-191|-715]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

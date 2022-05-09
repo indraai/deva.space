@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0956/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0956/avatar
+name: DemmyTassy
+vector: 0x0956a
+::END:LOOK

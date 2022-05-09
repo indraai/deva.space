@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0958/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0958/avatar
+name: XMasSpoon
+vector: 0x0958a
+::END:LOOK

@@ -12,6 +12,6 @@ title: SpoonKids PlayRoom
 
 #color = var(--color-purple)
 #bgcolor = var(--color-aqua)
-coordinates:09[-151|-674]
+coordinates:09-spoonkids[-151|-674]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
