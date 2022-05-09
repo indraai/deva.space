@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0926/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: Palantir USG Inc. V. United States.
+vector: 0x0926o
+
+talk:#adv object:thegame 0926/main:text
+::END:LOOK
+
+::BEGIN:TEXT
+pdf:https://ecf.cofc.uscourts.gov/cgi-bin/show_public_doc?2016cv0784-113-0
+::END:TEXT
+====
