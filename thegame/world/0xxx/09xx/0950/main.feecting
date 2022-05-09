@@ -1,0 +1,28 @@
+::BEGIN:LOOK
+p:You can see Stanford Linear Accelerator Complex from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:thegame/world/0950/title
+
+## SLAC
+
+title: Stanford Linear Accelerator
+link[SLAC - PDF]:https://stanford.io/39PRwJD
+
+img:thegame/world/0950/open
+
+img:thegame/world/0950/housing
+
+img:thegame/world/0950/construction
+
+img:thegame/world/0950/room
+
+img:thegame/world/0950/bicycles
+
+#color = #8c1b1e
+#bgcolor = var(--color-white)
+coordinates:09[-151|-432]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

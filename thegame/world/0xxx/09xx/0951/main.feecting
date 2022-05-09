@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see Stanford Linear Accelerator Complex from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:thegame/world/0951/title
+
+## GhostMind
+
+title: GhostMind
+link[mind.sourceforge.net]:https://bit.ly/3LUOkdC
+
+#color = #8c1b1e
+#bgcolor = var(--color-white)
+coordinates:09[-151|-432]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

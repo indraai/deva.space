@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see The SpoonKid MaxieSpoon's Room from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:thegame/world/0952/title
+
+## MaxieSpoon's Room
+
+title: Minnie Spoon's Room
+
+#color = var(--color-white)
+#bgcolor = var(--color-baby-blue)
+coordinates:09[-151|-674]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

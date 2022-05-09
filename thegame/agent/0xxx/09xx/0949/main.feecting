@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0949/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0949/avatar
+name: Cobra Woman
+vector: 0x0949a
+::END:LOOK
