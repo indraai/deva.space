@@ -1,17 +1,17 @@
 ::BEGIN:LOOK
-p:You can see The SpoonKid MinnieSpoon's Room from here.
+p:You can see The SpoonKid DemmyTassy's Room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 
 img:thegame/world/0952/title
 
-## MinnieSpoon's Room
+## DemmyTassy's Room
 
-title: Minnie Spoon's Room
+title: DemmyTassy's Room
 
 #color = var(--color-white)
-#bgcolor = var(--color-pink)
+#bgcolor = var(--color-light-red)
 coordinates:09[-151|-674]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

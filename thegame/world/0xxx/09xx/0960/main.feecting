@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see The SpoonKid SpoonKids Snack Room from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:thegame/world/0959/title
+
+## SpoonKids Snack Room
+
+p:Wlecome to the #SpoonKids super ultra healthy snack room with all the best snacks for you to snack on when you are in that mood for some snacks.
+
+title: SpoonKids Snack Room
+
+#color = var(--color-white)
+#bgcolor = var(--color-orange)
+coordinates:09[-151|-674]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
