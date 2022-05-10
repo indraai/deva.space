@@ -18,27 +18,37 @@ title: Mind.rexx
 link:http://mind.sourceforge.net/mindrexx.html
 date: Nov 24, 1994
 
+p:In September of 1993 Stanford Linear Accelerator Center hosted a REXX programming language symposium using the Amiga Computer. This profile of REXX programming language on an Amiga computer is the same profile that a suspicious piece of software released in the public domain also has.
+
+::begin:buttons
+cmd[REXX Code]:#web get http://mind.sourceforge.net/mindrexx.html
+cmd[REXX Symposium]:#adv world:thegame 0951/main:rexx
+::end:buttons
+
 ----
 
 title: Mind.forth
 link:https://ai.neocities.org/mindforth.txt
 date: Nov 19, 2019
 
+::begin:buttons
+cmd[FORTH Code]:#web get https://ai.neocities.org/mindforth.txt
+cmd[Start Forth]:#adv world:thegame 0951/main:startforth
+cmd[Thinking Forth]:#adv world:thegame 0951/main:thinkingforth
+::end:buttons
 ----
 
 title: Mind.perl
 link:https://ai.neocities.org/perlmind.txt
 date:Nov 4, 2019
 
+::begin:buttons
+cmd[PERL Code]:#web get https://ai.neocities.org/perlmind.txt
+::end:buttons
 ----
 
 title: Cyborg
 link:https://cyborg.blogspot.com
-
-### Rexx Symposium
-p:In September of 1993 Stanford Linear Accelerator Center hosted a REXX programming language symposium using the Amiga Computer. This profile of REXX programming language on an Amiga computer is the same profile that a suspicious piece of software released in the public domain also has.
-
-talk:#adv object:thegame 0951/main:text
 
 
 #color = #8c1b1e
@@ -46,3 +56,18 @@ talk:#adv object:thegame 0951/main:text
 coordinates:09[-191|-392]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:REXX
+pdf:https://www.slac.stanford.edu/pubs/slacreports/reports01/slac-r-422.pdf
+::END:REXX
+====
+
+::BEGIN:STARTFORTH
+pdf:https://www.forth.com/wp-content/uploads/2018/01/Starting-FORTH.pdf
+::END:STARTFORTH
+====
+
+::BEGIN:THINKINGFORTH
+pdf:https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+::END:THINKINGFORTH
+====
