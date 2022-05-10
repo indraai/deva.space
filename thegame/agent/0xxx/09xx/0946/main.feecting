@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0946/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0946/avatar
+name:HIP
+vector: 0x0946a
+::END:LOOK
