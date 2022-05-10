@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0951/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: REXX Symposium
+vector: 0x0951o
+
+talk:#adv object:thegame 0951/main:text
+::END:LOOK
+
+::BEGIN:TEXT
+pdf:https://www.slac.stanford.edu/pubs/slacreports/reports01/slac-r-422.pdf
+::END:TEXT
+====

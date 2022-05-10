@@ -21,6 +21,8 @@ img:thegame/world/0950/room
 
 img:thegame/world/0950/bicycles
 
+talk:#adv object:thegame 0950/main:text
+
 #color = #8c1b1e
 #bgcolor = var(--color-white)
 coordinates:09[-151|-432]

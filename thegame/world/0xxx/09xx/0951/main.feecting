@@ -9,7 +9,37 @@ img:thegame/world/0951/title
 ## GhostMind
 
 title: GhostMind
-link[mind.sourceforge.net]:https://bit.ly/3LUOkdC
+link:https://mind.sourceforge.net
+link:https://ai.neocities.org/
+
+----
+
+title: Mind.rexx
+link:http://mind.sourceforge.net/mindrexx.html
+date: Nov 24, 1994
+
+----
+
+title: Mind.forth
+link:https://ai.neocities.org/mindforth.txt
+date: Nov 19, 2019
+
+----
+
+title: Mind.perl
+link:https://ai.neocities.org/perlmind.txt
+date:Nov 4, 2019
+
+----
+
+title: Cyborg
+link:https://cyborg.blogspot.com
+
+### Rexx Symposium
+p:In September of 1993 Stanford Linear Accelerator Center hosted a REXX programming language symposium using the Amiga Computer. This profile of REXX programming language on an Amiga computer is the same profile that a suspicious piece of software released in the public domain also has.
+
+talk:#adv object:thegame 0951/main:text
+
 
 #color = #8c1b1e
 #bgcolor = var(--color-white)
