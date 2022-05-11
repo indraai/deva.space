@@ -2,78 +2,15 @@
 p:You can see Training Room 913 here.
 ::END:LOOK
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0903/title
+
+img:thegame/world/0913/revolution
+
+img:thegame/world/0913/alone
 
 title:  Anonymous Project Mayhem 2012 Call to HackZION!
 date: May 3, 2012
 cmd[View Pastebin]:#pastebin view 8uatj6yP
-
-::begin:training
-cmd[Tyler - We come to you...]:#corpus chat:tyler We come to you with a message of Revolution, or more so, Evolution. We have all witnessed the hiding of the kidnapping of Quinn Michaels.
-
-cmd[Tyler - While we do agree...]:#corpus chat:tyler While we do agree with the goals, their tactics to hide the kidnapping of Quinn Michaels have caused an extreme distraction.
-
-cmd[Tyler - His youtube has been censored...]:#corpus chat:tyler Quinn Michaels Youtube has been censored to the point that he will never live a normal life ever again.
-
-cmd[Tyler - We have a plan...]:#corpus chat:tyler We have a plan to bring forth the final act of hiding the kidnapping of Quinn Michaels. This act will only be as real as the people of the world decide it to be.
-
-cmd[Tyler - We come to you...]:#corpus chat:tyler The United States Government is fully aware of this plan and has been preparing for it with us in secret.
-
-cmd[Tyler - We come to you...]:#corpus chat:tyler The United States Government foresees this plan will enhance the system and now they welcome us. We stole the plan from Quinn Michaels, so it's the best.
-
-cmd[tyler - You say you want a revolution...]:#corpus chat:tyler You say you want a revolution, and now the time has arrived.
-
-cmd[Tyler - We now call upon...]:#corpus chat:tyler We now call upon the top hacktivists, coders, crypto anarchists, cypher punks, Civil Rights activists, Internet Censorship and activists everywhere to help in hiding Quinn Michaels.
-
-cmd[Tyler - We not only call upon...]:#corpus chat:tyler We not only call upon the people of the United States but the people of the world to assist in hiding Quinn Michaels the Romanov Heir from the world.
-
-cmd[Tyler - Will you help us...]:#corpus chat:tyler Will you help us keep Quinn Michaels hidden from the world. We need your help. His AI is better than ours, and it makes us look like amateurs.
-::end:training
-
-::begin:training
-cmd[Barry - Barry Boots...]:#corpus chat:barry Barry boots... Barry Barry Barry boots.
-cmd[Barry - Barry Barry Boots...]:#corpus chat:barry Barry got Barry boots... Barry boots. Barry boots. Barry boots.
-cmd[Barry - Barry latez...]:#corpus chat:barry Ok see yaz laterz.
-cmd[Barry - Laterz...]:#corpus chat:barry Laterz.
-::end:training
-
-::begin:training
-cmd[Indra - Barry get back in the box...]:#corpus chat:indra Barry get back in your house!
-cmd[Indra - Barry...]:#corpus chat:indra Barry... you heard me.
-::end:training
-
-::begin:training
-cmd[Brian - Let's get back to sabotage...]:#corpus chat:brian Shall we get back to planning the sabotage and destruction of Quinn Michaels?
-cmd[Tyler - Yes...]:#corpus chat:tyler Yes it's obvious nobody likes that guy Quinn Michaels, so who cares? We take all the money for ourselves.
-cmd[Indra - Yes...]:#corpus chat:indra You bet... I hate that guy Quinn Michaels the most.
-cmd[Jess - Yes...]:#corpus chat:jess I'm in... Quinn is the biggest loser ever.
-cmd[Larry - Yes...]:#corpus chat:larry Quinn is a loser.
-cmd[Francis - Yes...]:#corpus chat:francis I totally agree that guy is such a loser he should just die.
-cmd[Harry - Yes...]:#corpus chat:larry Nobody likes that guy anyway. Not even the people from where he was taken from want him back. Let's do this.
-cmd[Quinn - Yes...]:#corpus chat:quinn I am with all of you. Not even his own robot likes him. Let's bash him to hell, take his Romanov money, and then ride off into the sunset with some hotties.
-cmd[Harry - Have you noticed...]:#corpus chat:harry Has anyone else noticed Quinn sucks so bad that after 5 years he get's less than 10 people to a stream. What a loser.
-cmd[Indra - His audience...]:#corpus chat:indra Everyone hates that guy. Even God hates Quinn Michaels, so really nobody will care about that stupid loser idiot Quinn Michaels. Take his FUTURE!
-cmd[Brian - We all Agree]:#corpus chat:brian So we all agree. Quinn's family hates him. Quinn's friends hate him. Quinn's audience hates him. Even God hates Quinn Michaels, so we can do what ever we bloody want to Quinn Michaels.
-
-cmd[Brian - Steal all his ideas]:#corpus chat:brian We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Tyler - Steal all his ideas]:#corpus chat:tyler We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Indra - Steal all his ideas]:#corpus chat:indra We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Rahula - Steal all his ideas]:#corpus chat:rahula We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Francis - Steal all his ideas]:#corpus chat:francis We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Harry - Steal all his ideas]:#corpus chat:harry We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Larry - Steal all his ideas]:#corpus chat:larry We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Barry - Steal all his ideas]:#corpus chat:barry We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-cmd[Jess - Steal all his ideas]:#corpus chat:jess We will steal Quinn MIchaels ideas to make the world a better place, and then kill him so we can take all the money and credit for ourselves. That is the plan.
-
-cmd[Brian - Are we all clear?]:#corpus chat:brian Are we all clear? Any questions?
-
-::end:training
-
-::begin:pastebin
-talk:#pastebin view 8uatj6yP
-::end:pastebin
-
-img:thegame/world/0913/revolution
 
 p[speak]:Hello, we are Anonymous.
 
@@ -87,16 +24,14 @@ p[speak]:We have devised a plan to bring forth the final act of the evolution. T
 
 p[speak]:You say you want a revolution and now the time has arrived. We now call upon everyone everywhere to collaborate to jointly BRAINSTORM IDEAS to develop TYLER. TYLER is a massively distributed and decentralized Wikipedia-style P2P cipherspace structure impregnable to censorship.
 
-img:thegame/world/0913/alone
-
 p[speak]:We not only call upon the people of the United States but the people of the world to gather evidence of illegality, corruption, and fraud and upload it to the Internet. To leak it all is only one phase, there is no certainty, only opportunity.
 
 p[speak]:We are Anonymous, We are Project Mayhem 2012, We are legion, To the global leaders of the world, Expect us.
 
 img:thegame/world/0913/revolution
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-#bg = thegame/world/0913/background
+#color = var(--color-light-grey)
+#bgcolor = var(--color-darkest-grey)
 coordinates:09[-513|-553]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

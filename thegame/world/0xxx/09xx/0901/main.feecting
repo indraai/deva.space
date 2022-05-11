@@ -3,7 +3,7 @@ p:You can see Training Room 901 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+## The Buddhist Practice Video
 
 ::begin:summary
 p[speak]:Welcome to Training Room 901. In September of 2015 Trenton began telling his father Quinn Michaels a story. I story that would lead to calling the FBI, and then eventually delivering evidence to their office.
@@ -80,4 +80,5 @@ img:thegame/world/0901/trenton
 #bgcolor = #ffffff
 #bg = thegame/world/0901/background
 coordinates:09[-514|-432]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

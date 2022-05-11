@@ -3,18 +3,13 @@ p:You can see Training Room 914 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0903/title
+
+img:thegame/world/0917/anon
 
 title: Project Mayhem 2012 'Dangerous Ideas #1 and #2'
 date: Sep 15, 2011
 cmd:#pastebin view sLLwJbtz
-
-talk:#adv world:thegame 0917/training:main
-
-
-::begin:pastebin
-talk:#pastebin view sLLwJbtz
-::end:pastebin
 
 p[speak]:We cannot and won't expect to 'mutate the World' until we have begun to EVOLVE and MUTATE OURSELVES.
 
@@ -46,10 +41,9 @@ p[speak]:3. LAUGH about results.
 p[speak]:4. SHARE with The Others what you have learned/created/discovered.
 p[speak]:V. Repeat.
 
-img:thegame/world/0917/anon
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-#bg = thegame/world/0917/background
+#color = var(--color-light-grey)
+#bgcolor = var(--color-darkest-grey)
 coordinates:09[-474|-594]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

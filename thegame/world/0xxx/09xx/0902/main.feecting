@@ -3,7 +3,6 @@ p:You can see Training Room 902 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
 
 ## Keypoints of The Trenton Story
 
@@ -32,4 +31,5 @@ talk:#adv world:thegame 0902/training:main
 #bgcolor = #ffffff
 #bg = thegame/world/0902/background
 coordinates:09[-514|-472]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

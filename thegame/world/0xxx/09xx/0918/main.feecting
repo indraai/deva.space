@@ -3,19 +3,13 @@ p:You can see Training Room 914 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0903/title
+
+img:thegame/world/0918/skitch
 
 title: Project Mayhem Tyler
 date: Sep 15, 2011
 cmd:#pastebin view Wt15GXTn
-
-talk:#adv world:thegame 0918/training:main
-
-img:thegame/world/0918/title
-
-::begin:pastebin
-talk:#pastebin view Wt15GXTn
-::end:pastebin
 
 p[speak]:What if WikiLeaks was a sort of Wiki-BitTorrent, served by thousands of people around the world running a background process on their computers,” mused  Edward Benson, a Ph.D. student at the MIT Computer Science and Artificial Intelligence Laboratory.
 
@@ -41,13 +35,8 @@ p[speak]:If you want to be HONEST then you have to live a LIE.
 
 p[speak]:Once TYLER be on the wild and Truths be revealed: You DO ask questions. You DO ask questions. No excuses. No lies. You HAVE to trust Tyler: for YOU are the Watchmen.
 
-
-img:thegame/world/0918/title
-
-img:thegame/world/0918/skitch
-
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-#bg = thegame/world/0918/background
+#color = var(--color-light-grey)
+#bgcolor = var(--color-darkest-grey)
+talk:#adv world:thegame 0900/training:card
 coordinates:09[-473|-553]
 ::END:MAIN

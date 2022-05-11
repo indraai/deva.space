@@ -1,20 +1,8 @@
 ::BEGIN:LOOK
-p:You can see Training Room 908 from here.
+p:You can see Training Room 909 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
-
-title:#☰THErSEC - Proj☰ct ∞ ♘☮♞☯
-date:Oct 23, 2013
-
-cmd[Pastebin - View Original]:#pastebin view vr0YUfhX
-::begin:pastebin
-talk:#pastebin view vr0YUfhX
-::end:pastebin
-
-cmd[We have not come...]:#corpus chat:tyler We have not come to destroy, but to fulfill.
-cmd[Whave not come to...]:#corpus chat We have not come to take sides but rather, We have come to take over. For we are all of these things, made WHOLE.
 
 img:thegame/world/0909/one
 
@@ -22,7 +10,17 @@ img:thegame/world/0909/ethersec
 
 img:thegame/world/0909/virus
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+title:#☰THErSEC - Proj☰ct ∞ ♘☮♞☯
+date:Oct 23, 2013
+
+cmd[Pastebin - View Original]:#pastebin view vr0YUfhX
+
+cmd[We have not come...]:#corpus chat:tyler We have not come to destroy, but to fulfill.
+cmd[Whave not come to...]:#corpus chat We have not come to take sides but rather, We have come to take over. For we are all of these things, made WHOLE.
+
+
+#color = var(--color-light-grey)
+#bgcolor = var(--color-darkest-grey)
 coordinates:09[-352|-513]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

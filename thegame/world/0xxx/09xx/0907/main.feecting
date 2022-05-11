@@ -3,19 +3,14 @@ p:You can see Training Room 907 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
-
-id: :id:
-date: :date:
-client: :client_name:
-
 ::begin:instructions
 talk:#feecting get https://raw.githubusercontent.com/indraai/language-feecting/master/agents/deva.feecting
 ::end:instructions
 
 -
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+#color = var(--color-light-grey)
+#bgcolor = var(--color-darkest-grey)
 coordinates:09[-433|-432]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN
