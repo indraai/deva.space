@@ -3,15 +3,49 @@ p:You can see Training Room 930 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0930/splash
+
+## Church Of Virus
+
+title: Church of Virus
+link[CoV Website]:https://bit.ly/3w9Rc0Q
+
 img:thegame/world/0930/title
 
-## Perplex City
+p:Virus is ...
 
+> a forum for rational discourse
+> a memetically engineered nontheistic religion
+> a synthesis of religion and evolution
+> the best possible conceptual framework for living and thinking
+> a neo-cybernetic philosophy for the 21st century
+> Darwin's dangerous idea out of control
+> an extended phenotype of the Virion Council
+
+## Goal
+p:Virus was created to compete with the traditional (irrational) religions in the human ideosphere with the idea that it would introduce and propagate memes which would ensure the survival and evolution of our species. The main advantage conferred upon adherents is Virus provides a conceptual framework for leading a truly meaningful life and attaining immortality without resorting to mystical delusions.
+
+## Overview
+p:Virus is a collection of mutually-supporting ideas (a meme-complex) encompassing philosophy, science, technology, politics, and religion. The core ideas are based on evolution and memetics because one of the primary design goals was survivability through adaptation (religions die, not because they grow old, but because they become obsolete). If a new religion is designed around the premise of continuously integrating better (more accurate, more useful) concepts while ensuring the survival of its believers, it could conceivably achieve true immortality.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0930/background
 talk:#adv world:thegame 0900/training:card
+coordinates:09[-594|-513]
+::END:MAIN
+
+::BEGIN:PERPLEX
+img:thegame/world/0930/splash
+
+
+## Perplex City
 
 title: Perplex City
 date: January 16, 2004
 link[Web Archive]:https://bit.ly/3shEEC6
+
+img:thegame/world/0930/title
 
 p:Very early in the morning of January 16th 2004, an object of immeasurable value, the Receda Cube, was stolen from my city and taken to Earth. It is of the utmost importance that the Cube is returned to us. Though we do not know where it is, we have created a puzzle game that we hope will help you find the Cube and result in its safe return. The game is made up of hundreds of puzzle cards that will open a window into our world.
 
@@ -39,8 +73,8 @@ img:thegame/world/0930/card
 
 talk:#wiki summary Perplex_City
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-#bg = thegame/world/0930/background
+#color = var(--color-darkest-grey)
+#bgcolor = var(--color-white)
+talk:#adv world:thegame 0900/training:card
 coordinates:09[-594|-513]
-::END:MAIN
+::END:PERPLEX

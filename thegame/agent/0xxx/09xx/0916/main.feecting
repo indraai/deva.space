@@ -3,22 +3,10 @@ img:thegame/agent/0916/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Izar
 img:thegame/agent/0916/avatar
-name:Izar
+## Robert David Steele
+name:Robert David Steele
 vector: 0x0916a
-describe: Izar is here to help you with your various needs in Training Room 916. He is here to answer questions and assist you.
-
-## Conversation
-p[speak]:Here is a basic conversation to get you started talking with Izar.
-
-::begin:blips
-talk:#adv agent:thegame 0916/main:talk
-::end:blips
-====
-
-#bgcolor = #ffffff
-#color = #333333
 ::END:LOOK
 
 ::BEGIN:TALK

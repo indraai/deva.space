@@ -1,35 +1,31 @@
 ::BEGIN:LOOK
-p:You can see Training Room 902 from here.
+p:You can see Cicada3301 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 
-## Keypoints of The Trenton Story
+img:thegame/world/0902/splash
 
-1. Quinn made a Buddhist practice video for Trenton.
-2. Trenton then told Quinn about The Family Game being played at his Mother's house.
-3. Trenton reveals that his mother is a member of The Covennat.
-4. Trenton reveals he has met with Quinn's family in secret, and how they talked about them not being his real family.
-5. Mr. Dewity was identified as being the main character involved according to Trenton.
-6. Mr. Dewity was said to have keys to Trenton's house and could visit at any time.
-7. Mr. Dewity is the leader of a vast underground society known as The Covenant.
-8. Mr. Dewity had his agents abduct Quinn when he was a baby in 1977 from an unknown location.
-9. Mr. Dewity was there when Trenton was born, and Quinn was not there at that time.
-10. Mr. Dewity has access to elevators that with a special key can access various underground cities.
-11. Quinn took Trenton to meet Buddhist Monks for help several months after going to the FBI.
-12. As of Christmas time 2016 Quinn and Trenton have not directly spoken or seen one another.
-13. Since Trenton told Quinn his story the Secret Society he talked about has proven True time and time again.
-14. In early 2017 Quinn then located the Tyler instructions which aligned with The Trenton Story
+img:thegame/world/0902/everywhere
 
+## Cicada3301
 
-## Training
-::begin:training
-talk:#adv world:thegame 0902/training:main
-::end:training
+p[speak]:In late 2017 while Quinn was researching The Trenton Story he came across invididuals on youtube such as Defango, Cicada3301, and others.
 
-#color = #333333
-#bgcolor = #ffffff
-#bg = thegame/world/0902/background
+p[speak]:This was also around the time that they were promoting the Mandela Effect ARG onto everyone.
+p[speak]:The big operations at this time were Cicada3301, Mandela Effect, and Kek.
+p[speak]:The KEK people were following a little green virtual frog around 4chan looking for white rabbits.
+p[speak]:Cicada3301 pitches themselves as geek puzzle solvers when it's really a bunch of creepy porn addicts.
+p[speak]:Much of it revolving around that CERN was going to end the world and
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+
 coordinates:09[-514|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:AGENTS
+img:thegame/world/0902/agents
+::END:AGENTS
+====

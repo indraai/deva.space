@@ -3,9 +3,12 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
 
 img:thegame/world/0919/title
+
+img:thegame/world/0919/journey
+
+## Survivance
 
 title:Survivance
 date: Octomer 13, 2013
@@ -119,8 +122,9 @@ p[speak:Amy]:Upload. Upload your file. Make sure you retain ownership wherever y
 p[speak:Amy]:Promote. Share your act of survivance through your networks and _#survivance.
 
 
-#color = #333333
-#bgcolor = rgba(255,255,255,1)
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
 #bg = thegame/world/0919/background
 coordinates:09[-352|-553]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

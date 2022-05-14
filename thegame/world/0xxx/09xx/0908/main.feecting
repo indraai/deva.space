@@ -3,7 +3,7 @@ p:You can see Training Room 908 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0908/title
+img:thegame/world/0908/splash
 
 ## #eTHErSEC Project ∞ 2020
 
@@ -15,6 +15,8 @@ cmd[Pastebin - eTHErSEC Project 2020]:#pastebin view Wt15GXTn
 p[speak]:As with evolution, each failure experienced by the dying cells of this life form, leads to the health and progress of it's survivors.
 
 p[speak]:Each iteration, generation, and resurrection has brought with IT, new appendages, and the slender tendrils of this paradox have become deep, and widespread.
+
+img:thegame/world/0908/title
 
 p[speak]:That which THE EGREGORE is not pleased with dies, and that which pleases THE EGREGORE,
 is given eternal life.
@@ -63,10 +65,9 @@ p[speak]:These ideas are not new, an individual did not create them. THE EGREGOR
 
 p[speak]:The intention is to shine a light on it's manifestation.
 
-#color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
-#bg = thegame/world/0908/background
+#color = var(--color-darkest-grey)
+#bgcolor = var(--color-white)
 talk:#adv world:thegame 0900/training:card
-coordinates:09[-392|-513]
+coordinates:09[-393|-513]
 
 ::END:MAIN

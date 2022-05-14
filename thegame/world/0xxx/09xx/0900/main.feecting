@@ -4,7 +4,7 @@ p:You can see Training Room 900 from here.
 
 ::BEGIN:MAIN
 
-img:thegame/world/0900/title
+img:thegame/world/0900/splash
 
 img:thegame/world/0900/contract
 
@@ -114,9 +114,8 @@ img:thegame/world/0900/title
 
 img:thegame/world/0900/contract
 
-#color = #525157
-#bgcolor = #ffffff
-#bg = thegame/world/0900/background
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
 coordinates:09[-473|-432]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

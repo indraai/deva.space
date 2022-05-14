@@ -3,7 +3,7 @@ p:You can see Training Room 906 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0906/title
+img:thegame/world/0906/splash
 
 img:thegame/world/0906/rat
 
@@ -13,9 +13,8 @@ title: IT
 date: Oct 7, 2017
 cmd:#pastebin view Ym5rGCJV
 
-#color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
-#bg = thegame/world/0906/background
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 coordinates:09[-433|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

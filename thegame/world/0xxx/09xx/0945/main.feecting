@@ -3,6 +3,8 @@ p:You can see Training Room 934 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0945/splash
+
 img:thegame/world/0945/title
 
 ## HOPE Conference
@@ -19,9 +21,11 @@ p:It's time for the inevitable -- the sequel to 1994's Hackers On Planet Earth (
 
 
 ### What was it?
+
 p:We can't emphasize this enough: Beyond HOPE will be defined as it happens. While you can learn about our plans for panels and events, the Beyond HOPE computer network (hope.net), and more, by exploring this web site, the most exciting things to happen won't be planned at all. As an attendee, expect to hear a wide variety of viewpoints on virtually every issue pertinent to the information age: social engineering, encryption, surveillance, PCS/GSM technology, legal issues, hackers, "pirate" radio, the media... just to name a few. You can also expect to have an all-around good time.
 
 ### Where was it?
+
 p:It all takes place starting Friday evening, August 8th, running until Sunday night, August 10th at the Puck Building in New York City, on the corner of Houston and Lafayette Streets. A floor plan of the Puck Building is available. The main part of the conference begins at noon on Saturday, with registration starting at 10AM. However, you will also be able to register Friday evening beginning at 6PM and help us set up the network for the weekend. There will be a special 2600 meeting beginning at 5PM on Friday at the Citicorp Center, located at 53rd and Lexington. To get to the conference from the meeting, take the #6 train downtown to Bleecker Street. Follow the signs and portents.
 
 ### HOPE 94 Pics
@@ -43,10 +47,13 @@ talk:#wiki summary Eric_Corley
 talk:#wiki summary Rop_Gonggrijp
 
 > Gonggrijp has worked for WikiLeaks, helping prepare the Collateral Murder April 2010 release of video footage from a Baghdad airstrike.
+
 > On 14 December 2010, in relation to ongoing investigations of WikiLeaks, the US Department of Justice issued a subpoena ordering Twitter to release information regarding Gonggrijp's account.
+
 > Gonggrijp's assistanced in enabling WikiLeaks to release the "Collateral Murder" video in April 2010, a WikiLeaks action.
 
 img:thegame/world/0945/005
+
 l:Winn_Schwartau, Mordehai Levy of the JDO, Ray Kaplan
 
 talk:#wiki summary Winn_Schwartau
@@ -72,7 +79,6 @@ img:thegame/world/0945/010
 
 img:thegame/world/0945/011
 
-
 ## Hacking in Progress
 
 p:Remember 'Hacking at the End of the Universe' (HEU) in 1993? The people that published Hack-Tic, a computer underground magazine in The Netherlands, organized it. Hundreds of hackers, phone phreaks, programmers, computer haters, data travellers, electro-wizards, networkers, hardwarefreaks, techno-anarchists, communications junkies, cyber- and cypherpunks, system managers, stupid users, paranoid androids, Unix gurus, whizz kids and warez dudes spent three days building their own network between their tents in the middle of nowhere, located in the Flevopolder in The Netherlands.
@@ -81,8 +87,8 @@ p:HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machi
 
 p:Hacking In Progress will be happening at the same time as Beyond HOPE. We are planning a live video teleconferencing link between the two events, via the Beyond HOPE network.
 
-
 ## h2k - Hackers of Planet Earth 2000
+
 link[h2k.net]:http://www.h2k.net/
 
 p:Welcome to the website for H2K, the third HOPE conference, sponsored by 2600. H2K will be held July 14-16, 2000, at the Hotel Pennsylvania in New York.
@@ -147,6 +153,6 @@ audio: http://www.h2k2.net/media/intelligence3.mp3
 #HOPE = Hackers of Planet Earth
 #HIP = Hacking in Progress
 #color = var(--color-darkest-grey)
-#bgcolor = var(--color-light-grey)
+#bgcolor = var(--color-white)
 coordinates:09[-634|-674]
 ::END:MAIN

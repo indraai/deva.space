@@ -8,6 +8,12 @@ img:thegame/object/0932/avatar
 
 name: Perplex City Datalink
 vector: 0x0932o
+
+talk:#adv object:thegame 0932/main:text
+::END:LOOK
+====
+
+::BEGIN:TEXT
 link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
 
 p:People of Earth: Hello.
@@ -23,11 +29,5 @@ p:That surge of power broke the original data link between us. We suspect The Th
 p:From this point on, I advise you all to stay alert.
 
 p:I will endeavour to keep you up to date with developments and discoveries here. For your part, I hope you will redouble your efforts. I sense that time is running short, but I continue to have every confidence in your abilities.
-
-::END:LOOK
-====
-
-::BEGIN:TEXT
-link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
 ::END:TEXT
 ====

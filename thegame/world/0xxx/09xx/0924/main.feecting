@@ -3,7 +3,7 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+## RapLeaf
 
 title:Rapleaf
 date: 2007
@@ -33,7 +33,8 @@ talk:#wiki summary Ron_Conway
 talk:#wiki summary Founders_Fund
 
 
-#color = #333333
-#bgcolor = #eeeeee
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
 coordinates:09[-231|-513]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

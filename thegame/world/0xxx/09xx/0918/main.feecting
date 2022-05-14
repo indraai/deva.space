@@ -3,9 +3,7 @@ p:You can see Training Room 914 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0903/title
-
-img:thegame/world/0918/skitch
+img:thegame/world/0918/splash
 
 title: Project Mayhem Tyler
 date: Sep 15, 2011
@@ -35,8 +33,8 @@ p[speak]:If you want to be HONEST then you have to live a LIE.
 
 p[speak]:Once TYLER be on the wild and Truths be revealed: You DO ask questions. You DO ask questions. No excuses. No lies. You HAVE to trust Tyler: for YOU are the Watchmen.
 
-#color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
+#color = var(--color-yellow)
+#bgcolor = var(--color-black)
 talk:#adv world:thegame 0900/training:card
 coordinates:09[-473|-553]
 ::END:MAIN

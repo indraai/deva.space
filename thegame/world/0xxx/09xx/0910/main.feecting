@@ -3,15 +3,19 @@ p:You can see Training Room 910 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0910/splash
+
 ## Project Mayhem 2020
 
 title: Project Mayhem 2020
 date: Dec 21, 2015
 
+img:thegame/world/0910/title
+
 cmd:#pastebin view nqgYMfPL
 
 #color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
+#bgcolor = var(--color-black)
 coordinates:09[-392|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

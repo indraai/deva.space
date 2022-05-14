@@ -3,30 +3,18 @@ p:You can see San Fancsco Connection from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0933/title
+img:thegame/world/0933/splash
 
-## San Francisco Connection
+## Lionel Nation
 
-talk:#adv world:thegame 0900/training:card
 
 title: San Francisco Connection
 date: Aug 12, 2006
 link[Perplex City Wiki]:https://bit.ly/3vQwtiC
 
-p[speak:Brian]:The event took place August 12th, 2006.
 
-p[speak:Brian]:In most literal terms, this is a new link which is to connect Perplex City to Earth; specifically, the link will connect to San Francisco, California, USA.
-
-p[speak:Brian]:In a more pragmatic sense, this will be a live event in San Francisco, and will be similar to the London PCAG event.
-
-p[speak:Brian]:The event was to be a time of celebration for people on both worlds, historically establishing broader relations between Earth and Perplex City.
-
-p[speak:Brian]:The purpose of the link was to expand bandwidth of the link, effectively doubling capacity, while also providing redundancy for security purposes.
-
-p[speak:Brian]:A short time before the event, Von started telling us about himself on his new temporary blog. He gave us a set of riddles, each one giving a single letter, which cassandra determined to be the jumbled up movie title: DIRTY HARRY.
-
-#color = var(--color-white)
-#bgcolor = var(--color-darkest-grey)
-#bg = thegame/world/0930/background
-coordinates:09[-594|-593]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-634|-474]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

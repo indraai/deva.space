@@ -4,9 +4,11 @@ p:You can see Stanford Linear Accelerator Complex from here.
 
 ::BEGIN:MAIN
 
-img:thegame/world/0951/title
+img:thegame/world/0951/splash
 
 ## GhostMind
+
+img:thegame/world/0951/title
 
 title: GhostMind
 link:https://mind.sourceforge.net

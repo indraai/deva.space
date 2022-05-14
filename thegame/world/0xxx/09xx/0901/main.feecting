@@ -3,15 +3,22 @@ p:You can see Training Room 901 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0901/splash
+
 ## The Buddhist Practice Video
+
+youtube:PVXbg2eliZM
+
+img:thegame/world/0901/rahula
+
+img:thegame/world/0901/water
+
+
 
 ::begin:summary
 p[speak]:Welcome to Training Room 901. In September of 2015 Trenton began telling his father Quinn Michaels a story. I story that would lead to calling the FBI, and then eventually delivering evidence to their office.
 ::end:summary
 
-talk:#youtube video PVXbg2eliZM
-
-img:thegame/world/0901/rahula
 
 ### September 2015
 
@@ -21,7 +28,6 @@ p[speak]:After Quinn showed Trenton the Buddhist Practice video he said only one
 
 p[speak]:TheFamilyGame is a game where Trenton and his Mother, her family, and Quinn family gather together and devise ways to destroy the life of Quinn in SECRET. Quinn had no idea this was going on in his life, and this single story would lead to a whole new life for Quinn that he never wanted for himself.
 
-img:thegame/world/0901/water
 
 p[speak]:What does a person do? Call the Trenton Mother and ask... hey are you playing TheFamilyGame where you plot and scheme to destroy my life? You think she'd be honest.
 
@@ -76,9 +82,8 @@ img:thegame/world/0901/rahula
 
 img:thegame/world/0901/trenton
 
-#color = #333333
-#bgcolor = #ffffff
-#bg = thegame/world/0901/background
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
 coordinates:09[-514|-432]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -3,12 +3,15 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0927/title
+
+img:thegame/world/0927/splash
 
 ## GhostNet
 
 title:GhostNet
 date: 2009
+
+img:thegame/world/0927/title
 
 talk:#wiki summary GhostNet
 

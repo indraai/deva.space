@@ -3,9 +3,8 @@ p:You can see Training Room 904 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0903/title
+img:thegame/world/0904/splash
 
-img:thegame/world/0904/info
 
 title: ProjecT mayhEM 2013 - reVelations 1-5
 date: Jan 1st 2013
@@ -13,6 +12,8 @@ date: Jan 1st 2013
 cmd:#pastebin view scNXFWRP
 
 p[speak]:The underlying goal of SOME (not all) of the founders of project Mayhem 2012 was to lure new fags and mystical thinkers into a trap, where old fag Anons could uncover, and ruin, the supporters of pseudoscience and love.
+
+img:thegame/world/0904/info
 
 p[speak]:You will find many references to Satan hidden, and sometimes not so hidden, inside the literature and images of Project Mayhem 2012, because SOME (not all) of the founders are satanists. Some founders viewed the satanic imagery as simply the empowerment of the human spirit, while a select few saw this as a symbol for evil.
 
@@ -72,9 +73,8 @@ p[speak]:Everyone who has read this, and understands the truth of what it says, 
 
 p[speak]:Become like Michael
 
-#color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
-#bg = thegame/world/0904/background
+#color = var(--color-pink)
+#bgcolor = var(--color-black)
 coordinates:09[-473|-513]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

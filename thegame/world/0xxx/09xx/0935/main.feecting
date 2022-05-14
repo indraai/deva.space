@@ -3,6 +3,8 @@ p:You can see Training Room 935 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0935/splash
+
 img:thegame/world/0935/title
 
 ## Evil People Inc.
@@ -24,7 +26,7 @@ p[speak:Brian]:Beginning with a massive campaign to buy up all the souls possibl
 
 p[speak:Brian]:From a hidden location in the heart of San Francisco's SOMA district (That's "SOuth of MArket" for you foreigners (you will be executed too)), EvilPeople,INC.(tm) spreads it's dark web of corruption and decadence to the rest of the world, sliding like a black cancer through your every day lives. Sure, it's hard work, but the benefits are good, and, well, someone has to do it. Might as well be us, the top name in Evil(tm) (Microsoft is number three. Betcha wonder who number two is, don'tcha?).
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+#color = var(--color-red)
+#bgcolor = var(--color-black)
 coordinates:09[-554|-593]
 ::END:MAIN

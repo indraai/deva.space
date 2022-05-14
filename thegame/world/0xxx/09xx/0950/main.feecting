@@ -11,6 +11,8 @@ img:thegame/world/0950/title
 title: Stanford Linear Accelerator
 link[SLAC - PDF]:https://stanford.io/39PRwJD
 
+bmud[View PDF Here]:look text
+
 img:thegame/world/0950/open
 
 img:thegame/world/0950/housing
@@ -21,7 +23,6 @@ img:thegame/world/0950/room
 
 img:thegame/world/0950/bicycles
 
-talk:#adv object:thegame 0950/main:text
 
 #color = #8c1b1e
 #bgcolor = var(--color-white)

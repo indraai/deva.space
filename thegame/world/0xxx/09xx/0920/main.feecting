@@ -3,20 +3,17 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
-
-title:Natives In Gaming Dev Gathering
-date: May 22, 2015
+## Natives in Game Dev Gathering
 
 img:thegame/world/0920/title
 
 img:thegame/world/0920/host
 
-## Natives in Game Dev Gathering
-date: Friday, May 22, 2015
+title:Natives In Gaming Dev Gathering
+date: May 22, 2015
 time: 9:00am-5:00pm
-where: University of California Santa Cruz Extension
-where: 2505 Augustine Drive, Santa Clara, CA 95054
+location: University of California Santa Cruz Extension
+address: 2505 Augustine Drive, Santa Clara, CA 95054
 
 --
 
@@ -86,4 +83,5 @@ p[speak:Nicole]:The reality for us, something my mother passed on to me, this wo
 #bgcolor = rgba(255,255,255,1)
 #bg = thegame/world/920/background
 coordinates:09[-312|-553]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -3,11 +3,17 @@ p:You can see Training Room 916 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-id: :id:
-date: :date:
-client: :client_name:
+img:thegame/world/0916/splash
 
+## Robert David Steele
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-554|-474]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:IZAR
 img:thegame/world/0916/title
 
 p[speak]:Did you know Aliens from Epsilon Bootis are invading Earth using Artificial Intelligence?
@@ -115,4 +121,4 @@ talk:#youtube comments FN43WxdzgyQ
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-352|-392]
-::END:MAIN
+::END:IZAR

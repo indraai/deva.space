@@ -4,14 +4,14 @@ p:You can see SATAN Room from here.
 
 ::BEGIN:MAIN
 
-img:thegame/world/0944/title
+img:thegame/world/0944/splash
 
 ## SATAN
 
-talk:#adv world:thegame 0900/training:card
-
 title: SATAN
 link[Satan Website]:http://www.porcupine.org/satan/
+
+img:thegame/world/0944/title
 
 p:SATAN was written because we realized that computer systems are becoming more and more dependent on the network, and at the same becoming more and more vulnerable to attack via that same network.
 
@@ -46,7 +46,8 @@ talk:#wiki summary Security_Administrator_Tool_for_Analyzing_Networks
 
 youtube:qjLDXKw_mms
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+#color = var(--color-red)
+#bgcolor = var(--color-black)
 coordinates:09[-594|-633]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

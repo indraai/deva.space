@@ -1,0 +1,119 @@
+::BEGIN:MAIN
+## Semantic Web vision paper
+version:0.28
+date:Jun 29, 1997
+
+p:© 1997 Alexander Chislenko.
+
+## Purpose
+p:This document describes my vision of semantic/content-aware/intelligent Web, and its development from simple meta-tag processing to globally distributed AI services. The text is gradually taking shape while I am collecting thoughts and studying the resources.
+The Web is probably the richest information repository in human history, but most of its information is passive and unstructured. The Web doesn't know what it carries and for what purpose, and the users cannot specify what they want from it. There are some sites that use structured information storage and queries, but they are just little islands of order in the chaotic sea of information, not communicating to each other.
+
+p:Since 1995, there started appearing various proposals for meta-data representation and communication standards, and other services and tools that may eventually merge into the global Semantic Web. Hopefully, in the next few years we will see universal adoption of open standards for representation and sharing of meta-information.
+
+p:The Web should be aware of the content and purpose of its documents and links, and interests of its users, and make the best use of all encoded knowledge. Open semantic standards and communication protocols will allow creation of various services for knowledge gathering, storage, and distribution, as well as user-friendly client-side utilities that would communicate with these services and provide intelligent content selection, processing, and representation functions.
+
+p:I expect that the next generation of information services will do for Web semantics what HTML and HTTP have done for its communication layer, that is to build a foundation for a global, intelligent, reactive knowledge exchange system.
+
+p:In this paper, I will attempt to review existing efforts and proposals, suggest some additional areas for development, discuss perspectives of distributed knowledge-processing systems, and explore technological and organizational efforts necessary for a coordinated implementation of this vision.
+
+p:It may not be necessary to formulate these ideas as a proposal. I am quite sure that a system like this is as invevitable a step in the development of a civilization as creation of communication infrastructure. Most of the needed technologies are already in various stages of development, and a realization of a system similar to one suggested here seems just a matter of time, whether I or anybody else comes up with such a proposal or not. However, implementation of technological inevitabilities needs visionary facilitation. Without a good vision, system developers tend to make stupid and costly mistakes, such as DOS 640K memory limit, year 2000 problem, or the campaign against "the commercialization of the Net". With limited interest scope, the participants either attempt to take proprietory control over personal data and encoding standards, or steer the development in the direction of their particular interests. In the result, the real process - the development of the global body of knowledge - gets distorted and slows down.
+
+## Semantic Standards
+p:This is a list of some directions in development of semantic standards.
+
+### Structured descriptions of items
+p:Items may include people, documents, events, things for sale, organizations, etc.
+
+p:A description of a person may include: name, address, gender, e-mail, home page, date of birth. Open Profile Standard was just introduced for this purpose. Another example of an existing personal profile standard is the Geek code. The Geek Code probably would have been a lot more successful if somebody developed an interface for translating between this code and English, and some software for matching people based on this code.
+
+p:A description of an event may include: type of an event (concert, conference, etc.), start and end times, location, price, attendance conditions. See, for example, the event entry form from Events directory.
+
+p:A description of an item for sale may include: item description, owner, price, offer expiration date.
+
+p:Practically, at this point, there is a huge number of description forms for all kinds of items, with some meta-services, such as Submit-It for Web pages, providing translations to them.
+
+## Relations between items
+p:Relations between documents: translation, response, table of contents, copyright statement, update, review, etc. HTML specification contains the description of syntax for describing documents relations, but doesn't really define standards.
+Some suggestions on link types are available from W3C.
+
+p:Relations between people and companies may be: employee, owner, member, founder, supporter, etc. - with descriptions of roles, periods of involvement, etc.
+
+p:Relations between people may be: friend, spouse, employer, teacher, client,... Six Degrees website attempts to collect these relations in a proprietory database.
+
+## Marked document elements
+p:Document language should allow specification of additional semantic information about particular sections of the document and individual words. HTML suggests syntax for some of such elements on the chapter level:
+
+::begin:code
+<DIV CLASS=PREFACE>
+  [preface content]
+</DIV>
+
+on the paragraph level:
+
+<ADDRESS>
+ Alexander Chislenko,
+ 6 McLean Pl. #5
+ Cambridge MA 02140-2437 USA
+</ADDRESS>
+
+And on the word level:
+
+<DATE>02Dec1959</DATE>
+::end:code
+
+p:Still, these are just hints at possible syntax; there are only a few tags suggested, there is no way to tell how to parse the address or what the date may refer to.
+
+p:Ideally, there should be a way to use semantic tags to annotate the structure of the document and disambiguate its language for machine processing, intelligent communication with the user, or any other conceivable purpose. A truly spectacular effort in this direction is XML - eXtensible Mark-up Language, being developed under the auspices of World-Wide Web Consortium.
+
+## Item ontologies
+p:There are many services and catalogs with ontologies of items, usually created for convenience of browsing and searching. The most extensive example is Yahoo - the biggest subject ontology for Web documents. A number of standards is also under development to allow coexistence of multiple ontologies, with documents explicitly referencing the ontologies they use. A good examples here is SHOE (Simple HTML Ontology Extensions).
+
+p:Further work in this direction should probably include organizational efforts to ensure compatibility of multiple ontologies, and "ontology negotiation" services between different agencies and integration of item ontologies with general commonsense concept ontologies of networked AI systems.
+
+## Agents' interests descriptions
+
+p:Besides descriptions of passive resources, many agents on the Web may need to specify what kind of resources they are looking for, and how they would like to see them delivered. Specialized information banks may be looking for new records of certain types, such as new restaurants in Boston, or PC parts for sale. People may be waiting for important news on their favorite topics, or movie recommendations from their friends. Web pages may be waiting for changes in their links, so they could update them in real time. Request brokers may be waiting for new request descriptions.
+In all cases, these requests should be described in formalized formats, together with specifications of desired formats of expected data and locations of agents that should receive it.
+
+p:A notable effort in this direction is represented by RDM (Resource Description Messages) - a mechanism to discover and retrieve metadata about network-accessible resources. It is based on Harvest's Summary Object Interchange Format (SOIF) - a syntax for transmitting resource descriptions and other kinds of structured objects.
+
+## Value-added services
+p:Creation of open data representation standards will open the field for competition of services based on their ability to process knowledge (not on hoarding it as it often happens now). This transition may be expected to benefit the knowledge development and distribution similarly to the way in which opening local market environments allowed an explosive growth in production and distribution of material goods.
+
+p:The services here may include:
+
+- Specialized knowledge repositories and retrieval systems.
+
+## Specialized semantic search engines.
+
+- Market agents for selling and buying new and used goods and various services.
+- A range of matching services - from dating to carpooling to job-seeking.
+- Reputation brokers and agent certification systems
+- Recommendation systems that would actively suggest things of interest to individuals, organizations, websites and other agents.
+- Automated subject classification systems with adaptive ontologies and representation schemes adjustable to user's interests.
+- Intelligent communication systems taking into account resources and interests of all sides providing features such as subject/ontology negotiation, privacy protection, and content filtering.
+- Dynamic document maintenance tools, that would be able to perform "just-in-time" updates of information repositories and agent behaviors when some knowledge appears or changes in the environment.
+- A good functional typology of such services may be found at ARPA's Reference Architecture for the Intelligent Integration of Information.
+- Distributed Artificial Intelligence
+
+p:Most of human commonsense knowledge is generalization of observations (current statement included). Establishing relationships between observed objects allows us to infer features of - and relationships among - other objects. This task is very difficult for computers, as creation of a sufficiently large knowledge base requires either a tremendous manual effort [CYC] or an ability of the system to automatically acquire knowledge from an ambiguous environment, such as images or natural language. Machine-readable explicit representation of diverse semantic information should provide commonsense knowledge systems with a lot of "food for thought" that would help develop knowledge acquisition and processing algorithms, and also will prove instrumental in further acquiring and processing knowledge from less structured sources.
+
+p:The knowledge that a common-sense system may derive from an open semantic dataset may include statements like:
+
+- Juan is a Spanish name
+- all mothers are female
+- Dogs don't author documents
+- TV shows do not get canceled due to bad weather
+- Coffins are not popular as birthday presents
+- People with higher level of education make fewer spelling errors.
+- Documents with keyword "humor" often contradict general semantic rules.
+
+p:Also, availability of vast amounts of information about people, things and events may allow to reduce efforts of testing of many hypotheses about people's social and economic behavior and health conditions from long and expensive research programs to a few simple queries. All manual queries entered into such services may be used by the knowledge processing systems as suggestions on which items may be causally or semantically related.
+Eventually, we may see a wide variety of networked knowledge processing servers collecting and generalizing data in their own areas and cooperating with each other for "interdisciplinary" problem solving, first with direct human involvement, and then incresingly on their own.
+
+p:Some suggestions on how to implement a distributed reasoning system using multiple specialized copies of CYC and KQML for communication between them, are available at The Cycic Friends Network
+
+p:Another interesting solution is represented by Agent Communication Language (ACL) developed within the ARPA Knowledge Sharing Effort. ACL has a vocabulary, an "inner language" called KIF (Knowledge Interchange Format), and an "outer" language called KQML (Knowledge Query and Manipulation Language). An ACL message is a KQML expression in which the arguments are terms or sentences in KIF formed from words in the ACL vocabulary.
+::END:MAIN
+====

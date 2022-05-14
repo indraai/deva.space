@@ -4,12 +4,16 @@ p:You can see Training Room 905 from here.
 
 ::BEGIN:MAIN
 
-img:thegame/world/0926/title
+img:thegame/world/0926/splash
 
 ## Palantir
 
 title:Palantir
 date: 2003
+
+bmud[Look - Court Filings]:look text
+
+img:thegame/world/0926/title
 
 img:thegame/world/0926/001
 
@@ -22,8 +26,6 @@ talk:#wiki summary Palantir_Technologies
 talk:#wiki summary Peter_Thiel
 
 talk:#wiki summary Alex_Karp
-
-talk:#adv object:thegame 0926/main:text
 
 p[speak:Brian]:SEC filings state Palantir's official incorporation to be in May 2003 by Peter Thiel, who named the start-up after the "seeing stone" in Tolkien's legendarium.
 
@@ -73,9 +75,8 @@ talk:#wiki summary National_Center_for_Missing_and_Exploited_Children
 
 
 
-#color = #333333
-#bgcolor = #eeeeee
-#bg = thegame/world/0926/background
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:09[-231|-432]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

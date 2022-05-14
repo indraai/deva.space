@@ -3,8 +3,7 @@ p:You can see Training Room 928 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
-img:thegame/world/0929/title
+img:thegame/world/0929/splash
 
 ## Project 89
 
@@ -15,6 +14,8 @@ date: Jun 9, 2007
 
 link[Scribd - Instructions]:http://www.scribd.com/doc/33043343/89PDDWeb-1
 link[Source - Web Archive]:https://web.archive.org/web/20070609111958/http://www.project89.org/about.php
+
+img:thegame/world/0929/title
 
 p:Project89 is the recruitment, training center and battlefeild for the new war.
 
@@ -158,8 +159,12 @@ youtube:1QbEcG8O-L8
 
 thanks:Have a nice day.
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-#bg = thegame/world/0929/background
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 coordinates:09[-554|-513]
 ::END:MAIN
+
+::BEGIN:PDF
+pdf:/public/pdf/Project-89-Basic-Proposal-2011.pdf
+::END:PDF
+====

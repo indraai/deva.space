@@ -3,20 +3,20 @@ p:You can see Training Room 931 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0931/splash
+
+## Jerome Corsi
+
 img:thegame/world/0931/title
 
-## The Scarlett Kite
-
-talk:#adv world:thegame 0900/training:card
-
-title: The Scarlett Kite
+title: Jerome Corsi
 date: Jul 14, 2005
 
 link[ScarlettKite.com - Archive]:https://bit.ly/3LTh5HP
 link[Perplex City - Wiki]:https://bit.ly/3vMKHki
 
-#color = #333333
-#bgcolor = #ffffff
-#bg = thegame/world/0931/background
-coordinates:09[-635|-513]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-594|-474]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

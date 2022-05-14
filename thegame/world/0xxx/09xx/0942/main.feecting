@@ -3,15 +3,12 @@ p:You can see End Of The Line from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+
+img:thegame/world/0942/splash
+
 ## Stanford University
 
-talk:#adv world:thegame 0900/training:card
-
-img:thegame/world/0942/degree
-
 img:thegame/world/0942/primedegree
-img:thegame/world/0942/primeharvard
-img:thegame/world/0942/primemit
 
 title: Stanford University
 link[Stanford.edu]:https://stanford.edu
@@ -20,4 +17,5 @@ link[Stanford.edu]:https://stanford.edu
 #color = #8c1b1e
 #bgcolor = var(--color-white)
 coordinates:09[-191|-432]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

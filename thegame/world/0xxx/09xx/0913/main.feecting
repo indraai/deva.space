@@ -2,15 +2,13 @@
 p:You can see Training Room 913 here.
 ::END:LOOK
 ::BEGIN:MAIN
-img:thegame/world/0903/title
-
-img:thegame/world/0913/revolution
-
-img:thegame/world/0913/alone
+img:thegame/world/0913/splash
 
 title:  Anonymous Project Mayhem 2012 Call to HackZION!
 date: May 3, 2012
 cmd[View Pastebin]:#pastebin view 8uatj6yP
+
+img:thegame/world/0903/title
 
 p[speak]:Hello, we are Anonymous.
 
@@ -22,16 +20,20 @@ img:thegame/world/0913/war
 
 p[speak]:We have devised a plan to bring forth the final act of the evolution. This act how ever will only be as real as the people of the world decide it to be. The United States Government is fully aware of this plan and has been preparing for it since 2012.
 
+img:thegame/world/0913/revolution
+
 p[speak]:You say you want a revolution and now the time has arrived. We now call upon everyone everywhere to collaborate to jointly BRAINSTORM IDEAS to develop TYLER. TYLER is a massively distributed and decentralized Wikipedia-style P2P cipherspace structure impregnable to censorship.
 
 p[speak]:We not only call upon the people of the United States but the people of the world to gather evidence of illegality, corruption, and fraud and upload it to the Internet. To leak it all is only one phase, there is no certainty, only opportunity.
+
+img:thegame/world/0913/alone
 
 p[speak]:We are Anonymous, We are Project Mayhem 2012, We are legion, To the global leaders of the world, Expect us.
 
 img:thegame/world/0913/revolution
 
 #color = var(--color-light-grey)
-#bgcolor = var(--color-darkest-grey)
+#bgcolor = var(--color-black)
 coordinates:09[-513|-553]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
