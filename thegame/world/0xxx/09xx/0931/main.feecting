@@ -7,16 +7,10 @@ img:thegame/world/0931/splash
 
 ## Jerome Corsi
 
-img:thegame/world/0931/title
-
 title: Jerome Corsi
-date: Jul 14, 2005
-
-link[ScarlettKite.com - Archive]:https://bit.ly/3LTh5HP
-link[Perplex City - Wiki]:https://bit.ly/3vMKHki
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-594|-474]
+coordinates:09[-675|-433]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -1,0 +1,32 @@
+::BEGIN:AVATAR
+img:thegame/agent/0966/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0966/avatar
+name: Vladimir Putin
+vector: 0x0966a
+
+p:In 1975, Putin joined the KGB and trained at the 401st KGB school in Okhta, Leningrad.[22][42] After training, he worked in the Second Chief Directorate (counter-intelligence), before he was transferred to the First Chief Directorate, where he monitored foreigners and consular officials in Leningrad.
+
+p:In 1990 Putin retired from active #KGB service with the rank of lieutenant colonel and returned to #Russia to become prorector of Leningrad State University with responsibility for the institution’s external relations.
+
+The inauguration of President Putin occurred on 7 May 2000. He appointed the minister of finance, Mikhail Kasyanov, as prime minister.
+
+::begin:note
+p:Alexander (Sasha) Chislenko was a graduate of Leningrad State University. See Lucifer.com
+
+cmd[View Sasha]:#mud > look sasha
+::end:note
+
+
+
+img:thegame/agent/0966/001
+
+img:thegame/agent/0966/002
+
+img:thegame/agent/0966/003
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK

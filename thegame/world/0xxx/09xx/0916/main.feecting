@@ -9,7 +9,7 @@ img:thegame/world/0916/splash
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-554|-474]
+coordinates:09[-634|-473]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

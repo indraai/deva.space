@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0963/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0963/avatar
+name:Larry Klayman
+vector: 0x0963a
+::END:LOOK

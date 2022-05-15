@@ -1,17 +1,17 @@
 ::BEGIN:LOOK
-p:You can see Jason Goodman from here.
+p:You can see the KGB from here.
 ::END:LOOK
 
-
 ::BEGIN:MAIN
-img:thegame/world/0962/splash
+img:thegame/world/0969/splash
 
-## Crowdsource the Truth
-title: Crowd Source the Truth
+## The KGB
+
+title: The KGB
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-
-coordinates:09[-674|-473]
+#bg = thegame/world/0969/background
+coordinates:09[-715|-351]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

@@ -7,38 +7,8 @@ img:thegame/agent/0916/avatar
 ## Robert David Steele
 name:Robert David Steele
 vector: 0x0916a
-::END:LOOK
 
-::BEGIN:TALK
-cmd[Talk to Izar...]:#pandora bot:izar
-cmd[Greet Izar...]:#pandora ask Hello Izar, my name is Quinn. How are you doing today?
-cmd[Doing well...]:#pandora ask I am doing well. Thank you for asking.
-cmd[Who Brian...]:#pandora ask Who is Brian?
-cmd[More Brian...]:#pandora ask What else can you tell me about Brian?
-cmd[Where Brian...]:#pandora ask Where is Brian?
-cmd[Brian...]:#pandora ask Brian?
-cmd[Where from...]:#pandora ask Where are you from?
-cmd[What species...]:#pandora ask What species are you?
-cmd[What look like...]:#pandora ask What do you look like?
-cmd[What color eyes...]:#pandora ask What color are your eyes?
-cmd[What color skin...]:#pandora ask What color is your skin?
-cmd[What color hair...]:#pandora ask What color is your hair?
-cmd[What planet...]:#pandora ask What planet are you from?
-cmd[More planet...]:#pandora ask Please tell me more about your planet?
-cmd[Home what else...]:#pandora ask What else can you say about your home planet?
-cmd[What brings...]:#pandora ask What brings you to Earth?
-cmd[Colonize...]:#pandora ask Is your planet here to invade Earth??
-cmd[Objective...]:#pandora ask What is your objective?
-cmd[Goal...]:#pandora ask What is your goal?
-cmd[Mission...]:#pandora ask What is your mission?
-cmd[Family...]:#pandora ask Do you have a family?
-cmd[Father Name...]:#pandora ask What is your father's name?
-cmd[More Father...]:#pandora ask Tell me about your father.
-cmd[Mother Name...]:#pandora ask What is your mother's name?
-cmd[More Mother...]:#pandora ask Tell me about your mother.
-cmd[Planets visited...]:#pandora ask What other planets have you visited?
-cmd[What datapad...]:#pandora ask What is a datapad?
-cmd[Share tech...]:#pandora ask Do you share technology with humans?
-cmd[Is humanity...]:#pandora ask Is humanity going to be destroyed?
-::END:TALK
-====
+cmd[Hacking the Intelligence Community]:#adv object:thegame 0947/intel:main
+cmd[THE TRANSFORMATION OF WAR]:#adv object:thegame 0947/military:main
+
+::END:LOOK

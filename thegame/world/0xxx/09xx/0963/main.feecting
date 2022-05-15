@@ -1,17 +1,17 @@
 ::BEGIN:LOOK
-p:You can see Jason Goodman from here.
+p:You can see Larry Klayman from here.
 ::END:LOOK
 
 
-::BEGIN:MAIN
-img:thegame/world/0962/splash
 
-## Crowdsource the Truth
-title: Crowd Source the Truth
+::BEGIN:MAIN
+img:thegame/world/0963/splash
+
+## Larry Klayman
+title: Larry Klayman
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-
-coordinates:09[-674|-473]
+coordinates:09[-715|-473]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

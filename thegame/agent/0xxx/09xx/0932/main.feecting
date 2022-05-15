@@ -9,27 +9,33 @@ vector: 0x0932a
 
 link[Sasha Pages]:https://bit.ly/3stYnP1
 
-p:In 1989, I left Leningrad, Russia for Boston, Massachusetts, as the relatively free society of the U.S. seemed more suitable for my goals: I want to understand how the world works, and steer it, and myself, into the glorious future.
+info:Alexander "Sasha" Chislenko (December 2, 1959 - May 8, 2000) was an extropian thinker active in the Boston extropian community, notable for conceptualizing the fyborg (a portmanteau of "functional" and "cyborg").
+
+p:Chislenko experienced episodes of depression for many years. In the early morning of May 8 2000, during a depressive episode, Alexander Chislenko committed suicide.
+
+-
+
+p:In 1989, Alexander left Leningrad, Russia for Boston, Massachusetts, as the relatively free society of the U.S. seemed more suitable for his goals: he wanted to understand how the world works, and steer it, and myself, into the glorious future.
 
 img:thegame/agent/0932/young
 
-p:In 1982, I got my M.S. in mathematics, Computer Science and education from the Mathematical Department of Leningrad State University, in former Leningrad, former USSR.
+p:In 1982, he got my M.S. in mathematics, Computer Science and education from the Mathematical Department of Leningrad State University, in former Leningrad, former USSR.
 
 p:Worked in industry, academia and as a freelancer on various software, research and educational projects. Also took part in a number of different movements, and used to read like crazy.
 
 img:thegame/agent/0932/son
 
-p:Favorite occupations: hanging around with my son, observing the development of the Universe and peeking into all advanced theories and projects I can find. I consider myself a futurist thinker, and like theorizing on all sorts of subjects, both for the joy of the growing understanding of the world and in hope to influence things. Understanding seems to be going ahead of the influence, so far. Maybe, that's normal.
+p:Favorite occupations: hanging around with my son, observing the development of the Universe and peeking into all advanced theories and projects he can find. He considered himself a futurist thinker, and like theorizing on all sorts of subjects, both for the joy of the growing understanding of the world and in hope to influence things. Understanding seems to be going ahead of the influence, so far. Maybe, that's normal.
 
-p:Currently, I work at Intelligenesis Corp. - a New York based AI company, as a director of collaborative filtering group, making my old dreams of improving knowledge flows a reality via collaborative filtering of information. In 1996-1997 I attempted to do the same at Firefly, but the little bug got eaten by creatures that didn't appreciate its promise :-(
+p:He was working at Intelligenesis Corp. - a New York based AI company, as a director of collaborative filtering group, making my old dreams of improving knowledge flows a reality via collaborative filtering of information. In 1996-1997 he attempted to do the same at Firefly, but the little bug got eaten by creatures that didn't appreciate its promise :-(
 
 link[Intelligenesis Bankruptsy - Ben Goertzel]:https://bit.ly/3l56hKH
 
-p:Between these jobs, I spent a wonderful year in Marvin Minsky's Society of Mind group in the MIT Media lab.
+p:Between these jobs, he spent a wonderful year in Marvin Minsky's Society of Mind group in the MIT Media lab.
 
 img:thegame/agent/0932/fun
 
-p:I like taking part in various technologically interesting and socially useful ventures. If you want to develop some interesting knowledge-based service on the web, i.e. a reputation broker, or have a writing or speaking proposition I may be interested in, please let me know. I will complain about total lack of free time, then will give in.
+p:I like taking part in various technologically interesting and socially useful ventures. If you want to develop some interesting knowledge-based service on the web, i.e. a reputation broker, or have a writing or speaking proposition he may be interested in, please let me know. He would have  complained about total lack of free time, then will give in.
 
 cmd[Hypereconomy]:#adv agent:thegame 0932/hypereconomy
 cmd[Semantec Web]:#adv agent:thegame 0932/semantec
@@ -37,6 +43,6 @@ cmd[Semantec Web]:#adv agent:thegame 0932/semantec
 
 
 
-#bgcolor = #000000
-#color = #eeeeee
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 ::END:LOOK

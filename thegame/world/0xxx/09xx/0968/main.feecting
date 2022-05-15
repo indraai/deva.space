@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see Saint Petersburg University from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0968/splash
+
+## Saint Petersburg University
+
+title: Saint Petersburg University
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0968/background
+coordinates:09[-715|-311]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

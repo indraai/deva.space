@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0965/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0965/avatar
+name: Alex Jones
+vector: 0x0965a
+::END:LOOK

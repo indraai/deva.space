@@ -4,7 +4,7 @@ img:thegame/agent/0134/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0134/avatar
-name: Yellow Master Deva
+name: Red Master Deva
 vector: 0x0134a
 describe: A Master Deva is in deep contemplation of the universe. The red robe signifies his order.  He is one of the five Prime Deva alive today.  He holds himself with a dignity that astonishes even you.
 ::END:LOOK

@@ -7,7 +7,6 @@ img:thegame/world/0933/splash
 
 ## Lionel Nation
 
-
 title: San Francisco Connection
 date: Aug 12, 2006
 link[Perplex City Wiki]:https://bit.ly/3vQwtiC
@@ -15,6 +14,6 @@ link[Perplex City Wiki]:https://bit.ly/3vQwtiC
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-634|-474]
+coordinates:09[-634|-433]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
