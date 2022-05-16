@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0968/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0968/avatar
+name:Peter the Great
+vector: 0x0968a
+::END:LOOK
