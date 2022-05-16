@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0959/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0959/avatar
+name:SecurityPRIME SPY-KGB
+vector: 0x0959a
+::END:LOOK
