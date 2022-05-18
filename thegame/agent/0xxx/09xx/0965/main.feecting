@@ -4,6 +4,6 @@ img:thegame/agent/0965/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0965/avatar
-name: Alex Jones
+name: Alex 965
 vector: 0x0965a
 ::END:LOOK

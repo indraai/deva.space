@@ -8,14 +8,18 @@ img:thegame/agent/0938/avatar
 img:thegame/agent/0938/avatar
 
 ## Kibo
-link[Xibo.com]:http://xibo.com
+link[Xibo.com]:http://kibo.com
 link[Bio - Xibo.com]:http://xibo.com/bio.html
-
-p:James "Kibo" Parry, who is to the Internet what Charles Nelson Reilly was to "Match Game '77". If you've ever read Usenet news, you've likely seen me hanging around various groups for the past ten years, especially alt.religion.kibology, the source of most of the junk on this site. (Kibology is actually the source of all the junk everywhere in the universe, but don't tell anyone who doesn't know the secret milkshake.)
 
 talk:#wiki summary James_Parry
 
 -
+::END:LOOK
+
+====
+
+::BEGIN:BIO
+p:James "Kibo" Parry, who is to the Internet what Charles Nelson Reilly was to "Match Game '77". If you've ever read Usenet news, you've likely seen me hanging around various groups for the past ten years, especially alt.religion.kibology, the source of most of the junk on this site. (Kibology is actually the source of all the junk everywhere in the universe, but don't tell anyone who doesn't know the secret milkshake.)
 
 p:Back in the 80's, James Parry was a struggling undergraduate student at Rensselaer Polytechnic Institute, or just "RPI", as it was known to those who had trouble spelling strange words. RPI was a medium sized technical school, hidden in upstate New York, one of those faraway places where people send their smart children to hide them from public society. This Institution, like others similar to it, was home to a great many insane geniuses. One of the benefits of these technical schools was that they were among the early adopters of the Internet, and even undergrads could acquire a computer systems account that had access to the Internet. This was quaintly known as "net.access", a nickname resulting from the USENET newsgroups at the time, which mostly began with "net.*" instead of the "talk.*, soc.*, rec.*, alt.*" hierarchy that soon replaced it.
 
@@ -24,7 +28,5 @@ p:The problem with these schools is that while they offered a very interesting a
 p:After learning about the cult of the subgenius and all the fun those slackers had, James decided that he would take on the persona of Kibo. By leveraging the popularity of USENET, he created a cult following of Kibo, and worked on becoming a self-proclaimed "god" of the net. He did this by using a shell script that would grep for any instance of the word "Kibo" in the news spool every day. Thus, he gave the appearance of omniscience, as anyone with net.access could mention Kibo in any newsgroup, and he would respond, within a day. Very few people had net.access back then, and most of those were connected to Computer Science department of a technical school in some way. This led to a generalization of the net-people stereotype, and this stereotype dictated certain things, such as a fondness for Star Trek, the computer game "hack", and an interest in net.legends such as Kibo. As you can guess, this phenomenon fed upon itself.
 
 p:Kibo soon realized that in order give this legend something to stand for, it needed something to stand against, and thus he created an arch-nemesis, an anti-kibo, which was dubbed "Xibo". Xibo was regarded as evil, mean, cruel, and restrictive. Kibo's driving philosophy was "You're Allowed"; thus, Xibo had to say that "You're Not Allowed". At first, Kibo himself played the role of Xibo, but then he got help from some of his classmates, including Harry (who later became Glass Onion) and Mark Hill. Mark Hill held the role of Xibo for over a year, but then he graduated and took a job with Oracle. While Oracle had net.access, being one of the first commercial firms that did, Mark found that he did not have the time nor the inclination to continue on as Xibo.
-
-::END:LOOK
-
+::END:BIO
 ====

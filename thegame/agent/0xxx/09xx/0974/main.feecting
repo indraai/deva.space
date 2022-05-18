@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0974/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0974/avatar
+name: Jeffrey 974
+vector: 0x0974a
+::END:LOOK

@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/agent/0976/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0976/avatar
+name:Cassio 976
+vector:0x0976a
+link:https://bit.ly/3NnFOEg
+
+::END:LOOK

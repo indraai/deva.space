@@ -4,6 +4,8 @@ img:thegame/agent/0964/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0964/avatar
-name: Laura Loomer
+name: Laura 964
 vector: 0x0964a
+
+talk:#wiki summary Laura_Loomer
 ::END:LOOK

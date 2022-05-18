@@ -4,6 +4,7 @@ img:thegame/agent/0944/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0944/avatar
-name: Dan Farmer
+name: Dan 944
 vector: 0x0944a
+talk:#wiki summary Dan_Farmer
 ::END:LOOK

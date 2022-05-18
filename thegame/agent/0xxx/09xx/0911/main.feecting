@@ -3,15 +3,9 @@ img:thegame/agent/0911/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Tyler TG23
 img: thegame/agent/0911/avatar
-name: Tyler TG23
+name: TheGame23 911
 vector: 0x0911a
 
-#TheGame23
-
 cmd[Pastebin - #TheGame23]:#pastebin view YbmG6ETq
-
-#bgcolor = #ffffff
-#color = #333333
 ::END:LOOK

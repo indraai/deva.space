@@ -4,6 +4,9 @@ img:thegame/agent/0945/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0945/avatar
-name:Emmanuelle
+name:Emmanuelle 945
 vector: 0x0945a
+
+talk:#wiki summary Eric_Corley
+
 ::END:LOOK

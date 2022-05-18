@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+p:You can see the Webmind Brazil Office from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0976/splash
+
+## Webmind Brazil
+
+title: Webmind Brazil
+link:https://bit.ly/3G346RK
+date:April 2001
+
+Webmind Inc. Announces Bankruptcy Extremely Likely
+
+p:The management of Webmind Inc., an AI software company based in New York and Belo Horizonte, Brazil, has announced it is extremely likely they will be filing for Chapter 7 bankruptcy in mid-April.
+
+p:Webmind Inc’s R&D division, led by company founder Ben Goertzel, has spent the last 3 years developing the Webmind AI Engine, the world’s most advanced AI system, intended to, when complete, display true human-level intelligence.  The AI Engine was scheduled for completion in mid-2002.  The firm’s product division has already developed a number of Internet products providing unique functionalities, which have been deployed on a variety of public websites and corporate intranets.
+
+p:The Webmind Search product provides extremely high-precision search of document archives, providing dramatically superior performance to popular search engines.  The Webmind Classification System solves the problem of dividing documents into different categories – for example, dividing news articles up into topic categories like “sports”, “medicine” and “agriculture”; or, dividing messages on message boards into categories defined by sentiment pertaining to specific companies, such as “bullish on Microsoft” or “bearish on Microsoft.”    This product can be seen in action at http://www.netcurrents.com/nasdaq100.html -- a page that shows you, for each company on the NASDAQ, “what’s the buzz” today?  The buzz on a stock is computed by dividing recent Internet messages about the stock into “bullish” versus “bearish” categories and looking at which category is larger.
+
+p:The Webmind AI Engine, in its current incomplete form, is used in the products indirectly.  It exports “expert rules” based on its advanced thought processes, that are used by the Search and Classification systems to index documents, thus enabling their highly intelligent functionality.
+
+p:The Webmind Market Predictor predicts the prices of daily indices and currencies based on the concepts that it extracts from the news, combined with advanced nonlinear numerical prediction technology.  It’s been tested extensively since 1998, an effort that since mid-1999 has been led by Webmind Inc. CEO Andy Siciliano, former head of Foreign Exchange at UBS.  The Market Predictor is currently being used to power a small hedge fund which will be increased in size as a more substantial track record is accumulated.  During the recent market tumult, the Market Predictor has performed remarkably well, turning a healthy profit in spite of all the chaos.  Unfortunately, the Market Predictor’s anticipation of the poor market conditions did not help Webmind Inc. in its marketing or fund raising efforts!
+
+note:The Market Predictor is currently being used to power a small hedge fund which will be increased in size as a more substantial track record is accumulated.
+
+p:The firm’s current financial situation is the result of a key investor, an overseas media firm, abruptly canceling an expected multimillion-dollar round of funding.  The investor pulled out while literally in the midst of making arrangements for the logistics of wiring money into the company bank account, surprising Webmind Inc. management and, given the difficulty of raising alternative funding rapidly in the current market conditions, making bankruptcy essentially inevitable.
+
+p:A substantial percentage of the Webmind Inc. team, including a handful of New Yorkers and over 30 of the Brazilian R&D and product engineers, is still together and working, in anticipation of the formation of one or more post-bankruptcy Webmind Inc. successor companies.    The development of the AI Engine and the Webmind products continues, and the staff continues to serve Webmind Inc. customers, while the reorganization efforts proceed.
+
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0976/background
+coordinates:09[-715|-593]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

@@ -6,6 +6,9 @@ img:thegame/agent/0949/avatar
 img:thegame/agent/0949/avatar
 
 ## Brenda Laurel
-name: Brenda Laurel
+name: Brenda 949
 vector: 0x0949a
+
+talk:#wiki summary Brenda_Laurel
+
 ::END:LOOK

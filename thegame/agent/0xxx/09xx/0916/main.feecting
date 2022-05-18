@@ -8,7 +8,8 @@ img:thegame/agent/0916/avatar
 name:Robert David Steele
 vector: 0x0916a
 
+talk:#wiki summary Robert_David_Steele
+
 cmd[Hacking the Intelligence Community]:#adv object:thegame 0947/intel:main
 cmd[THE TRANSFORMATION OF WAR]:#adv object:thegame 0947/military:main
-
 ::END:LOOK

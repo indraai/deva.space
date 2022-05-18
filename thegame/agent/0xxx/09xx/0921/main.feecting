@@ -8,22 +8,25 @@ name:John Romero
 vector: 0x0921a
 link[Romero.games]:http://romerogames.com/
 
-### Biography
+::END:LOOK
 
+::BEGIN:BIO
 talk:#wiki summary John_Romero
+
 
 ----
 
 ### Youtube
 
-talk:#youtube channel UCtN2A8bFL_NoxClFyklbMRQ
+cmd:#youtube channel UCtN2A8bFL_NoxClFyklbMRQ
 
 ----
 
 ### Twitter
 
-talk:#twitter user romero
+cmd:#twitter user romero
 
-talk:#twitter timeline romero
+cmd:#twitter timeline romero
 
-::END:LOOK
+::END:BIO
+====

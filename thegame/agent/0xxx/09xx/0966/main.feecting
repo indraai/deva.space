@@ -19,14 +19,9 @@ p:Alexander (Sasha) Chislenko was a graduate of Leningrad State University. See 
 cmd[View Sasha]:#mud > look sasha
 ::end:note
 
-
-
 img:thegame/agent/0966/001
 
 img:thegame/agent/0966/002
 
 img:thegame/agent/0966/003
-
-#color = var(--color-black)
-#bgcolor = var(--color-white)
 ::END:LOOK
