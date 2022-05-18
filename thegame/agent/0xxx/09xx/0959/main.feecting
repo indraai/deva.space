@@ -6,4 +6,5 @@ img:thegame/agent/0959/avatar
 img:thegame/agent/0959/avatar
 name:SecurityPRIME SPY-KGB
 vector: 0x0959a
+describe: SecurityPRIME SPY-KGB is the internal spy inside the KGB doing spy cool investationary things into the super secret Romanov files behind the Kremlin.
 ::END:LOOK

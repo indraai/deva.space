@@ -9,10 +9,6 @@ img:thegame/agent/0928/avatar
 name:Tyler 928
 vector: 0x928a
 
-::begin:pastebin
-talk:#pastebin view nqgYMfPL
-::end:pastebin
-
 #bgcolor = #ffffff
 #color = #333333
 ::END:LOOK

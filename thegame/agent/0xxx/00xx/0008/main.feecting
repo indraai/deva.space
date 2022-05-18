@@ -1,9 +1,10 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0008/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
 img:thegame/agent/0008/avatar
-p:Larry maintained working and has survived the changes that have occurred in the modern-day being preserved by working enthusiasts for more than 100 years.
+name: Larry
+vector: 0x0008a
+describe:Larry maintained working and has survived the changes that have occurred in the modern-day being preserved by working enthusiasts for more than 100 years.
 ::END:LOOK
-====

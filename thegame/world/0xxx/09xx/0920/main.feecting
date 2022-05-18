@@ -3,11 +3,13 @@ p:You can see Training Room 905 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Natives in Game Dev Gathering
+img:thegame/world/0920/splash
 
 img:thegame/world/0920/title
 
 img:thegame/world/0920/host
+
+## Natives in Game Dev Gathering
 
 title:Natives In Gaming Dev Gathering
 date: May 22, 2015

@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/agent/0967/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0967/avatar
+name: RussianBot 967
+vector: 0x0967a
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK

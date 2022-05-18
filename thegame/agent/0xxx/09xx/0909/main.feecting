@@ -3,11 +3,9 @@ img:thegame/agent/0909/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## ☰THErSEC
 img:thegame/agent/0909/avatar
-name:☰THErSEC
+name:Ethersec 909
 vector: 0x0909a
-describe: #☰THErSEC Training Agent 911 is here to help you with your various needs in Training Room 911. He is here to answer questions and assist you along the way in your program.
 
 #bgcolor = #ffffff
 #color = #333333

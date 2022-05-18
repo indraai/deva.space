@@ -1,0 +1,42 @@
+::BEGIN:LOOK
+p:You can see the Jeffrey Epstein from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Jeffrey Epstein
+
+title: Jeffrey Epstein Foundation
+
+p:The Jeffrey Epstein VI Foundation was established in 2000 to support cutting edge science and science education around the world. The foundation is also an active supporter of early education, youth initiatives and international peace accords. The foundation is based in St. Thomas in the US Virgin Islands.
+
+p:In 2003, the Foundation established the Program for Evolutionary Dynamics at Harvard University with a $35 million gift to the university. Under the direction of Martin Nowak, the Program is one of the first of its kind to study the evolution of molecular biology with the primary use of mathematics.
+
+p:The Jeffrey Epstein VI Foundation has supported many leading scientists including:
+- Stephen Hawkings
+- Martin Nowak
+- Gregory Benford
+- Lee Smolin
+- Seth Lloyd
+- Lawrence Krauss
+- Marvin Minsky
+- Gerard 't Hooft
+- David Gross
+- Frank Wilczek.
+- Ben Goertzel
+
+p:The foundation also funds numerous universities and science institutes including the Santa Fe Institute and the Icahn School of Medicine at Mount Sinai.
+
+p:Jeffrey Epstein is a former member of:
+- the Mind, Brain and Behavior Committee at Harvard
+- the Trilateral Commission
+- the Council on Foreign Relations
+- the New York Academy of Science
+- Rockefeller University Board Member
+
+p:Mr. Epstein is also an active member of the Edge Organization.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-756|-553]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

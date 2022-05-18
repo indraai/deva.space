@@ -1,0 +1,35 @@
+::BEGIN:LOOK
+p:You can see the Intelligenesis from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0975/splash
+
+## Intelligenesis
+
+title: Intelligenesis
+link:https://bit.ly/3yJ10ki
+date: May 2000
+
+p:Intelligenesis' core technology, Webmind, is a revolutionary artificial intelligence system. It not only understands the meaning of concepts expressed in text, speech and numerical data patterns, but also creates its own ideas based on the information it accesses. Now, the massive processing power of computers can tap the ultimate database: human knowledge, experience and psychology. Webmind will have a dramatic impact on the bottom line of any company competing in the information economy. Intelligenesis is offering this unprecedented technological edge through strategic partnering, joint ventures, and development and licensing of custom applications.
+
+p:Webmind is the outgrowth of a decade of research by Intelligenesis Chairman and CTO, Dr. Ben Goertzel, a noted cognitive and computer scientist, lecturer,and author. In early 1997 he joined forces with Lisa S. Pazer, former Wall Street strategist and now Intelligenesis President, to establish Intelligenesis Corporation.
+
+p:The Intelligenesis vision has captured the imagination of some of the top strategic minds in technology, finance, and media:
+
+p:Andy Siciliano, who has earned a worldwide reputation as a trader and manager in global financial markets, is Intelligenesis' chief executive officer.
+
+p:Mark Golan, former director of portfolio management and director of global engineering at Sun Microsystems, is Intelligenesis Chief Financial and Operations Officer.
+
+p:John B. Evans, media industry luminary and former executive VP to Rupert Murdoch’s News Corp., is Intelligenesis’ Executive V.P. of Business Strategy and Development.
+
+p:W. Daniel Hillis, a renowned figure in commercial artificial intelligence, is a shareholder and informal advisor.
+
+p:Based in New York, the company now employs more than 70 people worldwide.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0975/background
+coordinates:09[-681|-553]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

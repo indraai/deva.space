@@ -7,19 +7,14 @@ title: Project Mayhem 2012: #OpCountdown | #PM2012
 date: Nov 11, 2012
 vector: 0x0903o
 
-link[Pastebin - Project Mayhem 2012]:https://pastebin.com/VQPzpAUL
+link[Pastebin - Project Mayhem 2012]:https://bit.ly/3wtIutq
 
-::begin:pastebin
-talk:#pastebin view VQPzpAUL
-::end:pastebin
+mud[View Text]:> look text903
 ::END:LOOK
 
-::BEGIN:TEXT
-title: Project Mayhem 2012: #OpCountdown | #PM2012
-date: Nov 11, 2012
-
+::BEGIN:TEXT903
 ::begin:pastebin
 talk:#pastebin view VQPzpAUL
 ::end:pastebin
-::END:TEXT
+::END:TEXT903
 ====

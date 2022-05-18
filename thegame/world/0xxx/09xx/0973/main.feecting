@@ -1,0 +1,43 @@
+::BEGIN:LOOK
+p:You can see the Orthodox Church from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0973/splash
+
+## George Michael
+
+title: George Michael
+
+::begin:buttons
+bmud[photo 0]:look photo0
+bmud[photo 1]:look photo1
+bmud[photo 2]:look photo2
+bmud[photo 3]:look photo3
+::end:buttons
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0973/background
+coordinates:09[-756|-432]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:PHOTO0
+img:thegame/world/0973/000
+::END:PHOTO0
+====
+
+::BEGIN:PHOTO1
+img:thegame/world/0973/001
+::END:PHOTO1
+====
+
+::BEGIN:PHOTO2
+img:thegame/world/0973/002
+::END:PHOTO2
+====
+
+::BEGIN:PHOTO3
+img:thegame/world/0973/003
+::END:PHOTO3
+====

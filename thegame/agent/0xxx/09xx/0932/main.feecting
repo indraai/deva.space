@@ -4,7 +4,7 @@ img:thegame/agent/0932/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0932/avatar
-name:Sasha Chislenko
+name:Sasha 932
 vector: 0x0932a
 
 link[Sasha Pages]:https://bit.ly/3stYnP1
@@ -15,15 +15,19 @@ p:Chislenko experienced episodes of depression for many years. In the early morn
 
 -
 
-p:In 1989, Alexander left Leningrad, Russia for Boston, Massachusetts, as the relatively free society of the U.S. seemed more suitable for his goals: he wanted to understand how the world works, and steer it, and myself, into the glorious future.
 
-img:thegame/agent/0932/young
+cmd[Hypereconomy]:#adv agent:thegame 0932/hypereconomy
+cmd[Semantec Web]:#adv agent:thegame 0932/semantec
+
+
+::END:LOOK
+
+::BEGIN:BIO
+p:In 1989, Alexander left Leningrad, Russia for Boston, Massachusetts, as the relatively free society of the U.S. seemed more suitable for his goals: he wanted to understand how the world works, and steer it, and myself, into the glorious future.
 
 p:In 1982, he got my M.S. in mathematics, Computer Science and education from the Mathematical Department of Leningrad State University, in former Leningrad, former USSR.
 
 p:Worked in industry, academia and as a freelancer on various software, research and educational projects. Also took part in a number of different movements, and used to read like crazy.
-
-img:thegame/agent/0932/son
 
 p:Favorite occupations: hanging around with my son, observing the development of the Universe and peeking into all advanced theories and projects he can find. He considered himself a futurist thinker, and like theorizing on all sorts of subjects, both for the joy of the growing understanding of the world and in hope to influence things. Understanding seems to be going ahead of the influence, so far. Maybe, that's normal.
 
@@ -33,16 +37,21 @@ link[Intelligenesis Bankruptsy - Ben Goertzel]:https://bit.ly/3l56hKH
 
 p:Between these jobs, he spent a wonderful year in Marvin Minsky's Society of Mind group in the MIT Media lab.
 
-img:thegame/agent/0932/fun
-
 p:I like taking part in various technologically interesting and socially useful ventures. If you want to develop some interesting knowledge-based service on the web, i.e. a reputation broker, or have a writing or speaking proposition he may be interested in, please let me know. He would have  complained about total lack of free time, then will give in.
+::END:BIO
+====
 
-cmd[Hypereconomy]:#adv agent:thegame 0932/hypereconomy
-cmd[Semantec Web]:#adv agent:thegame 0932/semantec
+::BEGIN:YOUNG
+img:thegame/agent/0932/young
+::END:YOUNG
+====
 
+::BEGIN:SON
+img:thegame/agent/0932/son
+::END:SON
+====
 
-
-
-#bgcolor = var(--color-white)
-#color = var(--color-black)
-::END:LOOK
+::BEGIN:FUN
+img:thegame/agent/0932/fun
+::END:FUN
+====

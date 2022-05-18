@@ -1,20 +1,17 @@
 ::BEGIN:LOOK
-p:You can see Training Room 905 from here.
+p:You can see Survivance Room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 
-img:thegame/world/0919/title
-
-img:thegame/world/0919/journey
+img:thegame/world/0919/splash
 
 ## Survivance
 
 title:Survivance
 date: Octomer 13, 2013
 
---
-
+::begin:note
 cmd[Project 2020 Pastebin]:#pastebin view Wt15GXTn
 
 p[speak:Brian]:Quote from Project Mayhem 2020 pastebin.
@@ -24,8 +21,9 @@ p[speak:Brian]:1. The infinity sign or 8 turned horizontal.
 p[speak:Brian]:2. The number 20 for the year 2020, and 20/20 vision.
 
 p[speak:Brian]:It is a symbol which represents the continuation of Project Mayhem 2012...
+::end:note
 
---
+img:thegame/world/0919/title
 
 link[Survivance WebArchive]:https://web.archive.org/web/20190709172654/http://survivance.org
 
