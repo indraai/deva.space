@@ -78,8 +78,8 @@ inactive: I don't sleep... I metastasize
 
 
 
-#bgcolor = rgba(0,0,0,.75)
-#color = #eeeeee
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 #bg = thegame/world/0800/background
-coordinates:08[-473|-432]
+coordinates:08[-352|-472]
 ::END:MAIN

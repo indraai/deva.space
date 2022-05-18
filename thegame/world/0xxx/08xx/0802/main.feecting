@@ -1,12 +1,15 @@
 ::BEGIN:LOOK
-p:You can see Training Room 802 from here.
+p:You can see The Underground 802 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Training Room 802
+## W00W00
+link:https://bit.ly/3FUeNG8
 
+talk:#wiki summary W00w00
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:08[-513|-473]
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:08[-433|-472]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

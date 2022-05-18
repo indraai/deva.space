@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Training Room 806 from here.
+p:You can see The Underground 806 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Training Room 806
+## The Underground 806
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:08[-433|-473]
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:08[-594|-472]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN
