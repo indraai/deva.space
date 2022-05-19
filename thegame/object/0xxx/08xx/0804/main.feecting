@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/object/0804/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0804/avatar
+## Chaos Computer Club Training
+name: Chaos Computer Club
+vector: 0x0804o
+
+talk:#wiki summary Chaos_Computer_Club
+::END:LOOK

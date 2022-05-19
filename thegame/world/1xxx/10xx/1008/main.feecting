@@ -9,5 +9,5 @@ p:You have found your way into House Aryaka where the tooughtest fighters come t
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:10[-715|-282]
+coordinates:10[-715|-190]
 ::END:MAIN

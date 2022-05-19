@@ -9,5 +9,5 @@ p:The Lounge is where the business for the House Aryaka is handled.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:10[-755|-282]
+coordinates:10[-453|-190]
 ::END:MAIN

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/0802/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0802/avatar
+## W00W00 Training
+name: W00W00
+vector: 0x0802o
+::END:LOOK

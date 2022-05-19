@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see Saint Petersburg University from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/0979/splash
+
+## Red Army Faction
+title: Red Army Faction
+
+talk:#wiki summary Red_Army_Faction
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0979/background
+coordinates:09[-675|-311]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

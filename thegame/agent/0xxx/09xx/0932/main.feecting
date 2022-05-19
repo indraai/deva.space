@@ -3,6 +3,8 @@ img:thegame/agent/0932/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Alexander "Sasha" Chislenko
+
 img:thegame/agent/0932/avatar
 name:Sasha 932
 vector: 0x0932a
@@ -19,7 +21,8 @@ p:Chislenko experienced episodes of depression for many years. In the early morn
 cmd[Hypereconomy]:#adv agent:thegame 0932/hypereconomy
 cmd[Semantec Web]:#adv agent:thegame 0932/semantec
 
-
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:LOOK
 
 ::BEGIN:BIO

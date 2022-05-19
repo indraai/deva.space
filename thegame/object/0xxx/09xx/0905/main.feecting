@@ -3,45 +3,29 @@ img:thegame/object/0905/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-name: IAM THE CHRIST. MESSIAH MICHAEL THE ARCHANGEL. #AMERISEC
+name: Michael Documents
 date: May 18, 2013
 vector: 0x0905o
 
-link[Pastebin - Christ Michael]:https://pastebin.com/r2BLTz9C
+mud[Pastebin File 1]:> look 905text1
 
-::begin:pastebin
-talk:#pastebin view r2BLTz9C
-::end:pastebin
-
--
-
-title: Michael Speaks Again
-date: May 29, 2013
-
-::begin:pastebin
-talk:#pastebin view c30SFUHQ
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
+mud[Pastebin File 2]:> look 905text2
 ::END:LOOK
 
-::BEGIN:TEXT
-title: IAM THE CHRIST. MESSIAH MICHAEL THE ARCHANGEL. #AMERISEC
+::BEGIN:905TEXT1
+title:IAM THE CHRIST. MESSIAH MICHAEL THE ARCHANGEL.
 date: May 18, 2013
-
-::begin:pastebin
-talk:#pastebin view r2BLTz9C
-::end:pastebin
-
--
-
-title: Michael Speaks Again
-date: May 29, 2013
-
 ::begin:pastebin
 talk:#pastebin view c30SFUHQ
 ::end:pastebin
+::END:905TEXT1
+====
 
-#bgcolor = rgba(0,0,0,0)
-::END:TEXT
+::BEGIN:905TEXT2
+title: Michael Speaks Again
+date: May 29, 2013
+::begin:pastebin
+talk:#pastebin view r2BLTz9C
+::end:pastebin
+::END:905TEXT2
 ====

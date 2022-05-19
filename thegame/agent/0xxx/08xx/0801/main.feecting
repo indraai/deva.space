@@ -3,6 +3,8 @@ img:thegame/agent/0801/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Kent Browne
+
 img:thegame/agent/0801/avatar
 name: Kent Browne (@RLoxley)
 vector: 0x0801a

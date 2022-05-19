@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/0979/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Red Army Faction
+name: Red Army Faction
+vector: 0x0979o
+
+talk:#wiki summary Red_Army_Faction
+::END:LOOK

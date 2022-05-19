@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/object/0801/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0801/avatar
+## Hackphreak Training
+name: Hackphreak
+vector: 0x0801o
+::END:LOOK

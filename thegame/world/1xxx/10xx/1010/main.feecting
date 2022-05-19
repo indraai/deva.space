@@ -13,5 +13,5 @@ link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 #bg = thegame/world/1010/background
-coordinates:10[-795|-282]
+coordinates:10[-453|-876]
 ::END:MAIN

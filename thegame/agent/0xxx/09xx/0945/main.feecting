@@ -3,10 +3,14 @@ img:thegame/agent/0945/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Eric Corley
+
 img:thegame/agent/0945/avatar
 name:Emmanuelle 945
 vector: 0x0945a
 
 talk:#wiki summary Eric_Corley
 
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:LOOK
