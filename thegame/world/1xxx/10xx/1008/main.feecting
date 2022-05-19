@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
+p:You can see House Aryaka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Backroom Brawls
+# House Aryaka
 
-p:You have found your way into Backroom Brawls where the tooughtest fighters come to show their stuff.
+p:You have found your way into House Aryaka where the tooughtest fighters come to show their stuff.
 
-#bgcolor = #000000
-#color = #eeeeee
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-715|-282]
 ::END:MAIN

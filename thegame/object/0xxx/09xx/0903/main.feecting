@@ -9,7 +9,7 @@ vector: 0x0903o
 
 link[Pastebin - Project Mayhem 2012]:https://bit.ly/3wtIutq
 
-mud[View Text]:> look text903
+bmud[View Text]:look text903
 ::END:LOOK
 
 ::BEGIN:TEXT903

@@ -8,6 +8,7 @@ img:thegame/world/0904/splash
 
 title: ProjecT mayhEM 2013 - reVelations 1-5
 date: Jan 1st 2013
+link[Pastebin]: https://bit.ly/39GszNa
 
 cmd:#pastebin view scNXFWRP
 
@@ -78,3 +79,9 @@ p[speak]:Become like Michael
 coordinates:09[-473|-513]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:PASTEBIN
+::begin:pastebin
+talk:#pastebin view scNXFWRP
+::end:pastebin
+::END:PASTEBIN

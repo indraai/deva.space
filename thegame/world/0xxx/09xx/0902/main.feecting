@@ -26,7 +26,7 @@ talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 
 ::BEGIN:AGENTS
-img:thegame/world/0902/agents
+img:thegame/object/0902/agents
 ::END:AGENTS
 
 ====

@@ -18,21 +18,7 @@ img:thegame/world/0903/tyler3
 title: Project Mayhem 2012: #OpCountdown | #PM2012
 date: Nov 11, 2012
 
-cmd[Pastebin - Project Mayhem 2012]:#pastebin view VQPzpAUL
-
-p[speak]:In early 2017 Quinn would find the Tyler Project Mayhem Instructions.
-
-p[speak]:The danger of PM2012 lies solely in the fact that the goal can be accomplished, if we as a whole will it to be.
-
-p[speak]:This is the true danger of our intentions. Who are we? We are everyone, we are you, we are your brothers, your sisters, your mothers, your daughters, and your friends. We protect the streets. We configure your firewalls. We secure your information.
-
-p[speak]:For every institution that stands, therein lies human beings that have kept the heart of these entities beating. As such, we can bring the system to a halt if only we can remove the fear of doing so.
-
-p[speak]:Create a picture, compose a song, or create a video.
-
-p[speak]:Tweet out a call to action to your favorite reporters, politicians, coders, hackers, artists, musicians, protesting groups or anyone of your choosing.
-
-p[speak]:You are Anonymous. You are Project Mayhem 2012. Together we are Legion. Operation Countdown Engaged.
+mud[View Pastebin]:> look pastebin
 
 
 #color = var(--color-light-grey)
@@ -40,3 +26,9 @@ p[speak]:You are Anonymous. You are Project Mayhem 2012. Together we are Legion.
 coordinates:09[-514|-512]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:PASTEBIN
+::begin:pastebin
+talk:#pastebin view VQPzpAUL
+::end:pastebin
+::END:PASTEBIN

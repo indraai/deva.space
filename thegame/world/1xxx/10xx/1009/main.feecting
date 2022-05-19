@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
+p:You can see the Aryaka Lounge from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# The Back Office
+# Aryaka Lounge
 
-p:The Back Office is where the business for the World Fight Club is handled. To the EAST is The Crisis Room and to the WEST is Backroom Brawls
+p:The Lounge is where the business for the House Aryaka is handled.
 
-#bgcolor = #000000
-#color = #eeeeee
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-755|-282]
 ::END:MAIN

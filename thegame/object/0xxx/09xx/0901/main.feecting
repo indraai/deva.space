@@ -1,0 +1,18 @@
+::BEGIN:AVATAR
+img:thegame/object/0901/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0901/avatar
+## The Buddhist Practice Video
+name: Buddhist practice video
+vector: 0x0901o
+describe: The buddhist practice video made in 2015 that started it all.
+
+mud[Watch Video]:> look video901
+::END:LOOK
+
+::BEGIN:VIDEO901
+talk:#youtube video PVXbg2eliZM
+::END:VIDEO901
+====

@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:thegame/object/0902/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0902/avatar
+## SVV Files
+name: SVV Files
+vector: 0x0902o
+describe: The SVV Files
+
+mud[View Agents]:> look agemts
+::END:LOOK
+
+::BEGIN:902AGENTS
+img:thegame/object/0902/agents
+::END:902AGENTS

@@ -5,7 +5,7 @@ p:You can see World Fight Club from here.
 ::BEGIN:MAIN
 ## World Fight Club
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:10[-433|-473]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-715|-391]
 ::END:MAIN
