@@ -3,10 +3,20 @@ img:thegame/agent/0804/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Boris Floricic (Tron)
 img:thegame/agent/0804/avatar
+
+## Boris Floricic (Tron)
+
 name: Tron 804
 vector: 0x0804a
+
+---
+
+age: 40
+born: Dec 2, 1959
+died: May 8, 2000
+cause: Suicide
+
 
 talk:#wiki summary Tron_(hacker)
 

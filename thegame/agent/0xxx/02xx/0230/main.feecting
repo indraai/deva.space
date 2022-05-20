@@ -4,7 +4,13 @@ img:thegame/agent/0230/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0230/avatar
+## Hackerman
+
 name: Hackerman
 vector: 0x0230a
-describe: Hackerman works in The Tech Store
+
+describe: Hackerman works in The Tech Store when he is not hacking time itself.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:LOOK

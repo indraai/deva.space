@@ -3,10 +3,13 @@ img:thegame/agent/0909/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Ethersec 909
+
 img:thegame/agent/0909/avatar
+
 name:Ethersec 909
 vector: 0x0909a
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

@@ -4,7 +4,14 @@ img:thegame/agent/0904/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0904/avatar
+
+## Tyler 904
+
 name:Tyler 904
 vector: 0x0904a
-describe: Training Agent 904 is here to help you with your various needs in Training Room 904. He is here to answer questions and assist you along the way in your program.
+
+cmd:#pastebin view scNXFWRP
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

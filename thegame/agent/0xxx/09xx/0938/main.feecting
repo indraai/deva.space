@@ -2,21 +2,17 @@
 img:thegame/agent/0938/avatar
 ::END:AVATAR
 
-====
-
 ::BEGIN:LOOK
 img:thegame/agent/0938/avatar
 
 ## Kibo
+
 link[Xibo.com]:http://kibo.com
 link[Bio - Xibo.com]:http://xibo.com/bio.html
 
 talk:#wiki summary James_Parry
-
--
 ::END:LOOK
 
-====
 
 ::BEGIN:BIO
 p:James "Kibo" Parry, who is to the Internet what Charles Nelson Reilly was to "Match Game '77". If you've ever read Usenet news, you've likely seen me hanging around various groups for the past ten years, especially alt.religion.kibology, the source of most of the junk on this site. (Kibology is actually the source of all the junk everywhere in the universe, but don't tell anyone who doesn't know the secret milkshake.)

@@ -3,11 +3,19 @@ img:thegame/agent/0979/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Karl Koch
-
 img:thegame/agent/0979/avatar
-name: Karl 979
+
+## Karl 979
+
+name: Karl Koch
 vector: 0x0979a
+
+---
+
+age: 23
+born: Jul 22, 1965
+died: May 23, 1989
+cause: Suicide
 
 talk:#wiki summary Karl_Koch_(hacker)
 

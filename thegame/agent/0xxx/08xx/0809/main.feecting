@@ -1,0 +1,24 @@
+::BEGIN:AVATAR
+img:thegame/agent/0809/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0809/avatar
+
+## Aaron Swartz
+
+name: Aaron Swartz
+vector: 0x0809a
+
+---
+
+age: 26
+born: Nov 8, 1986
+died: Jan 11, 2013
+cause: Suicide
+
+p:On the evening of January 11, 2013, Swartz's girlfriend, Taren Stinebrickner-Kauffman, found him dead in his Brooklyn apartment. A spokeswoman for New York's Medical Examiner reported that he had hanged himself. No suicide note was found.
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Aaron Swartz Room from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Aaron Swartz
+
+talk:#wiki summary Aaron_Swartz
+
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:08[-432|-512]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

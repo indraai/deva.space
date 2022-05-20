@@ -3,13 +3,15 @@ img:thegame/agent/0914/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Code Tyler
 img:thegame/agent/0914/avatar
-name:Code Tyler
+
+## Tyler 914
+
+name:Tyler 914
 vector: 0x0914a
 
 cmd:#pastebin view SS467cim
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

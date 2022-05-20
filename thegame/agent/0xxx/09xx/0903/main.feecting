@@ -3,9 +3,10 @@ img:thegame/agent/0903/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Tyler PM2012
 img:thegame/agent/0903/avatar
-name:Tyler PM2012
+## PM2012 903
+
+name:PM2012 903
 vector: 0x0903a
 
 cmd[Pastebin - Project Mayhem 2012]:#pastebin view VQPzpAUL

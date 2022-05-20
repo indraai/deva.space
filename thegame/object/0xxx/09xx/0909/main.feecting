@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:thegame/object/0909/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Ethersec Project2020 Training
+
+name: Ethersec Project 2020
+vector: 0x0909o
+
+cmd[Pastebin - View Original]:#pastebin view vr0YUfhX
+::END:LOOK

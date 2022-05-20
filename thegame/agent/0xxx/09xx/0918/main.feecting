@@ -4,7 +4,10 @@ img:thegame/agent/0918/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0918/avatar
-name:Tyler Mayhem
+
+## Tyler 918
+
+name:Tyler 918
 vector: 0x0918a
 
 cmd:#pastebin view Wt15GXTn

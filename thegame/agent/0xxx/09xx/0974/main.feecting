@@ -3,14 +3,23 @@ img:thegame/agent/0974/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+img:thegame/agent/0974/avatar
+
 ## Jeffrey Epstein
 
-img:thegame/agent/0974/avatar
 name: Jeffrey 974
 vector: 0x0974a
+
+---
+
+age: 66
+born: Jan 20, 1953
+died: Aug 10, 2019
+cause: Suicide
 
 talk:#wiki summary Jeffrey_Epstein
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
+talk:#adv world:thegame 0900/training:card
 ::END:LOOK

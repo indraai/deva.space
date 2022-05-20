@@ -4,6 +4,11 @@ img:thegame/agent/0950/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0950/avatar
+## Richard 950
+
 name: Dr. Richard B. Neal
 vector: 0x0950a
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

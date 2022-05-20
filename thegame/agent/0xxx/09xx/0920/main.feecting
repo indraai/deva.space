@@ -4,8 +4,12 @@ img:thegame/agent/0920/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0920/avatar
+
+## Brenda Romero
+
 name:Brenda Romero
 vector: 0x0920a
+
 link[Brenda.games]:http://brenda.games/
 link[Michigan State University]:https://comartsci.msu.edu/our-people/elizabeth-lapensee
 

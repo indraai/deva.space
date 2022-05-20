@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Training Room 800 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## James Dolan
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:08[-472|-512]
+
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

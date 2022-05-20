@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see Training Room 800 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Jonathan James
+
+talk:#wiki summary TJX_Companies
+
+talk:#wiki summary Jonathan_James
+
+talk:#wiki summary Stephen_Huntley_Watt
+
+talk:#wiki summary Albert_Gonzalez
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:08[-392|-512]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN

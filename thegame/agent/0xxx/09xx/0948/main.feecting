@@ -4,6 +4,12 @@ img:thegame/agent/0948/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0948/avatar
+
+## Spoonman 948
+
 name: Mark Petrakis (Spoonman)
 vector: 0x0948a
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

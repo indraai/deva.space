@@ -6,9 +6,12 @@ img:thegame/agent/0928/avatar
 img:thegame/agent/0928/avatar
 
 ## Tyler 928
+
 name:Tyler 928
 vector: 0x928a
 
-#bgcolor = #ffffff
-#color = #333333
+cmd:#pastebin view 6fUhmAvC
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

@@ -3,11 +3,13 @@ img:thegame/agent/0800/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+img:thegame/agent/0800/avatar
+
 ## Stephen Huntley Watt
 
-img:thegame/agent/0800/avatar
 name: the_uT
 vector: 0x0800a
+
 talk:#wiki summary Stephen_Huntley_Watt
 
 ### Links

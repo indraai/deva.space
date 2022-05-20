@@ -4,6 +4,10 @@ img:thegame/agent/0943/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0943/avatar
+
+## Dead Addict
+
 name:Dead Addict
+
 vector: 0x0943a
 ::END:LOOK
