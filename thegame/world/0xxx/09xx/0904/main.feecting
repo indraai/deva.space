@@ -76,7 +76,7 @@ p[speak]:Become like Michael
 
 #color = var(--color-pink)
 #bgcolor = var(--color-black)
-coordinates:09[-473|-513]
+coordinates:09[-465|-504]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

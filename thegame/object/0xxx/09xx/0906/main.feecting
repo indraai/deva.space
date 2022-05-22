@@ -3,16 +3,17 @@ img:thegame/object/0906/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0906/avatar
 ## IT
 title: IT
 date: Oct 7, 2017
 vector: 0x0906o
 
-talk:#adv object:thegame 0906/main:text
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
+::begin:pastebin
 talk:#pastebin view Ym5rGCJV
+::end:pastebin
 ::END:TEXT
 ====

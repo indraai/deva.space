@@ -5,13 +5,11 @@ img:thegame/agent/0979/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0979/avatar
 
-## Karl 979
+## Karl Koch
 
-name: Karl Koch
+id:O979
 vector: 0x0979a
-
----
-
+name: Karl Koch
 age: 23
 born: Jul 22, 1965
 died: May 23, 1989

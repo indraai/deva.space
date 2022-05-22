@@ -36,5 +36,5 @@ p[speak]:Once TYLER be on the wild and Truths be revealed: You DO ask questions.
 #color = var(--color-yellow)
 #bgcolor = var(--color-black)
 talk:#adv world:thegame 0900/training:card
-coordinates:09[-473|-553]
+coordinates:09[-465|-545]
 ::END:MAIN

@@ -68,6 +68,6 @@ p[speak]:The intention is to shine a light on it's manifestation.
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-white)
 talk:#adv world:thegame 0900/training:card
-coordinates:09[-393|-513]
+coordinates:09[-385|-505]
 
 ::END:MAIN

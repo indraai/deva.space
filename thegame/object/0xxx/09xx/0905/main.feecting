@@ -7,9 +7,9 @@ name: Michael Documents
 date: May 18, 2013
 vector: 0x0905o
 
-mud[Pastebin File 1]:> look 905text1
+look[Training File 1]:905text1
 
-mud[Pastebin File 2]:> look 905text2
+look[Training File 2]:905text2
 ::END:LOOK
 
 ::BEGIN:905TEXT1

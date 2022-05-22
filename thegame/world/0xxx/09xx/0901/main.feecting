@@ -66,9 +66,7 @@ p[speak]:You can check Quinn's phnone records from October 2015 - November 2015 
 
 p[speak]:By the time Quinn's Birthday came around on November 30 he had found a new job, and was really working towards moving past the story. But once again to attempt the truth out of Trenton he would do one very stupid thing.
 
-
 p[speak]:At this time much of the conversation between Quinn and Trenton was trying to figure out if Trenton was telling the truth. Trenton would drag Quinn into a conversation for hours upon hours never breaking. Declaring over and over again this was all real.
-
 
 ::begin:training
 talk:#adv world:thegame 0901/training:november
@@ -80,6 +78,7 @@ img:thegame/world/0901/trenton
 
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
-coordinates:09[-514|-432]
+
+coordinates:09[-505|-424]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

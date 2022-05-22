@@ -3,31 +3,14 @@ img:thegame/object/0932/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0932/avatar
-## Perplex City Datalink
-
-name: Perplex City Datalink
+## Sasha Chislenko Training
+name: Sasha Chislenko Training
 vector: 0x0932o
+describe: Sasha Chislenko Training
 
-talk:#adv object:thegame 0932/main:text
+look[Research Text]:text
 ::END:LOOK
-====
 
 ::BEGIN:TEXT
-link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
-
-p:People of Earth: Hello.
-
-p:Congratulations on your achievement in establishing the data link. Once again, your intelligence and sharpness has surpassed all expectations. Well done.
-
-p:As you may have noticed, the link between our worlds has been disrupted. This was immediately a cause of grave concern, but our fears have deepened since discovering the cause of the interference.
-
-p:An energy surge occurred here in Perplex City, blacking out many city blocks. When power was restored, we found that the surge had created a wormhole, originating here and terminating somewhere in North America.
-
-p:That surge of power broke the original data link between us. We suspect The Third Power caused it, and can only assume that their intentions are hostile.
-
-p:From this point on, I advise you all to stay alert.
-
-p:I will endeavour to keep you up to date with developments and discoveries here. For your part, I hope you will redouble your efforts. I sense that time is running short, but I continue to have every confidence in your abilities.
+Sasha Chislenko Training
 ::END:TEXT
-====

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0928/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Dalai Lama Training
+name: Dalai Lama Training
+vector: 0x0928o
+describe: Training on the Dalai Lama involvement.
+::END:LOOK
+
+::BEGIN:TEXT
+## Dalai Lama Training
+p: The training on the Dalai Lama.
+::END:TEXT

@@ -4,9 +4,15 @@ img:thegame/agent/0917/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0917/avatar
-name:PM2012
+
+## PM2012 917
+
+name:PM2012 917
+
 vector: 0x0917a
 
 cmd:#pastebin view sLLwJbtz
 
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK

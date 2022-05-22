@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0933/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Lionel Nation Training
+name: Lionel Nation Training
+vector: 0x0933o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+Lionel Nation training
+::END:TEXT

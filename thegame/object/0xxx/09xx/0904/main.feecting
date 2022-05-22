@@ -9,11 +9,7 @@ vector: 0x0904o
 
 link[Pastebin - ProjecT mayhEM 2013]:https://bit.ly/39GszNa
 
-::begin:pastebin
-talk:#pastebin view scNXFWRP
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT904
@@ -22,6 +18,5 @@ date: Jan 1, 2013
 ::begin:pastebin
 talk:#pastebin view scNXFWRP
 ::end:pastebin
-#bgcolor = rgba(0,0,0,0)
 ::END:TEXT904
 ====

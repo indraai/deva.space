@@ -1,0 +1,18 @@
+::BEGIN:AVATAR
+img:thegame/object/0936/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Satanic Sysadmins Training
+name: Satanic Sysadmins
+vector: 0x0936o
+describe: Training on the group known as Satanic Sysadmins
+
+#color = var(--color-light-grey)
+#bgcolor = var(--color-black)
+::END:LOOK
+
+::BEGIN:TEXT
+p:Satanic Sysadmins Training goes here.
+::END:TEXT
+====

@@ -3,12 +3,13 @@ p:You can see Training Room 911 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0921/title
+
+## Romero Games
 
 title: Romero Games
 date: Aug 11, 2015
-
-img:thegame/world/0921/title
+vector: 0x0921a
 
 talk:#wiki summary Romero_Games
 
@@ -19,6 +20,6 @@ talk:#twitter timeline romerogamesltd
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0921/background
-coordinates:09[-312|-472]
-
+coordinates:09[-304|-464]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

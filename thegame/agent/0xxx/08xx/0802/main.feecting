@@ -4,6 +4,9 @@ img:thegame/agent/0802/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0802/avatar
-name:Shok
+
+## Matt Connover
+name: Matt Connover
+name: Shok
 vector: 0x0802a
 ::END:LOOK

@@ -4,6 +4,10 @@ img:thegame/agent/0927/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0927/avatar
+
+## GhostNet
 name:GhostNet
 vector: 0x0927a
+
+talk:#wiki summary GhostNet
 ::END:LOOK

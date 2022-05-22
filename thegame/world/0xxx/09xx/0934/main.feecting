@@ -13,9 +13,11 @@ link[lucifer.com]:https://bit.ly/3Lagd0a
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/0934/background
-coordinates:09[-594|-593]
+coordinates:09[-586|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+
 
 ::BEGIN:MAIN
 img:thegame/world/0934/splash
@@ -36,6 +38,6 @@ img:thegame/world/0934/note2
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:09[-594|-593]
+coordinates:09[-586|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

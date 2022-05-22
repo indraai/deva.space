@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0969/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Yuri Andropov KGB Training
+name: Yuri Andropov Training
+vector: 0x0969o
+describe:Yuri Andropov Trainging
+::END:LOOK
+
+::BEGIN:TEXT
+Yuri Andropov Trainging
+::END:TEXT

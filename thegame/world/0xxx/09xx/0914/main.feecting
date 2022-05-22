@@ -42,6 +42,6 @@ p[speak]:Don't BEE afraid to start your OWN seKret TYLER)
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:09[-514|-593]
+coordinates:09[-505|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

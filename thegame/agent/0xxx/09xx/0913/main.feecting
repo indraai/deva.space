@@ -3,8 +3,10 @@ img:thegame/agent/0913/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Tyler HackZION!
 img:thegame/agent/0913/avatar
+
+## Tyler HackZION!
+
 name:Tyler HackZION!
 vector: 0x0913a
 

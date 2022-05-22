@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0939/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0939/avatar
+## Evil Mud Training
+name: Evil Mud Training
+vector: 0x0939o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Evil Mud Trainings
+::END:TEXT

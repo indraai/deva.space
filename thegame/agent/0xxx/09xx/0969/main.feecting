@@ -4,6 +4,9 @@ img:thegame/agent/0969/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0969/avatar
+
+## Yuri Andropov
+
 name:Yuri Andropov
 vector: 0x0969a
 

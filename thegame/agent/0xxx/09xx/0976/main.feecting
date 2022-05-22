@@ -4,7 +4,8 @@ img:thegame/agent/0976/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0976/avatar
-name:Cassio 976
+## Cassio 076
+name:Cassio Pennachin
 vector:0x0976a
 link:https://bit.ly/3NnFOEg
 

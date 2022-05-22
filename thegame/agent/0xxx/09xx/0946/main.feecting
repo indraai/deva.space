@@ -4,6 +4,9 @@ img:thegame/agent/0946/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0946/avatar
+
+## HIP
+
 name:HIP
 vector: 0x0946a
 ::END:LOOK

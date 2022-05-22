@@ -3,15 +3,20 @@ img:thegame/object/0911/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## TheGame23
+
 name:TheGame23
 vector: 0x0911a
 
-talk:#adv object:thegame 0911/main:text
+link[Pastebin]:https://bit.ly/3CO3NXZ
 
-link[Pastebin]:https://pastebin.com/YbmG6ETq
+look[Training Text]:text
+
 ::END:LOOK
 
 ::BEGIN:TEXT
+::begin:pasatbin
 talk:#pastebin view YbmG6ETq
+::end:pasatbin
 ::END:TEXT
 ====

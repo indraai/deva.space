@@ -4,7 +4,11 @@ img:thegame/agent/0972/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0972/avatar
-name: Maria 972
+
+## Grand Duchess Maria Vladimirovna
+
+name: Grand Duchess Maria Vladimirovna
+
 vector: 0x0972a
 
 talk:#wiki summary Grand_Duchess_Maria_Vladimirovna_of_Russia

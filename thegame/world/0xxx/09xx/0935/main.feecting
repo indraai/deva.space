@@ -28,5 +28,5 @@ p[speak:Brian]:From a hidden location in the heart of San Francisco's SOMA distr
 
 #color = var(--color-red)
 #bgcolor = var(--color-black)
-coordinates:09[-554|-593]
+coordinates:09[-546|-585]
 ::END:MAIN

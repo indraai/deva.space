@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0915/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## FBI Training
+name: FBI Training
+vector: 0x0915o
+describe:The FBI Training.
+::END:LOOK
+
+::BEGIN:TEXT
+The FBI Training.
+::END:TEXT

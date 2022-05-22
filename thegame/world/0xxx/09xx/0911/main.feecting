@@ -27,6 +27,6 @@ p[speak]:Project Mayhem 2012 will be the biggest HACKARTISTIC joint challenge ev
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:09[-352|-472]
+coordinates:09[-344|-464]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

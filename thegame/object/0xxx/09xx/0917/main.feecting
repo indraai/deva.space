@@ -9,11 +9,7 @@ vector: 0x0917o
 
 link[Pastebin - PM2012]:https://pastebin.com/sLLwJbtz
 
-::begin:pastebin
-talk:#pastebin view sLLwJbtz
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

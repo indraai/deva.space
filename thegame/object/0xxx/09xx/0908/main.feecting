@@ -3,15 +3,12 @@ img:thegame/object/0908/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## #eTHErSEC Project ∞ 2020
 name: #eTHErSEC Project ∞ 2020
 date: Oct 22, 2013
 vector: 0x0908o
 
-::begin:pastebin
-talk:#pastebin view Wt15GXTn
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

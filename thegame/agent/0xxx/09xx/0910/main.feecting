@@ -4,6 +4,9 @@ img:thegame/agent/0910/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0910/avatar
-name:PM2020 910
+
+## PM2020
+
+name:PM2020
 vector: 0x0910a
 ::END:LOOK

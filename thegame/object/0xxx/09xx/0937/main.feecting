@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0937/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Alt.* Newsgroups
+name: Alt.* Newsgroups
+vector: 0x0937o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Alt Newsgroups
+::END:TEXT

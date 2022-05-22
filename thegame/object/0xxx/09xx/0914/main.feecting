@@ -9,12 +9,7 @@ vector: 0x0914o
 
 link[Pastebin - PM2012]:https://pastebin.com/SS467cim
 
-::begin:pastebin
-talk:#pastebin view SS467cim
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
-#color = var(--color-green)
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
@@ -23,7 +18,5 @@ date: May 22, 2012
 ::begin:pastebin
 talk:#pastebin view SS467cim
 ::end:pastebin
-#bgcolor = rgba(0,0,0,0)
-#color = var(--color-orange)
 ::END:TEXT
 ====

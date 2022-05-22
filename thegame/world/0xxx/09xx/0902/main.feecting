@@ -21,7 +21,7 @@ p[speak]:Much of it revolving around that CERN was going to end the world and
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 
-coordinates:09[-514|-472]
+coordinates:09[-505|-464]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

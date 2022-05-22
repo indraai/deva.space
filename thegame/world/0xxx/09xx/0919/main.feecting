@@ -123,6 +123,6 @@ p[speak:Amy]:Promote. Share your act of survivance through your networks and _#s
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
 #bg = thegame/world/0919/background
-coordinates:09[-352|-553]
+coordinates:09[-344|-545]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

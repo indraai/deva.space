@@ -4,6 +4,9 @@ img:thegame/agent/0962/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0962/avatar
+
+## Jason Goodman
+
 name:Jason Goodman
 vector: 0x0962a
 ::END:LOOK

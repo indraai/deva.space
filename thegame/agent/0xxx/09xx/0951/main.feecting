@@ -4,6 +4,9 @@ img:thegame/agent/0951/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0951/avatar
+
+## GhostMind 951
+
 name: GhostMind 951
 vector: 0x0951a
 ::END:LOOK

@@ -7,5 +7,5 @@ img:thegame/object/0979/avatar
 name: Red Army Faction
 vector: 0x0979o
 
-talk:#wiki summary Red_Army_Faction
+wiki[Red Army Faction]:Red_Army_Faction
 ::END:LOOK

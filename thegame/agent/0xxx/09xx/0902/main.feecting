@@ -4,7 +4,12 @@ img:thegame/agent/0902/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0902/avatar
-name:Defango 902
+
+## Manuel Chavez
+
+name: Manuel Chavez
+name: Defango
 vector: 0x0902a
+
 describe: Defango is the Cicada 3301 guy that Quinn found the initial entry point into S.V.V. Tengri and other ARG operations connected to The Covenant and Mr. Dewity.
 ::END:LOOK

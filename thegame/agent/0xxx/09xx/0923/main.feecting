@@ -4,6 +4,11 @@ img:thegame/agent/0923/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0923/avatar
-name: LOLapps 923
+
+## LOLApps
+
+name: LOLapps
 vector: 0x0923a
+
+talk:#wiki summary Lolapps
 ::END:LOOK

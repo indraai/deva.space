@@ -4,6 +4,9 @@ img:thegame/agent/0911/avatar
 
 ::BEGIN:LOOK
 img: thegame/agent/0911/avatar
+
+## TheGame23
+
 name: TheGame23 911
 vector: 0x0911a
 

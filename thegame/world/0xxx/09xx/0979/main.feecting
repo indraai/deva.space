@@ -8,11 +8,11 @@ img:thegame/world/0979/splash
 ## Red Army Faction
 title: Red Army Faction
 
-talk:#wiki summary Red_Army_Faction
+wiki:Red_Army_Faction
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/0979/background
-coordinates:09[-675|-311]
+coordinates:09[-666|-303]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

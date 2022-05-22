@@ -4,6 +4,12 @@ img:thegame/agent/0929/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0929/avatar
-name:Project 89
+
+## Project89
+name:Project89
 vector: 0x0929a
+
+link[Scribd - Instructions]:https://bit.ly/3Nu06Mj
+link[Source - Web Archive]:https://bit.ly/3yUbugN
+
 ::END:LOOK

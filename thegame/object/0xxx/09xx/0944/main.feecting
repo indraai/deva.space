@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0944/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## SATAN
+name: SATAN
+vector: 0x0944o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+Security Administrator Tool For Analyzing Networks
+::END:TEXT
