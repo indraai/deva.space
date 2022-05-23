@@ -6,10 +6,10 @@ img:thegame/object/0947/avatar
 ## Hacking the Intelligence Community
 name: Hacking the Intelligence Community
 vector: 0x0947o
+describe: Hacking the intelligence community while making deals with Satan for an XBox.
 
 mud[Hacking the Intelligence Community]:look intel
 mud[THE TRANSFORMATION OF WAR]:look military
-
 ::END:LOOK
 
 ::BEGIN:INTEL

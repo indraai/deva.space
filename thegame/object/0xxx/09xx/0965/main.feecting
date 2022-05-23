@@ -3,13 +3,13 @@ img:thegame/object/0965/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0965/avatar
 ## Info Wars Training
 name: Info Wars Training
 vector: 0x0965o
 describe:Training on InfoWars and Alex Jones
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
-Training on InfoWars and Alex Jones
+p:Training on InfoWars and Alex Jones
 ::END:TEXT

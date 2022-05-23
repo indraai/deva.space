@@ -4,12 +4,16 @@ p:You can see Stanford Linear Accelerator Complex from here.
 
 ::BEGIN:MAIN
 
-img:thegame/world/0950/title
+img:thegame/world/0950/splash
 
 ## SLAC
 
 title: Stanford Linear Accelerator
+vector: 0x0950r
+
 link[SLAC - PDF]:https://stanford.io/39PRwJD
+
+img:thegame/world/0950/title
 
 bmud[View PDF Here]:look text
 
@@ -26,6 +30,6 @@ img:thegame/world/0950/bicycles
 
 #color = #8c1b1e
 #bgcolor = var(--color-white)
-coordinates:09[-151|-432]
+coordinates:09[-142|-424]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

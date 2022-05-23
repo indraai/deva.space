@@ -3,11 +3,13 @@ img:thegame/object/0943/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Defcon Program
+
 name: DefCon 1 Program pdf
 vector: 0x0943o
 describe: This is the program for DefCon 1 Hacker Conference in Las Vegas in 1993.
 
-talk:#adv object:thegame 0943/main:text
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

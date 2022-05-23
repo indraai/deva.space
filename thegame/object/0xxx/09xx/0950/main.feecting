@@ -3,10 +3,11 @@ img:thegame/object/0950/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Stanford Linear Accelerator Complex
 name: Stanford Linear Accelerator Complex (SLAC)
 vector: 0x0950o
-
-talk:#adv object:thegame 0950/main:text
+describe: The Stanford Linear Accelerator Complex at Stanford University in California.
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

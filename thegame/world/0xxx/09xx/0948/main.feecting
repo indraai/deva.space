@@ -3,15 +3,18 @@ p:You can see The Well from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
-img:thegame/world/0948/title
-
-youtube:d3zdDJlygBw
+img:thegame/world/0948/splash
 
 ## Cobra Lounge
 
+youtube:d3zdDJlygBw
+
 title: Cobra Lounge
+vector: 0x0948r
+
 link[Archive - The Well]:https://bit.ly/3P3IJno
+
+img:thegame/world/0948/title
 
 p[speak:Brian]:_#CobraLounge, for modern times, first appeared in San Francisco in 1987. Hosted by SPOONMAN, (lower volume) along with his venomous consort COBRA WOMAN, in its brief storied existence, it offered a wicked and otherworldly vaudeville showcase for over 200 performers, artists, musicians, and technologists.
 
@@ -120,7 +123,7 @@ p:For more information or to be put on an informational e-mail-list
 email: spoon@well.sf.ca.us.
 
 #color = var(--color-red)
-#bgcolor = var(--color-darkest-grey)
-coordinates:09[-191|-714]
+#bgcolor = var(--color-black)
+coordinates:09[-183|-706]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

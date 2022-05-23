@@ -7,7 +7,6 @@ img:thegame/object/0932/avatar
 name: Sasha Chislenko Training
 vector: 0x0932o
 describe: Sasha Chislenko Training
-
 look[Research Text]:text
 ::END:LOOK
 

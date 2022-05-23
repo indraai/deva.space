@@ -22,6 +22,6 @@ p:HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machi
 #HIP = Hacking in Progress
 #color = var(--color-orange)
 #bgcolor = var(--color-black)
-coordinates:09[-675|-674]
+coordinates:09[-667|-666]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

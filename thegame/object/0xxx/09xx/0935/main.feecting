@@ -7,9 +7,7 @@ img:thegame/object/0935/avatar
 name: Evil People Inc.
 vector: 0x0935o
 describe: Training on the group known as Evil People Inc.
-
-#color = var(--color-light-grey)
-#bgcolor = var(--color-black)
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

@@ -6,15 +6,13 @@ img:thegame/object/0940/avatar
 ## Cypherpunk Manifesto
 name: Cypherpunk Manifesto
 vector: 0x0940o
-link[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
-
-img:thegame/object/0940/manifesto
+describe: Cypherpunk Manifesto training program.
 
 ::END:LOOK
 
 ::BEGIN:TEXT
 img:thegame/object/0940/manifesto
 
-link[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+cmd[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
 ::END:TEXT
 ====

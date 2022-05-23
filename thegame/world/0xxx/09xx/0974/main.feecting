@@ -37,6 +37,6 @@ p:Mr. Epstein is also an active member of the Edge Organization.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-755|-553]
+coordinates:09[-747|-545]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

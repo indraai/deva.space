@@ -6,6 +6,7 @@ img:thegame/object/0937/avatar
 ## Alt.* Newsgroups
 name: Alt.* Newsgroups
 vector: 0x0937o
+describe: Alt newsgroup training.
 look[Training Text]:text
 ::END:LOOK
 

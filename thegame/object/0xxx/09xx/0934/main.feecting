@@ -7,6 +7,7 @@ img:thegame/object/0934/avatar
 name: Cyberman Training
 vector: 0x0934o
 describe: Training in the cyberman stuff.
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT

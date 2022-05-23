@@ -7,8 +7,9 @@ img:thegame/object/0968/avatar
 name: Peter The Great Training
 vector: 0x0968o
 describe:Peter The Great Training
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
-Peter The Great Training
+p:Peter The Great Training
 ::END:TEXT

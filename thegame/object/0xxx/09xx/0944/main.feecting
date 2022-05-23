@@ -6,9 +6,10 @@ img:thegame/object/0944/avatar
 ## SATAN
 name: SATAN
 vector: 0x0944o
+describe:System Administrator Tool for Analyzing Networks training program.
 look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
-Security Administrator Tool For Analyzing Networks
+p:Security Administrator Tool For Analyzing Networks
 ::END:TEXT

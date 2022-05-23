@@ -6,11 +6,13 @@ img:thegame/object/0930/avatar
 name: Church of Virus Training
 vector: 0x0930o
 link[Website]:https://bit.ly/3w9Rc0Q
+describe: The Church of Virus training prgraom.
+look[Training Text]:text
 ::END:LOOK
 ====
 
 
 ::BEGIN:TEXT
-
+p:The Church of Virus training program.
 ::END:TEXT
 ====

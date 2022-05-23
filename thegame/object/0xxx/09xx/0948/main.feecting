@@ -6,4 +6,9 @@ img:thegame/object/0948/avatar
 ## Spoonman Cobra Lounge
 name: Spoonman Cobra Lounge
 vector: 0x0948o
+look[Training Text]:text
 ::END:LOOK
+
+::BEGIN:TEXT
+p:Spoonman Lounge training program.
+::END:TEXT

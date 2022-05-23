@@ -3,13 +3,13 @@ img:thegame/object/0964/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0964/avatar
 ## Laura Loomer Training
 name: Laura Loomer Training
 vector: 0x0964o
 describe: Training for Laura Loomer
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
-Training for Laura Loomer
+p:Training for Laura Loomer
 ::END:TEXT

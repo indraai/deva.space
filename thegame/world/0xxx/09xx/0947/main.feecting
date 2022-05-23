@@ -3,14 +3,18 @@ p:You can see The Well from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0947/title
+img:thegame/world/0947/splash
+
 
 ## The Well
 
-talk:#adv world:thegame 0900/training:card
-
 title: The Well
+vector: 0x0947r
+
 link[Archive - The Well]:https://bit.ly/3LVPEwW
+
+img:thegame/world/0947/title
+
 
 p:The WELL was an online gathering place like no other -- remarkably uninhibited, intelligent, and iconoclastic. For an action-packed fifteen years, it's been a literate watering hole for thinkers from all walks of life, be they artists, journalists, programmers, educators or activists. These WELL members return to The WELL, often daily, to engage in discussion, swap information, express their convictions and greet their friends in online forums known as WELL Conferences.
 
@@ -22,5 +26,6 @@ p:The WELL is a place made of words, an extraordinary word palace with thousands
 
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-white)
-coordinates:09[-634|-714]
+coordinates:09[-626|-706]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

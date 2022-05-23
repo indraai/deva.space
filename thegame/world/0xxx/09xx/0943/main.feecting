@@ -38,7 +38,7 @@ talk:#adv object:thegame 0943/main:text
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0943/background
 talk:#adv world:thegame 0900/training:card
-coordinates:09[-594|-674]
+coordinates:09[-586|-666]
 ::END:MAIN
 
 ::BEGIN:DEATHSTAR

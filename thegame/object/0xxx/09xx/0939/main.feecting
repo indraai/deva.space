@@ -3,10 +3,10 @@ img:thegame/object/0939/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0939/avatar
 ## Evil Mud Training
 name: Evil Mud Training
 vector: 0x0939o
+describe: Evil MUD training program.
 look[Training Text]:text
 ::END:LOOK
 

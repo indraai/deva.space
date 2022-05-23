@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0971/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0971/avatar
+## The Romanov Training
+name: The Romanov Training
+vector: 0x0971o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Romanov training program.
+::END:TEXT

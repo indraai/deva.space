@@ -33,6 +33,6 @@ p:A substantial percentage of the Webmind Inc. team, including a handful of New 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/0976/background
-coordinates:09[-715|-593]
+coordinates:09[-707|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

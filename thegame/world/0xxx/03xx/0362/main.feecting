@@ -6,13 +6,13 @@ p:You can see indra.agency/s from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0096/title
-p:You are in indra.agency/s
+p:You are in Agency South Checkpoint.
 
 bmud[Read Security Board]:read security
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000
-coordinates:00[-472.5|-990]
+coordinates:00[-465|-982]
 ::END:MAIN
 
 =

@@ -5,15 +5,17 @@ p:You can see Training Room 934 from here.
 ::BEGIN:MAIN
 img:thegame/world/0945/splash
 
-img:thegame/world/0945/title
-
 ## HOPE Conference
 
-talk:#adv world:thegame 0900/training:card
+img:thegame/world/0945/title
 
 title: HOPE Conference
+vector: 0x0945r
 
 email: 2600@well.sf.ca.us
+
+#HOPE = Hackers of Planet Earth
+#HIP = Hacking in Progress
 
 link[Archive - HOPE]:https://bit.ly/3vSMxA8
 
@@ -150,9 +152,8 @@ audio: http://www.h2k2.net/media/intelligence1.mp3
 audio: http://www.h2k2.net/media/intelligence2.mp3
 audio: http://www.h2k2.net/media/intelligence3.mp3
 
-#HOPE = Hackers of Planet Earth
-#HIP = Hacking in Progress
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-white)
-coordinates:09[-634|-674]
+coordinates:09[-626|-666]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN

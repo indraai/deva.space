@@ -3,14 +3,18 @@ p:You can see End Of The Line from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0941/title
+img:thegame/world/0941/splash
 
 ## End Of The Line
 
 talk:#adv world:thegame 0900/training:card
 
 title: End Of The Line (MUD)
+vector: 0x0941r
+
 link[Archive - Angst Central]:https://bit.ly/3vOAMuD
+
+img:thegame/world/0941/title
 
 ::begin:buttons
 bmud[Where are EOTL Agents?]:where eotl
@@ -42,7 +46,7 @@ p:Try to behave.
 ::end:note
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
-coordinates:09[-191|-674]
+coordinates:09[-183|-666]
 ::END:MAIN
 
 

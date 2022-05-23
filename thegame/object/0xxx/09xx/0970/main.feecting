@@ -3,13 +3,13 @@ img:thegame/object/0970/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0970/avatar
 ## Russian Orthodox Training
 name: Russian Orthodox Training
 vector: 0x0970o
 describe:Russian Orthodox Training
+look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
-Russian Orthodox Training
+p:Russian Orthodox Training
 ::END:TEXT

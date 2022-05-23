@@ -6,6 +6,7 @@ img:thegame/object/0933/avatar
 ## Lionel Nation Training
 name: Lionel Nation Training
 vector: 0x0933o
+describe: Lionel Nation training program.
 look[Training Text]:text
 ::END:LOOK
 

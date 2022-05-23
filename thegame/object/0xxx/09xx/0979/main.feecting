@@ -6,6 +6,12 @@ img:thegame/object/0979/avatar
 ## Red Army Faction
 name: Red Army Faction
 vector: 0x0979o
+describe:Russian Orthodox Training
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Red Army Faction
 
 wiki[Red Army Faction]:Red_Army_Faction
-::END:LOOK
+::END:TEXT

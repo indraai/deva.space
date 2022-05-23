@@ -3,7 +3,6 @@ p:You can see Training Room 922 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
 
 ## To Ireland
 
@@ -31,4 +30,5 @@ talk:#adv world:thegame 0922/training:main
 #bgcolor = #ffffff
 #bg = thegame/world/0922/background
 coordinates:09[-546|-424]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN
