@@ -29,6 +29,6 @@ talk:#adv world:thegame 0922/training:main
 #color = #333333
 #bgcolor = #ffffff
 #bg = thegame/world/0922/background
-coordinates:09[-546|-424]
+coordinates:09[-545.5|-423.5]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN

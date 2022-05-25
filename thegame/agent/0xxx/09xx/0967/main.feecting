@@ -4,9 +4,8 @@ img:thegame/agent/0967/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0967/avatar
+
+## RussianBot 967
 name: RussianBot 967
 vector: 0x0967a
-
-#color = var(--color-black)
-#bgcolor = var(--color-white)
 ::END:LOOK

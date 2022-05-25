@@ -114,7 +114,7 @@ img:thegame/world/0900/title
 
 img:thegame/world/0900/contract
 
-#color = var(--color-dark-grey)
+#color = var(--color-black)
 #bgcolor = var(--color-white)
 
 coordinates:09[-465|-424]

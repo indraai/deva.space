@@ -1,22 +1,11 @@
 ::BEGIN:LOOK
-You can see the AIRFORCE Entrance from here.
+You can see the Recycling Center from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0337/logo
+## Recycling Center
 
-p:The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight U.S. uniformed services. Initially formed as a part of the United States Army on 1 August 1907, the USAF was established as a separate branch of the U.S. Armed Forces on 18 September 1947 with the passing of the National Security Act of 1947. It is the second youngest branch of the U.S. Armed Forces and the fourth in order of precedence. The U.S. Air Force articulates its core missions as air superiority, global integrated intelligence, surveillance and reconnaissance, rapid global mobility, global strike, and command and control.
-
-img:thegame/world/0337/f35
-
-p:The U.S. Air Force is a military service branch organized within the Department of the Air Force, one of the three military departments of the Department of Defense. The Air Force through the Department of the Air Force is headed by the civilian Secretary of the Air Force, who reports to the Secretary of Defense and is appointed by the President with Senate confirmation. The highest-ranking military officer in the Air Force is the Chief of Staff of the Air Force, who exercises supervision over Air Force units and serves as one of the Joint Chiefs of Staff. As directed by the Secretary of Defense and Secretary of the Air Force, certain Air Force components are assigned to unified combatant commands. Combatant commanders are delegated operational authority of the forces assigned to them, while the Secretary of the Air Force and the Chief of Staff of the Air Force retain administrative authority over their members.
-
-img:thegame/world/0337/rq4
-
-p:Along with conducting independent air operations, the U.S. Air Force provides air support for land and naval forces and aids in the recovery of troops in the field. As of 2017, the service operates more than 5,369 military aircraft and 406 ICBMs. It has a $156.3 billion budget and is the second largest service branch, with 329,614 active duty airmen, 172,857 civilian personnel, 69,056 reserve airmen, and 107,414 Air National Guard airmen.
-
-#bg = thegame/world/0337/background
-#bgcolor = #ffffff
-#color = #000000
-coordinates:00[-116|-852]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-119|-775]
 ::END:MAIN

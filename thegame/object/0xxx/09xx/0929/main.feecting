@@ -6,16 +6,12 @@ img:thegame/object/0929/avatar
 name: Project89
 date: Jun 9, 2007
 vector: 0x0929o
-link[Scribd - Instructions]:http://www.scribd.com/doc/33043343/89PDDWeb-1
-link[Source - Web Archive]:https://web.archive.org/web/20070609111958/http://www.project89.org/about.php
-
-talk:#adv object:thegame 0929/main:text
-
+describe: Project 89 Training
+look[Training Text]:text
 ::END:LOOK
-====
-
 
 ::BEGIN:TEXT
+link[Scribd - Instructions]:http://www.scribd.com/doc/33043343/89PDDWeb-1
+link[Source - Web Archive]:https://web.archive.org/web/20070609111958/http://www.project89.org/about.php
 pdf:/public/pdf/Project-89-Basic-Proposal-2011.pdf
 ::END:TEXT
-====

@@ -21,5 +21,5 @@ talk:#adv world:thegame 0915/training:main
 #color = #333333
 #bg = thegame/world/0915/background
 
-coordinates:09[-545|-383]
+coordinates:09[-545.5|-383]
 ::END:MAIN

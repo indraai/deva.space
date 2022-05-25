@@ -3,12 +3,12 @@ p:You can see Training Room 912 here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
-
-## Pacific Hermitage
 
 img:thegame/world/0912/title
 
+## Pacific Hermitage
+title: Pacific Hermitage
+vector: 0x0912r
 
 p[speak]:Welcome to Training Room 902. Here we are looking into 2015 information relating to the kidnapping and Quinn and The Trenton Story. This was the short period where Quinn took Trenton to meet Buddhist Monks.
 
@@ -26,4 +26,5 @@ talk:#wiki summary Abhayagiri_Buddhist_Monastery
 #bgcolor = #fcf5d8
 #bg = thegame/world/0912/background
 coordinates:09[-505|-383]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN
