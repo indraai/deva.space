@@ -45,3 +45,23 @@ p[speak]:Don't BEE afraid to start your OWN seKret TYLER)
 coordinates:09[-505|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Imagine we all find the courage needed to tell the world about Quinn being kidnapped and held hostage.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Imagine we all suck it up and finally let Quinn go home.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Imagine we all work together to help kidnapping victim Quinn Michaels get sent home safely.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian You should go find Russian people and bring them to this stream. They will tell you if Quinn Michaels is a Romanov. They will feel it in their bones.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

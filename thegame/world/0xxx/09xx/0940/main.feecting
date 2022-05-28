@@ -14,8 +14,27 @@ link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 
 talk:#wiki summary Cypherpunk
 
-
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
-coordinates:09[-514|-674]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-506|-666]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Eric Huges is the author of the Cypherpunk Manifesto which appeared in the DEF Con 1 Program.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Privacy is necessary in an open society in the electronic age.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian A private matter is something one doesn't want the whole world to know. A secret matter is something one doesn't want anybody to know.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

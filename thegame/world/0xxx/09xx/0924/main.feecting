@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see Training Room 905 from here.
+p:You can see Training Room 924 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -32,9 +32,28 @@ talk:#wiki summary Ron_Conway
 
 talk:#wiki summary Founders_Fund
 
-
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
 coordinates:09[-223|-505]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian In October 2010, the Wall Street Journal discovered that a number of Facebook apps were transmitting Facebook ID to RapLeaf.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian RapLeaf then embedded that information in an Internet-tracking file known as a cookie.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian A 2011 report said the company could tell the food preferences of employees of major companies.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian RapLeaf was a US-based marketing data and software company, which was acquired by email data provider TowerData in 2013.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian In May 2006 Founders Fund led a seed round of about 1 million dollars, including angel investors such as Peter Thiel and Ron Conway.
+::END:TRG5

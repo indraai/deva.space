@@ -18,3 +18,24 @@ talk:#wiki summary Albert_Gonzalez
 coordinates:08[-392|-512]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Discovered in 2007, the TJX hack was, at the time, the biggest breach of consumer data in the history of the United States.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Hackers had first gained access to the TJX network in 2005 through a WiFi connection at a retail store.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The TJX hackers were a group of 10, based all over the world, led by Albert Gonzalez, who was also an informant for the Secret Service at the time.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian The hack prompted legislation requiring retailers to be responsible for compromised customer information saved in their systems.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

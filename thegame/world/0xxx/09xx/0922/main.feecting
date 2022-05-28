@@ -20,7 +20,6 @@ p[speak]:In 2021 it would be discovered that Tabitha was involved with a group o
 
 img:thegame/world/0922/journey
 
-
 ## Training
 ::begin:training
 talk:#adv world:thegame 0922/training:main
@@ -29,6 +28,27 @@ talk:#adv world:thegame 0922/training:main
 #color = #333333
 #bgcolor = #ffffff
 #bg = thegame/world/0922/background
+
 coordinates:09[-545.5|-423.5]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian After Quinn would goto the FBI on November 30, 2015 Tabitha would take a trip with her husband to tour Ireland for 10 days.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:indra Tabitha's friend surprised her with a 10 day trip to Ireland for both her and her husband.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:tyler Which left Quinn with Trenton for 10 days in 2015-2016. Prior to that Quinn had never spent more than 48 hours with Trenton.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:francis That week with Trenton after going to the FBI was the strangst time as Quinn never learned so much about occult practice as he did from Trenton at this time.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:jess So to all our curious kiddos... have you figured out which of these users here now are Harold, Sharon, Cristy, Neil, Tabitha, or Trenton?
+::END:TRG5

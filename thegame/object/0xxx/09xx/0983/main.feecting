@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0983/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Tuva Training
+name: Tuva Training
+vector: 0x0983o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Tuva Training Program
+::END:TEXT

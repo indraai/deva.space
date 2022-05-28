@@ -18,3 +18,23 @@ cmd:#pastebin view Ym5rGCJV
 coordinates:09[-425|-464]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Tyler was sold as a curious, mysterious, entity with the intention of bringing happiness and joy to everyone.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian This was just a sales pitch to get in the door, and gain trust of the blind believer. To get you to buy in to their truth.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Once the individual becomes agreeable then the occult begins in the form of five rituals, known as DANGEROUS IDEAS.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Don't forget your task is to tell as many Russian people as you can that you found the lost Romanov on Youtube.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian What you see here is the distraction of the Agents away from the secret Romanov they are hiding. We are watching.
+::END:TRG5

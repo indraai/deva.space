@@ -25,3 +25,23 @@ p:HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machi
 coordinates:09[-667|-666]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian HIP is a place for hackers, artists, activists and many, many others to network themselves.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian A campsite full of PCs, laptops, and Unix machines, all connected via an Ethernet to the Internet.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Hundreds of hackers spent three days building their own network between their tents in the middle of nowhere.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

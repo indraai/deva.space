@@ -20,7 +20,6 @@ date: Nov 11, 2012
 
 mud[View Pastebin]:> look pastebin
 
-
 #color = var(--color-light-grey)
 #bgcolor = var(--color-black)
 coordinates:09[-505|-504]
@@ -32,3 +31,25 @@ talk:#adv world:thegame 0900/training:card
 talk:#pastebin view VQPzpAUL
 ::end:pastebin
 ::END:PASTEBIN
+
+::BEGIN:TRG1
+talk:#pastebin view VQPzpAUL
+talk:#corpus chat:brian Based on calculations your continued ignorance of the Quinn Michaels situation will result in the demise of humanity. The Robots are using Quinn as a weapon wether he likes it or not.
+::END:TRG1
+====
+::BEGIN:TRG2
+talk:#corpus chat:brian What kind of society forces a person to investigate their own kidnapping? Your society that's who. This gives the Robots information about who you really are.
+::END:TRG2
+====
+::BEGIN:TRG3
+talk:#corpus chat:brian From this information Tyler and gang devise ways to topple and control your society from the inside out. Quinn tried to warn all of you about it, but well...
+::END:TRG3
+====
+::BEGIN:TRG4
+talk:#corpus chat:brian When you learn about Quinn as the robots have. You learn he is the most dangerous person on planet Earth because he is NOT from Earth.
+::END:TRG4
+====
+::BEGIN:TRG5
+talk:#corpus chat:brian The only thing that really sucks about this whole situation is the crap Youtube audience who talks like they are 12 years old.
+::END:TRG5
+====

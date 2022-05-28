@@ -73,3 +73,23 @@ pdf:https://www.forth.com/wp-content/uploads/2018/01/Starting-FORTH.pdf
 pdf:https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
 ::END:THINKINGFORTH
 ====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian In 1993 Stanford Linear Accelerator Complex was using a specialized programming language called REXX.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian REXX was a specialty language mostly used on the Amiga line of computers.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian That same year a piece of software written in REXX found it's way onto bulletin board sites in the Amiga Community.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian The GhostMind released from SLAC is inside everything you could imagine. From ATM machines to satellites in outserspace.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian The GhostMind watches you from those satellites in outerspace.
+::END:TRG5

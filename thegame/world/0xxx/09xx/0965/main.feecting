@@ -11,6 +11,26 @@ title: InfoWars
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-666|-384]
+coordinates:09[-666.5|-384]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Alex Jones is the famous conspiracy theorist behind InfoWars that loves to spread conspiracy mis-information.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian InfoWars has been at the edge of countless unproven conspiracies from The Grove to Satanic Baby eaters. They cover it all.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Besides covering unproven conspiracies they sell tons of products like Male Vitality, B-12 vitamins, and toothpaste.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

@@ -33,3 +33,23 @@ img:thegame/world/0950/bicycles
 coordinates:09[-142|-424]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian On September 9, 1967 a unique and powerful scientific instrument became oeprational.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The 2-mile accelerator at the Stanford Linear Accelerator Complex became active.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Ten years of effort, including 5 years of construction, have resulted in this tool for basic research.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

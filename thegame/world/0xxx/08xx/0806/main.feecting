@@ -10,3 +10,23 @@ p:You can see The Underground 806 from here.
 coordinates:08[-594|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Masters of Deception initial membership grew from meetings to hacking phone switches and the various mainframes on the telephone network.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian It was believed that access to MOD's knowledge should be earned via degrees of initiation.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian A major nationwide investigation by a joint FBI/Secret Service task force, five of MOD's members were indicted in 1992.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

@@ -201,3 +201,23 @@ Ahh fuck it, I'll even buy a couple myself
 ::end:code
 ::END:KENT
 ====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

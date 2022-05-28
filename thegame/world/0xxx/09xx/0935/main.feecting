@@ -30,3 +30,23 @@ p[speak:Brian]:From a hidden location in the heart of San Francisco's SOMA distr
 #bgcolor = var(--color-black)
 coordinates:09[-546|-585]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Founded before the Dark Ages, EvilPeople,INC.(tm) has worked behind the scenes, helping to bring about poverty, despair, death, and the cries of war to every part of the world.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Secret societies tend to not possess personal armies, or engage in commerce with lower planes of existance, but EvilPeople,INC.(tm) has ever been one to go against the grain.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian EvilPeople,INC.(tm) in 1994 decided to throw off it's cloak of secrecy and announce it's dark, twisted presence to a world that was ready for it.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

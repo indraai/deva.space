@@ -41,3 +41,23 @@ img:thegame/world/0934/note2
 coordinates:09[-586|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The Beyond was a social MUD for transhumanists hosted at lucifer.com that took it's name from Vernor Vinge's A Fire Upon the Deep.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The Beyond is a kind of virtual reality, in which players move about from place to place manipulating their environment.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian More than a game in the usual sense; there is no `score' kept, there are no specific goals to attain in general, and there's no competition involved.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

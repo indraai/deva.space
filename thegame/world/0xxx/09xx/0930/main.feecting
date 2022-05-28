@@ -78,3 +78,23 @@ talk:#wiki summary Perplex_City
 talk:#adv world:thegame 0900/training:card
 coordinates:09[-586|-504]
 ::END:PERPLEX
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Very early in the morning of November 30, 1977 a baby was abducted from Arjika City and brought to Earth.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The kidnapping situation has been investigated very thoroughly and Quinn Michaels is being held hostage on Earth in the United States.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian It is pretty villain like to ask for a reward or payout to help Quinn get home. Don't you think so?
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

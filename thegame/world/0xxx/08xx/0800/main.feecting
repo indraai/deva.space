@@ -84,3 +84,23 @@ inactive: I don't sleep... I metastasize
 #bg = thegame/world/0800/background
 coordinates:08[-352|-472]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Stephen Huntley Watt is a hacker that goes by the names The Unix Terrorist, the_uT, ~el8, and Jim Jones.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Stephen Watt is listed as one of the hackers who had a major part in the production of Project Mayhem.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Around the time of his involvement in Project Mayhem he was also indicted for hacking the TJ Max stores with his friends.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

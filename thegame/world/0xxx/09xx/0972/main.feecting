@@ -41,3 +41,23 @@ img:thegame/world/0972/002
 img:thegame/world/0972/003
 ::END:PHOTO3
 ====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Holy smacks you made it to the Russian Orthodox Church who is the main force organizing the hiding of Quinn Michaels.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian These old dirty guys love to wear the Romanov family jewels around pretending to be a real Romanov.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Maria and her son have been working very hard to take the control of the Romanov House.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian They are devising many ways to continue to hide the Romanov within The Corporation and in the United States.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian These are the various corperations operated by the Russian Orthodox Church and current Romanov Family.
+::END:TRG5

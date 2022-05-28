@@ -62,3 +62,23 @@ img:thegame/world/0941/tippers2
 img:thegame/world/0941/tippers3
 ::END:TIP3
 ====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian End of the Line Mud was located on a Stanford University server in the 1990s.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian EotL was originally two muds: UCR's Let's See Yours LPmud at UC Riverside in 1989, and The Pitt from the University of Pittsburgh.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The two muds merged together and renamed End of the Line and relocated from UCR to Stanford University.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

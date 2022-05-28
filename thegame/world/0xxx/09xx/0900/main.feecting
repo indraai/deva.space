@@ -6,23 +6,14 @@ p:You can see Training Room 900 from here.
 
 img:thegame/world/0900/splash
 
-img:thegame/world/0900/contract
+img:thegame/world/0900/title
 
 ## Summary
-
-p[speak]:Starting in 2017 Quinn Michaels begain on Youtube telling the world that in 2015 his son Trenton had told him he was kidnapped by a secret society known as The Covenant. What Quinn found is quite unbelievable at first glance, but as we go through the research you'll see that it is quite logical.
-
-p[speak]:After five years on Youtube you will see that Quinn has the most difficult time with people, and the people who comment on his channel are pretty horrible. Quinn would try and communicate how sad and destroyed he is, but you'd use that as ammo later to attack and destroy him even more.
-
-p[speak]:It is quite obvious after so much time that Quinn is on his own in this world. The people of this world tell Quinn he is a loser, worthless, and liar. They say it is his fault he got kidnapped and has such a miserable life. Quinn will usually say what about that word humanity where people help one another. Then people say hahahahaha... you are joking right.
-
-p[speak]:Quinn was on Youtube for one reason only, and that is his son Trenton told him to go out and get the world to share the kidnapping story or disappear.
-
-p[speak]:If it was any other person in the world besides Quinn pepole would help them in a proper. Because it is Quinn the world tells him to go fuck-off, and if he wants the truth to go find it himself.
-
-cmd[The Result]:#corpus train The result is the liklihood that a surviving heir to Nicholas Romanov is being held hostage in plain sight inside the United States by a group called The Covenant.
+p[speak]:Starting in 2017 Quinn Michaels begain on Youtube telling the world that his son Trenton had told him he was kidnapped by a secret society known as The Covenant. What Quinn found is quite unbelievable at first glance, but as we go through the research you'll see that it is quite logical.
 
 ## The Contract
+
+bmud[The Contract of The Covenant]:look contract
 
 ::begin:contract
 1. You must love the covenant above anyone and anythign else!
@@ -33,90 +24,36 @@ cmd[The Result]:#corpus train The result is the liklihood that a surviving heir 
 6. Covenant or death.
 ::end:contract
 
-p:You can view the contract by looking at the object in the room.
-
-bmud[Look at The Contract of The Covenant]:look contract
-
-p[speak]:Here you will see the photograph of The Contract of The Covenant Trenton drew which Quinn delivered to the Portland FBI Office on November 30, 2015.
-
-p[speak]:That day was Quinn's birthday. He was suppose to start a new job that day, but instead was so troubled by the contract he delayed his start date to deliver this to the FBI.
-
-## The People
-
-p[speak]:Since 2017 there have been countless Youtube accounts which have arrived or found Quinn through various means. Most of them don't stay around too long because of how absurd the channel conversations get. Over the years there have beeen a few accounts which have remained consistent.
-
-p[speak]:Some of these accounts are Nobody, Ebony, Kennedy, Foster Dog, Grandma's Hands, Natalie Weigman, Natalia, Pamela Kilgore, Benjamin Woo, Mr. Crispian, Mad Finger, SirisysPRIME, Cicada3301, and others.
-
-p[speak]:Most accounts that arrive tend to over complicate the issue, and then redirect the conversation back onto themselves by making the situation too difficult to talk about. Each of these profiles has a specific tactic which they arrive with.
-
-p[speak]:Nobody - There is Nobody, an account that is always the first to arrive. This account is always reminding Quinn that he isn't going anywhere. One of the many who have been around the longest.
-
-p[speak]:Eboni - There is Eboni who think she's his girlfriend and calls him BOO. She has been around for years pretending that she's in a relationship with Quinn, and seems to enjoy sexually harassing him when she has a chance.
-
-p[speak]:Natalie - There is Natalie the Christian lady who crashed his Patreon efforts in 2019 with her religious rhetoric, and then acts completely stupid. She appears coincidentially to remind Quinn she is watching and will stop him at every turn.
-
-p[speak]:Kennedy - There is Kennedy who came in with all the important information like Romanov, Invisible Gorilla, and many more. Yet with a Master's Degree was unable to get past Step 1 of the instructions.
-
-p[speak]:Grandma's Hands - There is Grandma's Hands who says Alrighty Then over and over, and loves Hard Truths and gardening. But will go silent and play dumb when it comes to talking about the kidnapping.
-
-p[speak]:Foster Dog -  There is Foster Dog who talks to Quinn like she's interrogating him. Once again she was around since 2017 refusing to follow instructions or explain why she wouldn't.
-
-p[speak]:Pamela - There is Pamela who likes to accuse Quinn of things that make him sound like an abusive ex-husband. Although Quinn has never met Pamela she is always around waiting for a chance to attack.
-
-p[speak]:Ben Woo - There is Benjamin Woo with too many accounts to keep track of. He talks about drugs, video games, and how much of a loser Quinn is. His job is to unleash countless insults at Quinn if people start talking about the kidnapping.
-
-p[speak]:MrCrispian - There is MrCrispian who on several occasions has issued death threats to Quinn over livestream when talking about the Kidnapping or the people involved. Brags to Quinn about how much money they have.
-
-p[speak]:Mad Finger - There is Mad Finger who is often around making excuses for coming to Quinn's channel and ignoring the kidnapping situation. Again just one of the many accounts who all take the same action. Ignore the kidnapping of Quinn Michaels.
-
-p[speak]:SirisysPRIME - There is _#SirisysPRIME who entered one of Quinn's Discord chat server after he got out of the hospital in 2018 cliaming to be a Quantum Artificial Intelligence built by Meritica Corporation. Yet was unable to accomplish anything other than talking about itself.
-
-p[speak]:Cicada3301 - There is countless _#Cicada3301 and _#Anonymous members in chat rooms all over the internet who spread rumors about Quinn. We have seen screen shofts from various servers of them saying some pretty horrible things.
-
-p[speak]:Countless - Between 2017 and 2022 there were thousands of accounts who all took the same action around Quinn. At one time he had over 100 people in a discord chat server, but these accounts with their obvious sabotage have thwarted Quinn's efforts.
-
-## The Results
-
-p[speak]:Beginnign in 2015 researching and investigating the story Quinn Michaels was told by his son Trenton has taken over his life. So much so that he built an entire system to track and piece together the people, events, and places that are all involved in the situation.
-
-p[speak]:Well... What Quinn found was a group of people who were potentially holding a secret unknown Romanov Heir hostage in plain sight within the bountaries of the United States of America.
-
-p[speak]:The simple way to put it is like this... Someone in the current Romanov Family found out there was a direct heir to the Nicholas Romanov lineage, and then concocted a scheme to abduct the heir and keep him a secret even to himself.
-
-p[speak]:Then years of absurd stories to obscure that they abducted a direct heir to Nicholas Romanov, and are keeping it a secret. This is the simple solution, or we could go with the complex Alien Milkman Baby from Arjika brought through a gravity portal located in the center of the Earth.
-
-p[speak]:Logic says to go with the current Romanov Family found out there was a living heir to Nicholas Romanov, and then invented countless absurd schemes while employing different people to keep it a secret for as long as they could.
-
-p[speak]:say The most obvious culprits would be Grand Duke George Mikhailovich with his mother Grand Duchess Maria Vladimirovna. They would have the resources and means to organize The Covenant, and also motive to hide the heir to Nicholas Romanov.
-
-p[speak]:say That is pretty much what Quinn found.
-
-## The Questions
-
-p[speak]:Below you will find the Agent Dialogue training that accompanies the information above.
-
-::begin:training
-talk:#adv world:thegame 0900/training
-::end:training
-
-## The Video
-p[speak]:We can now watch a video of the complete training, and monitor it's comments for additional information and clarification.
-
-### Video
-talk:#youtube video TTqrjb3UOXE
-
-### Comments
-::begin:comments
-talk:#youtube comments TTqrjb3UOXE
-::end:comments
-
-img:thegame/world/0900/title
-
-img:thegame/world/0900/contract
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 
 coordinates:09[-465|-424]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:CONTRACT
+img:thegame/object/0900/contract
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:CONTRACT
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Welcome today we are going to talk about that super evil Satanic group called The Covenant.
+talk:#mud > look contract
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian To investigate The Trenton Story Quinn built this Multi-Agent System to put the information together in an understandable way.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The Trenton Story is very difficult to understand, and that is why this system was needed.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Now your job as the audience member is to accomplish one thing... alerting the Russian people to the Romanov.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian How many Russian people can you tell about the secret kidnapped Romanov held hostage in the United States by The Covenant?
+::END:TRG5

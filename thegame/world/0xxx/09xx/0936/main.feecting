@@ -30,3 +30,23 @@ p:WE FU**IN WORSHIP SATAN! Here's why:
 #bgcolor = var(--color-black)
 coordinates:09[-546|-625]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Satanic Sysadmins, a little island of evil in a boiling red sea of luse.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Many wonder what it is system administrators do at night. Well, I am here to tell you... THEY F***IN WORSHIP S***N!
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian They're passing on a direct solution to fix those interminable hardware conflicts.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

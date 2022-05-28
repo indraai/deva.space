@@ -126,3 +126,23 @@ p[speak:Amy]:Promote. Share your act of survivance through your networks and _#s
 coordinates:09[-344|-545]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:jess It was found Trenton's mother Tabitha was involved with a game called Survivance created by Elizabeth LePensee in October of 2013.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:jess October 2013 was 9 days before the release of Ethersec Project Mayhem 2020 instructions that would outline new operations for Anonymous.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:jess Since Tabitha was involved with Survivance in 2013... what are the odds that she is hanging out in this chatroom harassing Quinn to protect herself?
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:jess Questions arise as to why Tabitha who is a Social Worker was involved with game developers like Elizabeth when she was not a gamer or a programmer.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:jess Elizabeth is friends with Brenda Romero and Brenda Romero lives in Ireland which is where Tabitha and her Husband went on their suprise all expenses paid trip.
+::END:TRG5

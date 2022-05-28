@@ -13,6 +13,26 @@ coordinates:09[-626|-464]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 
+::BEGIN:TRG1
+talk:#corpus chat:jess Robert David Steele was a self-proclaimed ex-CIA Agent who promotes the Satanic Panic Narritve all over the Internet with Jerome Corsi and friends.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:jess However it was found that long ago in the early 1990s Robert David Steele was a speaker at various Hacker Conferences around the world.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:francis Robert David Steele was also found to be connected to some of the top YouTubers that are in some cases still pushing his narratives.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:harry Youtubers found to be connected to Robert David Steele are Jerome Corsi, Lionel Nation, Crowdsource the Truth, Patriot Soapbox, and others.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:larry From beind the scenes Robert David Steele was also actively promoting the QAnon conspiracy movement with other operatives in select positions.
+::END:TRG5
+
 ::BEGIN:IZAR
 img:thegame/world/0916/title
 

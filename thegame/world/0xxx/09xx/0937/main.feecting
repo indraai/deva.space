@@ -16,8 +16,27 @@ p:Many of the participants metup in the alt.* usenet newsgroups and various IRC 
 
 talk:#wiki summary Alt.*_hierarchy
 
-
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-505|-625]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian During the 1990s many of the individuals involved would meet up in the alt.* usenet newsgroups to share their ideas.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The alt.* usenet groups would be started by a core group of individuals who would eventually head up the Electronic Frontier Foundataion.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Many groups in the alt.* heircharchy and irc channels would become a central hub for later operations.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

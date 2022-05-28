@@ -157,3 +157,23 @@ audio: http://www.h2k2.net/media/intelligence3.mp3
 coordinates:09[-626|-666]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The Beyond HOPE Conference was a Hacker Conference in New York during August 1994.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Robert David Steele, Ray Kaplan, and Eric Hughes attended the conference.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The HOPE conference was linked to a Hacking In Progress Conference that happened at the same time in the Netherlands.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

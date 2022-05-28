@@ -7,9 +7,28 @@ p:You can see Aaron Swartz Room from here.
 
 talk:#wiki summary Aaron_Swartz
 
-
 #bgcolor = var(--color-black)
 #color = var(--color-white)
 coordinates:08[-432|-512]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Aaron Swartz was an American computer programmer, entrepreneur, writer, political organizer, and Internet hacktivist.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian He was involved in the development of RSS, the Markdown publishing format, and the organization Creative Commons.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian On the night of January 6, 2011, Swartz was arrested near the Harvard campus by MIT police and a Secret Service agent.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Swartz died by suicide on January 11, 2013. After his death, federal prosecutors dropped the charges.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

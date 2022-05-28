@@ -4,11 +4,14 @@ img:thegame/agent/0326/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0326/avatar
-name: Ananta Deva
+## Nara Narayana
+name: Nara Narayana
 vector: 0x0326a
 
 docs[Devadeva]:vedas/devadeva/main
 
 docs[Anata Deva]:vedas/devadeva/ananta
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 ::END:LOOK

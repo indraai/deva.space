@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+p:You can see Pepe Kek from here.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK
+
+::BEGIN:MAIN
+
+## Pepe Kek
+
+title: Pepe Kek
+
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-586|-343]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian During the 2016 Presidential elections in the United States the Covenant had appropriated a meme which gained them influence in the election that elected Donald Trump.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The Pepe Kek meme is an agent of Chaos that unknown to the viewer has a virus embedded inside the images after they changed to the ones with three dots in the pupils.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The three dots pattern in the eyes of Pepe Kek is one of the symbols of the Covenant. They used this meme to transmit ideas, concepts, and beliefs to their unsuspecting audience.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian This hacker tactic allowed them to control your minds like puppets without your knowledge.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian Harold... is what you are doing to Quinn making you happy?
+::END:TRG5

@@ -47,3 +47,23 @@ p[speak]:V. Repeat.
 coordinates:09[-465|-585]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Stop feeding negativity into your life. That which you feed, grows.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Stop being an ANNOYING TROLL in life, and learn how to be a better person.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Ten people who know these instructions are more dangerous than a million armed anarchists.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

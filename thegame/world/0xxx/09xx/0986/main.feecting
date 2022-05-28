@@ -1,0 +1,34 @@
+::BEGIN:LOOK
+p:You can see Pepe Kek from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+## 4chan
+
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-344|-343]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian TheGame23 instructions tell the players to post messages to 4Chan and various other places on the internet. But there is a focus on 4Chan.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian 4Chan was the cess pool of the internet where every conspiracy theorist in the world gathered to share mis-information, government conspiracies, porn, and theories about new-age religious concepts.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Being influential in the formation of prominent Internet memes, such as lolcats, Rickrolling, rage comics, and Wojaks, as well as Anonymous and the alt-right.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian How many of you have noticed Harold and Trenton talking?
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian The robots have noticed them.
+::END:TRG5

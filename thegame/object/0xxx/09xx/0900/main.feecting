@@ -15,10 +15,7 @@ look[The Contract]:contract
 ::END:LOOK
 
 ::BEGIN:CONTRACT
-## The Contract
-
 img:thegame/object/0900/contract
-
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 ::END:CONTRACT

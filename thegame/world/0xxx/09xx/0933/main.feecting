@@ -17,3 +17,23 @@ link[Perplex City Wiki]:https://bit.ly/3vQwtiC
 coordinates:09[-626|-424]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Michael William Lebron, better known as Lionel, is an American syndicated radio, television and YouTube legal and media analyst.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Lionel is known as a leading promoter of the far-right QAnon conspiracy theory, and has appeared on the Russian RT network as a legal and political analyst.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian In 2018, Lebron met with President Donald Trump at the White House and was photographed. He also regularly hosted Jerome Corsi, a supporter of the birther movement and promoter of QAnon.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

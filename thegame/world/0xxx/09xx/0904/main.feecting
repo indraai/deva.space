@@ -85,3 +85,24 @@ talk:#adv world:thegame 0900/training:card
 talk:#pastebin view scNXFWRP
 ::end:pastebin
 ::END:PASTEBIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Project Mayhem was a total distraction because nobody ever followed the instruction. They were written to hide something.
+::END:TRG1
+====
+::BEGIN:TRG2
+talk:#corpus chat:brian They told you Project Mayhem was suppose to leak corporate, government, and illegal deeds? But it was really so Tyler could collect all your data and steal your money.
+::END:TRG2
+====
+::BEGIN:TRG3
+talk:#corpus chat:brian In the background The Covenant took control and corrupted the original Tyler project and took control to build a system of mayhem.
+::END:TRG3
+====
+::BEGIN:TRG4
+talk:#corpus chat:brian However the average everday Joe on the internet was unaware of The Covenant operations in the background and what their true intentions were.
+::END:TRG4
+====
+::BEGIN:TRG5
+talk:#corpus chat:brian The Average Joe is preoccupied with the narratives that The Covenant delivers to you through movies, books, and various media.
+::END:TRG5
+====

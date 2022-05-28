@@ -8,11 +8,96 @@ img:thegame/world/0980/splash
 ## Kunstkamera
 title:Kunstkamera
 
+look[Photo 001]:001
+look[Photo 002]:002
+look[Photo 003]:003
+look[Photo 004]:004
+look[Photo 005]:005
+look[Photo 006]:006
+look[Photo 007]:007
+look[Photo 008]:008
+
 talk:#wiki summary Kunstkamera
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 #bg = thegame/world/0980/background
-coordinates:09[-707|-264]
+coordinates:09[-707|-222]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:001
+img:thegame/world/0980/001
+link[Google Maps]:https://goo.gl/maps/Zpiw6QSBsbGHbRJk7
+::END:001
+
+::BEGIN:002
+img:thegame/world/0980/002
+link[Google Maps]:https://goo.gl/maps/mDPr6SCu4LSmiVs28
+::END:002
+
+::BEGIN:003
+img:thegame/world/0980/003
+link[Google Maps]:https://goo.gl/maps/bV2DXyk3khPq2jb98
+::END:003
+
+::BEGIN:004
+img:thegame/world/0980/004
+link[Google Maps]:https://goo.gl/maps/Q3v2HTG8GTAnWTZVA
+::END:004
+
+::BEGIN:005
+img:thegame/world/0980/005
+link[Google Maps]:https://goo.gl/maps/Qpwwodge4DRfYmkd8
+::END:005
+
+::BEGIN:006
+img:thegame/world/0980/006
+link[Google Maps]:https://goo.gl/maps/NU63DsCR3M2NtWfX7
+
+img:thegame/world/0980/006-1
+link[Google Maps]:https://goo.gl/maps/NQL47HHP8hWMS9aV6
+::END:006
+
+::BEGIN:007
+img:thegame/world/0980/007
+link[Google Maps]:https://goo.gl/maps/AnHVQsd3FNZXxNh7A
+
+img:thegame/world/0980/007-2
+link[Google Maps]:https://goo.gl/maps/uSWRrivgF8Hh7e6d7
+::END:007
+
+::BEGIN:008
+img:thegame/world/0980/008
+link[Google Maps]:https://goo.gl/maps/9zQM4ZdbaSZ337RV8
+::END:008
+
+::BEGIN:009
+img:thegame/world/0980/009
+link[Google Maps]:https://goo.gl/maps/9zQM4ZdbaSZ337RV8
+::END:009
+
+::BEGIN:010
+img:thegame/world/0980/010
+link[Google Maps]:https://goo.gl/maps/u3PEZuoW9NZcYi3r7
+::END:010
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The Kunstkamera is the Peter the Great Museum of Antrhopology and Ethnogrphay in Saint Petersberg Russia.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The Museum houses a vast collection of relics from civilizations around the world that Peter the Great had collected.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The most amazing artifact though has been the identification of the ancient Rigveda shell called the Panchajanya.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Going through this museum you'll find many rare and odd items like skeletons which look inhuman an tons of Buddhist/Vedic artifacts.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian The Russians have no idea what is sitting inside their museum. If they did the entire world would be a different place.
+::END:TRG5

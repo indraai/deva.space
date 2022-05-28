@@ -1,12 +1,32 @@
 ::BEGIN:LOOK
-p:You can see The Underground 803 from here.
+p:You can see Cult of the Dead Cow from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## The Underground 803
+## Cult of the Dead Cow
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 coordinates:08[-473|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Cult of the Dead Cow is a computer hacker and DIY media organization founded in 1984 in Lubbock, Texas.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The cDc is credited with coining the term 31337 as an alternative spelling of Elite.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian In August 1998, they presented their popular Back Orifice tool at DEF CON 6.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

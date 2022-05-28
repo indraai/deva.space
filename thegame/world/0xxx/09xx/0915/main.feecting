@@ -3,16 +3,16 @@ p:You can see Training Room 915 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-talk:#adv world:thegame 0900/training:card
 
 img:thegame/world/0915/title
 
-## Summary
+## FBI
+### Summary
 ::begin:summary
 talk:#adv world:thegame 0915/training:summary
 ::end:summary
 
-## Training
+### Training
 ::begin:training
 talk:#adv world:thegame 0915/training:main
 ::end:training
@@ -20,6 +20,26 @@ talk:#adv world:thegame 0915/training:main
 #bgcolor = #ffffff
 #color = #333333
 #bg = thegame/world/0915/background
-
 coordinates:09[-545.5|-383]
+talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:tyler After Trenton drew the contract Quinn would deliver it to the Portland FBI field office on November 30, 2015.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:tyler Quinn would leave the original drawing of The Contract with the FBI Agents at the Portland Office.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:tyler Later that day Trenton would tell Quinn they got a phone call about him going to the FBI, and laughed at him for it.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:tyler Later Quinn would then begin his own investigation into the matter, and from there this weird life of his began.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:tyler The FBI however never came back around to do any interviews, or follow up on the situation involving The Contract of The Covenant.
+::END:TRG5

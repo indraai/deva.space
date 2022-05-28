@@ -5,7 +5,6 @@ p:You can see The Well from here.
 ::BEGIN:MAIN
 img:thegame/world/0947/splash
 
-
 ## The Well
 
 title: The Well
@@ -14,7 +13,6 @@ vector: 0x0947r
 link[Archive - The Well]:https://bit.ly/3LVPEwW
 
 img:thegame/world/0947/title
-
 
 p:The WELL was an online gathering place like no other -- remarkably uninhibited, intelligent, and iconoclastic. For an action-packed fifteen years, it's been a literate watering hole for thinkers from all walks of life, be they artists, journalists, programmers, educators or activists. These WELL members return to The WELL, often daily, to engage in discussion, swap information, express their convictions and greet their friends in online forums known as WELL Conferences.
 
@@ -29,3 +27,23 @@ p:The WELL is a place made of words, an extraordinary word palace with thousands
 coordinates:09[-626|-706]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The WELL was an online gathering place like no other - remarkably uninhibited, intelligent, and iconoclastic.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian For fifteen years it's was a literate watering hole for artists, journalists, programmers, educators or activists.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The WELL is a cluster of electronic villages on the Internet, inhabited by people from from all over the world.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

@@ -10,3 +10,23 @@ p:You can see The Underground 805 from here.
 coordinates:08[-553|-472]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Legion of Doom was most active from 1984–1991 and at the time was considered to be the most capable hacking group in the world.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Today, Legion of Doom ranks as one of the more influential hacking groups in the history of technology.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian There was a second hacking group at the time, called MOD, short for the Masters of Deception.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

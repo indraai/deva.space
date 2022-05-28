@@ -40,3 +40,23 @@ p:Mr. Epstein is also an active member of the Edge Organization.
 coordinates:09[-747|-545]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Holy smacks you made it to the Russian Orthodox Church who is the main force organizing the hiding of Quinn Michaels.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian These old dirty guys love to wear the Romanov family jewels around pretending to be a real Romanov.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian What else can we say about them? How long have they been wearing hats that look like bedazzled testicles?
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

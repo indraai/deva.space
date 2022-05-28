@@ -40,3 +40,23 @@ talk:#wiki summary Vasudeva
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-425|-625]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian EVIL Mud is a multi-user dungeon in a social setting for dark humor, freedom of expression, and commentary.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian No, it's not a game, it's more like a virtual bar. But more than that you can explore more than 2000 rooms that have been built on the mud.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The wizards on EVIL Mud are XIBO VASUDEVA and TARRANT. XIBO owns the mud and maintains it, while VASUDEVA is the author of the source code.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

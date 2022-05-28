@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:thegame/agent/0981/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0981/avatar
+## Kalmykia Museum
+name: Kalmykia Museum
+vector: 0x0981a
+describe: The Kalmykia Museum of Buddhist Artifacts.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK

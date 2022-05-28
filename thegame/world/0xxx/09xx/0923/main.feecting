@@ -24,3 +24,23 @@ p[speak:Matthew]:In October 2010, the Wall Street Journal discovered that a numb
 coordinates:09[-263.5|-505]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:harry LOLapps was a developer and publisher of social games on the Facebook platform.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:harry LOLapps was best known for creating Ravenwood Fair with John Romero which had 25 million players worldwide.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:harry Game designer Brenda Romero joined LOLapps in May 2010. She brought on John Romero to work on LOLapps' new title Ravenwood Fair, which launched in October 2010.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:harry At one time LOLApps was competing in market share with other games like Farmville and others.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:harry After the data scandal LOLApps was sold off to a South Korean company and dismantled by 2012.
+::END:TRG5

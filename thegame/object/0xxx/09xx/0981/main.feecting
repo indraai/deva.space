@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:thegame/object/0981/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Kalmykia Training
+name: Kalmykia Training
+vector: 0x0981o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Welcome to Buddhist Russia
+::END:TEXT

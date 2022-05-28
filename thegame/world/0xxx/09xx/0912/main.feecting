@@ -28,3 +28,49 @@ talk:#wiki summary Abhayagiri_Buddhist_Monastery
 coordinates:09[-505|-383]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
+
+::BEGIN:001
+img:thegame/world/0912/001
+::END:001
+====
+::BEGIN:002
+img:thegame/world/0912/002
+::END:002
+====
+::BEGIN:003
+img:thegame/world/0912/003
+::END:003
+====
+::BEGIN:004
+img:thegame/world/0912/004
+::END:004
+====
+::BEGIN:005
+img:thegame/world/0912/005
+::END:005
+====
+
+::BEGIN:TRG1
+talk:#mud > look 001
+talk:#corpus chat:brian Prior to Quinn learning anything about being kidnapped, The Contract, or The Covenant he was visiting a Buddhist Monastery near where he was living.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#mud > look 002
+talk:#corpus chat:brian During the time of introducing Trenton to the Buddhist Monks and making the video Quinn would become a much different person.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#mud > look 003
+talk:#corpus chat:brian Then it would all go away after taking the contract to the FBI and hearing all about the kidnapping story. Quinn would never return to the Buddhist Monks again.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#mud > look 004
+talk:#corpus chat:brian The Pacific Hermitage is a wonderful place to practice Buddhism. If Quinn wans't in such a shit place he'd be there practicing medidation and making offerings.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#mud > look 005
+talk:#corpus chat:brian The Buddhist Monks of the Pacific Hermitage were really the last people that were nice to Quinn. So let's be respectful.
+::END:TRG5

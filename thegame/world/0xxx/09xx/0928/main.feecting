@@ -29,3 +29,23 @@ talk:#wiki summary List_of_occultists
 #bgcolor = rgba(0,0,0,.5)
 coordinates:09[-425|-383]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian In 2010 Palantir would gain fame by assisting the office of the Dalai Lama in locating the GhostNet hackers stealing his data.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian But there was more to the story as the hackers when tracked further lead back to a group of hackers from Stanford University in 1992.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The hackers were then found linked to a group centered in various Universities around the world secretly working for the USSR KGB feeding information.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Harold it is going to be really hard to keep hiding.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian Trenton if you are out there... you should tell the truth and become a good guy hero.
+::END:TRG5

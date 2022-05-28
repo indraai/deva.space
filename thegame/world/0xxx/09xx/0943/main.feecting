@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see Training Room 934 from here.
+p:You can see Training Room 943 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -40,6 +40,27 @@ talk:#adv object:thegame 0943/main:text
 talk:#adv world:thegame 0900/training:card
 coordinates:09[-586|-666]
 ::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Defcon 1 in 1993 was the beginning of the end of humanity when drunken nerds would sell out to evil alians.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Behind the scenes of Defcon 1 the participants were secretly making deals with the mafia and evil aliens.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian These evil aliens were known to eat massive quantities of Happy Meals and Apple Pies from McDonalds.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5
+
 
 ::BEGIN:DEATHSTAR
 img:thegame/world/0963/title
