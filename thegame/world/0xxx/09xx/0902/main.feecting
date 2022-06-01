@@ -46,8 +46,8 @@ img:thegame/world/0902/004
 ::END:004
 
 ::BEGIN:TRG1
-talk:#corpus chat:brian This is the point in Quinn's life where he felt like notifiying people about the S.V.V. Anonymous Cicada3301 operations would be the right thing to do.
 talk:#mud > look 001
+talk:#corpus chat:brian This is the point in Quinn's life where he felt like notifiying people about the S.V.V. Anonymous Cicada3301 operations would be the right thing to do.
 ::END:TRG1
 ====
 ::BEGIN:TRG2

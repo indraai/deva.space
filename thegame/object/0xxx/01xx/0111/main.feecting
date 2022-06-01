@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[🍎]:look apple
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0111/avatar
+##
+name:
+vector: 0x0111o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+🍎 Apple
+::END:TEXT

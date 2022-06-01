@@ -43,11 +43,11 @@ img:thegame/world/0972/003
 ====
 
 ::BEGIN:TRG1
-talk:#corpus chat:brian Holy smacks you made it to the Russian Orthodox Church who is the main force organizing the hiding of Quinn Michaels.
+talk:#corpus chat:brian Duchess Maria is the current recognized head of the Romanov House.
 ::END:TRG1
 
 ::BEGIN:TRG2
-talk:#corpus chat:brian These old dirty guys love to wear the Romanov family jewels around pretending to be a real Romanov.
+talk:#corpus chat:brian Maria and her son Michael work very hard to convince the world they are the rightful heads of the Romanov Family.
 ::END:TRG2
 
 ::BEGIN:TRG3

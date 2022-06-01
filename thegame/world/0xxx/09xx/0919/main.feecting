@@ -119,7 +119,6 @@ p[speak:Amy]:Upload. Upload your file. Make sure you retain ownership wherever y
 
 p[speak:Amy]:Promote. Share your act of survivance through your networks and _#survivance.
 
-
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
 #bg = thegame/world/0919/background

@@ -5,6 +5,7 @@ p:You can see Pepe Kek from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0985/splash
 
 ## Pepe Kek
 
@@ -13,7 +14,7 @@ title: Pepe Kek
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-586|-343]
+coordinates:09[-626|-343]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

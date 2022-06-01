@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[⛲️]:look fountain
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0005/avatar
+## Mixed Nuts
+name: Mixed Nuts
+vector: 0x0005o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+
+::END:TEXT

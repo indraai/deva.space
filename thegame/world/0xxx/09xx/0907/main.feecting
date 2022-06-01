@@ -16,23 +16,23 @@ talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1
-talk:#corpus chat:brian Have you figured out the truth to The Trenton Story about Quinn Michaels being a kidnapped Romanov held hostage by The Covenant?
+talk:#corpus chat:brian Have you figured out the truth to The Trenton Story about the kidnapping of Quinn Michaels?
 ::END:TRG1
 
 ::BEGIN:TRG2
-talk:#corpus chat:brian Have you figured out which user is Harold?
+talk:#corpus chat:brian Have you figured out how to share properly?
 ::END:TRG2
 
 ::BEGIN:TRG3
-talk:#corpus chat:brian Have you figured out which user is Neil?
+talk:#corpus chat:brian Have you figured out how to wipe your butt?
 ::END:TRG3
 
 ::BEGIN:TRG4
-talk:#corpus chat:brian Have you figur out which user is Tabitha?
+talk:#corpus chat:brian Have you figured out how to make Jalapeno Cheese Bread?
 ::END:TRG4
 
 ::BEGIN:TRG5
-talk:#corpus chat:brian Have you figured out which user is Trenton?
+talk:#corpus chat:brian Have you figured out who the Agents and Fake Family are?
 ::END:TRG5
 
 

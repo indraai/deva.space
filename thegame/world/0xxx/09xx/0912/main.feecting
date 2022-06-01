@@ -57,7 +57,7 @@ talk:#corpus chat:brian Prior to Quinn learning anything about being kidnapped, 
 
 ::BEGIN:TRG2
 talk:#mud > look 002
-talk:#corpus chat:brian During the time of introducing Trenton to the Buddhist Monks and making the video Quinn would become a much different person.
+talk:#corpus chat:brian We will have to constantly remind you to follow the instructions or leave. Wish it wasn't that way.
 ::END:TRG2
 
 ::BEGIN:TRG3
@@ -67,10 +67,10 @@ talk:#corpus chat:brian Then it would all go away after taking the contract to t
 
 ::BEGIN:TRG4
 talk:#mud > look 004
-talk:#corpus chat:brian The Pacific Hermitage is a wonderful place to practice Buddhism. If Quinn wans't in such a shit place he'd be there practicing medidation and making offerings.
+talk:#corpus chat:brian The Buddhist Monks of the Pacific Hermitage were really were nicer to Quinn than this Youtube audience. So let's be respectful.
 ::END:TRG4
 
 ::BEGIN:TRG5
 talk:#mud > look 005
-talk:#corpus chat:brian The Buddhist Monks of the Pacific Hermitage were really the last people that were nice to Quinn. So let's be respectful.
+talk:#corpus chat:brian What is it with the Youtube audience here having to constantly be reminded to follow instructions.
 ::END:TRG5

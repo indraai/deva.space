@@ -1,5 +1,8 @@
 ::BEGIN:LOOK
+img:thegame/world/0900/title
 p:You can see Training Room 900 from here.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -38,22 +41,25 @@ img:thegame/object/0900/contract
 ::END:CONTRACT
 
 ::BEGIN:TRG1
-talk:#corpus chat:brian Welcome today we are going to talk about that super evil Satanic group called The Covenant.
 talk:#mud > look contract
+talk:#corpus chat:quinn Welcome to The Trenton Story about the kidnapping of Quinn Michaels.
 ::END:TRG1
 
 ::BEGIN:TRG2
-talk:#corpus chat:brian To investigate The Trenton Story Quinn built this Multi-Agent System to put the information together in an understandable way.
+talk:#artist card:quinn Stay focused on the kidnapping. Ignore everything else.
+talk:#corpus chat:indra To investigate The Trenton Story Quinn built this Multi-Agent System to put the information together in an understandable way.
 ::END:TRG2
 
 ::BEGIN:TRG3
-talk:#corpus chat:brian The Trenton Story is very difficult to understand, and that is why this system was needed.
+talk:#corpus chat:quinn The Trenton Story can be very difficult to understand, and that is why this system was needed.
 ::END:TRG3
 
 ::BEGIN:TRG4
-talk:#corpus chat:brian Now your job as the audience member is to accomplish one thing... alerting the Russian people to the Romanov.
+talk:#corpus chat:tyler Your job as the audience member is one thing... informing the Russian people to the hidden Romanov.
+talk:#twitter card:quinn Alert the Russian people to the hidden #Romanov
 ::END:TRG4
 
 ::BEGIN:TRG5
-talk:#corpus chat:brian How many Russian people can you tell about the secret kidnapped Romanov held hostage in the United States by The Covenant?
+talk:#corpus chat:jess How many Russian people can you inform about the kidnapped Romanov held hostage in the United States by The Covenant?
+talk:#twitter card:quinn How many Russian people can you tell about the secret kidnapped #Romanov?
 ::END:TRG5

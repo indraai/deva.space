@@ -64,11 +64,11 @@ talk:#corpus chat:rahula What seems impossible to understand is not very difficu
 ====
 ::BEGIN:TRG4
 talk:#mud > look water
-talk:#corpus chat:rahula Remember if you pay close attention you can see Quinn's fake family here harassing him all the time.
+talk:#corpus chat:rahula Remember to follow the instructions or leave.
 ::END:TRG4
 ====
 ::BEGIN:TRG5
 talk:#mud > look trenton
-talk:#corpus chat:rahula Have you been paying attention to this Youtube chat? They are here all the time if you watch closely.
+talk:#corpus chat:rahula This is NOT a joke. We are NOT friends and your opinions and advice are worthless here. So that means follow the instructions or leave.
 ::END:TRG5
 ====
