@@ -5,9 +5,11 @@ img:thegame/agent/0014/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0014/avatar
-## O Indra Fighter
-name:O Indra Fighter
+## Vamraka Fighter
+name:Vamraka Fighter
 vector:0x_0014a
-describe:The O Indra Fighter is an elite class that directly ensure Vamraka protection/security.
+describe:The Vamraka Fighter is an elite class that directly ensure Vamraka protection/security.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:LOOK
 ====

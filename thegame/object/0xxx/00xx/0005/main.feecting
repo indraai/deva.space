@@ -1,5 +1,5 @@
 ::BEGIN:AVATAR
-bmud[⛲️]:look fountain
+bmud[🥜]:look nuts
 ::END:AVATAR
 
 ::BEGIN:LOOK
@@ -10,6 +10,6 @@ vector: 0x0005o
 look[Training Text]:text
 ::END:LOOK
 
-::BEGIN:TEXT
-
-::END:TEXT
+::BEGIN:NUTS
+p:🥜  Mixed Nuts
+::END:NUTS

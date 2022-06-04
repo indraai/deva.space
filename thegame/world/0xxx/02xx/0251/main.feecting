@@ -37,10 +37,9 @@ mud[UP]:u
 p:In the look[down] direction you will find the various levels of the Labyrinth and at the bottom is the World Fight Club where the storng test their skills.
 mud[DOWN]:d
 
-#bgcolor = #ffffff
-#color = #333333
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-465|-464]
 ::END:MAIN
 
 =
-0

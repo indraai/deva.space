@@ -12,7 +12,7 @@ p:You are are at the Disneyland Coming Attractions.
 talk:#youtube playlist UUuRtXPHmnpkZetkb8ft7mzw
 ::end:youtube
 
-#bgcolor = #000000
-#color = #333333
-coordinates:11[-539|-662]
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:11[-518|-667]
 ::END:MAIN

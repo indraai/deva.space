@@ -46,7 +46,6 @@ talk:#corpus chat:quinn Welcome to The Trenton Story about the kidnapping of Qui
 ::END:TRG1
 
 ::BEGIN:TRG2
-talk:#artist card:quinn Stay focused on the kidnapping. Ignore everything else.
 talk:#corpus chat:indra To investigate The Trenton Story Quinn built this Multi-Agent System to put the information together in an understandable way.
 ::END:TRG2
 
@@ -56,10 +55,8 @@ talk:#corpus chat:quinn The Trenton Story can be very difficult to understand, a
 
 ::BEGIN:TRG4
 talk:#corpus chat:tyler Your job as the audience member is one thing... informing the Russian people to the hidden Romanov.
-talk:#twitter card:quinn Alert the Russian people to the hidden #Romanov
 ::END:TRG4
 
 ::BEGIN:TRG5
 talk:#corpus chat:jess How many Russian people can you inform about the kidnapped Romanov held hostage in the United States by The Covenant?
-talk:#twitter card:quinn How many Russian people can you tell about the secret kidnapped #Romanov?
 ::END:TRG5

@@ -7,29 +7,16 @@ img:thegame/world/1100/title
 
 img:thegame/world/1100/guide
 
-# Disneyland Entrance
+img:thegame/world/1100/dir
+
+## Disneyland Entrance
+
 p:You are are at the Disneyland Entrance.
 
 talk:#wiki summary disneyland
 
-## YouTube
-::begin:youtube
-talk:#youtube search:10 Disneyland
-::end:youtube
-
-## Tweets
-::begin:twitter
-talk:#twitter timeline:10 disneyland
-::end:twitter
-
-## Reddit
-::begin:reddit
-talk:#reddit search Disneyland
-::end:reddit
-
-
-#bgcolor = #ffffff
-#color = #333333
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/1100/background
-coordinates:11[-468|-949]
+coordinates:11[-460|-941]
 ::END:MAIN

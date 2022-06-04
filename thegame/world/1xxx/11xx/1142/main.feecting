@@ -3,10 +3,14 @@ p:You can see the Magic Shop from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# The Magic Shop
+img:thegame/world/1142/title
+
+## The Magic Shop
+
 p:You are are at the Disneyland Magic Shop.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-535|-636]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/1142/background
+coordinates:11[-492|-628]
 ::END:MAIN

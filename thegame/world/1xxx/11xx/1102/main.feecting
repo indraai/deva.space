@@ -8,8 +8,8 @@ img:thegame/world/1102/title
 # Disneyland Plaza
 p:You are are at the Disneyland Plaza.
 
-#bgcolor = #ffffff
-#color = #333333
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/1102/background
-coordinates:11[-465|14]
+coordinates:11[-456|21]
 ::END:MAIN

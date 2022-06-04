@@ -1,15 +1,15 @@
 ::BEGIN:AVATAR
-bmud[🥜]:look nuts
+bmud[⛲️]:look fountain
 ::END:AVATAR
 
 ::BEGIN:LOOK
 img:thegame/object/0386/avatar
-## Mixed Nuts
-name: Mixed Nuts
+## Fountain
+name: Water Fountain
 vector: 0x0386o
 look[Training Text]:text
 ::END:LOOK
 
-::BEGIN:TEXT
-🥜
-::END:TEXT
+::BEGIN:FOUNTAIN
+p:⛲️  Pure Water Foutain
+::END:FOUNTAIN

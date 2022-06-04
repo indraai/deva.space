@@ -6,10 +6,12 @@ p:You can see 5E Main Street from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0254/title
-p:You are in indra.city/e.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-646|-472]
+
+p:You are in 5E Main Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-638|-464]
 ::END:MAIN
 
 =

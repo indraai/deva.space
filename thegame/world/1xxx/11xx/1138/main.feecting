@@ -5,11 +5,12 @@ p:You can see the The Walt Disney Story from here.
 ::BEGIN:MAIN
 img:thegame/world/1138/title
 
-# The Walt Disney Story
+## The Walt Disney Story
+
 p:You are are at the Walt Disney Story.
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 #bg = thegame/world/1138/background
-coordinates:11[-651|-788]
+coordinates:11[-626|-788]
 ::END:MAIN

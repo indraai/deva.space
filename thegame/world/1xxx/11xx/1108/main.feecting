@@ -6,8 +6,7 @@ p:You can see the Disneyland Main Street (E) from here.
 # Disneyland Main Street (E)
 p:You are are at the Disneyland Main Street (E).
 
-img:thegame/world/1100/mainst
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-480|-602]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-472|-594]
 ::END:MAIN

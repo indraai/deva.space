@@ -5,8 +5,9 @@ You can see the Bank of Arjika from here.
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0224/title
-Welcome to the indra.money Bank. This bank is well known in the Underworld.
+## Bank of Arjika
+
+Welcome to the Bank of Arjika. This bank is well known in the Underworld for doing good honest business. They also from time to time help authorities with financial investigations.
 
 ## Gold
 bmud[🪙 Gold]:gold
@@ -24,9 +25,9 @@ bmud[💰 25]:deposit 25
 bmud[💰 50]:deposit 50
 bmud[💰 100]:deposit 100
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-542|-334]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-534|-326]
 ::END:MAIN
 
 =

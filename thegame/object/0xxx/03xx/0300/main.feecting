@@ -1,12 +1,15 @@
 ::BEGIN:AVATAR
-img:thegame/object/0300/avatar
+bmud[💸]:look atm
 ::END:AVATAR
 
 ::BEGIN:LOOK
-There is a small note on the machine which says: To use, type 'BALANCE', 'WITHDRAW ', or 'DEPOSIT '. Please report any strange occurrences to the indra.money manager.
+p:There is a small note on the machine which says: To use, type 'BALANCE', 'WITHDRAW ', or 'DEPOSIT '. Please report any strange occurrences to the indra.money manager.
+p:You can see the bank of Arjika ATM.
+::END:LOOK
 
-## Indra.money Machine
-p:Basic instruction for using the Indra.money Machine to check your balance and deposit/withdraw coins.
+::BEGIN:ATM
+## Bank of Arjika
+p:Basic instruction for using the Bank of Arjika ATM to check your balance and deposit/withdraw coins.
 
 bmud[Balance]:balance
 
@@ -14,5 +17,9 @@ bmud[Balance]:balance
 - #mud > withdraw <amount>
 - #mud > deposit <amount>
 
-p:Please report any strange occurrences to the Indra.money manager.
-::END:LOOK
+note:Please report any strange occurrences to the Indra.money manager.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:ATM
+====

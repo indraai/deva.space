@@ -10,8 +10,8 @@ img:thegame/world/1140/title
 p:You are are at the Disneyland Town Square Cafe.
 
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 #bg = thegame/world/1140/background
-coordinates:11[-589|-656]
+coordinates:11[-575|-666]
 ::END:MAIN

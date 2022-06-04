@@ -9,8 +9,8 @@ img:thegame/world/1224/title
 
 p:You are are at the Cafe' Orleans.
 
-#bgcolor = #ffffff
-#color = #333333
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/1224/background
 coordinates:12[-632|-408]
 ::END:MAIN

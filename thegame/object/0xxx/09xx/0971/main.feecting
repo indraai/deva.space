@@ -1,9 +1,8 @@
 ::BEGIN:AVATAR
-img:thegame/object/0971/avatar
+bmud[📝]:look text
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0971/avatar
 ## The Romanov Training
 name: The Romanov Training
 vector: 0x0971o

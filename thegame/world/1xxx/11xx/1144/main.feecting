@@ -5,11 +5,13 @@ p:You can see the Main Street Cinema from here.
 ::BEGIN:MAIN
 img:thegame/world/1144/title
 
+youtube:BBgghnQF6E4
+
 # Main Street Cinema
 p:You are are at the Disneyland Main Street Cinema.
 
 #bgcolor = #000000
 #color = #cb9d2d
 #bg = thegame/world/1144/background
-coordinates:11[-551|-572]
+coordinates:11[-492|-566]
 ::END:MAIN

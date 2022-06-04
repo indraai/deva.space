@@ -9,7 +9,7 @@ img:thegame/world/1139/title
 p:You are are at the Mad Hatter Shop.
 
 #bg = thegame/world/1139/background
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-651|-721]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:11[-626|-706]
 ::END:MAIN

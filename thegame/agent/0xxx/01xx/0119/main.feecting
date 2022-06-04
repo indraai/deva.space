@@ -5,7 +5,9 @@ img:thegame/agent/0119/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0119/avatar
-p:Varry manages the money varry good.
+## Mr. Dewity
+describe: Fever is desguised as Mr. Dewity in the Bank of Arjika.
+p:Virtual Mr. Dewity manages the Bank of Arjika varry good.
 ::END:LOOK
 
 ====

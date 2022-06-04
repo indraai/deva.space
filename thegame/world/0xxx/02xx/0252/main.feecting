@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.city east.
+p:You can see 1E Main Street.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0252/title
-p:You are in indra.city/e.
+p:You are in 1E Main Street
 #color = #333333
 #bgcolor = #eeeeee
-coordinates:00[-507|-472]
+coordinates:00[-500|-464]
 ::END:MAIN
 
 =

@@ -1,13 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.city/ne from here.
+p:You can see 5N2E Main Street from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0213/title
-p:You are in indra.city/ne.
-coordinates:00[-646|-299]
-#bgcolor = #ffffff
-#color = #333333
+
+p:You are in 5N2E Main Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-638|-291]
 ::END:MAIN
