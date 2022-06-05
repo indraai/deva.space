@@ -1,14 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the Disneyland Main Street (W) from here.
+p:You can see the Main Street (W) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Disneyland Main Street (W)
-p:You are are at the Disneyland Main Street (W).
+## Main Street (W)
 
-img:thegame/world/1100/dir
+p:You are are at the Main Street (W).
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-450|-77]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-442|-77]
 ::END:MAIN

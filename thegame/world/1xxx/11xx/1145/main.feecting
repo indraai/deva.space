@@ -3,11 +3,11 @@ p:You can see the Disneyland Main Street (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Rings n' Things
+## Rings n' Things
 
 p:You are are at Rings n' Things.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-511|-545]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-492|-537]
 ::END:MAIN

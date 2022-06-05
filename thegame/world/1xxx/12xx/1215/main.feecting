@@ -5,14 +5,14 @@ p:You can see the New Orleans Square from here.
 ::BEGIN:MAIN
 img:thegame/world/1215/title
 
-# New Orleans Square
+## New Orleans Square
 
 p:You are are at the New Orleans Square.
 
 img:thegame/world/1215/guide
 
-#bgcolor = #ffffff
-#color = #333333
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/1215/background
 coordinates:12[-497|-381]
 ::END:MAIN

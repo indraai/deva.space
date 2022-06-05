@@ -3,12 +3,11 @@ p:You can see the East Plaza from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# East Plaza
+## East Plaza
+
 p:You are are at the East Plaza.
 
-img:thegame/world/1100/dir
-
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-582|-156]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-591|-156]
 ::END:MAIN
