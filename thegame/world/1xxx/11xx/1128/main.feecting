@@ -3,7 +3,8 @@ p:You can see the Main Street (W) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Main Street (W)
+## Main Street (W)
+
 p:You are are at the Main Street (W).
 
 #color = var(--color-black)

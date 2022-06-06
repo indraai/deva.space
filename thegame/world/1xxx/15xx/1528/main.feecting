@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Casey Jr. Circus Train from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Casey Jr. Circus Train
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-286|-67]
+::END:MAIN

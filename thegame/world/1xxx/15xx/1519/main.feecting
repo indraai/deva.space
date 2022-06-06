@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Souvenir Stand from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Souvenir Stand
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-281|-394]
+::END:MAIN

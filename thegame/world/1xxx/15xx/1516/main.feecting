@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Arts and Crafts from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Arts and Crafts
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-384|-753]
+::END:MAIN

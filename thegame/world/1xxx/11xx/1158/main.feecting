@@ -3,10 +3,23 @@ p:You can see the Baby Station from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Baby Station
-p:You are are at the Baby Station.
+img:thegame/world/1158/title
 
-#bgcolor = #ffffff
-#color = #333333
+# Baby Station
+p:You have finally made it to the Baby Station. Where wonderful imaginary Quinn babies are made.
+
+p:This is the room where girls come to imagine themselves having babies with Quinn in a safe environment with access to medical services incase they feint.
+
+p:Sometimes women like to come to Disneyland just to imagine having  babies with Quinn because he won't have babies with them in real life.
+
+p:In this room a Support Group environment is provided with soft plushy couches where the girls can talk about their imaginary babies they are having with Quinn in the Baby Station.
+
+p:Be careful the girls here tend to be on the crazy side of life, and well if you tell them your imaginary baby is better then theirs they might start a fight.
+
+p:When that happens Security will be there.
+
+#color = var(--color-purple)
+#bgcolor = var(--color-light-pink)
+
 coordinates:11[-582|-193]
 ::END:MAIN

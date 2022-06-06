@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Castle Candy Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Castle Candy Shop
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-425|-753]
+::END:MAIN

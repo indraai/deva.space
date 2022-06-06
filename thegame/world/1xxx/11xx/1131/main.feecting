@@ -11,5 +11,5 @@ img:thegame/world/1100/dir
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:11[-446|-379]
+coordinates:11[-442|-379]
 ::END:MAIN

@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Peter Pan Flight from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Peter Pan Flight
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-492|-623]
+::END:MAIN

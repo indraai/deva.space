@@ -23,7 +23,7 @@ mud[Read Security Board]:read security
 
 #bg = thegame/world/0096/background
 #bgcolor = #000000
-coordinates:00[-472.5|47]
+coordinates:00[-465|55]
 ::END:MAIN
 
 =

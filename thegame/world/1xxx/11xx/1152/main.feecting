@@ -3,10 +3,11 @@ p:You can see the China Shop from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# China Shop
+## China Shop
+
 p:You are are at the China Shop.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-525|-230]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-488|-222]
 ::END:MAIN

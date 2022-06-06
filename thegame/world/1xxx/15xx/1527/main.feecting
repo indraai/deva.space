@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Dumbo Flying Elephants from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Dumbo Flying Elephants
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-280|-288]
+::END:MAIN

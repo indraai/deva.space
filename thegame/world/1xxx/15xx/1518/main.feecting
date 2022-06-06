@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Glassblower from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Glassblower
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-385|-717]
+::END:MAIN

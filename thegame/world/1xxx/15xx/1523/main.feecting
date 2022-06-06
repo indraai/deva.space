@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Matterhorn Bobsleds from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Matterhorn Bobsleds
+
+p:You have made it to Matterhorn Bobsleds.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+
+coordinates:15[-771|-498]
+::END:MAIN

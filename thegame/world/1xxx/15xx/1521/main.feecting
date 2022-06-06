@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Alice in Wonderland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Alice in Wonderland
+
+p:You have made it to Alice in Wonderland.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+
+coordinates:15[-659|-407]
+::END:MAIN

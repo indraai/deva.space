@@ -3,12 +3,12 @@ p:You can see the Information Center from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Information Center
+## Information Center
 p:You are are at the Information Center.
 
 img:thegame/world/1100/dir
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-535|-178]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-505|-153]
 ::END:MAIN

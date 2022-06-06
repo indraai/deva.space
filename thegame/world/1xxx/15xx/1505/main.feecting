@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see King Arthur's Carousel from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## King Arthur's Carousel
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-408|-600]
+::END:MAIN

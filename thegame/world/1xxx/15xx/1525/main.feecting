@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Storybook Lane Canal Boats from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Storybook Lane Canal Boats
+
+p:You have made it to Storybook Lane Canal Boats.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-516|-168]
+::END:MAIN

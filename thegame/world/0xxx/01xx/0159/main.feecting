@@ -9,9 +9,9 @@ img:thegame/world/0159/title
 
 p:You are in indra.city/n.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-472.5|-57.5]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-465|-49]
 ::END:MAIN
 
 =

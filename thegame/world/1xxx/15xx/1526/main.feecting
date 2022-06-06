@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Motor Boat Cruise from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Motor Boat Cruise
+
+p:You have made it to Motor Boat Cruise.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-682|-144]
+::END:MAIN

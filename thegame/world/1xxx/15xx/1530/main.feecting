@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see It's a Small World from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## It's a Small World
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-666|54]
+::END:MAIN

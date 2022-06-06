@@ -9,5 +9,6 @@ p:You are are at the Main Street (E).
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
+
 coordinates:11[-472|-222]
 ::END:MAIN

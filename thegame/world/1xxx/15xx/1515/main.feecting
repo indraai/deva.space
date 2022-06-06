@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Mr. Toad's Wild Ride from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Mr. Toad's Wild Ride
+
+p:You have made it to Mr. Toad's wild Ride.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+
+coordinates:15[-522|-410]
+::END:MAIN

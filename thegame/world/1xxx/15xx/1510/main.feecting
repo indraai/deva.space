@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Mad Tea Party from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Mad Tea Party
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-403|-397]
+::END:MAIN

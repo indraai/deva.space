@@ -5,5 +5,7 @@ p:You can see Fantasyland from here.
 ::BEGIN:MAIN
 ## Fantasyland
 
-coordinates:15[-364|-825]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-406|-845]
 ::END:MAIN

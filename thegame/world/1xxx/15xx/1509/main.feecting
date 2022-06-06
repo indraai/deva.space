@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Merlin's Magic Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Merlin's Magic Shop
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-522|-679]
+::END:MAIN

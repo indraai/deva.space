@@ -7,7 +7,7 @@ p:You can see the Main Street (E) from here.
 
 p:You are are at the Main Street (E).
 
-#bgcolor = var(--color-white)
 #color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:11[-581|-788]
 ::END:MAIN

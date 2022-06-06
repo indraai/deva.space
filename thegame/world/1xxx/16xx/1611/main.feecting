@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see Tomorrowland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+## Tomorrowland
+
+#bgcolor = #73b9c5
+#color = #ffffff
+coordinates:16[-641|-416]
+::END:MAIN

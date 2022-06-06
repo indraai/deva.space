@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Fantasyland Theatre from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Fantasyland Theatre
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-310|-414]
+::END:MAIN

@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Captain Hook's Galley from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Captain Hook's Galley
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-402|-189]
+::END:MAIN

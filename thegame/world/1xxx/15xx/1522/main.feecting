@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Character Food Stands from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Character Food Stands
+
+p:You have made it to Character Food Stands.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-564|-325]
+::END:MAIN

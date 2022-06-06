@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Fantasyland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Fantasyland
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-282|-529]
+::END:MAIN

@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Small World Stand from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Small World Stand
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-647|-70]
+::END:MAIN

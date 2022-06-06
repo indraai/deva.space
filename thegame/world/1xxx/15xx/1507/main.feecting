@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Sleeping Beauty Castle from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Sleeping Beauty Castle
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-333|-720]
+::END:MAIN

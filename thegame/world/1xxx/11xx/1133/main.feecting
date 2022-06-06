@@ -7,8 +7,6 @@ p:You can see the Disneyland Main Street (W) from here.
 
 p:You are are at the Disneyland Main Street (W).
 
-img:thegame/world/1100/dir
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:11[-442|-449]

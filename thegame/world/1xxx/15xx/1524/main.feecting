@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Fantasyland Autopia from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Fantasyland Autopia
+
+p:You have made it to Fantasyland Autopia.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-785|-248]
+::END:MAIN
