@@ -3,8 +3,17 @@ p:You can see the Inner Lookout (SW) Tower.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:Through the clouds one catch a glimpse of the shimmering firmament.  A good omen. To the west one can see the Hall of Clerics.  To the south the Tower of the High Council of Clerics glows pristinely white.  The town seems peaceful and untroubled by the turmoils outside the walls.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-300|-644]
+img:thegame/world/0096/title
+
+## Security Lookout (NE)
+
+p:look[west] is the Inner-NorthWest Lookout
+p:look[south] is the Inner-East Lookout
+
+There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+#bg = thegame/world/0096/background
+#bgcolor = var(--color-black)
+coordinates:00[-292|-637]
 ::END:MAIN

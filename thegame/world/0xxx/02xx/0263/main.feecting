@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.city/sw.
+p:You can see 2S5W Main Street.
 ::END:LOOK
-
-=
 
 ::BEGIN:MAIN
 img:thegame/world/0263/title
-p:You are in indra.city/sw.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-300|-541]
-::END:MAIN
 
-=
+## 2S5W Main Street
+
+p:You are in 2S5W Main Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-292|-533]
+::END:MAIN

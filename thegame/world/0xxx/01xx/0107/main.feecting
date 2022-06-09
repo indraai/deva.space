@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-p:You can see indra.agency/war from here.
+p:You can see the War Room from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-p:You are in indra.agency/war.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-508|-380]
+img:thegame/world/0096/title
+
+## Security Operations
+
+p:You have arrived in the Security Operations Room
+
+#bg = thegame/world/0096/background
+#bgcolor = var(--color-black)
+coordinates:00[-500|-360]
+
 ::END:MAIN

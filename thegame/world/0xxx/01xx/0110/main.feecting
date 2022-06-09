@@ -1,13 +1,17 @@
 ::BEGIN:LOOK
-p:You can see indra.agency/strategy
+p:You can see the Security Breakroom
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-p:You are in indra.agency/strategy
-#bgcolor = #ffffff
-#color = #333333
+img:thegame/world/0096/title
+
+## Security Breakroom
+
+#bg = thegame/world/0096/background
+#bgcolor = var(--color-black)
+coordinates:00[-500|-360]
 ::END:MAIN
 
 =

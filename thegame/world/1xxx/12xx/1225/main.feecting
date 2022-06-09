@@ -5,12 +5,13 @@ p:You can see the The Blue Bayou Restaurant from here.
 ::BEGIN:MAIN
 img:thegame/world/1225/title
 
+## Water Store
+
 # The Blue Bayou Restaurant
 
 p:You are are at the The Blue Bayou Restaurant.
 
-#bgcolor = #ffffff
-#color = #333333
-#bg = thegame/world/1225/background
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:12[-458|-629]
 ::END:MAIN

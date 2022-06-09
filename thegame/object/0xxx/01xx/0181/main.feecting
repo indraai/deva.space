@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[🥕]:look veggies
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0181/avatar
+## Veggies
+name:
+vector: 0x0181o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:VEGGIES
+p:🥕 Veggies
+::END:VEGGIES

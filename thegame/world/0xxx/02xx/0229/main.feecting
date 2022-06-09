@@ -1,13 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.farm/coop from here.
+p:You can see the Farm Coop from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0229/title
 
+## Farm Coop
+
 p:The Farm Coop where you can get eggs and feed some chickens.
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-859|-334]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-326]
 ::END:MAIN

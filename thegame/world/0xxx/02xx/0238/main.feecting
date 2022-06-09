@@ -2,14 +2,14 @@
 p:You can see the indra.store/fashion from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
 img:thegame/world/0238/title
-p:You are in indra.store/fashion
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-611|-403]
-::END:MAIN
 
-=
+## Fashion Store
+
+p:You are in indra.store/fashion
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-603.5|-395]
+::END:MAIN

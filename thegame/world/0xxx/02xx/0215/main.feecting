@@ -5,10 +5,12 @@ p:You can see indra.farm/vine from here.
 ::BEGIN:MAIN
 img:thegame/world/0215/title
 
-talk:#vedas view 01009
+## Farm Berries
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-824|-299.5]
+p:This is where you get all your farm berries.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-291]
 
 ::END:MAIN

@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.care/se from here.
+p:You can see Medical (SE) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0361/title
-p:You are in indr.care/se.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-784|-818]
+
+## Medical (SE)
+
+p:You are in Medical (SE).
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-776|-810]
 ::END:MAIN

@@ -1,0 +1,34 @@
+::BEGIN:LOOK
+p:You can see the The Edge from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Edge
+
+p:The Edge group room.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-747|-545]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Edge.org is a group of intellectuals and billionaires that would gather to share the various ideas and stolen technology they had acquired.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Attendendees of the Edge.org group include Sergei Brinn, Jeff Bezos, Daniel Dennett, Stephen Pinker, Sean Parker, and Bill Gates.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Once a year the Edge.org group would host an event called the Billionaires dinner where Tech modules would gather for a night of food and festivities.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian At these billionaire dinners you were likely to see some of the top minds in the world. With executives from Google, Twitter, Amazon, and Dreamworks attending.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

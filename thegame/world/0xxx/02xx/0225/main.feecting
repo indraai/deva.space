@@ -4,8 +4,12 @@ p:You can see indra.store/water from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0225/title
+
+## Water Store
+
 p:You are in indra.store/water.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-611|-368.5]
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-603.5|-360.5]
 ::END:MAIN

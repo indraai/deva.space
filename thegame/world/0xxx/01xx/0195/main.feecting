@@ -1,13 +1,15 @@
 ::BEGIN:LOOK
-You can see Marines CYBER2 from here.
+p:You can see Marines Farm Fruits from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0195/title
 
+## Farm Fruits
+
 p:This is where you get your farm fruits.
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-824|-231]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-223]
 ::END:MAIN

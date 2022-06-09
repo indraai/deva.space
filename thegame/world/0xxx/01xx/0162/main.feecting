@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-p:You can see indra.life/e from here.
+p:You can see 3E Easy Street from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.life/e.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-576|-57.5]
+## 3E Easy Street
+
+p:You are in 3E Easy Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-568|-49.5]
 ::END:MAIN

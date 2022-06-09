@@ -1,14 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.farm/veggie from here.
+p:You can see Farm Veggies from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0181/title
 
+## Farm Veggies
+
 p:Here you get your veggies.
---
 
 #bgcolor = #eeeeee
 #color = #333333
-coordinates:00[-859|-195.5]
+coordinates:00[-851|-188]
 ::END:MAIN

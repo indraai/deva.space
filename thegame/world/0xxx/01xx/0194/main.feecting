@@ -1,15 +1,19 @@
 ::BEGIN:LOOK
-You can see indra.city/ne Way from here.
+p:You can see 9N9E Outer Loop Way from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0194/title
-You indra.city/ne
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-784|-161]
+
+## 9N9E Outer Loop
+
+You 9N9E Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-776|-153]
 ::END:MAIN
 
 =

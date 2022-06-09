@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see indra.farm/tools from here.
+p:You can see The Shed from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -9,7 +9,7 @@ img:thegame/world/0166/title
 
 p:Welcome to the shed where you can get the tools you need to do some farming.
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-859|-161]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-153]
 ::END:MAIN

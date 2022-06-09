@@ -5,10 +5,19 @@ p:You can see the NW Lookout Tower from here.
 =
 
 ::BEGIN:MAIN
-p:To the north can be heard the clang and crash of the smithies in the Hero Quarter.  To the west the barracks and the gate to the outside are visible. The Temple of Arjika rises above to the southeast, its single spire reaching up into the sky higher than any other building in the realm.  A stone stairwell leads down to the inner city.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-300|-300]
+img:thegame/world/0096/title
+
+## Security Lookout (NW)
+
+p:look[east] is the Easat Lookout
+p:look[south] is the Inner-South West Lookout
+
+p:There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+#bg = thegame/world/0096/background
+#bgcolor = var(--color-black)
+coordinates:00[-292|-292]
 ::END:MAIN
 
 =

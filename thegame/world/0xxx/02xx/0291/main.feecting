@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-You can see indra.city/sw.
+You can see the Farm Coop.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0291/title
-p:You are in indra.city/sw.
-#bgcolor = #ffffff
-#color = #333333
+
+## Farm Coop
+
+p:You are in the Farm Coop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-396|-637]
 ::END:MAIN

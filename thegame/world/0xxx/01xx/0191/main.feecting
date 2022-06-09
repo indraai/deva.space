@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.city/ne from here.
+p:You can see 3E9N Outer Loop from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0191/title
-You are in indra.city/ne.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-577|-161]
+
+## 3E9N Outer Loop
+
+You are in 3E9N Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-569|-153]
 ::END:MAIN

@@ -1,15 +1,19 @@
 ::BEGIN:LOOK
-You can see indra.city/se from here.
+You can see 9S6E Outer Loop from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0316/title
-p:You are in indra.city/se
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-680|-783]
+
+## 9S6E Outer Loop
+
+p:You are in 9S6E Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-672|-775]
 ::END:MAIN
 
 =

@@ -5,9 +5,11 @@ p:You can see indra.farm/vine from here.
 ::BEGIN:MAIN
 img:thegame/world/0196/title
 
-p:The farm grapes are the best for all grape things.
+## Farm Vines
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-859|-300]
+p:The farm vines are the best for all things that grow on vines.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-292]
 ::END:MAIN

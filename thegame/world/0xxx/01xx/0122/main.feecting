@@ -3,8 +3,15 @@ p:You can see the south east security lookout
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:A glimpse of shimmering light high above in the clouds reminds one of the protecting firmament that ensures oner safety.  To the south the black stone of the Tower of the Magi glistens serenely.  To the east you can see the Mansion of the Magi in all its extravagance.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-646|-645]
+img:thegame/world/0096/title
+
+## Security Lookout (SE)
+
+p:A glimpse of shimmering light high above in the clouds reminds one of the protecting firmament that ensures oner safety.
+
+p:To the south the black stone of the Tower of the Magi glistens serenely. To the east you can see the Mansion of the Magi in all its extravagance.
+
+#bg = thegame/world/0096/background
+#bgcolor = #000000
+coordinates:00[-638|-637]
 ::END:MAIN

@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.care/nw from here.
+p:You can see Medical (NW) from here.
 ::END:LOOK
-
-=
 
 ::BEGIN:MAIN
 img:thegame/world/0141/title
-p:You are in indra.care/nw.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-161.5|-126]
-::END:MAIN
 
-=
+## Medical (NW)
+
+p:You are in Medical (NW).
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-153|-118]
+::END:MAIN

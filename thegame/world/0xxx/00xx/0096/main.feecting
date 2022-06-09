@@ -1,19 +1,23 @@
 ::BEGIN:LOOK
-You can see indra.agency
+p:You can see the Security Office.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0096/title
-p:Welcome to Indra Agency.
+
+## Security
+
+p:Welcome to Security.
+
 p:You have arrived in our Northern Branch Office where all persons in Arjika are provided security, safety, and a smile.
 p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
 p:-Mangement
 
 #bg = thegame/world/0096/background
-#bgcolor = #000000
-coordinates:00[-508|-368.5]
+#bgcolor = var(--color-black)
+coordinates:00[-500|-360]
 ::END:MAIN
 
 =

@@ -1,14 +1,17 @@
 ::BEGIN:LOOK
-p:You can see indra.house/w
+p:You can see 2W Easy Street.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-p:You are in indra.house/w
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-404|-57]
+## 2W Easy Street
+
+p:You are in 2W Easy Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-396|-49.5]
 ::END:MAIN
 
 =

@@ -1,10 +1,12 @@
 ::BEGIN:LOOK
-p:You can see indra.city/s from here.
+p:You can see 7S Main Street from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0288/title
-p:You are in indra.city/s.
+
+## 7S Main Street
+p:You are in 7S Main Street.
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-465|-706]

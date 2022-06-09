@@ -1,11 +1,14 @@
 ::BEGIN:LOOK
-p:You can see indra.store/emporium from here.
+p:You can see The Emporium from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0281/title
-p:You are in indra.store/emporium.
+
+## The Emporium
+
+p:You are in The Emporium.
 #bgcolor = #ffffff
 #color = #333333
-coordinates:00[-611|-576]
+coordinates:00[-603|-568]
 ::END:MAIN

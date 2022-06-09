@@ -4,8 +4,12 @@ p:You can see indra.city/se from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0314/title
-You are in indra.city/se
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-507|-783]
+
+## 9S1E Outer Loop
+
+p:You are in 9S1E Outer Loop
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-500|-775]
 ::END:MAIN

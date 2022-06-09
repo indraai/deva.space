@@ -2,16 +2,16 @@
 p:You can see the dairy from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
 img:thegame/world/0242/title
 
+## Farm Dairy
+
 p:Welcome to the farm dairy where you can get your milk and be happy.
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-859|-369]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-361]
 ::END:MAIN
 
 =

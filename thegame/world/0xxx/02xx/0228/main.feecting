@@ -5,9 +5,11 @@ p:You can see indra.farm/cheese
 ::BEGIN:MAIN
 img:thegame/world/0228/title
 
+## Farm Cheese
+
 p:You are at the farm cheese factory where all the best cheese is made.
 
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-824|-369]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-361]
 ::END:MAIN

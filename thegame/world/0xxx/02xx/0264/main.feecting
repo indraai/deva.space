@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.store/grocer from here.
+p:You can see The Grocer from here.
 ::END:LOOK
-
-=
 
 ::BEGIN:MAIN
 img:thegame/world/0264/title
-p:You are in indra.store/grocer.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-335|-541]
-::END:MAIN
 
-=
+## The Grocer
+
+p:You are in The Grocer.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-327|-534]
+::END:MAIN

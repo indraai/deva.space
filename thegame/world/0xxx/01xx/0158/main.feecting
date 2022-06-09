@@ -5,10 +5,13 @@ p:You can see indra.house/w
 =
 
 ::BEGIN:MAIN
+## 1W Easy Street
+
 p:You are in indra.house/w
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-438|-57]
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-430.5|-49.5]
 ::END:MAIN
 
 =

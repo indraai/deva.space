@@ -1,23 +1,23 @@
 ::BEGIN:LOOK
-You can see indra.city/towers from here.
+p:You can see Arjika Temple (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Indra City Towers East
+## Arjika Temple (E)
 
-p:Welcome to indra.city/towers.
+p:Welcome to Arjika Temple (E).
 
 p:To the South is the Courtyard
-mud[Goto Courtyard...]:s
+mud[Courtyard...]:s
 
 p:To the West is Indra City Towers West
-mud[Goto Towers West...]:w
+mud[Towers West...]:w
 
 p:Going Up will take you to the Vedic Deity Houses.
-mud[Visit Deity Houses...]:u
+mud[Deity Houses...]:u
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/0346/background
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-611|-887]
+coordinates:00[-603|-879]
 ::END:MAIN

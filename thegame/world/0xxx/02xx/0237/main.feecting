@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-p:You can see indra.solutions from here.
+p:You can see Solutions from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:thegame/world/0237/title
-p:You are in indra.solutions.
+p:You are in Solutions.
 p:This is where we provide solutions to the various services we offer.
 p:Once you make a request from services they will send you here for a solution to your request. Then our team of specialists will make it happen.
 

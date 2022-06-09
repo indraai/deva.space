@@ -14,7 +14,7 @@ youtube:SybJ55IuBz8
 p:You are in Arjika City.
 
 ### North
-p:To the look[north] you will find Serfices, Medical, Security, Post Office, The Bank, Residential Neighborhood.
+p:To the look[north] you will find Services, Medical, Security, Post Office, The Bank, Residential Neighborhood.
 mud[NORTH]:n
 
 ### East

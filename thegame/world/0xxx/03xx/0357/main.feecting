@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the indra.city/courtyard from here.
+p:You can see the Arjika Temple Courtyard from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.city/courtyard.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-541.5|-922]
+## Arjika Temple Courtyard
+
+p:You are in Arjika Temple Courtyard.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-534|-914]
 ::END:MAIN

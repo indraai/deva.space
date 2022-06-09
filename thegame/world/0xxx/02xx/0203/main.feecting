@@ -5,11 +5,11 @@ p:You can see indra.farm/orchard from here.
 ::BEGIN:MAIN
 img:thegame/world/0203/title
 
+## Farm Orchard
+
 p:This is where you get your orchard fruits.
 
---
-
-#bgcolor = #eeeeee
-#color = #333333
-coordinates:00[-859|-265]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-257]
 ::END:MAIN

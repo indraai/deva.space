@@ -16,7 +16,7 @@ p:This is where the SpoonKids washup for morningtime, nighttime, playtime, bedti
 
 #color = var(--color-grey)
 #bgcolor = var(--color-white)
-coordinates:09-spoonkids[-191|-715]
+coordinates:09-spoonkids[-183|-706]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

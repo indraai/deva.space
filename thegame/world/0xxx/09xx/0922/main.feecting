@@ -3,6 +3,7 @@ p:You can see Training Room 922 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0922/journey
 
 ## To Ireland
 
@@ -17,8 +18,6 @@ p[speak]:The period when Tabitha went to Ireland was when Trenton really went in
 p[speak]:That 10 days in December 2015 was one of those times. Quinn took Trenton to see Santa Claus on his Birthday. IT was one could say the last Christmas Quinn ever celebrated in any way.
 
 p[speak]:In 2021 it would be discovered that Tabitha was involved with a group of people that were part of developing the Tyler Ethersec Darknet Hacker Games.
-
-img:thegame/world/0922/journey
 
 ## Training
 ::begin:training

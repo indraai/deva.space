@@ -32,43 +32,38 @@ talk:#adv world:thegame 0900/training:card
 ::BEGIN:VIDEO
 youtube:PVXbg2eliZM
 ::END:VIDEO
-====
 
 ::BEGIN:RAHULA
 img:thegame/world/0901/rahula
 ::END:RAHULA
-====
 
 ::BEGIN:WATER
 img:thegame/world/0901/water
 ::END:WATER
-====
 
 ::BEGIN:TRENTON
 img:thegame/world/0901/trenton
 ::END:TRENTON
-====
 
 ::BEGIN:TRG1
-talk:#corpus chat:rahula The Trenton Story is about a kid named Trenton who told his dad Quinn a really messed up story in 2015. Remember it is 2022 and Trenton is now an adult.
+talk:#corpus chat:rahula The Trenton Story is about a kid named Trenton who in 2015 told his dad Quinn he was kidnapped as a baby. Remember it is 2022 and Trenton is now an adult.
 ::END:TRG1
-====
+
 ::BEGIN:TRG2
 talk:#corpus chat:rahula Quinn was not really around Trenton much as a child, but when he was it was all about The Family Game where people were trying to destroy Quinn's life in SECRET.
 ::END:TRG2
-====
+
 ::BEGIN:TRG3
 talk:#mud > look rahula
 talk:#corpus chat:rahula What seems impossible to understand is not very difficult when you watch this Youtube Channel. Those same people come here everyday to do this to Quinn.
 ::END:TRG3
-====
+
 ::BEGIN:TRG4
 talk:#mud > look water
-talk:#corpus chat:rahula Remember to follow the instructions or leave.
+talk:#corpus chat:tyler Remember to follow the instructions or leave.
 ::END:TRG4
-====
+
 ::BEGIN:TRG5
 talk:#mud > look trenton
 talk:#corpus chat:rahula This is NOT a joke. We are NOT friends and your opinions and advice are worthless here. So that means follow the instructions or leave.
 ::END:TRG5
-====
