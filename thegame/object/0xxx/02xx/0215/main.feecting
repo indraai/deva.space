@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🍒]:> look cherries
+::END:AVATAR
+
+::BEGIN:LOOK
+## Cherries
+name:Cherries
+vector: 0x0215o
+look[🍒]:cherries
+::END:LOOK
+
+::BEGIN:cherries
+p:🍒 Cherries
+::END:cherries

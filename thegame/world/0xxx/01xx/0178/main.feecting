@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-p:You can see indra.house/apartments from here.
+p:You can see Arjika Apartments from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.house/apartments.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-611|-92]
+## Arjika Apartments
+
+p:You are in Arjika Apartments.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-603|-84]
 ::END:MAIN

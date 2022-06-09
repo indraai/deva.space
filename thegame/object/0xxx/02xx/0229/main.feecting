@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🥚]:> look eggs
+::END:AVATAR
+
+::BEGIN:LOOK
+## Eggs
+name: Eggs
+vector: 0x0229o
+look[🥚]:eggs
+::END:LOOK
+
+::BEGIN:EGGS
+p:🥚 Eggs
+::END:EGGS

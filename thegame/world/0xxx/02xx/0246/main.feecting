@@ -1,8 +1,6 @@
 ::BEGIN:LOOK
-You can see 9W Main Street from here.
+p:You can see 9W Main Street from here.
 ::END:LOOK
-
-=
 
 ::BEGIN:MAIN
 img:thegame/world/0246/title
@@ -15,5 +13,3 @@ p:You are in 9W Main Street.
 #bgcolor = var(--color-white)
 coordinates:00[-154|-464]
 ::END:MAIN
-
-=

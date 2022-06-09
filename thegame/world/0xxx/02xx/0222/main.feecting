@@ -4,16 +4,20 @@ You can see the Indra.email office.
 
 ::BEGIN:MAIN
 img:thegame/world/0222/title
-p:Welcome to Indra.email,
-p:Indra.email is the global mail service for everyone in Arjika. This is where you can send mail to your friends around the Realm.
 
-l: Check Mail
+## Post Office
+
+p:Welcome to the Post Office.
+
+p:Post Office is the global mail service for everyone in Arjika. This is where you can send mail to your friends around the Realm.
+
+### Check Mail
 bmud[Check Mail]:check
 
-l: Receive mail
+### Receive mail
 bmud[Receive Mail]:receive
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-404|-334]
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-396|-326]
 ::END:MAIN

@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🍇]:> look grapes
+::END:AVATAR
+
+::BEGIN:LOOK
+## Grapes
+name: Grapes
+vector: 0xo
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:GRAPES
+p:🍇 Grapes
+::END:GRAPES

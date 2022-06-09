@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🍏]:> look fruit
+::END:AVATAR
+
+::BEGIN:LOOK
+## Green Apples
+name: Green Apples
+vector: 0x0202o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:FRUIT
+p:🍏 Green Apples
+::END:FRUIT

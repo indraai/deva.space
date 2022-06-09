@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🍋]:look fruit
+::END:AVATAR
+
+::BEGIN:LOOK
+## Citrus Fruit
+name: Citrus Fruit
+vector: 0x0216o
+look[Fruit]:fruits
+::END:LOOK
+
+::BEGIN:TEXT
+p:🍋 Citrus Fruit
+::END:TEXT

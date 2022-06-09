@@ -9,8 +9,8 @@ img:thegame/world/1202/title
 
 p:You are are at the Pirates Arcade.
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 #bg = thegame/world/1202/background
 coordinates:12[-546|-650]
 ::END:MAIN
