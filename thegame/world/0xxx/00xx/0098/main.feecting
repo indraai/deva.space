@@ -12,5 +12,5 @@ p:You have made it to Adventure Land
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 #bg = thegame/world/0098/background
-coordinates:00[-24|-472]
+coordinates:00[-16|-464]
 ::END:MAIN

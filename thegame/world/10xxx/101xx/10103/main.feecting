@@ -18,7 +18,7 @@ p:"Thanks," you say. "After this I'm not going to be afraid of anything in the U
 
 p:The End
 
-talk:#adv world:thegame 1000/thankyou
+talk:#adv world:thegame 10000/main:thankyou
 
 talk:#adv hash add 103
 

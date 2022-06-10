@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.store/jeweler from here.
+p:You can see The Jeweler from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0277/title
-p:You are in indra.store/jeweler
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-335|-576]
+
+## The Jeweler
+
+p:You are in The Jeweler
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-327|-568]
 ::END:MAIN

@@ -5,9 +5,9 @@ p:You can see Mall Security from here.
 ::BEGIN:MAIN
 img:thegame/world/0153/logo
 
-# Mall Security
+## Mall Security
 
-#bgcolor = #ffffff
-#color = #000000
-coordinates:00[-87|-161]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-79|-153]
 ::END:MAIN

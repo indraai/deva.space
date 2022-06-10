@@ -14,7 +14,7 @@ p:Across the fields of white clay and safely back to the land of the Archpods.
 
 p:And, if you remembered to fill your pockets with diamonds before you ran across the field of white clay, you're very rich!
 
-talk:#adv world:thegame 1000/thankyou
+talk:#adv world:thegame 10000/main:thankyou
 
 talk:#adv hash add 108
 

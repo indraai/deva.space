@@ -11,15 +11,16 @@ author: Edward Packard
 illustrator: Anthony Kramer
 publisher: Bantam Books
 
-warning:The Underground Kingdom is not easy to reach.<br>Many readers never get there.<br>Others never return.
+p[speak:Brian]:The Underground Kingdom is not easy to reach. Many readers never get there. Others never return.
 
-note:Before starting out on your journey, you may want to read Professor Bruckner's theory.
+p[speak]:Before starting out on your journey, you may want to read Professor Bruckner's theory.
+
+p[speak]:Professor Bruckner is a rather boring writer, and I wouldn't suggest that you bother to read his theory, except that, if you ever get to the Underground Kingdom, it might save your life.
+
+p[speak]:Good luck!
 
 mud[Read Professor Bruckner's theory...]:read theory
 
-p:Professor Bruckner is a rather boring writer, and I wouldn't suggest that you bother to read his theory, except that, if you ever get to the Underground Kingdom, it might save your life.
-
-p:Good luck!
 
 mud[Continue to the glacier...]:n
 

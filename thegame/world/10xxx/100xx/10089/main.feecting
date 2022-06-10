@@ -34,7 +34,7 @@ p:"I'm afraid not, my foolish young friend," Bruckner replies in a cold, dead to
 
 p:The End
 
-talk:#adv world:thegame 1000/thankyou
+talk:#adv world:thegame 10000/main:thankyou
 
 talk:#adv hash add 89
 
