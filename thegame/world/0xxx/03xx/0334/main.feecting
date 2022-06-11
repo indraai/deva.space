@@ -5,15 +5,16 @@ p:You can see the ARMY Cyber 1.
 ::BEGIN:MAIN
 img:thegame/world/0334/title
 
-# ARMY CYBER1
+## ARMY CYBER1
 
 title: CYBER1
 room: 334
 opsec: L1
+vector: 0x_0334R
 describe: ARMY CYBER1 handles the basic threats. CYBER1 are specialists in items such as network security, hacking, and dealing with network issues.
 
 #bg = thegame/world/0334/background
 #bgcolor = #000000
 #color = #ffc900
-coordinates:00[-830.5|-749]
+coordinates:00[-822.5|-741]
 ::END:MAIN

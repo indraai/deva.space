@@ -5,11 +5,14 @@ p:You can see ARMY Recruiting from here.
 ::BEGIN:MAIN
 img:thegame/world/0349/title
 
-# ARMY Recruiting
+## ARMY Recruiting
 
 p:Three low hanging lanterns positioned over the rooms large tables illuminate the book-lined walls.  There are several chairs at each table so as to allow those who wish to study the fine art of magic to rest comfortably.  Several books lay open upon the tables.  Occasional trickles of smoke waft in from under the doorway to the east.
+
 #bg = thegame/world/0350/background
+
 #bgcolor = #000000
 #color = #ffc900
-coordinates:00[-865|-784]
+
+coordinates:00[-857|-775]
 ::END:MAIN

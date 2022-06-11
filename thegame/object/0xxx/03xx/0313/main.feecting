@@ -8,4 +8,11 @@ img:thegame/object/0313/avatar
 name: CYBER3 TERMINAL
 vector: 0x0313o
 describe: CYBER3 TERMINAL is used by cyber specialists to do their job.
+
+look[Terminal]:terminal
 ::END:LOOK
+
+::BEGIN:TERMINAL
+p:ARMY Cyber3 Terminal
+::END:TERMINAL
+====

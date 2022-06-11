@@ -8,4 +8,9 @@ img:thegame/object/0312/avatar
 name: CYBER2 TERMINAL
 vector: 0x0312o
 describe: CYBER2 TERMINAL is used by cyber specialists to do their job.
+look[Terminal]:terminal
 ::END:LOOK
+
+::BEGIN:TERMINAL
+p:ARMY Cyber2 Terminal
+::END:TERMINAL

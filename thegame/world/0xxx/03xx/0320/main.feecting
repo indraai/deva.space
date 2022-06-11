@@ -5,7 +5,7 @@ p:You can see the ARMY Kitchen from here.
 ::BEGIN:MAIN
 img:thegame/world/0349/title
 
-# ARMY KITCHEN
+## ARMY KITCHEN
 
 title: KITCHEN
 room: 305
@@ -14,5 +14,5 @@ describe:  THE ARMY KITCHEN WHERE FOOD IS PREPARED.
 #bgcolor = #000000
 #color = #ffc900
 #bg = thegame/world/0320/background
-coordinates:00[-865|-645]
+coordinates:00[-857|-637]
 ::END:MAIN

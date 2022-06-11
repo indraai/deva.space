@@ -6,6 +6,11 @@ img:thegame/object/0311/avatar
 img:thegame/object/0311/avatar
 ## CYBER1 TERMINAL
 name: CYBER1 TERMINAL
-vector: 0x0312o
+vector: 0x0311o
 describe: CYBER1 TERMINAL is used by cyber specialists to do their job.
+look[Terminal]:terminal
 ::END:LOOK
+
+::BEGIN:TERMINAL
+p:ARMY Cyber1 Terminal
+::END:TERMINAL

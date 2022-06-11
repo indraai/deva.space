@@ -7,7 +7,7 @@ p:You can see ARMY Operations from here.
 ::BEGIN:MAIN
 img:thegame/world/0349/title
 
-# ARMY OPERATIONS
+## ARMY OPERATIONS
 
 title: OPERATIONS
 opsec: L5
@@ -18,7 +18,7 @@ describe:  THE ARMY OPERATIONS CENTER
 #color = #ffc900
 #bg = thegame/world/0271/background
 
-coordinates:00[-830.5|-577]
+coordinates:00[-822.5|-569]
 ::END:MAIN
 
 =

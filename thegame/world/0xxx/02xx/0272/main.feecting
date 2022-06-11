@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see ARMY Development from here.
+p:You can see ARMY Development from here.
 ::END:LOOK
 
 =
@@ -7,7 +7,7 @@ You can see ARMY Development from here.
 ::BEGIN:MAIN
 img:thegame/world/0349/title
 
-# ARMY COMMAND
+## ARMY COMMAND
 
 title: COMMAND
 opsec: L5
@@ -17,7 +17,7 @@ describe:  THE ARMY COMMAND CENTER
 #bgcolor = #000000
 #color = #ffc900
 #bg = thegame/world/0272/background
-coordinates:00[-865|-577]
+coordinates:00[-857|-569]
 ::END:MAIN
 
 =
