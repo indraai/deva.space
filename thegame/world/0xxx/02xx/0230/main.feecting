@@ -5,15 +5,15 @@ p:You can see The Tech Store from here.
 ::BEGIN:MAIN
 img:thegame/world/0153/logo
 
-# The Tech Store
+## The Tech Store
 
 p:Welcome to The Tech Store
 
 p:To Exit the Tech Store please go east.
 cmd:#mud e
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/0153/background
-#bgcolor = #ffffff
-#color = #000000
-coordinates:00[-87|-369]
+coordinates:00[-79|-361]
 ::END:MAIN

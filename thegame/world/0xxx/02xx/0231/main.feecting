@@ -5,14 +5,14 @@ p:You can see the Mall Alley from here.
 ::BEGIN:MAIN
 img:thegame/world/0153/logo
 
-# The Mall
+## The Mall
 
 p:To the WEST you will find The Tech Store
 
 cmd:#mud w
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 #bg = thegame/world/0153/background
-#bgcolor = #ffffff
-#color = #000000
-coordinates:00[-122|-369]
+coordinates:00[-114|-361]
 ::END:MAIN

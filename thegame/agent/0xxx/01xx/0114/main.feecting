@@ -10,4 +10,8 @@ img:thegame/agent/0114/avatar
 name:SecurityDEVA D114 (Lookout)
 vector: 0x0114a
 describe:SecurityDEVA D114 is here looking out for Arjika City.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 ::END:LOOK

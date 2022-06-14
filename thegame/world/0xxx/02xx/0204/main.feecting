@@ -12,8 +12,8 @@ p:Welcome to The Home Store
 p: To Exit please go EAST.
 cmd:#mud e
 
-#bg = thegame/world/0153/background
-#bgcolor = #ffffff
 #color = #000000
-coordinates:00[-87|-230]
+#bgcolor = #ffffff
+#bg = thegame/world/0153/background
+coordinates:00[-79|-222]
 ::END:MAIN
