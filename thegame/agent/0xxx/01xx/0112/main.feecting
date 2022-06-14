@@ -11,5 +11,9 @@ img:thegame/agent/0112/avatar
 
 name: SecurityDEVA D112 (Lookout)
 vector: 0x0112a
-describe: SecurityDEVA D112 is here looking out for Arjika.s
+describe: SecurityDEVA D112 is here looking out for Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 ::END:LOOK

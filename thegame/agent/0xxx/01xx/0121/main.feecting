@@ -10,4 +10,8 @@ img:thegame/agent/0121/avatar
 name: SecurityDEVA D121 (Lookout)
 vector: 0x0121a
 describe: SecurityDEVA D121 is here looking out for Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 ::END:LOOK

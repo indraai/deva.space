@@ -10,4 +10,7 @@ img:thegame/agent/0164/avatar
 name: SecurityDEVA D164 (Lookout)
 vector: 0x0164a
 describe: SecurityDEVA D164 is here looking out for Arjika.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 ::END:LOOK

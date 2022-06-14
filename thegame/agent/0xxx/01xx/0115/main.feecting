@@ -10,4 +10,8 @@ img:thegame/agent/0115/avatar
 name: SecurityDEVA D115 (Lookout)
 vector: 0x115a
 describe: SecurityDEVA D115 is looking out for Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 ::END:LOOK
