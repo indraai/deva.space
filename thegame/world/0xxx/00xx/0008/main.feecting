@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-p:You can see indra.academy/r8 from here.
+p:You can see Academy L6. from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## indra.academy/r8
-p:You are in indra.academy/r8
-#color = #fffff
-#bgcolor = #333333
-coordinates:00[-507|-219]
+## Academy L6
+p:You are in Academy L6.
+
+#color = var(--color-white)
+#bgcolor = var(--color-grey)
+coordinates:00[-610|-211]
 ::END:MAIN

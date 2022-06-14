@@ -1,17 +1,18 @@
 ::BEGIN:LOOK
+p:You can see the Rasakunda Room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# The Rasakunda Room
+img:thegame/world/1010/infinity
+
+## The Rasakunda Room
 
 p:You have found your way into the Rasakunda Room... home of Aryaka and the Nectar that will fix you up good... hahahaha.
-
-img:thegame/world/1010/infinity
 
 link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 #bg = thegame/world/1010/background
-coordinates:10[-453|-876]
+coordinates:10[-445|-868]
 ::END:MAIN

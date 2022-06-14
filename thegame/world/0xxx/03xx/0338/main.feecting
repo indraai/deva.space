@@ -1,10 +1,16 @@
 ::BEGIN:LOOK
-p:You can see indra.agency/lookout from here.
+p:You can see Security Lookout (SW) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.agency/lookout.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-162|-783]
+img:thegame/world/0096/title
+
+## Security Lookout (SW)
+
+p:You are in Security Lookout (SW).
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+coordinates:00[-153|-775]
 ::END:MAIN

@@ -3,13 +3,13 @@ p:You can see the City Park from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# City Park
+## City Park
 
 p:You are in the City Park
 
 #bgcolor = #228200
 #color = #ffffff
-coordinates:00[-439|-714]
+coordinates:00[-430|-706]
 ::END:MAIN
 
 =

@@ -4,5 +4,10 @@ img:thegame/agent/0106/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0106/avatar
-p:Captain Jarry is here looking over the toy store for the little kiddos. Years at sea have hardened this already tough man.  He looks like he could tear your arms out at the socket without an upwards glance.
+
+## SecurityDEVA D106 (Lookout)
+
+name:SecurityDEVA D106 (Lookout)
+vector: 0x0106a
+describe: SecurityDEVA D106 Lookout is here keeping watch over the city.
 ::END:LOOK

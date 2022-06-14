@@ -1,14 +1,17 @@
 ::BEGIN:LOOK
-p:You can see indra.church/b2
+p:You can see Book 2.
 ::END:LOOK
-====
+
+=
+
 ::BEGIN:MAIN
 img:thegame/world/0012/title
 
 talk:#vedas book 2
 
-#color = #eeeeee
+#color = var(--color-white)
 #bg = thegame/world/0012/background
-coordinates:00[-415|-265]
+coordinates:00[-390|-245]
 ::END:MAIN
-====
+
+=

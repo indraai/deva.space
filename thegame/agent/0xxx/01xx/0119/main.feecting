@@ -1,18 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0119/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
 img:thegame/agent/0119/avatar
-## Mr. Dewity
-describe: Fever is desguised as Mr. Dewity in the Bank of Arjika.
-p:Virtual Mr. Dewity manages the Bank of Arjika varry good.
+## SecurityDEVA D119 (Lookout)
+name: SecurityDEVA D119 (Lookout)
+vector: 0x0119a
+describe: SecurityDEVA D119 Lookout is positioned at lookout 119 above the Easter Gate of Arjika.
 ::END:LOOK
-
-====
-
-::BEGIN:SUMMARY
-
-::END:SUMMARY
-====

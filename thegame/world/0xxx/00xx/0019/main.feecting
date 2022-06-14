@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see indra.church/b9
+p:You can see Book 9.
 ::END:LOOK
 ====
 ::BEGIN:MAIN
@@ -9,6 +9,6 @@ talk:#vedas book 9
 
 #color = #eeeeee
 #bg = thegame/world/0019/background
-coordinates:00[-392|-219]
+coordinates:00[-390|-211]
 ::END:MAIN
 ====

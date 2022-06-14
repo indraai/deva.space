@@ -7,7 +7,7 @@ p:You can see 3E Main Street from here.
 ::BEGIN:MAIN
 img:thegame/world/0253/title
 
-p:You are in 3E Main Street.
+## 3E Main Street
 
 img:thegame/world/0253/area
 

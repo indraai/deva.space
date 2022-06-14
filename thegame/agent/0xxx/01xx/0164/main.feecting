@@ -1,9 +1,13 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0164/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
-LOOKING AT MICHAEL NEBADON
+img:thegame/agent/0164/avatar
+
+## SecurityDEVA D164 (Lookout)
+
+name: SecurityDEVA D164 (Lookout)
+vector: 0x0164a
+describe: SecurityDEVA D164 is here looking out for Arjika.
 ::END:LOOK
-====

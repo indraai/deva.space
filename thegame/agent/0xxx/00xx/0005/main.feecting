@@ -9,5 +9,8 @@ name: Nitro Hero
 vector: 0x0005a
 title: SecurityPRIME
 describe: SecurityPRIME is here securing the realm from all known, unknown, perceived, actual, real, and imaginary threats to the realm.
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 ::END:LOOK
 ====

@@ -4,8 +4,10 @@ img:thegame/agent/0114/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0114/avatar
-## Boss
-name: Boss
-vector: 0x114a
-describe: Fight Club Boss
+
+## SecurityDEVA D114 (Lookout)
+
+name:SecurityDEVA D114 (Lookout)
+vector: 0x0114a
+describe:SecurityDEVA D114 is here looking out for Arjika City.
 ::END:LOOK

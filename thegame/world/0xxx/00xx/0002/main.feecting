@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-You can see the Arjika Academy
+p:You can see the Arjika Academy
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -9,8 +9,9 @@ p:Welcome to Indra Academy!
 
 talk:#docs view academy/main:welcome
 
-#bg = thegame/world/0002/background
-#bgcolor =#4c5977
 #color = #ffffff
-coordinates:00[-507|-265]
+#bgcolor =#4c5977
+#bg = thegame/world/0002/background
+
+coordinates:00[-505.5|-245]
 ::END:MAIN

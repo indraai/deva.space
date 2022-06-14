@@ -7,5 +7,6 @@ p:You can see World Fight Club from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
+#bg = thegame/world/0002/background
 coordinates:10[-715|-391]
 ::END:MAIN

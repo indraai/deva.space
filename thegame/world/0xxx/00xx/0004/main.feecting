@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.academy/r4 from here.
+p:You can see Academy L2 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## indra.academy/r4
-p:You are in indra.academy/r4
-#color = #fffff
-#bgcolor = #333333
-coordinates:00[-553|-265]
+## Academy L2
+
+p:You are in Academy L2
+
+#color = var(--color-white)
+#bgcolor = var(--color-grey)
+#bg = thegame/world/0002/background
+
+coordinates:00[-574|-245]
 ::END:MAIN

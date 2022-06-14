@@ -4,10 +4,10 @@ p:You can see the Disneyland Main Street (E) from here.
 
 ::BEGIN:MAIN
 # Disneyland Main Street (E)
+
 p:You are are at the Disneyland Main Street (E).
 
-img:thegame/world/1100/dir
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 coordinates:11[-472|-537]
 ::END:MAIN

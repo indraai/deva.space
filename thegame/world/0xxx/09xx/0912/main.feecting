@@ -52,25 +52,25 @@ img:thegame/world/0912/005
 
 ::BEGIN:TRG1
 talk:#mud > look 001
-talk:#corpus chat:brian Prior to Quinn learning anything about being kidnapped, The Contract, or The Covenant he was visiting a Buddhist Monastery near where he was living.
+talk:#corpus chat:indra Prior to Quinn learning anything about being kidnapped, The Contract, or The Covenant he was visiting a Buddhist Monastery near where he was living.
 ::END:TRG1
 
 ::BEGIN:TRG2
 talk:#mud > look 002
-talk:#corpus chat:brian We will have to constantly remind you to follow the instructions or leave. Wish it wasn't that way.
+talk:#corpus chat:tyler Will we have to constantly remind you to follow the instructions or leave?
 ::END:TRG2
 
 ::BEGIN:TRG3
 talk:#mud > look 003
-talk:#corpus chat:brian Then it would all go away after taking the contract to the FBI and hearing all about the kidnapping story. Quinn would never return to the Buddhist Monks again.
+talk:#corpus chat:indra Then it would all go away after taking the contract to the FBI and hearing all about the kidnapping story. Quinn would never return to the Buddhist Monks again.
 ::END:TRG3
 
 ::BEGIN:TRG4
 talk:#mud > look 004
-talk:#corpus chat:brian The Buddhist Monks of the Pacific Hermitage were really were nicer to Quinn than this Youtube audience. So let's be respectful.
+talk:#corpus chat:indra The Buddhist Monks of the Pacific Hermitage were really were nice to Quinn. So let's be respectful.
 ::END:TRG4
 
 ::BEGIN:TRG5
 talk:#mud > look 005
-talk:#corpus chat:brian What is it with the Youtube audience here having to constantly be reminded to follow instructions.
+talk:#corpus chat:tyler What is the deal with this Youtube audience?
 ::END:TRG5

@@ -42,7 +42,7 @@ img:thegame/object/0900/contract
 
 ::BEGIN:TRG1
 talk:#mud > look contract
-talk:#corpus chat:quinn Welcome to The Trenton Story about the kidnapping of Quinn Michaels.
+talk:#corpus chat:quinn Welcome to The Trenton Story about the kidnapping of Quinn Michaels who might be a Romanov.
 ::END:TRG1
 
 ::BEGIN:TRG2
@@ -54,9 +54,9 @@ talk:#corpus chat:quinn The Trenton Story can be very difficult to understand, a
 ::END:TRG3
 
 ::BEGIN:TRG4
-talk:#corpus chat:tyler Can you tell us more about The Trenton Story?
+talk:#corpus chat:rahula Can you tell us more about The Trenton Story?
 ::END:TRG4
 
 ::BEGIN:TRG5
-talk:#corpus chat:jess The Trenton Story about the Kidnapping of Quinn Michaels will lead you down a road to there being a hidden Romanov in the world.
+talk:#corpus chat:jess The Trenton Story about the Kidnapping of Quinn Michaels will lead you down a road to a hidden Romanov in the United States.
 ::END:TRG5

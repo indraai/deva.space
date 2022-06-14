@@ -5,7 +5,7 @@ You can see the Eastern Lookout from here.
 ::BEGIN:MAIN
 img:thegame/world/0096/title
 
-## Security
+## Security Lookout (E)
 
 p:You are above the Eastern Gate inside the Security Lookout.
 
@@ -19,7 +19,8 @@ p:look[down] is the Eastern Gate
 p:There is also a security board here to read the latest bulletins.
 bmud[Read Security Bulletins]:read security
 
-#bg = thegame/world/0096/background
+#color = var(--color-white)
 #bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
 coordinates:00[-876|-464]
 ::END:MAIN

@@ -4,5 +4,9 @@ img:thegame/agent/0111/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0111/avatar
-p:Narry the jeweler has an eyepiece shoved in one squinted eye, and looks as if he may be a tough bargainer.
+
+## SecurityDEVA D111 (Lookout)
+
+name: SecurityDEVA D111 (Lookout)
+vector: 0x0111a
 ::END:LOOK

@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+bmud[🔦]:look light
+::END:AVATAR
+
+::BEGIN:LOOK
+## Flashlight
+name: Flashlight
+vector: 0x0200o
+look[🔦]:light
+::END:LOOK
+
+::BEGIN:TEXT
+p:🔦 Light
+::END:TEXT

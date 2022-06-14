@@ -1,7 +1,9 @@
 ::BEGIN:LOOK
-p:You can see indra.church/b10
+p:You can see Book 10.
 ::END:LOOK
-====
+
+=
+
 ::BEGIN:MAIN
 img:thegame/world/0020/title
 
@@ -9,6 +11,7 @@ talk:#vedas book 10
 
 #color = #eeeeee
 #bg = thegame/world/0020/background
-coordinates:00[-369|-219]
+coordinates:00[-425|-211]
 ::END:MAIN
-====
+
+=

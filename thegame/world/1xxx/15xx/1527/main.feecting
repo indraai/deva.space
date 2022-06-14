@@ -7,5 +7,6 @@ p:You can see Dumbo Flying Elephants from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
+#bg = thegame/world/1527/background
 coordinates:15[-280|-288]
 ::END:MAIN
