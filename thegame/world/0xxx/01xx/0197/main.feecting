@@ -15,5 +15,5 @@ cmd:#mud e
 #bg = thegame/world/0153/background
 #bgcolor = #ffffff
 #color = #000000
-coordinates:00[-87|-265]
+coordinates:00[-79|-257]
 ::END:MAIN
