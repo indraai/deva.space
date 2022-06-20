@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/0985/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0985/avatar
+name: Kek Pepe
+vector: 0x0985a
+describe: The Kek Pepe Frog of idiocy.
+::END:LOOK
