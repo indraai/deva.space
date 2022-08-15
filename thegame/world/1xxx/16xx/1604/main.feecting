@@ -1,10 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Tomorrowland from here.
+p:You can see Adventure Thru Inner Space from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
 ## Adventure Thru Inner Space
 
-coordinates:16[-214|-643]
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+
+coordinates:16[-207|-636]
 ::END:MAIN

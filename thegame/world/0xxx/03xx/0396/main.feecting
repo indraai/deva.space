@@ -5,8 +5,9 @@ p:You can see Arjika Tower L5 from here.
 ::BEGIN:MAIN
 ## Arjika Tower L5
 
-youtube:8SbUC-UaAxE
+youtube:1A0MPWseJIE
 
 #bgcolor = #cccccc
 #color = #333333
+coordinates:01-towerL5[-465|-464]
 ::END:MAIN

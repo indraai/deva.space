@@ -3,9 +3,9 @@ p:You can see Tomorrowland from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Tomorrowland
+## Info Station
 
-#bgcolor = #73b9c5
-#color = #ffffff
-coordinates:16[-483|-580]
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-471|-573]
 ::END:MAIN

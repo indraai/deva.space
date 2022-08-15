@@ -3,9 +3,16 @@ p:You can see the Main Street (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1103/title
+
 ## Main Street (E)
 
 p:You are are at the Main Street (E).
+
+mud[North - Main Street]:n
+mud[East - The Walt Disney Story]:e
+mud[South - Main Street]:s
+mud[West - Town Square]:w
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/agent/1158/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1158/avatar
+
+## Eboni
+
+name: Eboni
+vector: 0x1158a
+
+describe: Eboni is the manager of the Baby Station and never leaves becasue she loves her job. If you are in the baby station and need things like changing services make sure to stop by.
+
+::END:LOOK

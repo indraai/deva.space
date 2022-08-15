@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Tomorrowland from here.
+p:You can see Rocket Jets from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 
-## Tomorrowland
+## Rocket Jets
 
-#bgcolor = #73b9c5
-#color = #ffffff
-coordinates:16[-413|-495]
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-460|-475]
 ::END:MAIN

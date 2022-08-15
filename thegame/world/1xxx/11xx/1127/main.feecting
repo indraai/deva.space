@@ -3,9 +3,15 @@ p:You can see the Main Street (W) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1103/title
+
 # Main Street (W)
 
 p:You are are at the Main Street (W).
+
+mud[North - Main Street]:n
+mud[West - Refreshment Center]:w
+mud[South - Main Street]:s
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

@@ -1,13 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Tomorrowland from here.
+p:You can see The Space Bar from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+## The Space Bar
 
-## Rocket Jets - Tomorrowland
 
-
-#bgcolor = #73b9c5
-#color = #ffffff
-coordinates:16[-468|-483]
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-512|-469]
 ::END:MAIN

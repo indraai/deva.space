@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Tomorrowland from here.
+p:You can see America Sings from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Tomorrowland
+## America Sings
 
-#bgcolor = #73b9c5
-#color = #ffffff
-coordinates:16[-599|-608]
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+
+coordinates:16[-591|-601]
 ::END:MAIN

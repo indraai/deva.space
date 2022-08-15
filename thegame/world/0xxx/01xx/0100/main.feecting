@@ -12,6 +12,7 @@ youtube:tub93PAAO3k
 
 #bgcolor = var(--color-white)
 #color = var(--color-dark-grey)
+coordinates:01[-465|-464]
 ::END:MAIN
 
 =

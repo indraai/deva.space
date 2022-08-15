@@ -8,5 +8,6 @@ img:thegame/object/0909/avatar
 name: Ethersec Project 2020
 vector: 0x0909o
 
-cmd[Pastebin - View Original]:#pastebin view vr0YUfhX
+button[Pastebin - View Original]:#pastebin view vr0YUfhX
+
 ::END:LOOK

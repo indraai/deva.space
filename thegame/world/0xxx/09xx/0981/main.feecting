@@ -22,7 +22,7 @@ wiki[Kalmykia]:Kalmykia
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/0981/background
-coordinates:09[-747|-222]
+coordinates:09[-789|-160]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

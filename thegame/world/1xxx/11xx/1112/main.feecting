@@ -3,9 +3,15 @@ p:You can see the Disneyland Main Street (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1103/title
+
 ## Main Street (E)
 
 p:You are are at the Disneyland Main Street (E).
+
+mud[North - Main Street]:n
+mud[East - Art Festival]:e
+mud[South - Main Street]:s
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

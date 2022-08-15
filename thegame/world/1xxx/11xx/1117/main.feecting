@@ -3,12 +3,17 @@ p:You can see the Main Street (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1103/title
+
 ## Main Street (E)
 
 p:You are are at the Main Street (E).
 
+mud[North - Main Street]:n
+mud[East - China Shop]:e
+mud[South - Main Street]:s
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-
 coordinates:11[-472|-222]
 ::END:MAIN

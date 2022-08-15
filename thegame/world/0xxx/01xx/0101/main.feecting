@@ -12,4 +12,5 @@ youtube:K1b8AhIsSYQ
 
 #bgcolor = var(--color-white)
 #color = var(--color-dark-grey)
+coordinates:01-tower[-465|-464]
 ::END:MAIN

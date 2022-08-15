@@ -15,7 +15,12 @@ p:You have arrived in our Northern Branch Office where all persons in Arjika are
 p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
 p:-Mangement
 
+::begin:cypher
+talk:#docs view cypher/main
+::end:cypher
+
 #bg = thegame/world/0096/background
+#color = var(--color-yellow)
 #bgcolor = var(--color-black)
 coordinates:00[-500|-360]
 ::END:MAIN

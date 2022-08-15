@@ -3,8 +3,16 @@ p:You can see the Disneyland Main Street (E) from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1103/title
+
 # Disneyland Main Street (E)
-p:You are are at the Disneyland Main Street.
+
+p:You are are at Disneyland Main Street.
+
+mud[North - Main Street]:n
+mud[North West - Town Square]:nw
+mud[South West - Disneyland Entrance]:sw
+mud[East - Bank of Arjika]:e
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

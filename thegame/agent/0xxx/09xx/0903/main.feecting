@@ -9,6 +9,6 @@ img:thegame/agent/0903/avatar
 name:PM2012 903
 vector: 0x0903a
 
-cmd[Pastebin - Project Mayhem 2012]:#pastebin view VQPzpAUL
+button[View - Project Mayhem 2012]:#pastebin view VQPzpAUL
 
 ::END:LOOK

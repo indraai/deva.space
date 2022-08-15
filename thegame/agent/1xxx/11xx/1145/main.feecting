@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:thegame/agent/1145/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1145/avatar
+## Rings n' Things Attendant
+name:Shop Attendant
+vector: 0x1145a
+
+#bg = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

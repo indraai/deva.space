@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Murmansk FSBs from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Murmansk FSB
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:09[-667|-222]
+::END:MAIN

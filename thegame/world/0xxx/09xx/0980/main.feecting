@@ -22,7 +22,7 @@ talk:#wiki summary Kunstkamera
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 #bg = thegame/world/0980/background
-coordinates:09[-707|-222]
+coordinates:09[-708|-160]
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 

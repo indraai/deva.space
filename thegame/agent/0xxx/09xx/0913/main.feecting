@@ -10,8 +10,5 @@ img:thegame/agent/0913/avatar
 name:Tyler HackZION!
 vector: 0x0913a
 
-cmd:#pastebin view 8uatj6yP
-
-#bgcolor = #ffffff
-#color = #333333
+button[View - Tyler Call to HackZION!]:#pastebin view 8uatj6yP
 ::END:LOOK

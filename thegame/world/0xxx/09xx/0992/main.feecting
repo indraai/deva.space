@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see Murmansk State Technical University from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Murmansk State Technical University
+
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:09[-626|-222]
+::END:MAIN

@@ -5,15 +5,15 @@ p:You can see the Disneyland Entrance from here.
 ::BEGIN:MAIN
 img:thegame/world/1100/title
 
-img:thegame/world/1100/guide
-
-img:thegame/world/1100/dir
-
 ## Disneyland Entrance
 
 p:You are are at the Disneyland Entrance.
 
 talk:#wiki summary disneyland
+
+img:thegame/world/1100/guide
+
+img:thegame/world/1100/dir
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

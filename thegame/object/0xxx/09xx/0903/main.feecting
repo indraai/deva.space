@@ -3,18 +3,16 @@ img:thegame/object/0903/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+## Project Mayhem 2012
+
 title: Project Mayhem 2012: #OpCountdown | #PM2012
 date: Nov 11, 2012
 vector: 0x0903o
 
 link[Pastebin - Project Mayhem 2012]:https://bit.ly/3wtIutq
 
-bmud[View Text]:look text903
-::END:LOOK
+::begin:buttons
+button[View - Project Mayhem 2012]:#pastebin view VQPzpAUL
+::end:buttons
 
-::BEGIN:TEXT903
-::begin:pastebin
-talk:#pastebin view VQPzpAUL
-::end:pastebin
-::END:TEXT903
-====
+::END:LOOK

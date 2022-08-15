@@ -7,8 +7,10 @@ img:thegame/world/0019/title
 
 talk:#vedas book 9
 
-#color = #eeeeee
-#bg = thegame/world/0019/background
+link[Tuva National Museum]:https://goo.gl/maps/Pqs4p5LeQDVLP8zD9
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-390|-211]
 ::END:MAIN
 ====

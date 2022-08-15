@@ -9,23 +9,5 @@ vector: 0x0913o
 
 link[Pastebin - PM2012]:https://pastebin.com/VQPzpAUL
 
-::begin:pastebin
-talk:#pastebin view 8uatj6yP
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
-#color = var(--color-green)
+button[View - Project Mayhem 2012]:#pastebin view 8uatj6yP
 ::END:LOOK
-
-::BEGIN:TEXT
-title: Anonymous Project Mayhem 2012 Call to HackZION!
-date: May 3, 2012
-
-::begin:pastebin
-talk:#pastebin view 8uatj6yP
-::end:pastebin
-
-#bgcolor = rgba(0,0,0,0)
-#color = var(--color-orange)
-::END:TEXT
-====

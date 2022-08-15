@@ -5,29 +5,39 @@ You can see the Bank of Arjika from here.
 =
 
 ::BEGIN:MAIN
+img:thegame/world/0224/title
+
 ## Bank of Arjika
 
-Welcome to the Bank of Arjika. This bank is well known in the Underworld for doing good honest business. They also from time to time help authorities with financial investigations.
+p:Welcome to the Bank of Arjika. This bank is well known in the Underworld for doing good honest business. They also from time to time help authorities with financial investigations.
 
-## Gold
-bmud[🪙 Gold]:gold
-To check how much you are carrying.
-
-## Balance
-bmud[⚖️ Balance]:balance
-To check your current bank balance.
-
-## Deposit
-Quick commands to deposit coins into your account.
-
-bmud[💰 10]:deposit 10
-bmud[💰 25]:deposit 25
-bmud[💰 50]:deposit 50
-bmud[💰 100]:deposit 100
+talk:#adv world:thegame 0224/main:bank
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
+#bg = thegame/world/0224/background
 coordinates:00[-534|-326]
 ::END:MAIN
 
 =
+
+::BEGIN:BANK
+## Gold
+mud[🪙 Gold]:gold
+p:To check how much you are carrying.
+
+## Balance
+mud[⚖️ Balance]:balance
+p:To check your current bank balance.
+
+## Deposit
+p:Quick commands to deposit coins into your account.
+
+::begin:deposit
+bmud[💰 10]:deposit 10
+bmud[💰 25]:deposit 25
+bmud[💰 50]:deposit 50
+bmud[💰 100]:deposit 100
+::end:deposit
+::END:BANK
+====
