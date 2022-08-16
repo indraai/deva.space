@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see Restroom from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Restroom - Adventureland
+
+
+#color = #efdccd
+#bgcolor = #5da552
+coordinates:13[-733|-123]
+::END:MAIN

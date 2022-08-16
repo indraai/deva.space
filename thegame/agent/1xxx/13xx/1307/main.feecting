@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/1307/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1307/avatar
+name:SecurityDEVA Guard D1307
+vector: 0x1307a
+describe: SecurityDEVA is here to take your requests and do a great job at protecting the realm.
+::END:LOOK
