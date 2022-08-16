@@ -1,0 +1,43 @@
+::BEGIN:AVATAR
+img:thegame/object/1305/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/1305/avatar
+## The Black Grimroire
+name: The Black Grimroire
+vector: 0x1305o
+look[Training Text]:text
+
+## What is the secret of the great scientist?
+
+img:thegame/object/1305/book1
+
+p:Mystics consider Yakov Vilimovich Bruce a sorcerer of incredible strength, the first Russian freemason, who at one time became the right hand of the great Russian reformer Peter the Great. Among the people of that time, there were rumors that the most powerful sorcerer of Russia was the author of the creation of the homunculus, he knew how to get living and dead water. During the construction of St. Petersburg, the famous scientist began searching for immortality, which resulted in the creation of the world's first iron man (robot).
+
+img:thegame/object/1305/book2
+
+p:Contemporaries believed that Jacob Bruce creates his spells and experiments at night in the Sukharev Tower, keeping notes in the legendary Black Book. If the book is removed without the permission of the sorcerer, the tower will collapse. But the book disappeared, the tower collapsed, and the remains of the powerful magician were stolen.
+
+img:thegame/object/1305/book3
+
+p:The owner of the Sukharev Tower, which was located near the current Sukharevskaya metro station, was born in 1670. The father of the future associate of Peter the Great was forced to flee England because of the conflict with Cromwell, Russia became the new homeland. In his younger years, the representative of the noble Scottish family Bruce managed to get the best education at that time, but mathematics and natural sciences became Jacob's addiction, the fascination with which the great scientist carried through his whole life.
+
+p:Finding himself, together with his brother, a soldier of Peter's "funny" troops, Bruce made a career in the military field, was engaged in diplomacy during the time of incessant wars waged by Russia in Peter's era. With the coming to power of Catherine I, after the death of Peter, having risen to the rank of Field Marshal, the prudent military man retired, not wanting to participate in the cruel court enmity. Having retired on the territory of the estate near Moscow, the former commander took up medical practice, providing medical assistance to the peasants of the surrounding lands. The famous figure of that time passed away in 1735, shortly before his 66th birthday.
+
+p:The great sorcerer of all times and peoples Among the versatile interests of Jacob Bruce was an addiction to magic, he was attracted by astrology and alchemy, he was the first Russian member of the Brotherhood of Builders. In the memory of the descendants, the scientist remained as the author of recommendations for the development of Moscow, based on the knowledge of astrology and geomagnetic fields. Some historians believe that Bruce's unusual recommendations were taken into account by Stalin when building the center of the capital, as well as laying subway lines.
+
+p:The Moscow legends about the mysterious book were based on very real facts. During the inventory of the scientist's office, many unusual books about magic were found, as well as mysterious wooden tablets covered with incomprehensible symbols.
+
+p:According to popular rumor, Jacob Bruce still had a magic book that once belonged to King Solomon, famous for his wisdom. With the help of this book, the sorcerer could find out the secret of any place on earth, find out where and what is hidden. The magic tome, which was not given to anyone in the hands, was hidden in a secret room. To prevent the Black Book from ending up in the hands of unworthy people after the death of Bruce, the sorcerer, who spoke six European languages, immured it inside one of the walls of the Sukharev Tower. The destruction of the tower itself was attributed to the action of powerful spells from the Bruce book.
+
+p:In the new reality of the twentieth century, the legends about the sorcerer were corrected, he was credited with the creation of an airship, on which Bruce flew to unknown lands, and did not die at all. The very unusual fate of the alchemist, according to researchers, is fraught with many mysteries. For example, where and when the son of a serving nobleman managed to get such a comprehensive education, which allowed him to become an expert in many fields of science.
+
+p:The mystery of the Black Book and its whereabouts still haunt the adepts of magic and fans of the supernatural.
+
+link[Original Source]:https://mysticalmagazine.com/13078-jacob-bruce-and-his-magic-book/
+::END:LOOK
+
+::BEGIN:TEXT
+p: The Black Grimoire.
+::END:TEXT

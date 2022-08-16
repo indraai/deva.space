@@ -39,7 +39,6 @@ mud[DOWN]:d
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-465|-464]
 ::END:MAIN
 
 =
