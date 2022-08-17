@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Adventureland from here.
+p:You can see Tropical Imports from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Adventureland
+## Tropical Imports
 
 img:thegame/world/1303/attract
 

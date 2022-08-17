@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Magic Carpet from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Magic Carpet
+
+img:thegame/world/1310/attract
+
+#color = #efdccd
+#bgcolor = #5da552
+coordinates:13[-566|-71]
+::END:MAIN
