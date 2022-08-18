@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Souvenir Stand from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Character Food Stand
+
+p:This is where everyone in Fantasyland get's some good healthy food.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-172|-297]
+::END:MAIN

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Caricatures from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Caricatures
+
+p:You have made it to Caricatures.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:15[-554|-112]
+::END:MAIN
