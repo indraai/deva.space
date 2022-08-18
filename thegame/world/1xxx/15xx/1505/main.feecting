@@ -8,5 +8,5 @@ p:You can see King Arthur's Carousel from here.
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/1505/background
-coordinates:15[-408|-600]
+coordinates:15[-377|-552]
 ::END:MAIN

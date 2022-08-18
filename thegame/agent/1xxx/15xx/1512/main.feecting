@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/1512/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/1512/avatar
+name: The Mad Hatter
+vector: 0x1512a
+::END:LOOK

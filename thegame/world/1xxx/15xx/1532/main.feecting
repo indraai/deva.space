@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see Security - Fantasyland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:thegame/world/1532/title
+
+## Security R1532
+
+p:Welcome to Security.
+
+p:You have arrived in our Fantasylans Branch Office where all persons in Arjika are provided security, safety, and a smile.
+p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
+p:-Mangement
+
+#bg = thegame/world/1532/background
+#color = var(--color-yellow)
+#bgcolor = var(--color-black)
+
+coordinates:15[-604|-637]
+::END:MAIN

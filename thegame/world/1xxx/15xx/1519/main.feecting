@@ -7,5 +7,5 @@ p:You can see Souvenir Stand from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:15[-281|-394]
+coordinates:15[-282|-394]
 ::END:MAIN

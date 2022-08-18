@@ -7,5 +7,5 @@ p:You can see Casey Jr. Circus Train from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:15[-286|-67]
+coordinates:15[-297|-129]
 ::END:MAIN

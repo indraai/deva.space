@@ -3,9 +3,14 @@ p:You can see It's a Small World from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1530/title
+
 ## It's a Small World
+
+talk:#wiki summary It%27s_a_Small_World
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:15[-666|54]
+#bg = thegame/world/1530/background
+coordinates:15[-691|-4]
 ::END:MAIN

@@ -9,5 +9,5 @@ p:You have made it to Character Food Stands.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:15[-564|-325]
+coordinates:15[-580|-299]
 ::END:MAIN
