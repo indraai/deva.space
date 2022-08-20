@@ -7,10 +7,6 @@ img:thegame/world/0386/splash
 
 p:You have arrived at the Training Level 1 please move north to begin your trianing.
 
-talk:#docs view videos/current:main
-
-talk:#docs view emojis:main
-
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-white)
 coordinates:09[-465|-464]
