@@ -3,5 +3,6 @@ bmud[📌]:look securityboard
 ::END:AVATAR
 
 ::BEGIN:LOOK
-The indra.agency security bulletin board.
+## Security Bulletin
+p:You are looking at The Security Bulletin Board.
 ::END:LOOK
