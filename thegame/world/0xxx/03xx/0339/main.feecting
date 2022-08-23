@@ -8,10 +8,11 @@ img:thegame/world/0339/title
 p:Adventure On!
 
 ::begin:arcade
-talk:#docs view games/main:telehack
+talk:#adv world:thegame 0339/main:telehack
 ::end:arcade
+
 ::begin:arcade
-talk:#docs view games/main:93realms
+talk:#adv world:thegame 0339/main:93realms
 ::end:arcade
 
 #bg = thegame/world/0339/background
@@ -19,3 +20,22 @@ talk:#docs view games/main:93realms
 #color = #73c3ff
 coordinates:00[-300|-887]
 ::END:MAIN
+
+::BEGIN:TELEHACK
+## Telehack
+img:thegame/world/0339/telehack
+title: Telehack
+cmd:#arc open telehack.com:23
+
+link[Homepage]:http://telehack.com/
+link[MudStats]:http://mudstats.com/World/Telehack
+
+p:Telehack is a simulation of a sylized arpanet/usenet, circa 1985-1990. It is a full multi-user simulation, including 25,000 hosts and BBS's the early net, thousands of files from the ero, a collection of adventure and IF games, a working BASIC interpreter with a library of programs to run, simulated historical users, and more.
+::END:TELEHACK
+
+::BEGIN:93REALMS
+## 93 Realms
+img:thegame/world/0339/93realms
+title: 93 Realms
+cmd:#arc open windows93.net:8082
+::END:93REALMS

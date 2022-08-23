@@ -7,11 +7,11 @@ img:thegame/world/0327/title
 This is the southeast corner of the Adventure Arcade where you will find Disc World and Elder Tale Online.
 
 ::begin:arcade
-talk:#docs view games/main:discworld
+talk:#adv world:thegame 0327/main:discworld
 ::end:arcade
 
 ::begin:arcade
-talk:#docs view games/main:eldertales
+talk:#adv world:thegame 0327/main:eldertales
 ::end:arcade
 
 #bgcolor = #000000
@@ -19,3 +19,32 @@ talk:#docs view games/main:eldertales
 #bg = thegame/world/0355/background
 coordinates:00[-404|-921]
 ::END:MAIN
+
+::BEGIN:DISCWORLD
+## Discworld
+img:thegame/0355/discworld
+title: Discworld MUD
+year: 1991
+ver: LpMUD
+
+cmd:#arc open discworld.starturtle.net:23
+
+link[Website]:https://discworld.starturtle.net/lpc/
+link[Mudstats]:http://mudstats.com/World/DiscworldMUD
+
+p:Discworld is a flat world ten thousand miles across that rests on the backs of four elephants who stand on the shell of Great A'Tuin, the sky turtle, as he, or, as it might be, she, swims through space. From Ankh-Morpork, jewel (okay, so it's a carbuncle) of cities, venture hubwards across the brassica'ed Sto Plains to the Ramtops, cross the Circle Sea to the dark and mysterious continent of Klatch. Discworld combines the humour and richness of Terry's books with a high quality mud that appeals to both fans and those who have never read his work. As a very kind reviewer said: 'With fish, wombles, intelligent shades of blue, straw dummies, shiny plaques, mended drums, Shifty Jim, Ankh-Morpork pence all on very...
+::END:DISCWORLD
+
+::BEGIN:ELDERTALES
+## Elder Tale Online
+img:thegame/0355/eldertales
+title: Elder Tale Online
+year: ???
+
+cmd:#arc open mush.eldertaleonline.com:7705
+
+link[Website]:https://eldertaleonline.com/
+link[MudStats]:http://mudstats.com/World/ElderTaleOnline
+
+p:Elder Tale Online//Inception is a MUSH based on the Isekai genre (Trapped in another World), focusing on the lives of those on the Japanese archipelago drawn into the world of the fictional Elder Tale Online VR-MMORPG.
+::END:ELDERTALES

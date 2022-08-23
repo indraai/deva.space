@@ -9,8 +9,6 @@ thanks:Thank you for visiting the Shrine of Indu. Please leave your Offerings on
 
 mud[Exit South...]:s
 
-talk:#docs view vedas/indu
-
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
 #bg = thegame/world/0032/background

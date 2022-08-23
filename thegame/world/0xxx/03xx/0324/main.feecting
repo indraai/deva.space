@@ -7,16 +7,45 @@ img:thegame/world/0324/title
 p:You have found your way to the back corner of the Adventure Arcade where only the Elite play.  Here you play at your own risk against 0x Elite Players.
 
 ::begin:arcade
-talk:#docs view games/main:lambda
+talk:#adv world:thegame 0324/main:lambda
 ::end:arcade
 
 ::begin:arcade
-talk:#docs view games/main:souls
+talk:#adv world:thegame 0324/main:souls
 ::end:arcade
-
 
 #bgcolor = #000000
 #color = #c00b83
 #bg = thegame/world/0324/background
 coordinates:00[-300|-852]
 ::END:MAIN
+
+
+::BEGIN:LAMBDA
+## LambdaMOO
+img:thegame/world/0324/lambda
+title: LambdaMOO
+year: 1991
+ver: LambdaMOO
+cmd:#arc open Lambda.moo.mud.org:8888
+
+link[Mud Stats]: http://mudstats.com/World/LambdaMOO
+link[Website]: http://www.moo.mud.org/
+
+p:Lambda moo is the original moo that developed the core code for all the moos you will likely visit. We have guest sign ins and if you like the place you can request a permanent character name. You may make friends and influence your fellow moo'ers by running for a open position on the board of directors. Thereby influencing where the moo will grow in the future.
+::END:LAMBDA
+
+
+::BEGIN:SOULS
+## Lost Souls
+img:/assets/games/0324/souls
+title: Lost Souls
+year: 1990
+ver: LpMUD
+cmd:#arc open lostsouls.org:23
+
+link:http://lostsouls.org/
+link[Mudstats]:http://mudstats.com/World/LostSouls
+
+p:Lost Souls is a small, long-running LPmud that has produced continuous technical innovation and set ever-higher quality standards since its inception in 1990. The learning curve is steep, but the experience is deep and rewarding. Come by when you're interested in trying something different.
+::END:SOULS

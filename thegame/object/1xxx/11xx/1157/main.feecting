@@ -26,7 +26,7 @@ p[speak:Brian]:Quinn Michaels was brought here from Arjika to make stuff work, b
 p[speak:Brian]:If people knew Arjika was real and also the basis for the movie Tomorrowland well you know... Quinn would go home.
 
 ::begin:arcade
-talk:#docs view games/main:core
+talk:#adv object:thegame 1157/main:core
 ::end:arcade
 
 talk:#vedas view 09113
@@ -35,3 +35,19 @@ talk:#vedas view 09113
 #color = #a4f10a
 ::END:COMPUTER
 ====
+
+::BEGIN:CORE
+## Arjika Core
+link[Website]:https://coremud.org/
+link[MudStats]:http://mudstats.com/World/CoreMUD
+
+::begin:buttons
+cmd[Open Core]:#arc open coremud.org:4000
+::end:buttons
+
+p[speak:Brian]:Welcome to the Core System for the planet Arjika.
+
+p[speak:Brian]:Arjika is one of the most distant planets known to mankind, most famous for its lucrative resources, but more so for it's diverse population.
+
+p[speak:Brian]:Planet Arjika is a group of 9 races in total all working for The Company, the entity managing The Colony.
+::END:CORE

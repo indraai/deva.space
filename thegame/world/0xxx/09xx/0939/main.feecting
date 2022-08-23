@@ -9,7 +9,7 @@ p:You can see Training Room 934 from here.
 talk:#adv world:thegame 0900/training:card
 
 ::begin:arcade
-talk:#docs view games/main:evil
+talk:#adv object:world 0326/main:evil
 ::end:arcade
 
 title: (EVIL!)Mud

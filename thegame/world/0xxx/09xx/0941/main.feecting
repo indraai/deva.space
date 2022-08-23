@@ -24,7 +24,7 @@ bmud[Player Photos 3]:look tip3
 ::end:buttons
 
 ::begin:arcade
-talk:#docs view games/main:eotl
+talk:#adv world:thegame 0327/main:eotl
 ::end:arcade
 
 

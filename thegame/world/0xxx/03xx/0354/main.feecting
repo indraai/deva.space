@@ -10,10 +10,11 @@ Welcome to the Star Wars Gallery where you too can train to become a JEDI Knight
 - Legends of the Jedi
 
 ::begin:arcade
-talk:#docs view games/main:swaoa
+talk:#adv world:thegame 0354/main:swaoa
 ::end:arcade
+
 ::begin:arcade
-talk:#docs view games/main:jedi
+talk:#adv world:thegame 0354/main:jedi
 ::end:arcade
 
 #bgcolor = #000000
@@ -21,3 +22,34 @@ talk:#docs view games/main:jedi
 #bg = thegame/world/0354/background
 coordinates:00[-370|-921]
 ::END:MAIN
+
+::BEGIN:SWAOA
+## Star Wars: Age of Alliances
+img:thegame/world/0354/swaoa
+title: Star Wars: Age of Alliances
+year: 2001
+ver: PennMUSH
+
+cmd:#arc open swaoa-mush.com:5500
+
+link[Website]:http://starwars.xidus.net/
+link[Wiki]:http://www.swaoa-mush.com/wiki/Main_Page
+link[MudStats]:http://mudstats.com/World/StarWarsAgeofAlliances
+
+p:Age of Alliances was created in 2000 and launched in 2001. Its been over 17 years of text-based-role-playing in the Star Wars galaxy. The MUSH is now set 29 years after the events of Return of the Jedi and just before the events of The Force Awakens. The events of Episode 7 & 8 will not occur on the MUSH until Episode 8 hits theaters (December 2017). Until then, we will be building up to that point and establishing back-lore based on Episode 7's revealed "new era" of the Star Wars galaxy.
+::END:SWAOA
+
+::BEGIN:JEDI
+## Legends of the Jedi
+img:thegame/world/0354/legends
+title: Legends of the Jedi
+year: 1999
+ver: LotJ
+
+cmd:#arc open legendsofthejedi.com:5656
+
+link[Website]:http://legendsofthejedi.com/
+link[MudStats]:http://mudstats.com/World/LegendsoftheJedi
+
+p:Age of Alliances was created in 2000 and launched in 2001. Its been over 17 years of text-based-role-playing in the Star Wars galaxy. The MUSH is now set 29 years after the events of Return of the Jedi and just before the events of The Force Awakens. The events of Episode 7 & 8 will not occur on the MUSH until Episode 8 hits theaters (December 2017). Until then, we will be building up to that point and establishing back-lore based on Episode 7's revealed "new era" of the Star Wars galaxy.
+::END:JEDI

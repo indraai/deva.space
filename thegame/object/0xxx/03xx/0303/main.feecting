@@ -9,6 +9,21 @@ vector: 0x_0303o
 describe:...
 
 ::begin:hymn
-talk:#docs view vedas/arjika/tarksya
+talk:#adv object:thegame 0303/main:tarksya
 ::end:hymn
 ::END:LOOK
+
+::BEGIN:TARKSYA
+## Tarksya
+
+link:https://www.sacred-texts.com/hin/rigveda/rv10178.htm
+
+p:This very mighty one whom Gods commission, the Conqueror of cars, ever triumphant, swift, fleet to battle, with uninjured fellies.
+p:Tārkṣya for our weal will we call hither.
+p:As we offered up our gifts to Indra, may we ascend.
+l:Him as a ship.
+l:For safety.
+p:Like the two wide worlds, broad, deep far-extended.
+l:May we be safe both when he comes and leaves you.
+p:He who with might the Five Lands hath pervaded. His strength wins hundreds, thousands none avert it.
+::END:TARKSYA
