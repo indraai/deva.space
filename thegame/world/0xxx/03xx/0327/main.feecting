@@ -25,7 +25,7 @@ coordinates:00[-404|-852]
 
 ::BEGIN:AVATAR
 ## Avatar MUD
-img:thegame/world/0327/avatar
+img:thegame/world/0327/avatarmud
 title: Avatar MUD
 
 cmd:#arc open avatar.outland.org:3000
