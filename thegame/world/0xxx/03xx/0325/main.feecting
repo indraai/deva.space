@@ -22,7 +22,7 @@ coordinates:00[-335|-852]
 
 ::BEGIN:GENESIS
 ## Genesis
-image:/public/games/genesis/title.png
+img:thegame/world/0325/genesis
 title: Genesis
 date: 1989
 ver: LpMUD
@@ -38,7 +38,7 @@ p:Genesis is the first and original of all LPMud games, created by the founder o
 
 ::BEGIN:NANVAENT
 ## Nanvaent
-image:/public/games/nanvaent/title.png
+img:thegame/world/0325/nanvaent
 title: Nanvaent
 since: 1989
 ver: LpMUD
