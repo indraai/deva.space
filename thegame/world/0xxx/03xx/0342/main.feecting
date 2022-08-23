@@ -17,7 +17,7 @@ coordinates:00[-404|-887]
 
 ::BEGIN:HEROESASSEMBLE
 ## Heroes Assemble
-image:/public/games/heroesassemble/title.png
+img:thegame/world/0342/title
 title: New Worlds: Ateeran
 
 cmd:#arc open heroesassemble.mushhaven.com:3000
