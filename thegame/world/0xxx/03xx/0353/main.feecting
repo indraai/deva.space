@@ -10,15 +10,15 @@ Welcom to the Adventure Arcade. In this room you will find the games.
 - Burning MUD
 
 ::begin:arcade
-talk:#adv world/thegame 0353/main:federation
+talk:#adv world:thegame 0353/main:federation
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world/thegame 0353/main:ateraan
+talk:#adv world:thegame 0353/main:ateraan
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world/thegame 0353/main:burning
+talk:#adv world:thegame 0353/main:burning
 ::end:arcade
 
 #bgcolor = #000000
