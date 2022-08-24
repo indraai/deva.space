@@ -6,6 +6,8 @@ p:You can see the room from here.
 
 ::BEGIN:LOOK
 p:In times of need citizens come here to seek the help of brave adventurers to recover stolen items, or seek revenge on people who have wronged them. This small room is decorated with paintings of famous quests and the exulted hereos that have become common names throughout the realm. It is said that completing a quest is a prerequisite towards immortality.
+
+coordinates:01[-465|-464]
 ::END:LOOK
 
 =
