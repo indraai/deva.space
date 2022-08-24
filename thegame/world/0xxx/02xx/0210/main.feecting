@@ -7,7 +7,6 @@ p:You can see indra.city/n from here.
 ::BEGIN:MAIN
 img:thegame/world/0210/title
 p:You are in indra.city/n.
-#bg = thegame/world/0210/background
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-291]
