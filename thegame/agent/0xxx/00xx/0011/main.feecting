@@ -3,5 +3,8 @@ img:thegame/agent/0011/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-Yama
+img:thegame/agent/0011/avatar
+name: Yama
+vector: 0x0011a
+describe: Yama the Deva of Justice.
 ::END:LOOK

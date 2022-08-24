@@ -3,5 +3,7 @@ img:thegame/agent/0012/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-Yami
+img:thegame/agent/0012/avatar
+name: Chitragupta
+vector: 0x0012a
 ::END:LOOK
