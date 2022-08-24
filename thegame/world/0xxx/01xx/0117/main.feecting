@@ -1,14 +1,17 @@
 ::BEGIN:LOOK
-You can see the Travelling Room.
+p:You can see the Development Room.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-This room stands empty as it is being prepared for a portal summoning.  The walls are glistening white plaster with a vaulted ceiling.  Powerful mages are said to be able to create portals through their arcane arts, though many die in the process. The skill is as of yet unmastered.
+## Development
 
-It is rumored that the evil Drakkar has achieved this mastery, but none have ever witnessed it.
+p:This room stands empty as it is being prepared for a portal summoning.  The walls are glistening white plaster with a vaulted ceiling.  Powerful mages are said to be able to create portals through their arcane arts, though many die in the process. The skill is as of yet unmastered.
 
+p:It is rumored that the evil Drakkar has achieved this mastery, but none have ever witnessed it.
+
+coordinates:01[-465|-464]
 ::END:MAIN
 
 =
