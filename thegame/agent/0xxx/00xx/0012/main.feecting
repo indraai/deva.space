@@ -6,4 +6,5 @@ img:thegame/agent/0012/avatar
 img:thegame/agent/0012/avatar
 name: Chitragupta
 vector: 0x0012a
+describe: Chitragupta is the recorder of all things.
 ::END:LOOK
