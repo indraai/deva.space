@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0113/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0113/avatar
+name: Quest Master
+vector: 0x0113a
+::END:LOOK
