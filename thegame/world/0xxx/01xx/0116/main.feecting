@@ -1,12 +1,15 @@
 ::BEGIN:LOOK
+p:You can see Engineering from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-This used to be a travelling room. Entire sections of the floor are now embedded in the ceiling and it is even possible to see to the outside through a hole in one wall. This is what happens when a portal becomes unstable.
+p:This used to be a travelling room. Entire sections of the floor are now embedded in the ceiling and it is even possible to see to the outside through a hole in one wall. This is what happens when a portal becomes unstable.
 
-It is certainly a grim reminder to flee the second it seems a portal may be falling apart. The charred silhouette of what once must have been a man is blasted into one of the walls.
+p:It is certainly a grim reminder to flee the second it seems a portal may be falling apart. The charred silhouette of what once must have been a man is blasted into one of the walls.
+
+coordinates:01[-361|-464]
 ::END:MAIN
 
 =
