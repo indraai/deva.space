@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see the Development Room.
+p:You can see the Science Room.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## Development
+## Science
 
 p:This room stands empty as it is being prepared for a portal summoning.  The walls are glistening white plaster with a vaulted ceiling.  Powerful mages are said to be able to create portals through their arcane arts, though many die in the process. The skill is as of yet unmastered.
 
