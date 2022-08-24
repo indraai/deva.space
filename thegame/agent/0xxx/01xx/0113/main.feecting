@@ -4,6 +4,10 @@ img:thegame/agent/0113/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0113/avatar
-name: Quest Master
+name: Dhatar
 vector: 0x0113a
+
+::begin:veda
+talk:#veda view 10190
+::end:veda
 ::END:LOOK
