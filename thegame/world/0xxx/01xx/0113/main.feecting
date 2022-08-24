@@ -11,7 +11,7 @@ p:In times of need citizens come here to seek the help of brave adventurers to r
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:01[-465|-464]
+coordinates:01[-465|-361]
 ::END:MAIN
 
 =
