@@ -11,6 +11,8 @@ p:This room stands empty as it is being prepared for a portal summoning.  The wa
 
 p:It is rumored that the evil Drakkar has achieved this mastery, but none have ever witnessed it.
 
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 coordinates:01[-569|-464]
 ::END:MAIN
 
