@@ -18,7 +18,7 @@ p:One share of the libation hath he swallowed down, and one share he left.
 
 p:So may the God attend the God, true Indu Indra who is true.
 
-l:Brought forth together with wisdom and mighty power. 
+l:Brought forth together with wisdom and mighty power.
 l:Thou grewest great with hero deeds.
 
 p:Giving prosperity, and lovely wealth to him who praiseth thee.
@@ -31,7 +31,7 @@ p:All that is godless may he conquer with his might, and, Lord of Hundred Powers
 ::end:hymn
 
 
-cmd:#vedas view 02022
+cmd:#veda view 02022
 
 #bg = thegame/world/0138/background
 #color = #8bfdfe

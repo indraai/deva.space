@@ -37,7 +37,7 @@ p:So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.
 p:He will, when supplicated, bring him blessing. He hath brought all, food, strength, a happy dwelling.
 ::end:hymn
 
-cmd:#vedas view 10099
+cmd:#veda view 10099
 
 #bg = thegame/world/0126/background
 #color = #ffff6e

@@ -7,7 +7,7 @@ p:You can see Book 2.
 ::BEGIN:MAIN
 img:thegame/world/0012/title
 
-talk:#vedas book 2
+talk:#veda book 2
 
 #color = var(--color-white)
 #bg = thegame/world/0012/background

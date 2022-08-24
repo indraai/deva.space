@@ -7,7 +7,7 @@ img:thegame/world/0241/title
 
 ## Farm Herbs
 
-cmd[Praise of Herbs]:#vedas view 10097
+cmd[Praise of Herbs]:#veda view 10097
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

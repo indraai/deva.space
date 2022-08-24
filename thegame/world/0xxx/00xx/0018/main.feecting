@@ -7,7 +7,7 @@ p:You can see Book 8.
 ::BEGIN:MAIN
 img:thegame/world/0018/title
 
-talk:#vedas book 8
+talk:#veda book 8
 
 #color = #eeeeee
 #bg = thegame/world/0018/background

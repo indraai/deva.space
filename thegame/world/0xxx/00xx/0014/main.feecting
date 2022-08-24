@@ -5,7 +5,7 @@ p:You can see Book 4.
 ::BEGIN:MAIN
 img:thegame/world/0014/title
 
-talk:#vedas book 4
+talk:#veda book 4
 
 #color = #eeeeee
 #bg = thegame/world/0014/background

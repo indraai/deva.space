@@ -7,7 +7,7 @@ p:You can see Book 6
 ::BEGIN:MAIN
 img:thegame/world/0016/title
 
-talk:#vedas book 6
+talk:#veda book 6
 
 #color = #eeeeee
 #bg = thegame/world/0016/background

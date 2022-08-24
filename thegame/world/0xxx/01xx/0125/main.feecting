@@ -62,7 +62,7 @@ l:Let none prevent thee: thou art Lord of Valour.
 l:Provide for both sides in the fray for booty.
 ::end:hymn
 
-cmd:#vedas view 01091
+cmd:#veda view 01091
 #bg = thegame/world/0125/background
 #color = #5afcfc
 ::END:MAIN

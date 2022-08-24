@@ -6,7 +6,7 @@ p:You can see Book 3
 ::BEGIN:MAIN
 img:thegame/world/0013/title
 
-talk:#vedas book 3
+talk:#veda book 3
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
