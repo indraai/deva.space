@@ -5,9 +5,9 @@ p:You can see Farm Veggies here.
 ::BEGIN:MAIN
 img:thegame/world/0180/title
 
-## Farm Veggies
+## Candy Dirt Patch
 
-p:Here you get your veggies.
+p:Here you get your candy dirt.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

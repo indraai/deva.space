@@ -5,11 +5,11 @@ bmud[🥕]:look veggies
 ::BEGIN:LOOK
 img:thegame/object/0181/avatar
 ## Veggies
-name:
+name: Vegetables
 vector: 0x0181o
 look[Training Text]:text
 ::END:LOOK
 
 ::BEGIN:VEGGIES
-p:🥕 Veggies
+p:🥕 Veggies ox0181o
 ::END:VEGGIES

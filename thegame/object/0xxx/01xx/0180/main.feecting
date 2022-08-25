@@ -1,5 +1,5 @@
 ::BEGIN:AVATAR
-img:thegame/object/0180/avatar
+bmud[🍬]:look candy
 ::END:AVATAR
 
 ::BEGIN:LOOK
@@ -9,6 +9,6 @@ vector:0x0180o
 describe:The Candy Dirt is here. Acquired on adventures with SecurityPRIME we have brought it home so we could offer it ot you.
 ::END:LOOK
 
-::BEGIN:ACTION
-p:YOU CAN SEE SOME TASTY CADY DIRT.
-::END:ACTION
+::BEGIN:CANDY
+talk:#adv object:thegame 0180/main:look
+::END:CANDY

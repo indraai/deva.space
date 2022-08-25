@@ -2,14 +2,12 @@
 p:You can see indra.store/toys from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
 img:thegame/world/0234/title
-p:You are in indra.store/toys
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-335|-403]
-::END:MAIN
 
-=
+p:You are in indra.store/toys
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-327|-395]
+::END:MAIN

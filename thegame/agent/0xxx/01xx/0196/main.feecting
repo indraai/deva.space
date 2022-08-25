@@ -1,10 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0196/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
 img:thegame/agent/0196/avatar
-p:Marry is here to help you with your body needs. Wether it be candles, creams, razors, lotions, or something else you might need.  Marry is here to help.
+name: Marry
+vector: 0x0196a
+describe:Marry is here to help you with your body needs. Wether it be candles, creams, razors, lotions, or something else you might need.  Marry is here to help.::END:LOOK
 ::END:LOOK
 ====
