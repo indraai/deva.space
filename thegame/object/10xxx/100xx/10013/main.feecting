@@ -1,10 +1,10 @@
 ::BEGIN:AVATAR
-img:thegame/object/1013/avatar
+img:thegame/object/10013/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1013/token
-name:0x_1013 Reward Token
-vector:0x1013_012513
+img:thegame/object/10013/token
+name:0x_10013 Reward Token
+vector:0x10013_012513
 describe:You decided to warn your friends and they lowered a safety rope for you.
 ::END:LOOK
