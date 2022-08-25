@@ -1,10 +1,10 @@
 ::BEGIN:AVATAR
-img:thegame/object/1008/avatar
+img:thegame/object/10008/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/1008/token
-name:0x1008 Token
-vector:0x1008
-describe:The 0x1008 Token.
+img:thegame/object/10008/token
+name:0x10008 Token
+vector:0x10008
+describe:The 0x10008 Token.
 ::END:LOOK
