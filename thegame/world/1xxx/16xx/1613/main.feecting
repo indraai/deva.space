@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Monorail System from here.
+p:You can see Submarine Voyage from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Monorail System
+## Submarine Voyage
 
 img:thegame/world/1600/guide
 
