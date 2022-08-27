@@ -5,7 +5,9 @@ p:You can see Tomorrowland from here.
 ::BEGIN:MAIN
 ## Circle-Vision 360
 
-#bgcolor = #73b9c5
-#color = #ffffff
-coordinates:16[-286|-349]
+img:thegame/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-278|-342]
 ::END:MAIN
