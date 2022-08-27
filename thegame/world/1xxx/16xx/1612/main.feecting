@@ -6,4 +6,7 @@ p:You can see Monorail System from here.
 ## Monorail System
 
 
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-278|-342]
 ::END:MAIN
