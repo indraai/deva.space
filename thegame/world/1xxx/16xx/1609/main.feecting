@@ -7,6 +7,5 @@ p:You can see Tomorrowland from here.
 
 #bgcolor = var(--color-baby-blue)
 #color = var(--color-white)
-
 coordinates:16[-565|-743]
 ::END:MAIN
