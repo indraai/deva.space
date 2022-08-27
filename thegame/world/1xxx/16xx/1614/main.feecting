@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see RR Trains from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## RR Trains
+
+img:thegame/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-493|-242]
+::END:MAIN
