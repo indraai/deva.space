@@ -11,5 +11,5 @@ p:You are in 9N8W Outer Loop.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-188|-153]
+coordinates:00[-189|-153]
 ::END:MAIN
