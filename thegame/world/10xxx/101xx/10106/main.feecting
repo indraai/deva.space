@@ -17,7 +17,7 @@ p:You're running higher and faster, leaping fifty feet at a time.
 
 p:Ahead of you, Katu flies off the mountain. Before you can stop yourself your feet lose touch with the ground, and you're in the air, being swept higher and higher, straight toward the Black Sun!
 
-img:thegame/world/1106/universe
+img:thegame/world/10106/universe
 
 p:You've read that a black hole might somehow be an entrance to another universe.
 
@@ -30,5 +30,4 @@ talk:#adv hash add 106
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
-
 ::END:MAIN
