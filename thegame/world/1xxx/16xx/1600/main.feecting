@@ -3,8 +3,11 @@ p:You can see Tomorrowland from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
 ## Tomorrowland
 
+img:thegame/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
 coordinates:16[-201|-525]
 ::END:MAIN
