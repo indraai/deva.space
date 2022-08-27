@@ -3,11 +3,11 @@ p:You can see the Carnation Ice Cream Parlor from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Carnation Ice Cream Parlor
+## Ice Cream Parlor
 
 p:You are are at the Carnation Ice Cream Parlor.
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 coordinates:11[-367|-393]
 ::END:MAIN
