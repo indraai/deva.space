@@ -6,7 +6,8 @@ p:You can see the Kitchen from here.
 ## Kitchen
 
 title: KITCHEN
-room: 305
+room: 320
+vector: 0x0320r
 describe:  The Arjika Kitchen where CHEF prepares the meals.
 
 #bgcolor = var(--color-black)
