@@ -10,16 +10,7 @@ room: 284
 vector: 0x0284r
 opsec: L5
 
-p:The Arjika Research Laboratory (ARL) is the Military's laboratory.
-
-p:Six technical directorates:
-
-- Computational and Information Sciences
-- Human Research and Engineering
-- Sensors and Electron Devices
-- Survivability/Lethality Analysis
-- Vehicle Technology
-- Weapons and Materials Research
+describe:The Arjika Research Laboratory (ARL) is the Military's laboratory.
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
