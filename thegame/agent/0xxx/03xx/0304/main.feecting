@@ -4,8 +4,8 @@ img:thegame/agent/0304/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0304/avatar
-# ARMY CYBER3
-name: ARMY Cyber3
+# CYPHER3
+name: CYPHER3
 vector: 0x0304a
-describe: ARMY Cyber3 is a specialist at his job in handling L3 Cyber issues.
+describe: CYPHER3 is a specialist at his job in handling L3 CYPHER issues.
 ::END:LOOK
