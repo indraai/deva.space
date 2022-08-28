@@ -1,20 +1,17 @@
 ::BEGIN:LOOK
-p:The ARMY Cyber 2 Center is here to provide mid-grade service for our Cyber Community in areas such as Contract Investigation, Network Breaches, and Internal Network Security.
+p:The CYPHER-2 Center is here to provide mid-grade service for our Cypher Community in areas such as Contract Investigation, Network Breaches, and Internal Network Issues/Security.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0319/title
+## CYPHER-2
 
-## ARMY CYBER2
-
-title: CYBER2
+title: CYPHER-2
 room: 319
 opsec: L2
 vector: 0x_0319R
-describe: ARMY CYBER2 handles the middle threats. CYBER2 are specialists in items such as contractor fraud, internal network security, and dealing with network breaches that require more training than CYBER1.
+describe: CYPHER-2 handles the middle threats. CYPHER-2 are specialists in items such as contractor fraud, internal network security, and dealing with network breaches that require more training than CYPHER-1.
 
-#bg = thegame/world/0319/background
-#bgcolor = #000000
-#color = #ffc900
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822.5|-707]
 ::END:MAIN
