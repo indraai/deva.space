@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see ARMY Barracks from here.
+p:You can see Barracks from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# ARMY BARRACKS
+# BARRACKS
 
 title: BARRACKS
 room: 298
