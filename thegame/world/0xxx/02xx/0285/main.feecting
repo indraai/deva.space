@@ -3,15 +3,14 @@ p:You can see ARMY Research from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0285/title
-
 title: RESEARCH
 room: 284
+vector: 0x0284r
 opsec: L5
 
-p:The Army Research Laboratory (ARL) is the U.S. Army's corporate research laboratory. ARL is headquartered at the Adelphi Laboratory Center (ALC) in Adelphi, Maryland. Its largest single site is at Aberdeen Proving Ground, Maryland. Other major ARL locations include Research Triangle Park, North Carolina, White Sands Missile Range, New Mexico, Orlando, Florida, and NASA's Glenn Research Center, Ohio and Langley Research Center, Virginia. ARL also has regional sites in Los Angeles (ARL West), Chicago (ARL Central), Austin, TX (ARL South), and Boston (ARL Northeast).
+p:The Arjika Research Laboratory (ARL) is the Military's laboratory.
 
-p:In addition to the Army Research Office, ARL has six technical directorates:
+p:Six technical directorates:
 
 - Computational and Information Sciences
 - Human Research and Engineering
@@ -20,8 +19,7 @@ p:In addition to the Army Research Office, ARL has six technical directorates:
 - Vehicle Technology
 - Weapons and Materials Research
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0285/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-857|-603]
 ::END:MAIN
