@@ -15,6 +15,5 @@ p:Battle buddies generally refer to partners in a military scenario.
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
-#bg = thegame/world/0335/background
 coordinates:00[-857|-741]
 ::END:MAIN
