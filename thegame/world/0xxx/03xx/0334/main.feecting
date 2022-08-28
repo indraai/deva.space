@@ -1,20 +1,17 @@
 ::BEGIN:LOOK
-p:You can see the ARMY Cyber 1.
+p:You can see the CYPHER-1.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0334/title
+## CYPHER-1
 
-## ARMY CYBER1
-
-title: CYBER1
+title: CYPHER-1
 room: 334
+vector: 0x_0334r
 opsec: L1
-vector: 0x_0334R
-describe: ARMY CYBER1 handles the basic threats. CYBER1 are specialists in items such as network security, hacking, and dealing with network issues.
+describe: CYPHER-1 handles the basic threats. CYPHER-1 are specialists in items such as network security, hacking, and dealing with network issues.
 
-#bg = thegame/world/0334/background
-#bgcolor = #000000
-#color = #ffc900
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822.5|-741]
 ::END:MAIN
