@@ -1,18 +1,15 @@
 ::BEGIN:LOOK
-p:You can see the ARMY Kitchen from here.
+p:You can see the Kitchen from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
-
-## ARMY KITCHEN
+## Kitchen
 
 title: KITCHEN
 room: 305
-describe:  THE ARMY KITCHEN WHERE FOOD IS PREPARED.
+describe:  The Arjika Kitchen where CHEF prepares the meals.
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0320/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-857|-637]
 ::END:MAIN

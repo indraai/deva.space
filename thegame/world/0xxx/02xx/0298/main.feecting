@@ -3,16 +3,14 @@ p:You can see ARMY Barracks from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
-
 # ARMY BARRACKS
 
 title: BARRACKS
 room: 298
-describe:  THE ARMY BARRACKS WHERE SOLDIERS SLEET/RELAX.
+vector: 0x0298r
+describe:  THE ARJIKA BARRACKS WHERE SOLDIERS SLEET/RELAX.
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0298/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-857|-706]
 ::END:MAIN
