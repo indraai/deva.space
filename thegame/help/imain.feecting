@@ -1,0 +1,37 @@
+p:For a list of commands available to you.
+cmd:#mud commands
+
+p:For a list of immortal commands type.
+cmd:#mud wizhelp
+
+p:To learn more about the above.
+tel:#mud help [COMMAND]
+
+p:New to the game?
+cmd:#mud > handbook
+cmd:#mud > policy
+
+### redit
+p:Help with redit?
+cmd:#mud help redit
+cmd:#mud help redit-menu
+
+### oedit
+Help with oedit?
+cmd:#mud help oedit
+cmd:#mud help oedit-menu
+
+### medit
+p:Help with medit?
+cmd:#mud help medit
+cmd:#mud help medit-menu
+
+### zedit
+p:Help with zedit ?      @RHELP ZEDIT@n    | @RHELP ZEDIT-MENU@n
+  Help with sedit ?      @RHELP SEDIT@n    | @RHELP SEDIT-MENU@n
+  Help with trigedit ?   @RHELP TRIGEDIT@n | @RHELP TRIGEDIT-MENU@n
+  Help with qedit ?      @RHELP QEDIT@n    | @RHELP QEDIT-MENU@n
+
+  Have other unanswered questions ?      @RHELP BUILDING@n
+
+Any capital letters in red should be typed for further information.

@@ -1,15 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0213/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
 img:thegame/agent/0213/avatar
-## King Rahu
-name:Rahu King of Demons
-
-p:Once on a time as the gods and Danavas were fighting each other in the dark, Rahu pierced both Surya and Soma with his arrows. The gods, overwhelmed by darkness, began to fall before the mighty Danavas, O foremost of kings! Repeatedly struck by the Asuras, the denizens of heaven began to lose their strength.
-
-p:Once on a time as the gods and Danavas were fighting each other in the dark, Rahu pierced both Surya and Soma with his arrows. The gods, overwhelmed by darkness, began to fall before the mighty Danavas, O foremost of kings! Repeatedly struck by the Asuras, the denizens of heaven began to lose their strength.
+## Rahu
+name: Rahu
+vector: 0x0213a
+describe: King Rahu
 ::END:LOOK
-====
