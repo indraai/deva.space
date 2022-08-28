@@ -3,6 +3,8 @@ p:You can see ARMY Research from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+## RESEARCH
+
 title: RESEARCH
 room: 284
 vector: 0x0284r
