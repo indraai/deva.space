@@ -1,22 +1,19 @@
 ::BEGIN:LOOK
-p:You can see ARMY Development from here.
+p:You can see COMMAND from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
-
-## ARMY COMMAND
+## COMMAND
 
 title: COMMAND
 opsec: L5
 room: 271
-describe:  THE ARMY COMMAND CENTER
+describe:  The Arjika Military Command Center
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0272/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-857|-569]
 ::END:MAIN
 
