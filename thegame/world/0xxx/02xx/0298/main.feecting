@@ -3,7 +3,9 @@ p:You can see Barracks from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Barracks
+img:thegame/world/0349/title
+
+## Barracks
 
 title: Barracks
 room: 298

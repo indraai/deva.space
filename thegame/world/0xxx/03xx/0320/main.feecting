@@ -3,6 +3,8 @@ p:You can see the Kitchen from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0349/title
+
 ## Kitchen
 
 title: KITCHEN

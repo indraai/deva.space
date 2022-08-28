@@ -3,7 +3,9 @@ p:You can see the Arjika Military Entrance from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-i# Arjika Military
+img:thegame/world/0349/title
+
+# Arjika Military
 
 p:The Arjika Military is the military for Arjikaland and Arjika Citizens.
 

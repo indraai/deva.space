@@ -3,6 +3,8 @@ p:You can see Arjika Military Training from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0349/title
+
 ## Training
 
 name: Arjika Training

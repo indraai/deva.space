@@ -3,6 +3,8 @@ p:You can see the Dining Hall.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0349/title
+
 ## Dining Hall
 
 title: Dining Hall
