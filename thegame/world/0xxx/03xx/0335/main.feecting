@@ -5,13 +5,9 @@ p:You can see Arjika Military Training from here.
 ::BEGIN:MAIN
 ## Arjika Training
 
-p:Basic Training is designed to be highly intense and challenging. The challenge comes as much from the difficulty of physical training as it does from the psychological adjustment to an unfamiliar way of life.
-
-## Drill Sergeant
-p:The Basic Training period is where recruits train in the specifics of their chosen fields.
-
-## Battle Buddies
-p:Battle buddies generally refer to partners in a military scenario.
+name: Arjika Training
+vector: 0x0334o
+describe: Arjika Training is where Arjika Military trains their recruits in the necessary skills needed to be High Performing High Trust soldiers.
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
