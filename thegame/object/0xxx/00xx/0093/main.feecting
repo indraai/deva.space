@@ -4,10 +4,10 @@ img:thegame/object/0093/avatar
 
 ::BEGIN:LOOK
 img:thegame/object/0093/avatar
-## ARMY Board
-name: ARMY Board
+## Military Board
+name: Military Board
 vector: 0x0093o
-describe: The ARMY board is used to leave messages for the ARMY.
+describe: The Military board is used to leave messages for the Military.
 
 p:To read the board use the read command.
 cmd:#mud read board
