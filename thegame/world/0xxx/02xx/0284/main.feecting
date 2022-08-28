@@ -1,19 +1,17 @@
 ::BEGIN:LOOK
-p:You can see the ARMY CCOE from here.
+p:You can see the STRATEGY from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0284/title
+## STRATEGY
 
-## ARMY CCOE
-
-title: CCOE
+title: STRATEGY
 opsec: L5
 room: 284
-describe:  THE ARMY CYBER CENTER OF EXCELLENCE
+vector: 0x0284r
+describe:  The Strategy Room where Arjika Military strategizes their military plans.
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0284/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822.5|-603]
 ::END:MAIN
