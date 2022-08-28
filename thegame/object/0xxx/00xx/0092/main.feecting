@@ -1,8 +1,17 @@
 ::BEGIN:AVATAR
-bmud[📌]:look securityboard
+img:thegame/object/0092/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-## Security Bulletin
-p:You are looking at The Security Bulletin Board.
+img:thegame/object/0092/avatar
+## Security Board
+name: Security Board
+vector: 0x0092o
+describe: The Security board is used to leave messages for Security.
+
+p:To read the board use the read command.
+cmd:#mud read board
+
+p:To write a new message to the board use the write command.
+> #mud write *message title*
 ::END:LOOK
