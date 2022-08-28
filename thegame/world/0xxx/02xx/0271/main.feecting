@@ -5,8 +5,6 @@ p:You can see OPERATIONS from here.
 =
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
-
 ## OPERATIONS
 
 title: OPERATIONS
@@ -17,8 +15,6 @@ describe:  The Arjika Military Operations Center
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
-#bg = thegame/world/0271/background
-
 coordinates:00[-822.5|-569]
 ::END:MAIN
 
