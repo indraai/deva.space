@@ -1,24 +1,20 @@
 ::BEGIN:LOOK
-p:You can see ARMY Training from here.
+p:You can see Arjika Military Training from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
+## Arjika Training
 
-# ARMY Training
-
-p:Basic Training is designed to be highly intense and challenging. The challenge comes as much from the difficulty of physical training as it does from the psychological adjustment to an unfamiliar way of life. Initial Entry Training is divided into two parts: Basic Combat Training (BCT) and Advanced Individual Training (AIT).
-
-p:AIT consists of the remainder of the total Basic Training period and is where recruits train in the specifics of their chosen fields. As such, AIT is different for each available Army career path, or Military Occupational Specialty (MOS). AIT courses can last anywhere from 4 weeks to 7 months, and possibly more for foreign language training. Soldiers are still continually tested for physical fitness and weapons proficiency and are subject to the same duties, strict daily schedule and disciplinary rules as in BCT.
+p:Basic Training is designed to be highly intense and challenging. The challenge comes as much from the difficulty of physical training as it does from the psychological adjustment to an unfamiliar way of life.
 
 ## Drill Sergeant
-p:AIT consists of the remainder of the total Basic Training period and is where recruits train in the specifics of their chosen fields. As such, AIT is different for each available Army career path, or Military Occupational Specialty (MOS). AIT courses can last anywhere from 4 weeks to 7 months, and possibly more for foreign language training. Soldiers are still continually tested for physical fitness and weapons proficiency and are subject to the same duties, strict daily schedule and disciplinary rules as in BCT.
+p:The Basic Training period is where recruits train in the specifics of their chosen fields.
 
 ## Battle Buddies
-p:Battle buddies generally refer to partners in a combat scenario. However, throughout Basic Training the term is used to describe a disciplinary principle whereby recruits are prohibited from walking anywhere alone. When traveling away from the platoon or a drill sergeant, recruits are expected to travel in pairs, known as battle buddies. Battle buddies are sometimes assigned, or can be chosen by recruits when the need to travel arises.
+p:Battle buddies generally refer to partners in a military scenario.
 
-#bgcolor = #000000
-#color = #ffc900
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 #bg = thegame/world/0335/background
 coordinates:00[-857|-741]
 ::END:MAIN
