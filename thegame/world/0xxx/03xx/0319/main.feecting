@@ -7,9 +7,9 @@ p:The CYPHER-2 Center is here to provide mid-grade service for our Cypher Commun
 
 title: CYPHER-2
 room: 319
+vector: 0x_0319r
 opsec: L2
-vector: 0x_0319R
-describe: CYPHER-2 handles the middle threats. CYPHER-2 are specialists in items such as contractor fraud, internal network security, and dealing with network breaches that require more training than CYPHER-1.
+describe: Arjika CYPHER-2 handles the middle threats. CYPHER-2 are specialists in items such as contractor fraud, internal network security, and dealing with network breaches that require more training than CYPHER-1.
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)

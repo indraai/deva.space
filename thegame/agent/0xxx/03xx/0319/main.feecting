@@ -4,8 +4,9 @@ img:thegame/agent/0319/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0319/avatar
-# ARMY CYBER2
-name: ARMY Cyber2
+
+## CYPHER-2
+name: Arjika CYPHER-2
 vector: 0x0319a
-describe: ARMY Cyber2 is a specialist at his job in handling L2 Cyber issues.
+describe: Arjika CYPHER-2 is a specialist at his job in handling L2 CYPHER issues.
 ::END:LOOK

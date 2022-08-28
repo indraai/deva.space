@@ -6,9 +6,9 @@ p:You can see the STRATEGY from here.
 ## STRATEGY
 
 title: STRATEGY
-opsec: L5
 room: 284
 vector: 0x0284r
+opsec: L5
 describe:  The Strategy Room where Arjika Military strategizes their military plans.
 
 #bgcolor = var(--color-black)
