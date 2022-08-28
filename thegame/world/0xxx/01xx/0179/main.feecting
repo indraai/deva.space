@@ -2,8 +2,6 @@
 p:You can see Communications from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
 img:thegame/world/0349/title
 
@@ -16,7 +14,7 @@ describe: The main communications center for the Arjika Military.
 
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
-coordinates:00[-857|-775]
+coordinates:00[-891|-775]
 ::END:MAIN
 
 =

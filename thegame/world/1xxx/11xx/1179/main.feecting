@@ -3,7 +3,7 @@ p:You can see the Disneyland Lost and Found from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Disneyland Main Street (W)
+## Disneyland Main Street (W)
 
 p:You are at the Disneyland Lost and Found.
 
