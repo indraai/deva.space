@@ -5,9 +5,9 @@ img:thegame/agent/0297/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0297/avatar
 
-## Cypher4 Agent
+## CYPHER-4 Agent
 
-name: Cypher4 Agent
+name: CYPHER-4 Agent
 vector: 0x0297a
-describe: Cypher4 is a specialist at handling L4 Cypher issues.
+describe: CYPHER-4 is a specialist at handling L4 Cypher issues.
 ::END:LOOK
