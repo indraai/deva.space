@@ -1,20 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the ARMY Entrance from here.
+p:You can see the Arjika Military Entrance from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0349/title
+i# Arjika Military
 
-## Army Entrance
+p:The Arjika Military is the military for Arjikaland and Arjika Citizens.
 
-p:The United States Army (USA) is the land service branch of the United States Armed Forces. It is one of the eight U.S. uniformed services, and is designated as the Army of the United States in the U.S. Constitution.
-
-p:As the oldest and most senior branch of the U.S. military in order of precedence, the modern U.S. Army has its roots in the Continental Army, which was formed 14 June 1775 to fight the American Revolutionary War (1775–1783)—before the United States was established as a country.
-
-p:After the Revolutionary War, the Congress of the Confederation created the United States Army on 3 June 1784 to replace the disbanded Continental Army. The United States Army considers itself to be a continuation of the Continental Army, and thus considers its institutional inception to be the origin of that armed force in 1775.
-
-#bg = thegame/world/0349/background
-#bgcolor = #000000
-#color = #ffc900
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822|-776]
 ::END:MAIN
