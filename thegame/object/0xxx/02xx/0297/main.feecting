@@ -4,14 +4,14 @@ img:thegame/object/0297/avatar
 
 ::BEGIN:LOOK
 img:thegame/object/0297/avatar
-## CYBER4 TERMINAL
-name: CYBER4 TERMINAL
+## CYBER-4 TERMINAL
+name: CYBER-4 TERMINAL
 vector: 0x0297o
-describe: CYBER4 TERMINAL is used by cyber specialists to do their job.
+describe: CYBER-4 TERMINAL is used by cyber specialists to do their job.
 look[Terminal]:terminal
 ::END:LOOK
 
 ::BEGIN:TERMINAL
-p:Army Cyber4 Terminal
+p:CYPHER-4 Terminal
 ::END:TERMINAL
 ====
