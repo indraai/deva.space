@@ -4,7 +4,10 @@ img:thegame/agent/0177/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0177/avatar
-name: Cyber Security Man
+
+## Cypher Security
+
+name: Cypher Security Agent
 vector: 0x0177a
-describe: Cyber Security Man is the strong Cyber Security Agent that is stationed at various cyber security centers.
+describe: Cypher Security Man is the strong Cypher Security Agent that is stationed at various cyber security centers.
 ::END:LOOK

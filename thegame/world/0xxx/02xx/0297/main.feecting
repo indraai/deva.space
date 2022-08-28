@@ -3,8 +3,6 @@ p:The CYPHER4 Center is here to provide protection, security, and assistance for
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0297/title
-
 ## CYPHER4
 
 title: CYPHER4
@@ -13,8 +11,7 @@ room: 297
 vector: 0x_0297R
 describe: CYPHER4 handles the most serious of threats. The HIGHEST sensitivity of CYPHER Issues are handled in this center. Threats ranging from foreign/domestic terrorist organizations, spies, moles, breaches, backdoors, and trojans are specialties of CYPHER4.
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0297/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822.5|-637]
 ::END:MAIN
