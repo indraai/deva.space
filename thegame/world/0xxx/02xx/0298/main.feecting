@@ -3,9 +3,9 @@ p:You can see Barracks from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# BARRACKS
+# Barracks
 
-title: BARRACKS
+title: Barracks
 room: 298
 vector: 0x0298r
 describe:  THE ARJIKA BARRACKS WHERE SOLDIERS SLEET/RELAX.

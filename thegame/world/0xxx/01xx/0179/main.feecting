@@ -1,10 +1,20 @@
 ::BEGIN:LOOK
+p:You can see Communications from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-The tall warehouse holding the supplies and emergency stores of the city is to the west.  The entrance looks to be a ways further north in the heart of the Thieve's Quarter.  South can be seen another intersection and the northest corner of the inner wall.
+## Communications
+
+title: Arjika Communications
+room: 179
+vector: 0x0179r
+describe: The main communications center for the Arjika Military.
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-857|-775]
 ::END:MAIN
 
 =

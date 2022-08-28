@@ -3,10 +3,10 @@ p:You can see Arjika Military Training from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Arjika Training
+## Training
 
 name: Arjika Training
-vector: 0x0334o
+vector: 0x0335o
 describe: Arjika Training is where Arjika Military trains their recruits in the necessary skills needed to be High Performing High Trust soldiers.
 
 #bgcolor = var(--color-black)
