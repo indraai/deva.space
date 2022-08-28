@@ -1,20 +1,17 @@
 ::BEGIN:LOOK
-p:Welcome to ARMY Cyber3 where the dirty business get's clean.
+p:Welcome to CYPHER3 where the dirty business get's clean.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0304/title
+## CYPHER3
 
-## ARMY CYBER3
-
-title: CYBER3
+title: CYPHER3
 room: 304
 opsec: L3
 vector: 0x_0304R
-describe: ARMY CYBER3 handles the dirty business. CYBER3 is called when you need the dirty business of Cybersecurity. Where CYBER4 handles the elite Terrorist Groups is where Cyber3 hits the streets like a ninja. This is where spies, counter insurgency, counter terrorism, and special operations all reside.
+describe: CYPHER3 handles the dirty business. CYPHER3 is called when you need the dirty business of Cybersecurity. Where CYPHER4 handles the elite Terrorist Groups is where Cyber3 hits the streets like a ninja. This is where spies, counter insurgency, counter terrorism, and special operations all reside.
 
-#bgcolor = #000000
-#color = #ffc900
-#bg = thegame/world/0304/background
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
 coordinates:00[-822.5|-672]
 ::END:MAIN
