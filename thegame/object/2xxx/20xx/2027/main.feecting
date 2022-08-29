@@ -1,12 +1,12 @@
 ::BEGIN:AVATAR
-img:thegame/object/2027/avatar
+img:thegame/object/2024/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/2027/avatar
+img:thegame/object/2024/avatar
 ## Pushkara Spring
 name: Pushkara Spring
-vector: 0x2027o
+vector: 0x2024o
 look[Text]:text
 ::END:LOOK
 
