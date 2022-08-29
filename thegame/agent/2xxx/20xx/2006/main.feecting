@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/2006/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/2006/avatar
+name: Mrs. Bunny
+vector: 0x2006a
+::END:LOOK
