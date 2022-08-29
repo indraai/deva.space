@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/2036/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/2036/avatar
+## Pushkara Bench
+name: Pushkara Bench
+vector: 0x2036o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Pushkara Cave Entrance Bench.
+::END:TEXT
