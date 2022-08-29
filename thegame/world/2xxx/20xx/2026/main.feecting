@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Pushkara Forest from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Pushkara Forest
+
+#bgcolor = var(--color-green)
+#color = var(--color-white)
+coordinates:20[-396|-254]
+::END:MAIN
