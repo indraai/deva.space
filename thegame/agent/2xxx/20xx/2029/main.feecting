@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/2029/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/2029/avatar
+name: Pushkara
+vector: 0x2029a
+describe: Pushkara Deva from Pushkara Forest.
+::END:LOOK
