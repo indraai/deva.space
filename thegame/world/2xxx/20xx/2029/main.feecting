@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Pushkara Shrine from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Pushkara Shrine
+
+#bgcolor = var(--color-green)
+#color = var(--color-white)
+coordinates:20[-258|-186]
+::END:MAIN
