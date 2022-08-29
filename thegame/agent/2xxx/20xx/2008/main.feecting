@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/2008/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/2008/avatar
+name: Mr. Cow
+vector: 0x2008a
+::END:LOOK
