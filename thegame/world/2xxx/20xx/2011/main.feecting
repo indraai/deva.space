@@ -3,7 +3,7 @@ p:You can see Pushkara Forest from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Pushkara Plains
+## Pushkara Forest
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
