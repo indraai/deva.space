@@ -1,15 +1,15 @@
 ::BEGIN:LOOK
-p:You can see Pushkara Forest from here.
+p:You can see Pushkara Tank from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Pushkara Mountains
+## Pushkara Tank
 
 p:There also is the celebrated tank of the Grandsire, called Pushkara, the favourite abode of the Vaikanasas, and Siddhas and Rishis. Moved by the desire of obtaining its protection, the Creator sang this verse at Pushkara!
 
 p:If a person of pure soul purposes a pilgrimage to the Pushkaras in imagination even, he becometh purged from all his sins and rejoiceth in heaven!
 
-#bgcolor = var(--color-green)
+#bgcolor = var(--color-baby-blue)
 #color = var(--color-white)
 coordinates:20[89|-394]
 ::END:MAIN
