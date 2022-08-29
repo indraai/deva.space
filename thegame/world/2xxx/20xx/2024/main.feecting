@@ -1,11 +1,10 @@
 ::BEGIN:LOOK
-p:You can see Pushkara Forest from here.
+p:You can see Pushkara Springs from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Pushkara Forest
+## Pushkara Springs
 
-#bgcolor = var(--color-green)
-#color = var(--color-white)
+#bgcolor = var(--color-baby-blue)
 coordinates:20[-327|-464]
 ::END:MAIN
