@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Pushkara Forest from here.
+p:You can see Pushkara Mountains from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Pushkara Forest
+## Pushkara Mountains
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
