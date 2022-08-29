@@ -5,9 +5,18 @@ p:You can see Pushkara Forest from here.
 ::BEGIN:MAIN
 ## Pushkara Forest
 
-p:You are at the entry to Pushkara Forest where many wonderous things are occuring.
+p:He that thinketh with joined hands morning and evening, of the Pushkara, practically batheth in every tirtha. Whether a male or a female, whatever sins one may commit since birth, are all destroyed as soon as one batheth in Pushkara.
+
+p:By residing with purity and regulated vows for twelve years in Pushkara, acquireth the merit of all the sacrifices, and goeth to the abode of Indu.
+
+p:There are three white hillocks and three springs known from the remotest times, we do not know why, by the name of the Pushkara.
+
+- It is difficult to go to Pushkara
+- It is difficult to undergo ascetic austerities at Pushkara
+- It is difficult to give away at Pushkara
+- It is difficult to live at Pushkara.
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
-coordinates:20[89|-114]
+coordinates:20[89|-117]
 ::END:MAIN

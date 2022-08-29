@@ -5,9 +5,9 @@ p:You can see Pushkara Forest from here.
 ::BEGIN:MAIN
 ## Pushkara Forest
 
-p:You are at the entry to Pushkara Forest where many wonderous things are occuring.
+p:Having gone to the Pushkara woods becometh happy here and hereafter for that act. He that supporteth himself on vegetables and roots and fruits, may with pious regard and without disrespect, may enter the Pushkara Forest.
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
-coordinates:20[89|-46]
+coordinates:20[89|-48]
 ::END:MAIN
