@@ -7,5 +7,5 @@ p:You can see Pushkara Forest from here.
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
-coordinates:20[-51|-169]
+coordinates:20[-50|-169]
 ::END:MAIN
