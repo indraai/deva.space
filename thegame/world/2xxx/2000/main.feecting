@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Pushkara Forest from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Pushkara Forest
+
+p:You are at the entry to Pushkara Forest where many wonderous things are occuring.
+
+::END:MAIN
