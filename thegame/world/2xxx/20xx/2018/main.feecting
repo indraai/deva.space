@@ -5,7 +5,7 @@ p:You can see Pushkara Springs from here.
 ::BEGIN:MAIN
 ## Pushkara Springs
 
-#bgcolor = var(--color-light-blue)
+#bgcolor = var(--color-baby-blue)
 #color = var(--color-white)
 coordinates:20[-240|-394]
 ::END:MAIN
