@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Satyaloka from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Satyaloka
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN
