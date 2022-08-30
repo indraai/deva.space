@@ -17,4 +17,7 @@ p:Here also, O mighty king, is the region called Jamvumarga, inhabited by birds 
 
 link[Original]:https://www.sacred-texts.com/hin/m03/m03089.htm
 
+#bgcolor = var(--color-green)
+#color = var(--color-white)
+
 ::END:MAIN
