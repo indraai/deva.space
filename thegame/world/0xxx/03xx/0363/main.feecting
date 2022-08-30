@@ -1,23 +1,18 @@
 ::BEGIN:LOOK
-p:You can see indra.rocks from here.
+p:You can see Spaceship Parking from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## indra.rocks
+## Spaceship Parking
 p:Welcome to indra.rocks.
 
-p:This is where the Heavenly Craft are stored while visitors are on-site.
+p:This is where the Space Craft are stored while visitors are in Arjika.
 
-1. Sindhu
-2. Tarksya
-3. Pushpak
--
-
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-404|-990]
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-396|-984]
 ::END:MAIN
 
 =
