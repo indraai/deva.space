@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Brahmaloka from here.
+p:You can see Goloka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Brahmaloka
+## Goloka
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
