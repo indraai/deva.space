@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Pushkara Caves from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Pushkara Caves
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:20[-153|-687]
+::END:MAIN
