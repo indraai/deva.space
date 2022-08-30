@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see Narmada from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Narmada
+
+#bgcolor = var(--color-green)
+#color = var(--color-white)
+coordinates:30[-452|-243]
+
+::END:MAIN
