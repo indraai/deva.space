@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see planet Rahu from here.
+::END:LOOK
+
+::BEGIN:MAIN
+p: Planet Rahu
+
+p:You have arrived on Plnaet Rahu
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN
