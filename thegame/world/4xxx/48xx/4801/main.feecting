@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Indraloka from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Indraloka
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN
