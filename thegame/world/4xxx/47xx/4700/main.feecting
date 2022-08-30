@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Devaloka from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Devaloka
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN

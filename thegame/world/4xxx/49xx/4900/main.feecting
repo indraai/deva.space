@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Goloka from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Goloka
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN
