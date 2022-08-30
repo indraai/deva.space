@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+p:You can see Patala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Patala
+
+p: Lower down is Pâtâla, where live Vâsuki, the Chief of the snakes, and others named S’ankha, Kulika, S’veta, Dhananjaya, Mahâs’ankha, Dhritarâstra, S’ankhachûda, Kamvala, As’vatara, and Devopadattaka, all very angry, of wide hoods, and virulently poisonous.
+
+p: Some of these have five heads, some seven hoods, some ten; some hundred, some others have thousand heads, while some others have on their crests exceedingly luminous jewels. By their rays, they dispel the darkness of the nether regions; but they are awfully prone to anger.
+
+p: Here is that spacious and celebrated city of cities, called #Hiranyapura, belonging to the Daityas and Danavas, possessing a hundred diverse kinds of illusion. Here in these regions called Patala, it hath been built with great care by the divine artificer, and planned by the Danava Maya. Endued with great energy and heroism, many Danavas, having obtained boons in days of old live here, exhibiting a thousand different kinds of illusion. They were incapable of being vanquished by Sakra or any other celestial, that is, by either Yama, or Varuna, or the Lord of treasures Kuvera.
+
+p: Here dwell, O Matali, those Asuras called Kalakhanjas, and those Rakshasas also called Yatudhanas. All of them are endued with impetus, the speed and prowess of the wind, and great energy depending on powers of illusion.
+
+p: Besides these, another class of Danavas called #Nivatakavachas, who are invincible in battle, have their abode here. Behold their homes, O Matali, that are all made of silver and gold, and well-adorned with decorations done according to the rules of art. All those mansions are decked with lapis lazuli and corals, and made effulgent with the lustre of the Arkasphatika, and the radiance of gem called Vajrasara. And many of those palatial residences seem, as if, they have been made of the shine of these gems called Padmaragas, or of bright marble, or of excellent wood. And they are also possessed of the radiance of the sun, or blazing fire. And all the edifices, adorned with gems and jewels, are very high and stand close to another. Of spacious proportions and great architectural beauty, it is impossible to say of what material these mansions are built or to describe their style of beauty. Indeed, they are exceedingly beautiful in consequence of their decorations.
+
+p: Behold these retreats of the Daityas for recreation and sport, these beds of theirs for sleep, these costly utensils of theirs set with precious stones, and these seats also for their use.
+
+p: Behold these hills of theirs, looking like clouds, those fountains of water, these trees also that move of their own will and that yield all fruits and flowers that one may ask. See, O Matali, if any bridegroom may be had here, acceptable to thee. If no one can be found, we shalt, if thou likest, go hence to some other part of the world.'
+
+p: The Devas and the Danavas, though brothers, are ever at hostility with each other.
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:MAIN
