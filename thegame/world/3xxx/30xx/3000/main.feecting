@@ -19,6 +19,6 @@ link[Original]:https://www.sacred-texts.com/hin/m03/m03089.htm
 
 #bgcolor = var(--color-green)
 #color = var(--color-white)
-coordinates:30[89|90]
+coordinates:30[-487|90]
 
 ::END:MAIN
