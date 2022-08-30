@@ -5,6 +5,8 @@ p:You can see Pushkara Springs from here.
 ::BEGIN:MAIN
 ## Pushkara Springs
 
+talk:#web get https://www.sacred-texts.com/hin/m13/m13a017.htm
+
 #bgcolor = var(--color-baby-blue)
 #color = var(--color-white)
 coordinates:20[-430|-497]
