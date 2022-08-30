@@ -1,0 +1,10 @@
+::BEGIN:LOOK
+p:You can see Vaikuntha from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Vaikuntha
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:MAIN
