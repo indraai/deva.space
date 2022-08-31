@@ -11,4 +11,5 @@ p:They are always afraid of Garuda, the King of birds. Surrounded with their son
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
+coordinates:42[-603|-879]
 ::END:MAIN
