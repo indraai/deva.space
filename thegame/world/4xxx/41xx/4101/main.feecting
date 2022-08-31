@@ -5,6 +5,10 @@ p:You can see Rasatala from here.
 ::BEGIN:MAIN
 ## Rasatala
 
+cmd[SECTION CII]:#web get https://www.sacred-texts.com/hin/m05/m05102.htm
+cmd[SECTION CIII]:#web get https://www.sacred-texts.com/hin/m05/m05103.htm
+cmd[SECTION CIV]:#web get https://www.sacred-texts.com/hin/m05/m05104.htm
+
 p:The Daityas, Dânavas and Pani Asuras live here. Besides these, there live the Nivâta Kavachas of the Hiranyapura city and the Asuras named Kâleyas, the enemies of the Devas.
 
 p:These all are naturally very energetic and brave; their powers are baffled by the Tejas of the Bhagavân and they live like snakes in this region. The other Asuras that were driven and were afraid of the Mantras, uttered by Saramâ, the messenger of Indra, live here too.

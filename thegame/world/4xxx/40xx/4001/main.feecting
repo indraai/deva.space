@@ -3,6 +3,13 @@ p:You can see Patala from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+
+cmd[SECTION XCVIII]:#eb gethttps://www.sacred-texts.com/hin/m05/m05098.htm
+cmd[SECTION XCIX - Patalam]:#web get https://www.sacred-texts.com/hin/m05/m05099.htm
+cmd[SECTION C]:#wb get https://www.sacred-texts.com/hin/m05/m05100.htm
+cmd[SECTION CI]:#web get https://www.sacred-texts.com/hin/m05/m05101.htm
+
+
 ## Patala
 
 p: Lower down is Pâtâla, where live Vâsuki, the Chief of the snakes, and others named S’ankha, Kulika, S’veta, Dhananjaya, Mahâs’ankha, Dhritarâstra, S’ankhachûda, Kamvala, As’vatara, and Devopadattaka, all very angry, of wide hoods, and virulently poisonous.
