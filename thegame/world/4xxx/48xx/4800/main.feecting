@@ -7,4 +7,5 @@ p:You can see Bhuvarloka from here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:48[-603|-879]
 ::END:MAIN

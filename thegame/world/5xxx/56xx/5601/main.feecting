@@ -9,5 +9,5 @@ p:You have arrived on Plnaet Rahu
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:54[-603|-879]
+coordinates:54[-568|-879]
 ::END:MAIN

@@ -11,4 +11,5 @@ p:This planet wants to cover them from a distance. This is known as the eclipse 
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:51[-568|-879]
 ::END:MAIN

@@ -7,4 +7,5 @@ p:You can see Brahmaloka from here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:53[-603|-879]
 ::END:MAIN

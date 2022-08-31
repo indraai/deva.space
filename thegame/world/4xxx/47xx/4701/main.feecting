@@ -9,4 +9,5 @@ p:Devaloka, Pitriloka, Bhurloka
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:47[-568|-879]
 ::END:MAIN

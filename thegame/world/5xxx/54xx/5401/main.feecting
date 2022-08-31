@@ -7,4 +7,5 @@ p:You can see Goloka from here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:54[-568|-879]
 ::END:MAIN

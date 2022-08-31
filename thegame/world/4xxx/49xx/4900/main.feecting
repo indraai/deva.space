@@ -9,4 +9,5 @@ cmd[Chapter XV]:#web get https://www.sacred-texts.com/hin/db/bk08ch15.htm
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+coordinates:49[-603|-879]
 ::END:MAIN
