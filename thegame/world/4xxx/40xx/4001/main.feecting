@@ -30,4 +30,5 @@ p: The Devas and the Danavas, though brothers, are ever at hostility with each o
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
+coordinates:40[-568|-879]
 ::END:MAIN
