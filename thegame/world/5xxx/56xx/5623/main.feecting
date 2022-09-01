@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see planet Sudha Samudra from here.
+p:You can see planet Lead Enclosure from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -13,5 +13,5 @@ p:Various Siddhas and Devas inhabit this place. The female sensualists here get 
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-740|-120]
+coordinates:56[-741|-120]
 ::END:MAIN

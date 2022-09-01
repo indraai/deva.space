@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see planet Sudha Samudra from here.
+p:You can see planet Brass Enclosure from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -11,5 +11,5 @@ p:The lightnings are his auburn eyes; the clouds are his armour, the thunder is 
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-740|-50]
+coordinates:56[-741|-50]
 ::END:MAIN
