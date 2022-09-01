@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see planet Sudha Samudra from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Copper Enclosure
+
+p:Next comes the enclosure wall, made of lead. Its height is seven yojanas. Within this enclosure there is the garden of the Santânaka tree. The fragrance of its flowers extends to ten yojanas. The flowers look like gold and are always in full bloom. Its fruits are very sweet.
+
+p:They seem to be imbued with nectar drops. In this garden resides always the Summer Season with his two wives S’ukra S’rî and S’uchi S’rî. The inhabitants of this place always remain under trees; otherwise they will be scorched by summer rays.
+
+p:Various Siddhas and Devas inhabit this place. The female sensualists here get their bodies all anointed with sandal paste and all decked with flower garlands and they stalk to and fro with fans in their hands. There is water to be found here very cool and refreshing. And owing to heat all the people here use this water.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-740|-120]
+::END:MAIN
