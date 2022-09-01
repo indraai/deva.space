@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see planet Rahu from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Sudha Samudra
+
+p:Surrounding this Manidvîpa exists an ocean called the Sudhâ Samudra, many yojanas wide and many yojanas deep. Many waves arise in it due to winds. Various fishes and conches and other aquatic animals play.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-603|-810]
+::END:MAIN
