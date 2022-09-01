@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see planet Pusparaga Enclosure from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Pusparaga Enclosure
+
+p:Next to this golden enclosure well comes the ninth enclosure made of red Kum Kum like (saffron) Pusparâga gems. The ground inside this enclosure, the ditches or the basins for water dug round their roots are all built of Pusparâga gems.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-741|20]
+::END:MAIN

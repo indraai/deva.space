@@ -11,5 +11,5 @@ p:In the centre is situated the garden of Pârijâta trees. They are filled with
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-741|-20]
+coordinates:56[-741|20]
 ::END:MAIN
