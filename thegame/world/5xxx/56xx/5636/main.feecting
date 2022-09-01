@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see planet Navaratna Enclosure from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Navaratna Enclosure
+
+p:Next to this comes the eighteenth enclosure wall built of Navaratna (the nine jewels). It is many yojanas wide. This enclosure wall is superior to all others and it is higher also. On the four sides there exist innumerable houses, tanks, reservoirs, all built of Navaratna; these belong to the Devîs, the presiding Deities of Âmnâyas (that which is to be studied or learnt by heart; the Vedas).
+
+p:The ten Mahâ Vidyâs, Kâlî, Târâ, etc., of S’rî Devî and the Mahâbhedâs, that is, their all the Avatâras all dwell here with their respective Âvaranas, Vâhanas and ornaments. All the Avatâras of S’rî Devî for the killing of the Daityas and for showing favour to the devotees live here. They are Pas’amkus’es’varî, Bhuvanes’varî, Bhairavî, Kapâla Bhuvanes’varî, Amkus’a Bhuvanes’varî, Pramâda bhuvanes’varî, S’rî Krodha Bhuvanes’varî, Triputâs’vârûdhâ, Nityaklinnâ, Annapurnâ, Tvaritâ, and the other avatâras of Bhuvanes’varî, and Kâlî, Târâ and the other Mahâvidyâs are known as Mahâvidyâs. They live here with their Âvarana Devatâs, Vâhanas, and ornaments respectively. (Note :-- The Âvarana Deities are the attendant Deities.)
+
+p:Here live also the seven Kotis of Devîs presiding over the Mahâ Mantras, all brilliant and fair like the Koti Suns.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-534|-188]
+::END:MAIN
