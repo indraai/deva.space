@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see planet City of Agni from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## City of Agni
+
+p:On the Agni (south-eastern) corner is the city of Agni. This represents the sum total of the several cities of Agni in different Brahmândas. Here resides the Agni Deva very gladly with his two wives Svâhâ and Svadhâ and with his Vâhana and the other Devas.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-603|-448]
+::END:MAIN
