@@ -9,5 +9,5 @@ p:Next to this Pusparâga mani enclosure wall comes the tenth enclosure wall, ma
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-603|20]
+coordinates:56[-603|-241]
 ::END:MAIN
