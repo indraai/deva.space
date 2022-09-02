@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see City of Rudra from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## City of Rudra
+
+p:On the north eastern corner is situated the Rudra loka, decked with invaluable gems. Here dwells the Rudra Deva. On His back is kept the arrow-case and he holds a bow in his left hand. He looks very angry and his eyes are red with anger. There are other Rudras like him with bows and spears and other weapons, surrounding him. The faces of some of them are distorted; some are very horrible indeed! Fire is coming out from the mouths of some others. Some have ten hands; some have hundred hands and some have thousand hands; some have ten feet; some have ten heads whereas some others have three eyes. Those who roam in the intermediate spaces between the heaven and earth, those who move on the earth, or the Rudras mentioned in the Rudrâdhyâya all live here.
+
+p:Îsâna, the Regent of the north eastern quarter lives here with Bhadrakâlî and other Mâtriganas, with Kotis and Kotis of Rudrânîs and with Dâmarîs and Vîra Bhadras and various other S’aktis. On his neck there is a garland of skulls, on his hand there is a ring of snakes; he wears a tiger skin; his upper clothing is a tiger skin and his body is smeared with the ashes of the dead. He sounds frequently his Damaru; this sound reverberates on all sides, he makes big laughs called Attahâsya, reverberating through the heavens. He remains always surrounded with Pramathas and Bhûtas; they live here.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-741|-171]
+::END:MAIN
