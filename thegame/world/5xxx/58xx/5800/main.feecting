@@ -31,5 +31,5 @@ p:When the Sun traverses the five signs Taurus, Gemini, etc., the day becomes lo
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:57[-603|-50]
+coordinates:58[-603|-50]
 ::END:MAIN
