@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/5900/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5900/avatar
+name: Hiranyagarbha
+vector: 0x5900a
+::END:LOOK
