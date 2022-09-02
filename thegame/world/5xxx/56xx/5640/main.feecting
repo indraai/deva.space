@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see planet Sudha Samudra from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## City of Yama
+
+p:On the south is situated the city of Yama, the God of Death. Here lives Dharma Râja with rod in his hand and with Chitragupta and several other hosts.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:56[-603|-517]
+::END:MAIN
