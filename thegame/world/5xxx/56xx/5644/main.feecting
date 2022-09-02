@@ -1,13 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Yaksas from here.
+p:You can see Yaksas City from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## City of Yaksas
+## Yaksas City
 
 p:On the north resides the Yaksas. The corpulent King of the Yaksas, Kuvera, lives here with his S’aktis Vriddhi and Riddhi, and in possession of various gems and jewels. His generals Manibhadra, Purna bhadra, Manimân, Manikandhara, Manibhûsa, Manisragvî, Manikar-mukadhârî, etc., live here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-603|-101]
+coordinates:56[-464|-172]
 ::END:MAIN
