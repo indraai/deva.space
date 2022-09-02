@@ -9,5 +9,5 @@ p:On the Agni (south-eastern) corner is the city of Agni. This represents the su
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-603|-448]
+coordinates:56[-741|-448]
 ::END:MAIN
