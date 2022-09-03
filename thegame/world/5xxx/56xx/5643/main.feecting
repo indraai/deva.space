@@ -5,7 +5,9 @@ p:You can see Vayudeva City from here.
 ::BEGIN:MAIN
 ## Vayudeva City
 
-p:On the north-western corner dwells Vâyudeva. Here Pavana Deva lives with his wife and with the Yogis perfect in the practice of Prânâyâma. He holds a flag in his hand. His Vâhana, is deer and his family consists of the forty nine Vâyus.
+p:On the north-western corner dwells Vâyudeva. Here Pavana Deva lives with the Yogis perfect in the practice of Prânâyâma.
+
+p:He holds a flag in his hand. His Vâhana, is deer and his family consists of the forty nine Vâyus.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
