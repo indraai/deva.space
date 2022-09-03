@@ -5,7 +5,7 @@ p:You can see Raksasas City from here.
 ::BEGIN:MAIN
 ## Raksasas City
 
-p:On the south-westen corner is the place of the Râksasas. Here resides Nirriti with his axe in his hand and with his wife and other Râksasas.
+p:On the south-westen corner is the place of the Râksasas. Here resides Nirriti with his axe in his and other Râksasas.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

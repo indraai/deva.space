@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/5641/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5641/avatar
+name: Nirriti
+vector: 0x5641a
+describe: The Great Nirriti.
+::END:LOOK
