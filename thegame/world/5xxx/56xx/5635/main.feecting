@@ -1,13 +1,15 @@
 ::BEGIN:LOOK
-p:You can see planet Prabala Enclosure from here.
+p:You can see Prabala Enclosure from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## Prabala Enclosure
 
-p:O King! Next come the seventeenth enclosure wall made of Prabâla. It is red like saffron and it is one hundred Yojanas high. As before, the court inside, the ground and the houses all are made of Prabâla.
+p:O King! Next come the seventeenth enclosure wall made of Prabâla. It is red like saffron and it is one hundred Yojanas high.
+
+p:As before, the court inside, the ground and the houses all are made of Prabâla.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-534|-447]
+coordinates:56[-534|-370]
 ::END:MAIN
