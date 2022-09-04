@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/5639/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5639/avatar
+name: Agni
+vector: 0x5639a
+describe: The Great and Clever Agni Deva.
+::END:LOOK
