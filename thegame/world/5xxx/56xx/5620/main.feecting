@@ -26,8 +26,8 @@ cmd[A charm against Misfortune]:#web get https://www.sacred-texts.com/hin/av/av0
 
 ---
 
-cmd[HYMN LXXXVII. Agni.]:#veda view 10087
-cmd[HYMN LXXXVII. Agni.]:#veda view 07003
+cmd[HYMN 0x07003. Agni.]:#veda view 07003
+cmd[HYMN 0x10087. Agni.]:#veda view 10087
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
