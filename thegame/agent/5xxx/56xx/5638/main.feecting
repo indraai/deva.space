@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/5638/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5638/avatar
+name: Indra Deva
+vector: 0x5638a
+describe: Indra, the Lord of the Devas, dwells here. Whatever beauty exists in the separate Heavens in the several places, one thousand times, rather more than that, exists in the Heaven of this cosmic Indra.
+::END:LOOK
