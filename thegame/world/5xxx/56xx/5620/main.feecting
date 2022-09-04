@@ -20,14 +20,15 @@ p:The Devas walk here and there with canes in their hands. This place is so nois
 p:Here are seen thousands of houses adorned with trees of gems and jewels and tanks filled with plenty of tasteful good sweet waters.
 
 ## Research
-cmd[A hymn to Agni as the Sun]:#web get https://www.sacred-texts.com/hin/av/av19066.htm
-cmd[A prayer for the destruction of demons]:#web get https://www.sacred-texts.com/hin/av/av08003.htm
-cmd[A charm against Misfortune]:#web get https://www.sacred-texts.com/hin/av/av07115.htm
-
----
 
 cmd[HYMN 0x07003. Agni.]:#veda view 07003
 cmd[HYMN 0x10087. Agni.]:#veda view 10087
+
+---
+
+cmd[A hymn to Agni as the Sun]:#web get https://www.sacred-texts.com/hin/av/av19066.htm
+cmd[A prayer for the destruction of demons]:#web get https://www.sacred-texts.com/hin/av/av08003.htm
+cmd[A charm against Misfortune]:#web get https://www.sacred-texts.com/hin/av/av07115.htm
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
