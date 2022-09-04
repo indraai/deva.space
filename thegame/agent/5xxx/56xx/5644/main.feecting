@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:thegame/agent/5644/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5644/avatar
+name: Kuvera
+vector: 0x5644a
+describe: The corpulent King of the Yaksas, Kuvera.
+::END:LOOK
