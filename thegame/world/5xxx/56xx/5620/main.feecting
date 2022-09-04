@@ -32,5 +32,5 @@ cmd[A charm against Misfortune]:#web get https://www.sacred-texts.com/hin/av/av0
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-603|-448]
+coordinates:56[-602|-448]
 ::END:MAIN

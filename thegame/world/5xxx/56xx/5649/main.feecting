@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see the Water Tank from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Water Tank
+
+p:You are in the pure water tanks.
+
+coordinates:56[-602|-378]
+::END:MAIN
