@@ -8,6 +8,6 @@ p:You can see the Water Tank from here.
 p:You are in the pure water tanks.
 
 #bgcolor = var(--color-baby-blue)
-#color = var(--color-black)
+#color = var(--color-white)
 coordinates:56[-671|-309]
 ::END:MAIN
