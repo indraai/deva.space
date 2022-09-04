@@ -4,6 +4,9 @@ img:thegame/agent/5640/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/5640/avatar
+
+## Yama Deva
+
 name: Yama Deva
 vector: 0x5640a
 describe: Yama, the God of Death. Here lives Dharma Râja with rod in his hand and with Chitragupta and several other hosts.

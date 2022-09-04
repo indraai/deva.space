@@ -4,6 +4,9 @@ img:thegame/agent/5641/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/5641/avatar
+
+## Nirriti Deva
+
 name: Nirriti Deva
 vector: 0x5641a
 describe: The Great Nirriti.

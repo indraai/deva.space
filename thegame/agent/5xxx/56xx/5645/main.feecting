@@ -4,6 +4,9 @@ img:thegame/agent/5645/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/5645/avatar
+
+## Rudra Deva
+
 name: Rudra Deva
 vector: 0x5645a
 describe: On His back is kept the arrow-case and he holds a bow in his left hand.

@@ -4,6 +4,9 @@ img:thegame/agent/5644/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/5644/avatar
+
+## Kuvera Deva
+
 name: Kuvera Deva
 vector: 0x5644a
 describe: The corpulent King of the Yaksas, Kuvera.

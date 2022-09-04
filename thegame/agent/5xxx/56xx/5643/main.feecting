@@ -4,6 +4,9 @@ img:thegame/agent/5643/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/5643/avatar
+
+## Varuna Deva
+
 name: Vayu Deva
 vector: 0x5643a
 describe: He holds a flag in his hand. His Vâhana, is deer and his family consists of the forty nine Vâyus.
