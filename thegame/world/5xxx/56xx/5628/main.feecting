@@ -94,7 +94,7 @@ p:All the war materials exist within their enclosures. Chariots, horses, elephan
 
 p:All the war materials are ready at all times and in abundance.
 
-#bgcolor = var(--color-white)
+#bgcolor = var(--color-pink)
 #color = var(--color-black)
 coordinates:56[-603|-241]
 ::END:MAIN
