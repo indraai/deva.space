@@ -3,15 +3,15 @@ p:You can see the Isotropic Antenna from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Isotropic Antenna
+## Arjika Portal
 
-p:The Isotropic Antenna allows us to communicate with Arjika ships and Home World to relay all activites here on Earth.
+p:The Isotropic Antenna allows us to communicate and teleport between Arjika ships and Home World.
 
-p:From here the signal is relayed to the Arjika ships, and  the main tower in Arjika.
+p:From here the signal is relayed to the Arjika ships, outposts, relays, and stations back to  the main tower in here.
 
 talk:#wiki summary Isotropic_radiator
 
-#color = #333333
-#bgcolor = #eeeeee
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:01-antenna[-465|-464]
 ::END:MAIN
