@@ -1,10 +1,10 @@
 ::BEGIN:AVATAR
-img:thegame/agent/5654/avatar
+img:thegame/agent/5645/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/agent/5654/avatar
+img:thegame/agent/5645/avatar
 name: Rudra
-vector: 0x5654a
+vector: 0x5645a
 describe: On His back is kept the arrow-case and he holds a bow in his left hand.
 ::END:LOOK
