@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/4203/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/4203/avatar
+name: Kaliya
+vector: 0x4203a
+::END:LOOK
