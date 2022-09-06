@@ -7,7 +7,7 @@ img:thegame/object/5637/avatar
 ## Flux Capicitor
 name: Flux Capicitor
 vector: 0x5637o
-look[Training Text]:text
+look[Information]:text
 ::END:LOOK
 
 ::BEGIN:TEXT
