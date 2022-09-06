@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the patala region from here.
+p:You can see Mr. Dewity Prison from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Patala Region
-#bgcolor = #ffffff
-#color = #333333
-coordinates:04[-513|-513]
+## Mr. Dewity Prison
+
+p:This is Mr. Dewity Prison Cell.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:04[-505|-505]
 ::END:MAIN
