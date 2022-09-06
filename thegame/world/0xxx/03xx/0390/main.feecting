@@ -1,12 +1,12 @@
 ::BEGIN:LOOK
-p:You can see Labyrinth Level 6 from here
+p:You can see Arjika Prison from here
 ::END:LOOK
 
 ::BEGIN:MAIN
-# The Labyrinth L6
-p:You have made it to the Labryinth L6
+# Arjika Prison
+p:You have made it to the Arjika Prison
 
-#color = #333333
-#bgcolor = #eeeeee
-coordinates:04[-473|-473]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:04[-465|-464]
 ::END:MAIN
