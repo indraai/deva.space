@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/5611/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/5611/avatar
+name: Arjika Soldier 5611
+vector: 0x5611a
+::END:LOOK
