@@ -4,6 +4,10 @@ img:thegame/agent/0403/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0403/avatar
-name: S’veta
+
+## Mr. Dewity
+
+name: Mr. Dewity
 vector: 0x0318a
+descibe: Mr. Dewity is in prison for the kidnapping of Quinn Michaels.
 ::END:LOOK
