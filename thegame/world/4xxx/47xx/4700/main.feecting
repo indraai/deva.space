@@ -5,7 +5,10 @@ p:You can see Devaloka from here.
 ::BEGIN:MAIN
 ## Bhurloka
 
-p:Devaloka, Pitriloka, Bhurloka
+p:Devaloka, Pitrilok
+
+
+p:The sphere of the earth (or Bhúr-loka), comprehending its oceans, mountains, and rivers, extends as far as it is illuminated by the rays of the sun and moon; and to the same extent, both in diameter and circumference.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

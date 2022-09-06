@@ -5,6 +5,9 @@ p:You can see Bhuvarloka from here.
 ::BEGIN:MAIN
 ## Bhuvarloka
 
+p:The sphere of the sky (Bhuvar-loka).
+
+
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 coordinates:48[-603|-879]
