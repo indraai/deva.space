@@ -4,6 +4,7 @@ img:thegame/agent/0400/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0400/avatar
-name: Vasuki
+name: Evil Jesus
 vector: 0x0315a
+describe: Here is the Evil Jesus who rules the Christian religion.
 ::END:LOOK
