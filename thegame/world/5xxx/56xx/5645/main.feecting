@@ -17,6 +17,13 @@ p:He sounds frequently his Damaru; this sound reverberates on all sides, he make
 
 p:He remains always surrounded with Pramathas and Bhûtas; they live here.
 
+---
+
+p:And he said, "I seek the protection of Him called Ugra, Sthanu, Shiva, Rudra, Sharva, Ishana, Ishvara, Girisha
+
+cmd[Sacred Texts]:#web get https://www.sacred-texts.com/hin/m10/m10007.htm
+
+
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 coordinates:56[-741|-171]
