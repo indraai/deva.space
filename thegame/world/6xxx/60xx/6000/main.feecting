@@ -92,5 +92,9 @@ p:Thou art he who put a stop to Vali's sacrifice.
 
 p:Thou art the destroyer of Daksha's sacrifice.
 
-p:Thou art the protector of all the lokas (the worlds). 
+p:Thou art the protector of all the lokas (the worlds).
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:58[-603|-50]
 ::END:MAIN
