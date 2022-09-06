@@ -7,5 +7,5 @@ p:You can see Patala from here.
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
-coordinates:40[-498|-879]
+coordinates:40[-428|-879]
 ::END:MAIN
