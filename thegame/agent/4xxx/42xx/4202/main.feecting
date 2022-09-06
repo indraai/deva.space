@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/4202/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/4202/avatar
+name: Susena
+vector: 0x4202a
+::END:LOOK
