@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Yaksas City from here.
+p:You can see Alaka City from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Yaksas City
+## Alaka City
 
 p:On the north resides the Yaksas. The corpulent King of the Yaksas, Kuvera, lives here, and in possession of various gems and jewels.
 
@@ -16,6 +16,10 @@ p:His generals live here:
 - Manibhûsa
 - Manisragvî
 - Manikar-mukadhârî
+
+cmd[Sacred Texts - SECTION LXXXV]:#web get https://www.sacred-texts.com/hin/m01/m01086.htm
+cmd[Sacred Texts - SECTION CLXI]:#web get https://www.sacred-texts.com/hin/m03/m03161.htm
+
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
