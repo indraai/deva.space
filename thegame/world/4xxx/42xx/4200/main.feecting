@@ -9,6 +9,8 @@ p:Next to Talâtala is the most renowned Mahâtala. The sons of Kadru, the very 
 
 p:They are always afraid of Garuda, the King of birds. Surrounded with their sons, wives, friends and acquaintances, they live happily, well skilled in various sports and pleasures.
 
+cmd[Sacred Texts]:#web get https://www.sacred-texts.com/hin/db/bk08ch20.htm
+
 #bgcolor = var(--color-black)
 #color = var(--color-white)
 coordinates:42[-603|-879]
