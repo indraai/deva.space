@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Patala from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Patala
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+coordinates:40[-430|-850]
+::END:MAIN
