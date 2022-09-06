@@ -8,5 +8,5 @@ p:You can see Jesus Prison from here.
 p:This is Jesus' Prsion Cell.
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:04[-473|-432]
+coordinates:04[-465|-424]
 ::END:MAIN
