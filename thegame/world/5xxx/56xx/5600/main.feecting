@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see planet Rahu from here.
+p:You can see Sarvaloka Gateway from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -9,11 +9,7 @@ img:thegame/world/5600/map
 
 link[orig]:https://www.sacred-texts.com/hin/db/bk12ch10.htm
 
-p:You have arrived in Sarvaloka
-
-p:This region is superior to all the other regions. Hence it is named “Sarvaloka.” The Asuras built this place of yore according to their will.
-
-p:Hence it is called Manidvîpa or Sarvaloka as superior to all the Lokas.
+p:The Asuras built this place of yore according to their will. Hence it is called Manidvîpa or Sarvaloka.
 
 p:This Manidvîpa is situated at the top of all the regions, and resembles an umbrella.
 

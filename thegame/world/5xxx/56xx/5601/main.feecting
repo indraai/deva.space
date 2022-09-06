@@ -1,15 +1,22 @@
 ::BEGIN:LOOK
-p:You can see planet Rahu from here.
+p:You can see Sarvaloka Gateway from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Planet Rahu
+## Sarvaloka Gateway
 
-p:You have arrived on Plnaet Rahu
+img:thegame/world/5600/map
 
-p:The Sphere of Râhu is situated one Ayuta Yoyanas below the Sun. This Râhu swallows up both the Sun and the Moon and He has got immortality and capability to travel in the sky.
+link[orig]:https://www.sacred-texts.com/hin/db/bk12ch10.htm
 
-p:This planet wants to cover them from a distance. This is known as the eclipse known amongst the mortals. Below the sphere of Râhu, there are the other pure Lokas situated.
+p:The Asuras built this place of yore according to their will. Hence it is called Manidvîpa or Sarvaloka.
+
+p:This Manidvîpa is situated at the top of all the regions, and resembles an umbrella.
+
+p:Surrounding this Manidvîpa exists an ocean called the Sudhâ Samudra, many yojanas wide and many yojanas deep. Many waves arise in it due to winds. Various fishes and conches and other aquatic animals play and here the beach is full of clear sand like gems. The sea-shores are kept always cool by the splashes of the waves of water striking the beach.
+
+p:Various ships decked with various nice flags are plying to and fro. Various trees bearing gems are adorning the beach.
+
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
