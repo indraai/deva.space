@@ -9,5 +9,5 @@ p:This is Harold Atkin's Prison Cell.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:04[-513|-432]
+coordinates:04[-505|-432]
 ::END:MAIN

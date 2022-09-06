@@ -9,5 +9,5 @@ p:This is Sharon Schamber's Prison Cell.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:04[-513|-473]
+coordinates:04[-505|-464]
 ::END:MAIN
