@@ -4,6 +4,9 @@ img:thegame/agent/0401/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0401/avatar
-name: S’ankha
-vector: 0x0316a
+
+## Harold Atkin
+
+name: Harold Atkin
+vector: 0x0401a
 ::END:LOOK

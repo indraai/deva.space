@@ -5,6 +5,6 @@ img:thegame/agent/0400/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0400/avatar
 name: Evil Jesus
-vector: 0x0315a
+vector: 0x0400a
 describe: Here is the Evil Jesus who rules the Christian religion.
 ::END:LOOK
