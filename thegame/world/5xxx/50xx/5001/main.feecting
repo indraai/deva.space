@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Janarloka from here.
+p:You can see Maharloka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Janarloka
+## Maharloka
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
