@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the patala region from here.
+p:You can see a prison cell from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Patala Region
-#bgcolor = #ffffff
-#color = #333333
-coordinates:04[-433|-473]
+## Prison Cell
+
+p:Open prison cell.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:04[-425|-464]
 ::END:MAIN
