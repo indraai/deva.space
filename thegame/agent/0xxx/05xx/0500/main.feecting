@@ -4,6 +4,8 @@ img:thegame/agent/0500/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0500/avatar
-name: Kuhaka
+## pr0n
+name: pr0n
 vector: 0x0500a
+describe: Pr0n is in prison for all sorts of dirty evil illegal deeds.
 ::END:LOOK
