@@ -7,18 +7,12 @@ p:You can see Training Room 915 from here.
 img:thegame/world/0915/title
 
 ## FBI
-### Summary
-::begin:summary
-talk:#adv world:thegame 0915/training:summary
-::end:summary
 
-### Training
-::begin:training
-talk:#adv world:thegame 0915/training:main
-::end:training
+p:The visit to the FBI on November 30, 2015 to deliver the contract that Trenton had drawn up.
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+
 #bg = thegame/world/0915/background
 coordinates:09[-545.5|-383]
 talk:#adv world:thegame 0900/training:card
