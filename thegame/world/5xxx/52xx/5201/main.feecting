@@ -1,9 +1,9 @@
 ::BEGIN:LOOK
-p:You can see Satyaloka from here.
+p:You can see Taparloka from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Satyaloka
+## Taparloka
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
