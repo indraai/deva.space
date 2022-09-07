@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:thegame/agent/0971/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0971/avatar
+name: Romanov 971
+vector: 0x0971a
+::END:LOOK
