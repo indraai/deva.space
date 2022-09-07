@@ -7,8 +7,6 @@ img:thegame/world/0937/title
 
 ## alt.angst
 
-talk:#adv world:thegame 0900/training:card
-
 title: alt.angst
 link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 
@@ -16,8 +14,10 @@ p:Many of the participants metup in the alt.* usenet newsgroups and various IRC 
 
 talk:#wiki summary Alt.*_hierarchy
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+talk:#adv world:thegame 0900/training:card
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 coordinates:09[-505|-625]
 ::END:MAIN
 
