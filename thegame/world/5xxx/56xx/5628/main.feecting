@@ -96,5 +96,5 @@ p:All the war materials are ready at all times and in abundance.
 
 #bgcolor = var(--color-pink)
 #color = var(--color-white)
-coordinates:56[-603|-241]
+coordinates:56[-602|-241]
 ::END:MAIN

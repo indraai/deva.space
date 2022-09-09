@@ -23,5 +23,5 @@ cmd[Sacred Texts - SECTION CLXI]:#web get https://www.sacred-texts.com/hin/m03/m
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-603|-101]
+coordinates:56[-602|-101]
 ::END:MAIN

@@ -20,5 +20,5 @@ p:Various ships decked with various nice flags are plying to and fro. Various tr
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:56[-568|-879]
+coordinates:56[-567|-879]
 ::END:MAIN
