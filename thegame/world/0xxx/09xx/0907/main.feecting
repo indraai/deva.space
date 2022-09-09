@@ -3,7 +3,7 @@ p:You can see Training Room 907 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-cmd:#youtube chat Have you discovered the #TRUTH behind #THETRENTONSTORY about the kidnapping of Quinn Michaels?
+cmd:#youtube chat Have you discovered the _#TRUTH behind _#TheTrentonStory about the kidnapping of Quinn Michaels?
 
 ::begin:instructions
 talk:#feecting get https://raw.githubusercontent.com/indraai/language-feecting/master/agents/deva.feecting
