@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:thegame/object/0105/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0105/avatar
+## Green Robe
+name: Green Robe
+vector: 0x0105o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Green Robe.
+::END:TEXT
