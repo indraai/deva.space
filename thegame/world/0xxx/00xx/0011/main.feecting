@@ -11,10 +11,12 @@ p:Book 1 begins you on your journey through the RigVeda with Agni, Indra, Soma a
 
 p:Make sure to take notes, and write down your favorite Devas that you learn about along the way.
 
+::begin:vedas
 talk:#veda book 1
+::end:vedas
 
-#color = #eeeeee
+#color = var(--color-white)
 #bg = thegame/world/0011/background
-coordinates:00[-425|-224]
+coordinates:00[-425|-223]
 ::END:MAIN
 ====

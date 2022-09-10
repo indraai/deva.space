@@ -1,11 +1,24 @@
 ::BEGIN:AVATAR
-img:thegame/object/0011/avatar
+img:thegame/object/0012/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/object/0011/avatar
-name: Academy Level 2 Course
+img:thegame/object/0012/avatar
+
+## Vedas Book 2
+
+name: Vedas Book 2
 level: 2
-vector:0x0011
-describe:This is the Level 2 course for the realm. Here you will learn more advanced things that only people who take this course will ever learn.
+vector:0x0012
+describe:This is Book 2 of the Vedas.
+
+button[book 1]:look book1
+
 ::END:LOOK
+
+::BEGIN:BOOK1
+::begin:vedas
+talk:#veda book 1
+::end:vedas
+::END:BOOK1
+====
