@@ -18,7 +18,7 @@ button[book 2]:#mud look book2
 
 ::BEGIN:BOOK1
 ::begin:vedas
-talk:#veda book 1
+talk:#veda book 2
 ::end:vedas
 ::END:BOOK1
 ====
