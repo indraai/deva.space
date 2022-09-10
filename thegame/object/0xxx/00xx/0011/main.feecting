@@ -9,7 +9,8 @@ level: 1
 vector:0x0011
 describe:This is Book 1 of the Vedas.
 
-button[book 1]:look book1
+button[book 1]:#mud look book1
+
 ::END:LOOK
 
 ::BEGIN:BOOK1

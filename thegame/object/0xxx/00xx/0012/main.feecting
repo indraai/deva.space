@@ -12,7 +12,7 @@ level: 2
 vector:0x0012
 describe:This is Book 2 of the Vedas.
 
-button[book 1]:look book1
+button[book 2]:#mud look book2
 
 ::END:LOOK
 
