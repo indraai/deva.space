@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see the indra.store/fashion from here.
+p:You can see the Fashion Store from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
@@ -7,7 +7,7 @@ img:thegame/world/0238/title
 
 ## Fashion Store
 
-p:You are in indra.store/fashion
+p:You are in the Fashion Store where Farry makes robes and dress for the citizens of Arjika.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
