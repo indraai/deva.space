@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/object/0011/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/object/0011/avatar
+name: Academy Level 2 Course
+level: 2
+vector:0x0011
+describe:This is the Level 2 course for the realm. Here you will learn more advanced things that only people who take this course will ever learn.
+::END:LOOK
