@@ -13,12 +13,12 @@ vector:0x0012
 describe:This is Book 2 of the Vedas.
 
 button[book 2]:#mud look book2
-
 ::END:LOOK
 
 ::BEGIN:BOOK1
 ::begin:vedas
 talk:#veda book 2
 ::end:vedas
+#color = var(--color-white)
 ::END:BOOK1
 ====

@@ -17,5 +17,6 @@ button[book 1]:#mud look book1
 ::begin:vedas
 talk:#veda book 1
 ::end:vedas
+#color = var(--color-white)
 ::END:BOOK1
 ====
