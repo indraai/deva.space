@@ -1,8 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0171/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-You can learn more about Tyler TG23 pastebin.com/8TYHXa4d
+img:thegame/agent/0171/avatar
+## Programmer Householder
+name: Programmer Householder
+vector: 0x0171a
+describe: The Programmer Householder.
 ::END:LOOK
-====

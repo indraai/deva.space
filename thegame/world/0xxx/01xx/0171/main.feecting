@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see indra.house/3b3b from here.
+p:You can see the Programmer House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## 3b3b Model
-p:You are inside indra.house/3b3b.
-#bgcolor = #ffffff
-#color = #333333
+## Programmer House
+p:You are inside the Programmer House.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-361|-86]
 ::END:MAIN

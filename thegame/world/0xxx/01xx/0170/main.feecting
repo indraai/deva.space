@@ -9,7 +9,6 @@ p:You can see Engineer House from here.
 p:You are in Engineer House.
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-
 coordinates:00[-327|-86]
 ::END:MAIN
 
