@@ -5,7 +5,7 @@ img:thegame/agent/0400/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0400/avatar
 
-## Evil Jesus
+## Jesus
 
 name: Evil Jesus
 vector: 0x0400a
