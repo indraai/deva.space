@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see indra.buzz/food from here.
+p:You can see The Restaurant from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.buzz/food.
+## The Restaurant
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-611|-22.5]
+p:You are in The Restaurant.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-603|-23]
 ::END:MAIN

@@ -9,5 +9,5 @@ p:You are in 2E Easy Street.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-534|-49.5]
+coordinates:00[-534|-50]
 ::END:MAIN

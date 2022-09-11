@@ -11,7 +11,7 @@ p:You are in indra.city/n.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-465|-49]
+coordinates:00[-465|-50]
 ::END:MAIN
 
 =

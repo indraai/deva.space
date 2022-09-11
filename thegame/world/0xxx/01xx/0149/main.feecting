@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see indra.buzz/cold from here.
+p:You can see The Cold Spot from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Cold Spot
-p:You are in indra.buzz/cold.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-576|-22.5]
+## The Cold Spot
+
+p:You are in The Cold Spot.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-568|-23]
 ::END:MAIN

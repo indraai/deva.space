@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Hollywood from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Hollywood
 
-#bgcolor = #ffffff
-#color = #333333
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 coordinates:05[-473|-432]
 ::END:MAIN
