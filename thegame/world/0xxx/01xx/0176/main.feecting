@@ -1,10 +1,11 @@
 ::BEGIN:LOOK
-p:You can see indra.house/apartments from here.
+p:You can see the Politics House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in indra.house/apartments.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-542|-92]
+## Politics House
+p:You are in the Politics House.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-534|-86]
 ::END:MAIN
