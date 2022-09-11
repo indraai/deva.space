@@ -4,11 +4,8 @@ img:thegame/agent/0142/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0142/avatar
-## Vitasta
-name: Vitasta
+## Science Householder
+name: Science Householder
 vector: 0x0142a
-describe: Vitasta is a one hitter.
-
-talk:#veda view 10075
-
+describe: The Householder of the Science Class.
 ::END:LOOK
