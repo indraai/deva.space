@@ -1,8 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0173/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-SecurityDEVA is on GUARD here.
+img:thegame/agent/0173/avatar
+## Media Householder
+name: Media Householder
+vector: 0x0173a
+describe: The Media Householder.
 ::END:LOOK
-====
