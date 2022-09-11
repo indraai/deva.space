@@ -4,7 +4,8 @@ img:thegame/agent/0144/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0144/avatar
-name: Black Master Deva
+## Agent Householder
+name: Agent Householder
 vector: 0x0144a
-describe: A Alack Deva walks past in a state of deep concentration. One of the seven orders of the Deva the black are known for their delving into the the more abstract forms of thought. The other Deva will not associate with them sometimes because of this.
+describe: The Agent Householder of Arjika.
 ::END:LOOK
