@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-p:You can see ufo.cafe from here.
+p:You can see Arjika Cafe from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-p:You are in ufo.cafe.
+## Arjika Cafe
+p:You are in Arjika Cafe.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-507|-22.5]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-499|-23]
 ::END:MAIN
