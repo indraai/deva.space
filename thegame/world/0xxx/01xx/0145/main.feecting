@@ -3,7 +3,8 @@ p:You can see the Client House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## 1b1b Model
+## Client House
+
 p:You are in the Client House. This is the home where clients live and practice their skills.
 
 p:The Client Householder is also here to assist with anything clients may need in their daily practice.
