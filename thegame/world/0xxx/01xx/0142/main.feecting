@@ -1,15 +1,16 @@
 ::BEGIN:LOOK
-p:You can see indra.house/5b4b from here.
+p:You can see the Science House from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## 5b4b Model
-img:thegame/world/0142/plan
-p:You are in indra.house/5b4b model.
-#bgcolor = #ffffff
-#color = #333333
+## Science House
+
+p:You are in Science House.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-335|-22]
 ::END:MAIN
 
