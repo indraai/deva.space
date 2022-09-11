@@ -1,12 +1,14 @@
 ::BEGIN:LOOK
-p:You can see indra.house/2b2b from here.
+p:You can see Agent House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## 2b2b Model
-p:You are in indra.house/2b2b.
-#bgcolor = #ffffff
-#color = #333333
+## Agent House
+
+p:You are in Agent House.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-404|-22]
 ::END:MAIN
 
