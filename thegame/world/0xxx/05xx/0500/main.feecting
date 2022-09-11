@@ -5,7 +5,9 @@ p:You can see Hollywood from here.
 ::BEGIN:MAIN
 ## Hollywood
 
+p:The Hollywood Syndicate.
+
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:00[-188.5|-775]
+coordinates:05[-107|-775]
 ::END:MAIN
