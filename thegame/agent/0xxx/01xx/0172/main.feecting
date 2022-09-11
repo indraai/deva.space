@@ -1,8 +1,13 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0172/avatar
 ::END:AVATAR
-====
+
 ::BEGIN:LOOK
-p:You can learn more about Tyler EtherSec pastebin.com/UGi5vMWs
+img:thegame/agent/0172/avatar
+
+## Hacker Householder
+
+name: Hacker Householder
+vector: 0x0172a
+describe: The Hacker Householder.
 ::END:LOOK
-====
