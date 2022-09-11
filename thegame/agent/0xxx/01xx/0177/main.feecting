@@ -5,9 +5,9 @@ img:thegame/agent/0177/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0177/avatar
 
-## Security Householder
+## Military Householder
 
-name: Security Householder
+name: Military Householder
 vector: 0x0177a
-describe: Security Householder of Arjika.
+describe: Military Householder of Arjika.
 ::END:LOOK
