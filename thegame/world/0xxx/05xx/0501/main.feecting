@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Hollywood from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Hollywood Blvd
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:05[-513|-432]
+p:Hollywood Blvd.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:05[-107|-775]
 ::END:MAIN

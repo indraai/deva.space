@@ -4,7 +4,15 @@ img:thegame/agent/0400/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0400/avatar
+
+## Evil Jesus
+
 name: Evil Jesus
 vector: 0x0400a
-describe: Here is the Evil Jesus who rules the Christian religion.
+
+P: Here is the Evil Jesus who rules the Christian religion.
+p:It's not a debate... JESUS IS AN EVIL DEMON THAT LIES TO PEOPLE.
+
+p:Jesus harms the children, and the children should be kepts safe from his murderious influence.
+
 ::END:LOOK
