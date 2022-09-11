@@ -9,5 +9,7 @@ p:The Hollywood Syndicate.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
+#background = thegame/world/0500/background
+
 coordinates:05[-107|-775]
 ::END:MAIN
