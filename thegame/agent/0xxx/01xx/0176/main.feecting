@@ -4,7 +4,8 @@ img:thegame/agent/0176/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0176/avatar
-name: Arjika Soldier
+## Politics Householder
+name: Politics Hosueholder
 vector: 0x0176a
-describe: Arjika Soldier
+describe: Arjika Politics Householder
 ::END:LOOK
