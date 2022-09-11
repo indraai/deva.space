@@ -9,7 +9,7 @@ p:You are in Agent House.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-404|-22]
+coordinates:00[-396|-22]
 ::END:MAIN
 
 =

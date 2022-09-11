@@ -1,15 +1,16 @@
 ::BEGIN:LOOK
-p:You can see indra.house/3b2b from here.
+p:You can see the Artisan House from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
-## 3b2b Model
-img:thegame/world/0143/plan
-p:You are in indra.house/3b2b model.
-#bgcolor = #ffffff
-#color = #333333
+## Artisan House
+
+p:You are in the Artisan House.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-369|-22]
 ::END:MAIN
 
