@@ -12,5 +12,5 @@ p:The Client Householder is also here to assist with anything clients may need i
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-438.5|-14]
+coordinates:00[-430.5|-14]
 ::END:MAIN
