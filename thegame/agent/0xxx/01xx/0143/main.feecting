@@ -4,8 +4,8 @@ img:thegame/agent/0143/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0143/avatar
-name:SecurityDEVA D143
-assign:patrol
+## Artisan Householder
+name:Artisan Householder of Arjika.
 vector:0x_0143a
-describe:SecurityDEVA D143 patrols the realm.
+describe:Artisan Householder of Arjika.
 ::END:LOOK
