@@ -5,8 +5,9 @@ img:thegame/agent/0145/avatar
 ::BEGIN:LOOK
 img:thegame/agent/0145/avatar
 
-## Yellow Deva
-name: Yellow Deva
+## Client Householder
+
+name: Client Householder
 vector: 0x0145a
-describe: A yellow deva chants some words and is suddenly standing behind you. The magi are known for their experience with magic.  Many study decades to reach the title of Master Magi.  Very few actually make it.
+describe: The Client Householder. Many study decades to reach the title of Householder.  Very few actually make it.
 ::END:LOOK
