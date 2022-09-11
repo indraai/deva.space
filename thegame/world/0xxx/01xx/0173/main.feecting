@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see indra.house/studio from here.
+p:You can see the Media House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Studio Model
-p:You are in indra.house/studio.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-438.5|-92]
+## Media House
+p:You are in the Media House.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-430.5|-86]
 ::END:MAIN
