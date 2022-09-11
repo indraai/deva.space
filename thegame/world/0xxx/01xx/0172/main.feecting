@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see indra.house/2b2b from here.
+p:You can see the Hacker House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## 2b2b Model
-p:You are in indra.house/2b2b.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-404|-92]
+## Hacker House
+p:You are in the Hacker House.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-396|-86]
 ::END:MAIN
