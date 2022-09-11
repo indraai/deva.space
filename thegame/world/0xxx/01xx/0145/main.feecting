@@ -1,11 +1,15 @@
 ::BEGIN:LOOK
-p:You can see indra.city/1b1b from here.
+p:You can see the Client House from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 ## 1b1b Model
-p:You are in indra.city/1b1b.
-#bgcolor = #ffffff
-#color = #333333
+p:You are in the Client House. This is the home where clients live and practice their skills.
+
+p:The Client Householder is also here to assist with anything clients may need in their daily practice.
+
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-438.5|-23]
 ::END:MAIN
