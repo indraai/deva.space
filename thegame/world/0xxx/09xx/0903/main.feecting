@@ -5,8 +5,6 @@ p:You can see Training Room 903 from here.
 ::BEGIN:MAIN
 img:thegame/world/0903/splash
 
-img:thegame/world/0903/title
-
 ## Project Mayhem 2012 #PM2012
 
 title: Project Mayhem 2012: #OpCountdown | #PM2012
@@ -15,6 +13,8 @@ date: Nov 11, 2012
 mud[View Pastebin]:> look pastebin
 
 p:Greetings citizens of the World Wide Web, we are Anonymous. For months, we have sought support from people all around the globe: Artists, hackers, coders, musicians and protesters alike. The call to arms was received with an outpouring of response, but still not enough support has been shown.
+
+img:thegame/world/0903/title
 
 p:In times like these, truth will always be enough to break any barrier that may be in our path, as this opportunity for a free and just world unfolds, it is our duty to seize this moment for the good of humanity. Each one of us carries different ideologies, but we must push our differences aside and agree on one thing: this world is big enough for every human being to follow his or her true will, and to live a life we can all live equally with abundance. To achieve this, Project Mayhem 2012 seeks to leak illegality, fraud, and corruption of Government, Corporate, and Financial institutions worldwide. This event will usher in a new age of love and prosperity while expanding our collective consciousness.
 
