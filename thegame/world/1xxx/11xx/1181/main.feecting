@@ -9,5 +9,5 @@ p:You are are at the Parking Lot.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:11[-460|-941]
+coordinates:11[-460|-987]
 ::END:MAIN
