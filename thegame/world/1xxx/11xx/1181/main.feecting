@@ -1,12 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the Plaza Inn Washroom from here.
+p:You can see the Disneyland Parkinglot from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# Plaza Inn Washroom
-p:You are are at the Plaza Inn.
+# Disneyland Parkinglot
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:11[-566|-30]
+p:You are are at the Parking Lot.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-460|-941]
 ::END:MAIN
