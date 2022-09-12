@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:thegame/agent/0505/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:thegame/agent/0505/avatar
+## Gavin de Becker
+name: Gavin de Becker
+vector: 0x0505a
+describe: Gavin de Becker is the worst security guy ever. Don't trust him with anything in your fridge. He has been known to take other's lunch sandwiches from the fridge. Protect yourself!
+::END:LOOK
