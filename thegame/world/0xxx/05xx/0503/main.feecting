@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Santa Monica Blvd. from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Santa Monica Blvd.
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:05[-513|-513]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:05[-108|-845]
 ::END:MAIN
