@@ -4,6 +4,19 @@ img:thegame/agent/0502/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0502/avatar
-name: Susena
+
+## Justin Long
+
+name: Justin Long
 vector: 0x0502a
+
+p:A likable, boyish-looking actor with thick eyebrows and a friendly smile, Justin Long is a native of Connecticut.
+
+p:He was born and raised in Fairfield, the second of three sons. His father, R. James Long, is a Professor of Philosophy at Fairfield University, and his mother, Wendy Lesniak, is a former Broadway actress. He is of German, Sicilian, and Polish descent. He attended Fairfield Prep, and after graduating, he attended Vassar College. He first really showed his promise as a member of the comedy troupe "LaughingStock." His performing talent garnered favorable notices and he won roles in some independent productions, notably Galaxy Quest (1999). However, he refused to act full time until after he graduated, which he did in 2000. He first gained notice when he played the nervous teenager Warren Cheswick in the TV series Ed (2000). The following year, he starred in the offbeat horror film Jeepers Creepers (2001). The film, with its ghoulish ending, was a major hit on the horror circuit and raised his profile.
+
+p:He played the boyfriend of Britney Spears in Crossroads (2002), and won a supporting role in the Vince Vaughn comedy Dodgeball: A True Underdog Story (2004). He had high-profile roles in some offbeat independent films, most notably Raising Genius (2004) and Waiting... (2005), and scored commercial success again when he played Lindsay Lohan's boyfriend in Herbie Fully Loaded (2005). In 2007, he appeared as second lead in the fourth "Die Hard" film, Live Free or Die Hard (2007).
+
+p:He continues to win acclaim and fans. He scored commercial success again with a role in the Jennifer Aniston romantic comedy The Break-Up (2006). He is private about his personal life and does not make a point of attending nightclubs and parties. However, his personal life did get scrutiny in 2008, due to his romance with actress Drew Barrymore that year.
+
+p:In addition to his film appearances, he is a spokesman for the Apple Mac computers, appearing with John Hodgman in its commercials.
 ::END:LOOK
