@@ -4,6 +4,8 @@ img:thegame/agent/0406/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0406/avatar
-name: Dhritarâstra
-vector: 0x0321a
+## Ben Woo
+name: Ben Woo
+vector: 0x0406a
+describe: The Ben Woo Woonicorn is in prison for online trolling, harassment, and being a gernral criminal drug deal who trolls video game and social media chats looking for customers.
 ::END:LOOK
