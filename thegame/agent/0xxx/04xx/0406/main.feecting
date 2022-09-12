@@ -4,12 +4,17 @@ img:thegame/agent/0406/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0406/avatar
+
 ## Ben Woo
+
 name: Ben Woo
 vector: 0x0406a
+
 describe: The Ben Woo Woonicorn is in prison for online trolling, harassment, and being a gernral criminal drug deal who trolls video game and social media chats looking for customers.
 
 ### Aliases
+
+- @Benjamin_Woo
 - @WooHah_WooHah!
 - @KooWoo
 - @Wootietang!
@@ -26,5 +31,11 @@ describe: The Ben Woo Woonicorn is in prison for online trolling, harassment, an
 - @Forrest_Forrest_Gump
 - @Quinns_a_Little_Baby
 - @Dyno_Jack
+- @Pinky
+- @Dr_Woo
+- @Woos_Clues
+- @Benjamin_Woo
+- @Woot
+- @Trauma_Bond
 
 ::END:LOOK
