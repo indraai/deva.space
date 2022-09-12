@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Hotel from here.
+::END:LOOK
+
+::BEGIN:MAIN
+# Disneyland Hotel
+
+p:You are are at the Hotel.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-460|-941]
+::END:MAIN
