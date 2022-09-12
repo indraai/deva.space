@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see the Allan Carr Disco from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Allan Carr Disco
 
-#bgcolor = #ffffff
-#color = #333333
+p:The Allan Carr Disco where the Hollywood party is happening.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
 coordinates:05[-433|-473]
 ::END:MAIN
