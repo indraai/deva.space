@@ -3,6 +3,8 @@ p:You can see Hollywood from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/0500/title
+
 ## Hollywood
 
 p:The Hollywood Syndicate.
