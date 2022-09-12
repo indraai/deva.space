@@ -1,9 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Wilshire Blvd. from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Wilshire Blvd.
+
+p:You are on Wilshire Blvd.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
