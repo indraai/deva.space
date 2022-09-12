@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Hillhaven Lodg from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Hillhaven Lodge
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:05[-433|-513]
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:05[-43|-775]
 ::END:MAIN
