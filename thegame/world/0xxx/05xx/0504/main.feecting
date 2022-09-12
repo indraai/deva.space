@@ -7,5 +7,5 @@ p:You can see Mahatala from here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:05[-108|-706]
+coordinates:05[-108|-903]
 ::END:MAIN
