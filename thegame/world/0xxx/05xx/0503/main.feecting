@@ -7,5 +7,5 @@ p:You can see Santa Monica Blvd. from here.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:05[-291|-669]
+coordinates:05[-292|-668]
 ::END:MAIN
