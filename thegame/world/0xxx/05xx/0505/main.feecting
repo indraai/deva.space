@@ -27,5 +27,5 @@ p:Whether the party at Allan's was big or small, press-worthy or private, what v
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:05[-291|-530]
+coordinates:05[-222|-530]
 ::END:MAIN

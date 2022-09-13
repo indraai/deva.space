@@ -9,5 +9,5 @@ p:The Allan Carr Disco where the Hollywood party is happening.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:05[-291|-530]
+coordinates:05[-222|-530]
 ::END:MAIN
