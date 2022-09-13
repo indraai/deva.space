@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see Wilshire Blvd. from here.
+p:You can see Beverly Blvd. from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Wilshire Blvd.
+## Beverly Blvd.
 
-p:You are on Wilshire Blvd.
+p:You are on Beverly Blvd.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
