@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Wilshire Blvd. from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Wilshire Blvd.
+
+p:You are on Wilshire Blvd.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:05[-108|-983]
+::END:MAIN
