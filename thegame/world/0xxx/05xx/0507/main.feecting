@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see Mahatala from here.
+p:You can see Allan Carr Bedroom from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Mahatala
+## Allan Carr Bedroom
 
-#bgcolor = #ffffff
-#color = #333333
-coordinates:05[-433|-433]
+p:The ultra secret bedroom of Allan Carr.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:05[-43|-775]
 ::END:MAIN
