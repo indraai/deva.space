@@ -1,0 +1,31 @@
+::BEGIN:LOOK
+p:You can see  The Odyssey from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Oddyssey
+
+p:The Odyssey Juice Bar.
+
+### Part 1
+youtube:knDop51EXIQ
+
+### Part 2
+youtube:_vUFimF1g50
+
+### Part 3
+youtube:HG70ec8YJos
+- Allan Carr at 2min 40sec
+
+### Part 4
+youtube:By8GFi-Lx3c
+
+### Part 5
+youtube:wTgoRRk6m7g
+
+### Part 6
+youtube:YjUL2iM8EcM
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:MAIN
