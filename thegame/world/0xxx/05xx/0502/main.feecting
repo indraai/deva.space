@@ -9,5 +9,5 @@ p:Sunset Blvd.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-coordinates:05[-108|-845]
+coordinates:05[-291|-599]
 ::END:MAIN
