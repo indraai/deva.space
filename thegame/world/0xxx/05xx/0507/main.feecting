@@ -7,9 +7,8 @@ p:You can see Allan Carr Bedroom from here.
 
 p:The ultra secret bedroom of Allan Carr.
 
-#bgcolor = var(--color-white)
-#color = var(--color-black)
+#bgcolor = var(--color-black)
+#color = var(--color-white)
 #bg = thegame/world/0507/background
-
 coordinates:05[-222|-530]
 ::END:MAIN
