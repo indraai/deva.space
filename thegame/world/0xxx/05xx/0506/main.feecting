@@ -7,7 +7,8 @@ p:You can see the Allan Carr Disco from here.
 
 p:The Allan Carr Disco where the Hollywood party is happening.
 
-#bgcolor = var(--color-white)
-#color = var(--color-black)
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+#bg = thegame/world/0506/background
 coordinates:05[-222|-530]
 ::END:MAIN
