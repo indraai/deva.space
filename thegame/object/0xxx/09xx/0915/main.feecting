@@ -8,7 +8,7 @@ name: FBI Training
 vector: 0x0915o
 describe:The FBI Training.
 
-look[Harold Report]:text
+bmud[Harold Report]:look text
 
 ::END:LOOK
 
