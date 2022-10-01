@@ -10,6 +10,8 @@ img:thegame/world/0915/title
 
 p:The visit to the FBI on November 30, 2015 to deliver the contract that Trenton had drawn up.
 
+bmud[Harold]:look text
+
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 
