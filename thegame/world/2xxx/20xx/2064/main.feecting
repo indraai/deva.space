@@ -14,10 +14,13 @@ p:Formerly, in the Krita age, O king, a Rakshasa of the name of Charvaka, O migh
 p:Near that peak is the sacred and extensive Vadari, that highly meritorious asylum, famed over the three worlds, of him, O bull of the Bharata race, who is the Present, the Past and the Future, who is called Narayana and the lord Vishnu, who is eternal and the best of male beings, and who is pre-eminently illustrious. Near Vadari, the cool current of Ganga was formerly warm, and the banks there were overspread with golden sands.
 
 ### References
+
 cmd[SECTION XL]:#web get https://www.sacred-texts.com/hin/m03/m03040.htm
 cmd[SECTION CXI]:#web get https://www.sacred-texts.com/hin/m05/m05111.htm
 cmd[SECTION XC]:#web get https://www.sacred-texts.com/hin/m03/m03090.htm
 
+#bgcolor = var(--color-green)
 #color = var(--color-white)
-#bgcolor = var(--color-black)
+
+coordinates:20[56|-48]
 ::END:MAIN
