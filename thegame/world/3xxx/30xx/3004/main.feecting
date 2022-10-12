@@ -5,6 +5,10 @@ p:You can see Narmada from here.
 ::BEGIN:MAIN
 ## Narmada
 
+p:Here also, O mighty king, is the region called Jamvumarga, inhabited by birds and deer, and which constitutes the retreat of ascetics with souls under control, O thou foremost of those that have subdued their senses!
+
+link[Original]:https://www.sacred-texts.com/hin/m03/m03089.htm
+
 #bgcolor = var(--color-green)
 #color = var(--color-white)
 coordinates:30[-349|-140]

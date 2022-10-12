@@ -5,6 +5,10 @@ p:You can see Narmada from here.
 ::BEGIN:MAIN
 ## Narmada
 
+p:Many are the wonders, O mighty monarch, that may be seen on that sacred mountain which is like unto heaven itself and which is visited by celestial Rishis. There, O subjugator of hostile cities, is the sacred river called Viswamitra belonging to the royal sage of that name and which abounds, O king, in many sacred tirthas.
+
+link[Original]:https://www.sacred-texts.com/hin/m03/m03089.htm
+
 #bgcolor = var(--color-green)
 #color = var(--color-white)
 coordinates:30[-349|90]
