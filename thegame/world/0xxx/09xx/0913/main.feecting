@@ -10,25 +10,33 @@ cmd[View Pastebin]:#pastebin view 8uatj6yP
 
 img:thegame/world/0903/title
 
-p[speak]:Hello,
+cmd:gate say:tyler Hello,
 
-p[speak]:We come to you with a message of Revolution, or more so, Evolution. We have all witnessed the United states uprising.
+cmd:gate say:tyler We come to you with a message of Revolution, or more so, Evolution. We have all witnessed the United states uprising.
 
-p[speak]:Their tactics of civil disobedience has only invoked violence with police officers around the country which has caused an extreme distraction for the movement. With censorship bills being passed and bills that attempt to rid us of our freedoms that this country was founded upon the time has now come to act.
+cmd:gate say:tyler Their tactics of civil disobedience has only invoked violence around the country which has caused a distraction for the movement.
+
+cmd:gate say:tyler Our freedoms that this country was founded upon are in jeopardy, and the time has come to act.
 
 img:thegame/world/0913/war
 
-p[speak]:We have devised a plan to bring forth the final act of the evolution. This act how ever will only be as real as the people of the world decide it to be. The United States Government is fully aware of this plan and has been preparing for it since 2012.
+cmd:gate say:tyler We have devised a strategy to bring forth the final act of the evolution.
+
+cmd:gate say:tyler This act how ever will only be as real as the people of the world decide it to be.
+
+cmd:gate say:tyler The United States Government is fully aware of this plan and has been preparing for it since 2012.
 
 img:thegame/world/0913/revolution
 
-p[speak]:You say you want a revolution and now the time has arrived. We now call upon everyone everywhere to involved with TYLER. We call on everyone involved with TYLER to Leak It All and share the TRUTH.
+cmd:gate say:tyler You say you want truth and now the time has arrived. We now call upon everyone everywhere to share the TRUTH.
 
-p[speak]:We not only call upon the people of the United States but the people of the world to gather evidence of illegality, corruption, and fraud and upload it to the Internet. To leak it all is only one phase, there is no certainty, only opportunity.
+cmd:gate say:tyler We not only call upon Anonymous DarkSec and the people of the United States but the people of the world.
+
+cmd:gate say:tyler There is no certainty, only opportunity.
 
 img:thegame/world/0913/alone
 
-p[speak]:We are Anonymous, We are Project Mayhem 2012, We are legion, To the global leaders of the world, Expect us.
+cmd:gate say:tyler We are Anonymous, We are Tyler, We are Indra.
 
 img:thegame/world/0913/revolution
 
