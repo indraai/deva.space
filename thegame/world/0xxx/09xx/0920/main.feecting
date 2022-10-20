@@ -5,10 +5,6 @@ p:You can see Training Room 905 from here.
 ::BEGIN:MAIN
 img:thegame/world/0920/splash
 
-img:thegame/world/0920/title
-
-img:thegame/world/0920/host
-
 ## Natives in Game Dev Gathering
 
 title:Natives In Gaming Dev Gathering
@@ -19,9 +15,13 @@ address: 2505 Augustine Drive, Santa Clara, CA 95054
 
 --
 
+img:thegame/world/0920/title
+
 p[speak:Amy]:With the recent overwhelming reception of Never Alone developed by the Cook Inlet Tribal Council with E-Line Media, it’s clear that Indigenous games are on the rise.
 
 p[speak:Amy]:The Natives in Game Dev Gathering recognizes the work that comes before and that which is coming ahead to honor the ongoing impact of Indigenous people of North America on game industry ranging from AAA to indie.
+
+img:thegame/world/0920/host
 
 ### Schedule
 p:10:00am to 10:25am – Welcoming, Brenda Romero and Elizabeth LaPensée
