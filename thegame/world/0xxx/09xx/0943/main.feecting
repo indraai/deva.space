@@ -29,9 +29,7 @@ youtube:pKtLtKgKM7s
 youtube:yIHhnApcdC8
 
 
-## PROGRAM
-
-talk:#adv object:thegame 0943/main:text
+button[The Deathstar Mission]:#adv object:thegame 0943/main:deathstar
 
 -
 #color = #eeeeee
@@ -85,9 +83,9 @@ asked to have 'em leave and Code Ripper and Merc were like "Sure, no prob. Later
 
 p:The Prophet continued to bitch and got a personal interview with head guard man and then a personal boot off the hotel's property.
 
-#color = #eeeeee
-#bgcolor = rgba(0,0,0,.5)
+talk:#adv world:thegame 0900/training:card
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 #bg = thegame/world/0963/background
 coordinates:09[-681|-588]
-talk:#adv world:thegame 0900/training:card
 ::END:DEATHSTAR
