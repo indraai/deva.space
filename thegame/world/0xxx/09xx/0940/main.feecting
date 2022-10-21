@@ -14,8 +14,8 @@ link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 
 talk:#wiki summary Cypherpunk
 
-#color = var(--color-black)
-#bgcolor = var(--color-white)
+#color = var(--color-yellow)
+#bgcolor = var(--color-black)
 coordinates:09[-506|-666]
 ::END:MAIN
 
