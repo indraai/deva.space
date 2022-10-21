@@ -13,17 +13,17 @@ link[Satan Website]:http://www.porcupine.org/satan/
 
 img:thegame/world/0944/title
 
-p:SATAN was written because we realized that computer systems are becoming more and more dependent on the network, and at the same becoming more and more vulnerable to attack via that same network.
+p[speak:Matthew]:SATAN was written because we realized that computer systems are becoming more and more dependent on the network, and at the same becoming more and more vulnerable to attack via that same network.
 
-p:The rationale for SATAN is given in a paper that we posted in december 1993 ( Improving the Security of Your Site by Breaking Into it).
+p[speak:Matthew]:The rationale for SATAN is given in a paper that we posted in december 1993 ( Improving the Security of Your Site by Breaking Into it).
 
-p:SATAN is a tool to help systems administrators. It recognizes several common networking-related security problems, and reports the problems without actually exploiting them.
+p[speak:Matthew]:SATAN is a tool to help systems administrators. It recognizes several common networking-related security problems, and reports the problems without actually exploiting them.
 
-p:For each type or problem found, SATAN offers a tutorial that explains the problem and what its impact could be. The tutorial also explains what can be done about the problem: correct an error in a configuration file, install a bugfix from the vendor, use other means to restrict access, or simply disable service.
+p[speak:Matthew]:For each type or problem found, SATAN offers a tutorial that explains the problem and what its impact could be. The tutorial also explains what can be done about the problem: correct an error in a configuration file, install a bugfix from the vendor, use other means to restrict access, or simply disable service.
 
-p:SATAN collects information that is available to everyone on with access to the network. With a properly-configured firewall in place, that should be near-zero information for outsiders.
+p[speak:Matthew]:SATAN collects information that is available to everyone on with access to the network. With a properly-configured firewall in place, that should be near-zero information for outsiders.
 
-p:We have done some limited research with SATAN. Our finding is that on networks with more than a few dozen systems, SATAN will inevitably find problems. Here's the current problem list:
+p[speak:Matthew]:We have done some limited research with SATAN. Our finding is that on networks with more than a few dozen systems, SATAN will inevitably find problems. Here's the current problem list:
 
 > NFS file systems exported to arbitrary hosts
 > NFS file systems exported to unprivileged programs
@@ -37,7 +37,7 @@ p:We have done some limited research with SATAN. Our finding is that on networks
 > writable anonymous FTP home directory
 > These are well-known problems. They have been subject of CERT, CIAC, or other advisories, or are described extensively in practical security handbooks. The problems have been exploited by the intruder community for a long time.
 
-p:We realize that SATAN is a two-edged sword - like many tools, it can be used for good and for evil purposes. We also realize that intruders (including wannabees) have much more capable (read intrusive) tools than offered with SATAN. We have those tools, too, but giving them away to the world at large is not the goal of the SATAN project.
+p[speak:Matthew]:We realize that SATAN is a two-edged sword - like many tools, it can be used for good and for evil purposes. We also realize that intruders (including wannabees) have much more capable (read intrusive) tools than offered with SATAN. We have those tools, too, but giving them away to the world at large is not the goal of the SATAN project.
 
 talk:#wiki summary Security_Administrator_Tool_for_Analyzing_Networks
 
