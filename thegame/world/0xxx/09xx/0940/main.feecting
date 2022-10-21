@@ -7,12 +7,12 @@ img:thegame/world/0940/title
 
 ## Cypherpunks
 
-talk:#adv world:thegame 0900/training:card
-
 title: Cypherpunks
 link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 
 talk:#wiki summary Cypherpunk
+
+talk:#adv world:thegame 0900/training:card
 
 #color = var(--color-yellow)
 #bgcolor = var(--color-black)
