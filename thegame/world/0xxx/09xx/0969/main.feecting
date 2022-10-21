@@ -3,11 +3,11 @@ p:You can see the KGB from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0969/title
+img:thegame/world/0969/splash
 
-## The KGB
+## The KGB/FSB
 
-title: The KGB
+title: The KGB/FSB
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
