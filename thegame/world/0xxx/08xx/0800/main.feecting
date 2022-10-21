@@ -3,7 +3,7 @@ p:You can see Training Room 800 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Training Room 800
+## The Unix Terrorist
 
 talk:#adv world:thegame 0900/training:card
 
@@ -50,8 +50,10 @@ inactive: I don't sleep... I metastasize
 ---
 
 ## Associates
+
 > Honey Dew Moore
 > Shok
+> joewee
 > SILLYG00S3
 > FUNNY_BUNNY
 > RLOXLEY
@@ -82,7 +84,7 @@ inactive: I don't sleep... I metastasize
 #bgcolor = var(--color-black)
 #color = var(--color-white)
 #bg = thegame/world/0800/background
-coordinates:08[-352|-472]
+coordinates:08[-345|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1
