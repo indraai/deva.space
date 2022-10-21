@@ -4,7 +4,11 @@ img:thegame/agent/0977/avatar
 
 ::BEGIN:LOOK
 img:thegame/agent/0977/avatar
-## OpenCog
-name:OpenCog
+## Linas Vepstas
+name:Linas Vepstas
 vector: 0x0977a
+describe:
+
+link[github]:https://github.com/linas
+link[linas.org]:http://linas.org/
 ::END:LOOK
