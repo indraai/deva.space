@@ -8,5 +8,5 @@ p:You can see Murmansk State Technical University from here.
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:09[-626|-222]
+coordinates:09[-587|-182]
 ::END:MAIN
