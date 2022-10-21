@@ -9,7 +9,8 @@ p:The Edge group room.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:09[-747|-545]
+coordinates:09[-787|-585]
+
 talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 
