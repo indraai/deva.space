@@ -8,16 +8,22 @@ img:thegame/world/0915/title
 
 ## FBI
 
-p:The visit to the FBI on November 30, 2015 to deliver the contract that Trenton had drawn up.
+p[speak]:Quinn would visit the Portland FBI in the morning of November 30, 2015 to deliver the contract that Trenton had drawn up.
 
-bmud[Harold]:look text
+p[speak]:When Quinn arrived at the FBI Office he was greeted by the security man who took his identification and instructed him to take a seat to wait for Agents.
+
+p[speak]:Quinn then met with a male and female Agent duo. The female was an ansien woman who was pregneant. The man was a middle aged man wearing casual attire.
+
+p[speak]:The interview didn't last very long, and Quinn left his copy of the contract with the FBI as evidence. Prior to handing over the contract Quinn took a picture of it on the desk in the FBI office.
+
+p[speak]:The picture of the contract used in the program is the one that was taken at the interview desk of the Portland FBI Field Office.
+
+talk:#adv world:thegame 0900/training:card
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 
-#bg = thegame/world/0915/background
 coordinates:09[-545.5|-383]
-talk:#adv world:thegame 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1
