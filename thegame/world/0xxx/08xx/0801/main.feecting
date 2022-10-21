@@ -65,11 +65,11 @@ note: Asking people to send what they download to his personal email account.
 > rloxley
 > Kent Browning
 
-#color = #f7d677
-#bgcolor = #000000
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 #bg = thegame/world/0801/background
 talk:#adv world:thegame 0900/training:card
-coordinates:08[-392|-472]
+coordinates:08[-385|-465]
 ::END:MAIN
 
 ::BEGIN:KENT
