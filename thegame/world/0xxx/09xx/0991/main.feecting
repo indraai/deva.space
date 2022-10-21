@@ -58,7 +58,7 @@ p[speak]:So we have Ruslan Pukhov of CAST travelling the world meeting everyone 
 
 p[speak]:Nothing to see here boys! Keep moving along... DarkSec I think you got a problems.
 
-#color = var(--color-white)
-#bgcolor = var(--color-black)
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:09[-587|-223]
 ::END:MAIN
