@@ -28,9 +28,6 @@ youtube:pKtLtKgKM7s
 
 youtube:yIHhnApcdC8
 
-
-button[The Deathstar Mission]:#adv object:thegame 0943/main:deathstar
-
 -
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
@@ -61,8 +58,6 @@ talk:#corpus chat:brian
 
 
 ::BEGIN:DEATHSTAR
-img:thegame/world/0963/title
-
 ## Operation Death Star
 
 link[Operation Death Star]:https://bit.ly/3sm8GEX
@@ -83,9 +78,6 @@ asked to have 'em leave and Code Ripper and Merc were like "Sure, no prob. Later
 
 p:The Prophet continued to bitch and got a personal interview with head guard man and then a personal boot off the hotel's property.
 
-talk:#adv world:thegame 0900/training:card
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0963/background
-coordinates:09[-681|-588]
 ::END:DEATHSTAR
