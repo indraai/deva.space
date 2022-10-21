@@ -3,9 +3,26 @@ p:You can see Murmansk FSBs from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## Murmansk FSB
+## Murmansk FSB Headquarters
 
-#color = var(--color-white)
-#bgcolor = var(--color-black)
-coordinates:09[-667|-222]
+img:thegame/world/0993/building
+
+p[speak]:The building has been under construction since August 2013 and will house the powerful and quickly growing state service. It was officially opened by FSB leader Aleksandr Bortnikov together with regional leader Oleg Gerasin.
+
+p[speak]:The building has eight floors and oversees all the other buildings in the area. It is located on the Lenin Boulevard in downtown Murmansk. It is built in architecture typical to the Stalin era.
+
+p[speak]:The Murmansk FSB headquarters has a total of 15,084 square meters.
+
+img:thegame/world/0993/ribbon
+
+p[speak]:The building is modern and packed with advanced equipment, it is a powerful instrument for your [the FSB’s] everyday work for the wellbeing of the country and society.
+
+
+p[speak]:FSB border guards are in charge of both the Kola Peninsula’s land border to Norway and Finland, as well as the Coast Guard service of the Barents Sea and western Arctic.
+
+p[speak]:In Soviet times, the border guard service was part of NKVD / KGB. In 1993, President Boris Yeltsin  made it a separate government agency. Vladimir Putin, however, again changed the border guards to be a part of the Federal Security Service, FSB.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-627|-182]
 ::END:MAIN
