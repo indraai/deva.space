@@ -34,7 +34,7 @@ link[Homepage]:http://xibo.com
 link[MudStats]:http://mudstats.com/World/(EVIL!)Mud
 
 ::begin:buttons
-button[Open (EVIL!)]:#arc open evil.xibo.com:4201
+button[Play (EVIL!)]:#arc open evil.xibo.com:4201
 ::end:buttons
 
 p[speak]:(EVIL!)Mud is a multi-user dungeon running the TeenyMUD 2.0 code. It's a social setting for dark humor, freedom of expression, and commentary. (EVIL!) is freely extendible by any user, which means that if you create something, it joins the seven years of history that already exists.
