@@ -56,7 +56,7 @@ link:http://lostsouls.org/
 link[Mudstats]:http://mudstats.com/World/LostSouls
 
 ::begin:buttons
-cmd:#arc open lostsouls.org:23
+button[Play Lost Souls]:#arc open lostsouls.org:23
 ::end:buttons
 
 p[speak]:Lost Souls is a small, long-running LPmud that has produced continuous technical innovation and set ever-higher quality standards since its inception in 1990. The learning curve is steep, but the experience is deep and rewarding. Come by when you're interested in trying something different.
