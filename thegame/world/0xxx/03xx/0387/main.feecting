@@ -11,7 +11,7 @@ p:You are The Playground.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-230|-874]
+coordinates:00[-228|-874]
 ::END:MAIN
 
 ::BEGIN:STORY
