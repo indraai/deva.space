@@ -21,27 +21,38 @@ coordinates:00[-335|-887]
 ::END:MAIN
 
 ::BEGIN:AARDWOLF
-## Aardwolf
 img:thegame/world/0340/aardwolf
-title: Aardwolf
 
-cmd:#arc open aardmud.org:4000
+## Aardwolf
+
+title: Aardwolf
 
 link[Website]:http://www.aardwolf.com/
 link[MudStats]:http://mudstats.com/World/AardwolfMUD
 
-p:Aardwolf is based in the fantasy world of Andolor where magic is common and there are hundreds of exotic realms to explore, puzzles to solve and quests to complete. Aardwolf features a realistic game world with multiple continents and real geography. Each area includes a real time line-of-sight overhead map to see other characters and points of interest around you.
+::begin:buttons
+button[Play Aardwolf]:#arc open aardmud.org:4000
+::end:buttons
+
+p[speak]:Aardwolf is based in the fantasy world of Andolor where magic is common and there are hundreds of exotic realms to explore, puzzles to solve and quests to complete.
+
+p[speak]:Aardwolf features a realistic game world with multiple continents and real geography.
+
+p[speak]:Each area includes a real time line-of-sight overhead map to see other characters and points of interest around you.
 ::END:AARDWOLF
 
 ::BEGIN:GREATER
-## Greater MUD
 img:thegame/world/0340/greater
-title: Greater MUD
 
-cmd:#arc open greatermud.com:23
+## Greater MUD
+title: Greater MUD
 
 link[Website]:http://greatermud.com/
 link[MudStats]:http://mudstats.com/World/GreaterMUD
 
-p:The GreaterMUD project, established in 2004, is a closed source MajorMUD clone engine. The original MajorMUD module has long been abandoned by the developer. GreaterMUD fosters a fresh and lively MajorMUD experience with a modern twist. Current development is active, but slow. Visit the forums for the latest information or join us in game.
+::begin:buttons
+buttons[Play Greater MUD]:#arc open greatermud.com:23
+::end:buttons
+
+p[speak]:The GreaterMUD project, established in 2004, is a closed source MajorMUD clone engine. The original MajorMUD module has long been abandoned by the developer. GreaterMUD fosters a fresh and lively MajorMUD experience with a modern twist.
 ::END:GREATER
