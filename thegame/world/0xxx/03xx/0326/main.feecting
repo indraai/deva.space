@@ -46,14 +46,23 @@ p[speak]:The wizards on (EVIL!)Mud are Xibo, Vasudeva, and Tarrant. Xibo owns th
 
 
 ::BEGIN:TBA
-## TBAMud
 img:thegame/world/0326/tba
+
+## TBAMud
+
 title:TBAMud
-cmd:#arc open tbamud.com:9091
 
 link[Website]:http://www.tbamud.com/
 link[Mudstats]:http://mudstats.com/World/TheBuilderAcademy
 link[Github]:https://github.com/tbamud/tbamud
 
-p:The Builder Academy is foremost a training academy for anyone willing to learn or teach how to build a virtual World. Due to our success and the stagnation of the CircleMUD codebase we have also released our code for anyone desiring a stable and functional codebase. tbaMUD is the continued development of the codebase formerly known as CircleMUD. And we use it to mean both the Academy for training, and the codebase that is made freely available to the community. The most challenging aspect of running a mud is finding good builders. You will hear this from the admin of every MUD that has ever been. In the past it has always been up to each individual MUD to find and usually train own...
+::begin:buttons
+button[Play TBA Mud]:#arc open tbamud.com:9091
+::end:buttons
+
+p[speak]:The Builder Academy is foremost a training academy for anyone willing to learn or teach how to build a virtual World. Due to our success and the stagnation of the CircleMUD codebase we have also released our code for anyone desiring a stable and functional codebase. tbaMUD is the continued development of the codebase formerly known as CircleMUD.
+
+p[speak]:And we use it to mean both the Academy for training, and the codebase that is made freely available to the community. The most challenging aspect of running a mud is finding good builders. You will hear this from the admin of every MUD that has ever been.
+
+p[speak]:In the past it has always been up to each individual MUD to find and usually train own...
 ::END:TBA
