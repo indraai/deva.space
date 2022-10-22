@@ -9,7 +9,7 @@ img:thegame/world/0343/title
 
 p:You are on The Playground.
 
-#color = var(--color-green)
+#color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-230|-844]
 ::END:MAIN

@@ -6,9 +6,9 @@ You can see The Shaft.
 img:thegame/world/0343/title
 p:You are in the amazing 0x indra.fun/playground.
 
-#color = var(--color-green)
+#color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-251|-874]
+coordinates:00[-257|-874]
 ::END:MAIN
 
 =
