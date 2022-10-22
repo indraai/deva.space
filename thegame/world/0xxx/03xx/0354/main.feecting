@@ -20,7 +20,7 @@ talk:#adv world:thegame 0354/main:jedi
 #bgcolor = #000000
 #color = #42de57
 #bg = thegame/world/0354/background
-coordinates:00[-370|-921]
+coordinates:00[-370|-915]
 ::END:MAIN
 
 ::BEGIN:SWAOA
