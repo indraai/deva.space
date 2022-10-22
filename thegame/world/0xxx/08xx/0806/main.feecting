@@ -9,7 +9,7 @@ talk:#adv world:thegame 0900/training:card
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:08[-594|-465]
+coordinates:08[-586|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1

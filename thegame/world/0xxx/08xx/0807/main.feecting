@@ -5,10 +5,11 @@ p:You can see The Underground 807 from here.
 ::BEGIN:MAIN
 ## The Underground 807
 
+talk:#adv world:thegame 0900/training:card
+
 #bgcolor = var(--color-black)
 #color = var(--color-white)
-coordinates:08[-634|-472]
-talk:#adv world:thegame 0900/training:card
+coordinates:08[-627|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1
