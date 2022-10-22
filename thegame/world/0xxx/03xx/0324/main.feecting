@@ -44,15 +44,20 @@ p[speak]:You may make friends and influence your fellow moo'ers by running for a
 
 
 ::BEGIN:SOULS
-## Lost Souls
 img:thegame/world/0324/souls
+
+## Lost Souls
+
 title: Lost Souls
 year: 1990
 ver: LpMUD
-cmd:#arc open lostsouls.org:23
 
 link:http://lostsouls.org/
 link[Mudstats]:http://mudstats.com/World/LostSouls
 
-p:Lost Souls is a small, long-running LPmud that has produced continuous technical innovation and set ever-higher quality standards since its inception in 1990. The learning curve is steep, but the experience is deep and rewarding. Come by when you're interested in trying something different.
+::begin:buttons
+cmd:#arc open lostsouls.org:23
+::end:buttons
+
+p[speak]:Lost Souls is a small, long-running LPmud that has produced continuous technical innovation and set ever-higher quality standards since its inception in 1990. The learning curve is steep, but the experience is deep and rewarding. Come by when you're interested in trying something different.
 ::END:SOULS
