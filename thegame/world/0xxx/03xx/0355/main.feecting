@@ -21,7 +21,7 @@ coordinates:00[-404|-921]
 ::END:MAIN
 
 ::BEGIN:DISCWORLD
-img:thegame/0355/discworld
+img:thegame/world/0355/discworld
 
 ## Discworld
 
@@ -41,15 +41,19 @@ p:Discworld is a flat world ten thousand miles across that rests on the backs of
 ::END:DISCWORLD
 
 ::BEGIN:ELDERTALES
+img:thegame/world/0355/eldertales
+
 ## Elder Tale Online
-img:thegame/0355/eldertales
+
 title: Elder Tale Online
 year: ???
-
-cmd:#arc open mush.eldertaleonline.com:7705
 
 link[Website]:https://eldertaleonline.com/
 link[MudStats]:http://mudstats.com/World/ElderTaleOnline
 
-p:Elder Tale Online//Inception is a MUSH based on the Isekai genre (Trapped in another World), focusing on the lives of those on the Japanese archipelago drawn into the world of the fictional Elder Tale Online VR-MMORPG.
+::begin:buttons
+button[Play Elder Tale Online]:#arc open mush.eldertaleonline.com:7705
+::end:buttons
+
+p[speak]:Elder Tale Online//Inception is a MUSH based on the Isekai genre (Trapped in another World), focusing on the lives of those on the Japanese archipelago drawn into the world of the fictional Elder Tale Online VR-MMORPG.
 ::END:ELDERTALES
