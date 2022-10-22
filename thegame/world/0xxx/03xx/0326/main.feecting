@@ -19,26 +19,29 @@ talk:#adv world:thegame 0326/main:evil
 #bgcolor = #000000
 #color = #fb7496
 #bg = thegame/world/0326/background
-coordinates:00[-369|-852]
+coordinates:00[-360|-844]
 ::END:MAIN
 
 
 ::BEGIN:EVIL
-## (EVIL!)Mud
 img:thegame/world/0326/evil
+
+## (EVIL!)Mud
+
 title: (EVIL!)Mud
-::begin:buttons
-cmd[Open (EVIL!)]:#arc open evil.xibo.com:4201
-::end:buttons
 
 link[Homepage]:http://xibo.com
 link[MudStats]:http://mudstats.com/World/(EVIL!)Mud
 
-p:(EVIL!)Mud is a multi-user dungeon running the TeenyMUD 2.0 code. It's a social setting for dark humor, freedom of expression, and commentary. (EVIL!) is freely extendible by any user, which means that if you create something, it joins the seven years of history that already exists.
+::begin:buttons
+button[Open (EVIL!)]:#arc open evil.xibo.com:4201
+::end:buttons
 
-p:No, it's not a game, it's more like a virtual bar. But more than that, if you don't feel like hanging out in one of the more public areas, you can wander off explore the more than 2000 rooms that have been built on the mud. And if you get creative, you can build your own areas.
+p[speak]:(EVIL!)Mud is a multi-user dungeon running the TeenyMUD 2.0 code. It's a social setting for dark humor, freedom of expression, and commentary. (EVIL!) is freely extendible by any user, which means that if you create something, it joins the seven years of history that already exists.
 
-p:The wizards on (EVIL!)Mud are Xibo, Vasudeva, and Tarrant. Xibo owns the mud and maintains it, while Vasudeva is the author of the source code. Tarrant is a friendly guy who helps people. (EVIL!)Mud has been up since January of 1991, which makes it the 4th oldest mud around.
+p[speak]:No, it's not a game, it's more like a virtual bar. But more than that, if you don't feel like hanging out in one of the more public areas, you can wander off explore the more than 2000 rooms that have been built on the mud. And if you get creative, you can build your own areas.
+
+p[speak]:The wizards on (EVIL!)Mud are Xibo, Vasudeva, and Tarrant. Xibo owns the mud and maintains it, while Vasudeva is the author of the source code. Tarrant is a friendly guy who helps people. (EVIL!)Mud has been up since January of 1991, which makes it the 4th oldest mud around.
 ::END:EVIL
 
 

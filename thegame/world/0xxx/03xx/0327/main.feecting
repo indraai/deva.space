@@ -20,7 +20,7 @@ talk:#adv world:thegame 0327/main:eotl
 #bgcolor = #000000
 #color = #29da4f
 #bg = thegame/world/0327/background
-coordinates:00[-404|-852]
+coordinates:00[-397|-844]
 ::END:MAIN
 
 ::BEGIN:AVATAR
