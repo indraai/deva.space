@@ -12,7 +12,7 @@ talk:#adv world:thegame 0342/main:heroesassemble
 #bgcolor = #000000
 #color = #42de57
 #bg = thegame/world/0342/background
-coordinates:00[-404|-887]
+coordinates:00[-395|-880]
 ::END:MAIN
 
 ::BEGIN:HEROESASSEMBLE
