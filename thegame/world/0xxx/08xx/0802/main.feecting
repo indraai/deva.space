@@ -8,10 +8,13 @@ link:https://bit.ly/3FUeNG8
 
 talk:#wiki summary W00w00
 
+p[speak:Brian]: w00w00 was a computer security think tank founded in 1996. It's participants have spawned more than a dozen IT companies. The two most famous examples are WhatsApp and Napster.
+
+talk:#adv world:thegame 0900/training:card
+
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:08[-433|-472]
-talk:#adv world:thegame 0900/training:card
+coordinates:08[-424|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1
