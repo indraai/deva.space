@@ -5,10 +5,11 @@ p:You can see Chaos Computer Club from here.
 ::BEGIN:MAIN
 ## Chaos Computer Club
 
+talk:#adv world:thegame 0900/training:card
+
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:08[-513|-472]
-talk:#adv world:thegame 0900/training:card
+coordinates:08[-506|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1
