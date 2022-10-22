@@ -17,22 +17,29 @@ talk:#adv world:thegame 0324/main:souls
 #bgcolor = #000000
 #color = #c00b83
 #bg = thegame/world/0324/background
-coordinates:00[-300|-852]
+coordinates:00[-291|-844]
 ::END:MAIN
 
 
 ::BEGIN:LAMBDA
-## LambdaMOO
 img:thegame/world/0324/lambda
+
+## LambdaMOO
+
 title: LambdaMOO
 year: 1991
 ver: LambdaMOO
-cmd:#arc open Lambda.moo.mud.org:8888
 
 link[Mud Stats]: http://mudstats.com/World/LambdaMOO
 link[Website]: http://www.moo.mud.org/
 
-p:Lambda moo is the original moo that developed the core code for all the moos you will likely visit. We have guest sign ins and if you like the place you can request a permanent character name. You may make friends and influence your fellow moo'ers by running for a open position on the board of directors. Thereby influencing where the moo will grow in the future.
+::begin:buttons
+button[Play LambdaMOO]:#arc open Lambda.moo.mud.org:8888
+::end:buttons
+
+p[speak]:Lambda moo is the original moo that developed the core code for all the moos you will likely visit. We have guest sign ins and if you like the place you can request a permanent character name.
+
+p[speak]:You may make friends and influence your fellow moo'ers by running for a open position on the board of directors. Thereby influencing where the moo will grow in the future.
 ::END:LAMBDA
 
 
