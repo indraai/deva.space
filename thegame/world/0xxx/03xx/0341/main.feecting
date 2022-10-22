@@ -22,49 +22,57 @@ talk:#adv world:thegame 0341/main:arx
 #bgcolor = #000000
 #color = #e0bee6
 #bg = thegame/world/0341/background
-coordinates:00[-369|-887]
+coordinates:00[-360|-880]
 ::END:MAIN
 
 ::BEGIN:ACHEA
-## Achea
 img:thegame/world/0341/achea
-title: Achaea, Dreams of Divine Lands
 
-::begin:buttons
-cmd[Open Achea]:#arc open achaea.com:23
-cmd[Username]:#arc > Arjika
-cmd[Password]:#arc > from93
-::end:buttons
+## Achea
+title: Achaea, Dreams of Divine Lands
 
 link[Website]:https://www.achaea.com/
 link[MudStats]:http://mudstats.com/World/Achaea,DreamsofDivineLands
 
-p:Achaea is a completely original high fantasy mud focused on player interaction. Competing city-states, guilds, religious orders, clans, unrivalled PvP combat, competitive economic systems, and more. We are the gold standard. But you don't have to take our word for it.
-quote: 'I don't believe there's another game in existence with this much depth.' - John Romero, Co-designer of Doom and Quake
-quote: 'Few virtual worlds with an immensely complicated combat system avoid being completely dominated by it -- Achaea is the best-known exception.' -- Dr. Richard Bartle, the inventor of MUDs.
+::begin:buttons
+button[Play Achea]:#arc open achaea.com:23
+::end:buttons
+
+p[speak]:Achaea is a completely original high fantasy mud focused on player interaction. Competing city-states, guilds, religious orders, clans, unrivalled PvP combat, competitive economic systems, and more. We are the gold standard.
+
 ::END:ACHEA
 
 ::BEGIN:STARMOURN
-## Starmourn
 img:thegame/world/0341/starmourn
 title: Starmourn
 
-cmd:#arc open starmourn.com:23
+## Starmourn
 
 link[Website]:https://www.achaea.com/
 link[MudStats]:http://mudstats.com/World/Starmourn
 
-p:Starmourn is the premiere sci-fi MUD, designed and developed from the ground up by the MUD leaders at Iron Realms. Its core features include a complex, highly-customizable starship system with momentum-based space flight and a huge range of ships from fighters up to supercruisers, a strongly player-driven economy where players are responsible for sourcing raw materials, prcoessing them, and manufacturing a whole range of necessary goods, a hacking system unlike anything in other MUDs, an emphasis on a rich, detailed world, five unique character classes (more coming!) with the same PvP depth that IRE players have come to expect, twelve unique player races, player-governed factions, player item crafting, and over 1000 space zones to explore filled with planets, suns, asteroids, moons, and much more.
+::begin:buttons
+button[Play Starmourn]:#arc open starmourn.com:23
+::end:buttons
+
+p[speak]:Starmourn is the premiere sci-fi MUD, designed and developed from the ground up by the MUD leaders at Iron Realms.
+
+p[speak]:Its core features include a complex, highly-customizable starship system with momentum-based space flight and a huge range of ships from fighters up to supercruisers, a strongly player-driven economy where players are responsible for sourcing raw materials, prcoessing them, and manufacturing a whole range of necessary goods, a hacking system unlike anything in other MUDs, an emphasis on a rich, detailed world, five unique character classes (more coming!) with the same PvP depth that IRE players have come to expect, twelve unique player races, player-governed factions, player item crafting, and over 1000 space zones to explore filled with planets, suns, asteroids, moons, and much more.
 ::END:STARMOURN
 
 ::BEGIN:ARX
 ## Arx
-title: Arx, After the Reckoning
 
-cmd:#arc open play.arxmush.org:3000
+title: Arx, After the Reckoning
 
 link[Website]:https://www.achaea.com/
 link[MudStats]:http://mudstats.com/World/Arx,AftertheReckoning
 
-p:The common people of Arvum wouldn't really call the last thousand years a 'golden age'. Since the founding of the Compact of Arvum, the five great noble houses of the realm have schemed and warred against one another, locked in a millennium-old struggle for dominance kept only in check by the occasional powerful monarch. But even as the fragile peace frays with the latest dynastic crisis, creating courtly intrigues in the capital city of Arx, ancient foes that took mankind to the brink of extinction a thousand years ago stir once more.
+::begin:buttons
+button[Play Arx]:#arc open play.arxmush.org:3000
+::end:buttons
+
+p[speak]:The common people of Arvum wouldn't really call the last thousand years a 'golden age'. Since the founding of the Compact of Arvum, the five great noble houses of the realm have schemed and warred against one another, locked in a millennium-old struggle for dominance kept only in check by the occasional powerful monarch.
+
+p[speak]:But even as the fragile peace frays with the latest dynastic crisis, creating courtly intrigues in the capital city of Arx, ancient foes that took mankind to the brink of extinction a thousand years ago stir once more.
 ::END:ARX
