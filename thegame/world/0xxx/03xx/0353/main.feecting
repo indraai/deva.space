@@ -28,8 +28,10 @@ coordinates:00[-327|-915]
 ::END:MAIN
 
 ::BEGIN:FEDERATION
-## Federation2
 img:thegame/world/0353/federation
+
+## Federation2
+
 title: Federation2
 
 link[Website]:https://federation2.com/
