@@ -4,10 +4,14 @@ p:You can see the indra.fun/playground from here.
 
 ::BEGIN:MAIN
 img:thegame/world/0343/title
-p:You are in the amazing 0x indra.fun/playground.
-#bgcolor = #ffffff
-#color = #333333
-coordinates:00[-237|-852]
+
+## The Playground
+
+p:You are on The Playground.
+
+#color = var(--color-green)
+#bgcolor = var(--color-white)
+coordinates:00[-230|-844]
 ::END:MAIN
 
 ====

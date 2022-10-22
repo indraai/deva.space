@@ -7,11 +7,13 @@ p:You can see The Playground.
 ::BEGIN:MAIN
 img:thegame/world/0343/title
 
+## The Playground
+
 p:You are on The Playground!
 
-#color = var(--color-white)
-#bgcolor = var(--color-green)
-coordinates:00[-265|-844]
+#color = var(--color-green)
+#bgcolor = var(--color-white)
+coordinates:00[-258|-844]
 ::END:MAIN
 
 =
