@@ -1,10 +1,11 @@
 ::BEGIN:AVATAR
 img:thegame/agent/0180/avatar
 ::END:AVATAR
-====
 
 ::BEGIN:LOOK
 img:thegame/agent/0180/avatar
-name: BigTyler
+## Big Tyler
+name: Big Tyler
+vector: 0x0180a
+describe: Big Tyler is the big Tyler on the block.
 ::END:LOOK
-====
