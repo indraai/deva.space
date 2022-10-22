@@ -20,36 +20,50 @@ talk:#adv world:thegame 0352/main:viking
 #bgcolor = #000000
 #color = #42de57
 #bg = thegame/world/0352/background
-coordinates:00[-300|-921]
+coordinates:00[-293|-915]
 ::END:MAIN
 
 ::BEGIN:CHAOS
-## Age of Chaos
 img:thegame/world/0352/chaos
+
+## Age of Chaos
+
 title: Age of Chaos
 year: 1991
 ver: CircleMUD
-
-cmd:#arc open aoc.pandapub.com:4000
 
 link[Website]: http://aocblackbook.com/
 link[PandaPub]:http://aoc.pandapub.com/
 link[MudStats]: http://mudstats.com/World/AgeofChaos
 
-p:The Dragon is gone... The Dark One is no more... With the new breaking, the very fabric of the world has been torn asunder; unimaginable horrors now roam the realm where dreams and nightmares are no longer bound to the world of Tel'aran'rhiod. The Wheel of Time no longer spins by the hand of the Creator, while heroes of the past are now of the present. Civilizations sundered by the trial of Ages now flourish once more. No longer are their futures predetermined... no longer is one's destiny bound to another^?. And out of Chaos, new powers emerge... - 13 different classes to choose from. - 12 different races to choose from, including Ancient Races should you challenge the insidious Labyrinth. - Battle out...
+::begin:buttons
+button[Play Age of Chaos]:#arc open aoc.pandapub.com:4000
+::end:buttons
+
+p[speak]:The Dragon is gone... The Dark One is no more... With the new breaking, the very fabric of the world has been torn asunder; unimaginable horrors now roam the realm where dreams and nightmares are no longer bound to the world of Tel'aran'rhiod. The Wheel of Time no longer spins by the hand of the Creator, while heroes of the past are now of the present.
+
+p[speak]:Civilizations sundered by the trial of Ages now flourish once more. No longer are their futures predetermined... no longer is one's destiny bound to another^?. And out of Chaos, new powers emerge... - 13 different classes to choose from. - 12 different races to choose from, including Ancient Races should you challenge the insidious Labyrinth. - Battle out...
 ::END:CHAOS
 
 ::BEGIN:VIKING
-## Viking MUD
 img:thegame/world/0352/viking
+
+## Viking MUD
+
 title: Viking MUD
 year: 1991
 ver: LpMUD
 
-cmd:#arc open connect.vikingmud.org 2001
-
 link[Website]: http://www.vikingmud.org/
 link[MudStats]: http://mudstats.com/World/VikingMUD
 
-p:Viking runs in DGD and offers several guilds (classes) for players, including for example Samurai, Monks, Frog (an easy-to-learn guild mainly for newbies), Frost (cold-hearted mages), and others. It is based in Norway, and usually yields an average of 50 players connected at a time. Players are separated into three main classes. From lowest to highest, they are: mortals, eternals, and wizards. Mortals are the newbies, eternals are more experienced players, and wizards are those who choose wizardry instead of becoming an eternal. Wizards cannot interfere with game play, but are granted more sys privileges and have the ability to code new areas for the mud. It's a very structurally organized mud with friendly people, and any user would enjoy it. Alternate server site:...
+::begin:buttons
+button[Play Viking MUD]:#arc open connect.vikingmud.org 2001
+::end:buttons
+
+p[speak]:Viking runs in DGD and offers several guilds (classes) for players, including for example Samurai, Monks, Frog (an easy-to-learn guild mainly for newbies), Frost (cold-hearted mages), and others. It is based in Norway, and usually yields an average of 50 players connected at a time.
+
+p[speak]:Players are separated into three main classes. From lowest to highest, they are: mortals, eternals, and wizards. Mortals are the newbies, eternals are more experienced players, and wizards are those who choose wizardry instead of becoming an eternal.
+
+p[speak]:Wizards cannot interfere with game play, but are granted more sys privileges and have the ability to code new areas for the mud. It's a very structurally organized mud with friendly people, and any user would enjoy it. Alternate server site:...
 ::END:VIKING
