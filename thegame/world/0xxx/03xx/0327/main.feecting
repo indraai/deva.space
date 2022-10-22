@@ -24,6 +24,8 @@ coordinates:00[-404|-852]
 ::END:MAIN
 
 ::BEGIN:AVATAR
+img:thegame/world/0327/avatarmud
+
 ## Avatar MUD
 title: Avatar MUD
 
@@ -50,7 +52,7 @@ link[Homepage]:http://www.eotl.org/
 link[MudStats]:http://mudstats.com/World/EndoftheLine
 
 ::begin:buttons
-button[Open EOTL]:#arc open eotl.org:2010
+button[Play EOTL]:#arc open eotl.org:2010
 ::end:buttons
 
 

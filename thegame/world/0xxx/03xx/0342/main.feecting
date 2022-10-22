@@ -16,14 +16,21 @@ coordinates:00[-404|-887]
 ::END:MAIN
 
 ::BEGIN:HEROESASSEMBLE
-## Heroes Assemble
 img:thegame/world/0342/heroes
-title: New Worlds: Ateeran
 
-cmd:#arc open heroesassemble.mushhaven.com:3000
+## Heroes Assemble
+
+title: New Worlds: Ateeran
 
 link[Website]:http://heroesassemble.mushhaven.com
 link[MudStats]:http://mudstats.com/World/HeroesAssembleMUSH
 
-p:Heroes Assemble MUSH is a superhero storytelling game where DC, Marvel, and many other properties occupy a fully merged and integrated world with a unique canon and a fixed timeline. New York City, Gotham and Metropolis are situated in canon locations along the East Coast and connected by HyperLoop for rapid transit. We aim for our setting to feel like it could be a major DC or Marvel feature film, or a main run of a well known comic franchise.
+::begin:buttons
+button[Play Hereos Assemble]:#arc open heroesassemble.mushhaven.com:3000
+::end:buttons
+
+p[speak]:Heroes Assemble MUSH is a superhero storytelling game where DC, Marvel, and many other properties occupy a fully merged and integrated world with a unique canon and a fixed timeline. New York City, Gotham and Metropolis are situated in canon locations along the East Coast and connected by HyperLoop for rapid transit.
+
+p[speak]:We aim for our setting to feel like it could be a major DC or Marvel feature film, or a main run of a well known comic franchise.
+
 ::END:HEROESASSEMBLE
