@@ -2,6 +2,7 @@
 p:You can see the Arjika Tower from here.
 ::END:LOOK
 
+
 ::BEGIN:MAIN
 img:thegame/world/0327/title
 This is the southeast corner of the Adventure Arcade where you will find Disc World and Elder Tale Online.
@@ -20,6 +21,7 @@ talk:#adv world:thegame 0355/main:eldertales
 coordinates:00[-397|-915]
 ::END:MAIN
 
+
 ::BEGIN:DISCWORLD
 img:thegame/world/0355/discworld
 
@@ -35,9 +37,13 @@ link[Website]:https://discworld.starturtle.net/lpc/
 button[Play Discworld]:#arc open discworld.starturtle.net:23
 ::end:buttons
 
+p[speak]:Discworld is a flat world ten thousand miles across that rests on the backs of four elephants who stand on the shell of Great A'Tuin, the sky turtle, as he, or, as it might be, she, swims through space.
 
-p:Discworld is a flat world ten thousand miles across that rests on the backs of four elephants who stand on the shell of Great A'Tuin, the sky turtle, as he, or, as it might be, she, swims through space. From Ankh-Morpork, jewel (okay, so it's a carbuncle) of cities, venture hubwards across the brassica'ed Sto Plains to the Ramtops, cross the Circle Sea to the dark and mysterious continent of Klatch. Discworld combines the humour and richness of Terry's books with a high quality mud that appeals to both fans and those who have never read his work. As a very kind reviewer said: 'With fish, wombles, intelligent shades of blue, straw dummies, shiny plaques, mended drums, Shifty Jim, Ankh-Morpork pence all on very...
+p[speak]:From Ankh-Morpork, jewel (okay, so it's a carbuncle) of cities, venture hubwards across the brassica'ed Sto Plains to the Ramtops, cross the Circle Sea to the dark and mysterious continent of Klatch.
+
+p[speak]:Discworld combines the humour and richness of Terry's books with a high quality mud that appeals to both fans and those who have never read his work. As a very kind reviewer said: 'With fish, wombles, intelligent shades of blue, straw dummies, shiny plaques, mended drums, Shifty Jim, Ankh-Morpork pence all on very.
 ::END:DISCWORLD
+
 
 ::BEGIN:ELDERTALES
 img:thegame/world/0355/eldertales
