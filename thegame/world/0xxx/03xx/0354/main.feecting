@@ -20,7 +20,7 @@ talk:#adv world:thegame 0354/main:jedi
 #bgcolor = #000000
 #color = #42de57
 #bg = thegame/world/0354/background
-coordinates:00[-370|-915]
+coordinates:00[-363|-915]
 ::END:MAIN
 
 ::BEGIN:SWAOA
@@ -34,7 +34,6 @@ ver: PennMUSH
 
 link[Website]:http://starwars.xidus.net/
 link[Wiki]:http://www.swaoa-mush.com/wiki/Main_Page
-link[MudStats]:http://mudstats.com/World/StarWarsAgeofAlliances
 
 ::begin:buttons
 button[Play Star Wars]:#arc open swaoa-mush.com:5500
@@ -53,7 +52,6 @@ year: 1999
 ver: LotJ
 
 link[Website]:http://legendsofthejedi.com/
-link[MudStats]:http://mudstats.com/World/LegendsoftheJedi
 
 ::begin:buttons
 button[Play Legends of the Jedi]:#arc open legendsofthejedi.com:5656

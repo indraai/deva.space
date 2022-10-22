@@ -30,7 +30,6 @@ year: 1991
 ver: LpMUD
 
 link[Website]:https://discworld.starturtle.net/lpc/
-link[Mudstats]:http://mudstats.com/World/DiscworldMUD
 
 ::begin:buttons
 button[Play Discworld]:#arc open discworld.starturtle.net:23
@@ -49,7 +48,6 @@ title: Elder Tale Online
 year: ???
 
 link[Website]:https://eldertaleonline.com/
-link[MudStats]:http://mudstats.com/World/ElderTaleOnline
 
 ::begin:buttons
 button[Play Elder Tale Online]:#arc open mush.eldertaleonline.com:7705
