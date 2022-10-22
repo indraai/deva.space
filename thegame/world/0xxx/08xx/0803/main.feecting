@@ -5,10 +5,11 @@ p:You can see Cult of the Dead Cow from here.
 ::BEGIN:MAIN
 ## Cult of the Dead Cow
 
+talk:#adv world:thegame 0900/training:card
+
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-coordinates:08[-473|-472]
-talk:#adv world:thegame 0900/training:card
+coordinates:08[-465|-465]
 ::END:MAIN
 
 ::BEGIN:TRG1
