@@ -15,10 +15,10 @@ talk:#adv world:thegame 0339/main:telehack
 talk:#adv world:thegame 0339/main:93realms
 ::end:arcade
 
-#bg = thegame/world/0339/background
 #bgcolor = #000000
 #color = #73c3ff
-coordinates:00[-300|-887]
+#bg = thegame/world/0339/background
+coordinates:00[-293|-880]
 ::END:MAIN
 
 ::BEGIN:TELEHACK
@@ -35,7 +35,9 @@ link[MudStats]:http://mudstats.com/World/Telehack
 button[Play Telehack]:#arc open telehack.com:23
 ::end:buttons
 
-p[speak]:Telehack is a simulation of a sylized arpanet/usenet, circa 1985-1990. It is a full multi-user simulation, including 25,000 hosts and BBS's the early net, thousands of files from the ero, a collection of adventure and IF games, a working BASIC interpreter with a library of programs to run, simulated historical users, and more.
+p[speak]:Telehack is a simulation of a sylized arpanet/usenet, circa 1985-1990.
+
+p[speak]:It is a full multi-user simulation, including 25,000 hosts and BBS's the early net, thousands of files from the ero, a collection of adventure and IF games, a working BASIC interpreter with a library of programs to run, simulated historical users, and more.
 ::END:TELEHACK
 
 ::BEGIN:93REALMS
