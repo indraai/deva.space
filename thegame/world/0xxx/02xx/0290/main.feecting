@@ -1,11 +1,12 @@
 ::BEGIN:LOOK
-p:You can see the 0y Pink Princess Clubhouse.
+p:You can see the 0y Pink Princess Playhouse.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# 0y Pink Princess Clubhouse
-Welcom to the fantastic underground 0y PinkPrincess Clubhouse.
+# Pink Princess Playhouse
 
-#color = #ffffff
-#bgcolor = #f672fb
+p:Welcome to the fantastic underground PinkPrincess Playhouse.
+
+#color = var(--color-white)
+#bgcolor = var(--color-pink)
 ::END:MAIN

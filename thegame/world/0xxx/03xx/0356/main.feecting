@@ -1,10 +1,13 @@
 ::BEGIN:LOOK
-You can see The Shaft.
+You can see The Playground.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/0343/title
-p:You are in the amazing 0x indra.fun/playground.
+
+## The Playground
+
+p:You are on The Playground.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
