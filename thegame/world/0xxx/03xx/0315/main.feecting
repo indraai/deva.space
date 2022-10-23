@@ -8,7 +8,8 @@ img:thegame/world/0315/title
 ## 9S3E Outer Loop
 
 p:You are in 9S3E Outer Loop
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-569|-775]
+coordinates:00[-569|-776]
 ::END:MAIN

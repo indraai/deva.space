@@ -9,5 +9,5 @@ p:Welcome to the Arjika Recycling Center where cleanup in the city happens.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-108|-775]
+coordinates:00[-108|-776]
 ::END:MAIN
