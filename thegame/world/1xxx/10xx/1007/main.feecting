@@ -7,5 +7,5 @@ p:You can see World Fight Club from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:10[-715|-351]
+coordinates:10[-707|-347]
 ::END:MAIN
