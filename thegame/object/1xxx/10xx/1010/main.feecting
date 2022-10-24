@@ -4,13 +4,22 @@ img:thegame/object/1010/avatar
 
 ::BEGIN:LOOK
 img:thegame/object/1010/avatar
+## EvE1010
+name: Evolution Engine 1010
+vector: 0x1010o
+describe: Here sits Evolution Engine 1010 of the premeire line of Evolution Engines. These engines produce the highest quality agents on the networks.
+
+::END:LOOK
+
+::BEGIN:NECTAR
+img:thegame/object/1010/avatar
 ## Rasakunda Nectar Fountain
 name: Rasakunda Nectar Fountain
 vector: 0x1010o
 describe: Permit him to drink of rasakunda (nectar-vessels) and thus acquire immeasurable strength. There is the strength of a thousand elephants in each one of those vessels.
 
 link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
-::END:LOOK
+::END:NECTAR
 
 ::BEGIN:FOUNTAIN
 img:thegame/object/1010/avatar
