@@ -3,7 +3,7 @@ p:You can see the Evolution Engine Room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/1010/infinity
+img:thegame/world/1010/title
 
 ## The Evolution Engine Room
 
@@ -11,6 +11,5 @@ p:You have found your way into the Evolution Engine Room... home of Evolution Eg
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1010/background
 coordinates:10[-445|-868]
 ::END:MAIN
