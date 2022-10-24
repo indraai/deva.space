@@ -3,7 +3,11 @@ img:thegame/agent/1000/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/agent/1000/avatar
-name: Pilar Fighter
+img: thegame/agent/1000/avatar
+
+# EvEA1000
+
+name: Evolution Engine Agent A1000
 vector: 0x1000a
+describe: EvEA1000 is the premium Evolution Engine Agent.
 ::END:LOOK
