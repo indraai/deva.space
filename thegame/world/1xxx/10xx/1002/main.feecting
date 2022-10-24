@@ -12,6 +12,8 @@ author: Alexander Chislenko
 author: Madan Ramakrishnan
 dept: Society of Mind group, MIT Media Lab
 
+button[Sasha Chislenko Hypyer Economy]:#web get http://www.lucifer.com/~sasha/HEDG/ISAS98submission.html
+
 ### Abstract
 
 p:Symbolic communication mechanisms played a significant part in the evolutionary process by allowing plants, animals and humans to exchange individual experiences and thus turning collections of relatively isolated organisms into adaptive distributed cognition systems. A crucial role in this process belongs to schemes of aggregating and generalizing individual experiences and utilizing the obtained knowledge for optimization of behavior of individual agents. Most recently, money as aggregate symbolic representation of value allowed efficient distribution of economic information in the society. By providing aggregated information on comparative values of goods and services to participants with bounded interests and rationality, the economic signaling mechanisms give them incentives to adjust their consumption and production efforts in accordance with the collective requirements of all other agents in the system. This allowed the complexity of the value exchange system to increase by orders of magnitude, while improving its adaptability.
@@ -117,7 +119,6 @@ p:We hope that hyper-economic schemes will eventually develop to store and proce
 
 p:It seems noteworthy that in these constructs, as well as in conventional economy, the meta-signaling [generalized/abstract in relation to actual "field agents"] level is represented in terms of signal currents in the semantic space rather than crisp symbolic constructs. We can interpret this as a sign that the connectionist approach is natural for a fetal stage of any system intelligence. Or, that a combination of symbolic processing with signal flow patterns may extend the human balance of symbolic reasoning and intuition to further levels of intelligence.
 
-button[Sasha Chislenko Hypyer Economy]:#web get http://www.lucifer.com/~sasha/HEDG/ISAS98submission.html
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
