@@ -12,7 +12,9 @@ author: Alexander Chislenko
 author: Madan Ramakrishnan
 dept: Society of Mind group, MIT Media Lab
 
-button[Sasha Chislenko Hypyer Economy]:#web get http://www.lucifer.com/~sasha/HEDG/ISAS98submission.html
+::begin:buttons
+button[Hypyer Economy]:#web get http://www.lucifer.com/~sasha/HEDG/ISAS98submission.html
+::end:buttons
 
 ### Abstract
 
