@@ -1,15 +1,13 @@
 ::BEGIN:LOOK
-p:You can see the Rasakunda Room from here.
+p:You can see the Evolution Engine Room from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:thegame/world/1010/infinity
 
-## The Rasakunda Room
+## The Evolution Engine Room
 
-p:You have found your way into the Rasakunda Room... home of Aryaka and the Nectar that will fix you up good... hahahaha.
-
-link[Sacred Texts Link]:https://www.sacred-texts.com/hin/m01/m01129.htm
+p:You have found your way into the Evolution Engine Room... home of Evolution Egines that will fix you up good.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
