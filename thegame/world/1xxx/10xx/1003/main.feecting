@@ -9,9 +9,11 @@ img:thegame/world/1000/title
 author:Marvin Minsky
 memoriam: Hans Freudenthal
 
-button[Minsky Source]:#web get https://web.media.mit.edu/~minsky/papers/AlienIntelligence.html
-
 published: Extraterrestrials: Science and Alien Intelligence (Edward Regis, Ed.) Cambridge University Press 1985. Also published in Byte Magazine, April 1985.
+
+::begin:buttons
+button[Minsky Source]:#web get https://web.media.mit.edu/~minsky/papers/AlienIntelligence.html
+::end:buttons
 
 p:When first we meet those aliens in outer space, will we and they be able to converse? I'll try to show that, yes, we will–provided they are motivated to cooperate–because we'll both think similar ways. My arguments for this are very weak but let's pretend, for brevity, that things are clearer than they are. I'll propose two reasons why aliens will think like us, in spite of different origins. All problem-solvers, intelligent or not, are subject to the same ultimate constraints–limitations on space, time, and materials. In order for animals to evolve powerful ways to deal with such constraints, they must have ways to represent the situations they face, and they must have processes for manipulating those representations.
 
