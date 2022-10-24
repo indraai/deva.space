@@ -5,12 +5,14 @@ p:You can see Evolution Engine Hall from here.
 ::BEGIN:MAIN
 img:thegame/world/1000/title
 
-## Evolution Engine Hall
-
 ## Daedalus or Science and the Future
 
 author: JBS Haldane
 published: London, Kegan Paul, 1923 [New York: Dutton, 1924]
+
+::begin:buttons
+button[JBS Haldane Daedalus]:#web get https://jbshaldane.org/books/1923-Daedalus/haldane-1923-daedalus.html
+::end:buttons
 
 note:A paper read to the Heretics, Cambridge, on February 4th, 1923
 
