@@ -3,6 +3,8 @@ p:You can see the Evolution Engine Lounge from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1009/title
+
 # Evolution Engine Lounge
 
 p:The Lounge is where the business for the Evolution Engine Eco System is handled.
