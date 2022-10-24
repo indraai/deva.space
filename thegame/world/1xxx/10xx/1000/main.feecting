@@ -3,6 +3,8 @@ p:You can see Evolution Engine Hall Entrance from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:thegame/world/1000/title
+
 ## Evolution Engine Hall Entrance
 
 #color = var(--color-black)
