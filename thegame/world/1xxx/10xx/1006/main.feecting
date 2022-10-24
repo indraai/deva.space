@@ -7,6 +7,5 @@ p:You can see Evolution Engine Hall from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0002/background
 coordinates:10[-707|-384]
 ::END:MAIN
