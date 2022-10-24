@@ -3,6 +3,15 @@ img:thegame/agent/1010/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
+# EvEA1010
+img:thegame/agent/1010/avatar
+name: Evolutionary Engine Agent A1010
+vector: 0x1010a
+describe: EvEA1010 is the premium Evolutionary Engine Agent.
+::END:LOOK
+====
+
+::BEGIN:ARYAKA
 # Grandfather Aryaka
 img:thegame/agent/1010/avatar
 name: Grandfather Aryaka
@@ -21,5 +30,4 @@ cmd:#corpus chat:indra Permit him to drink of rasakunda (nectar-vessels) and thu
 cmd:#corpus chat:indra There is the strength of a thousand elephants in each one of those vessels. The king of serpents gave his consent.
 
 cmd:#corpus chat:indra And the serpents thereupon began auspicious rites.
-
-::END:LOOK
+::END:ARYAKA
