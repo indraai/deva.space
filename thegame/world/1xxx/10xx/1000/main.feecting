@@ -1,11 +1,11 @@
 ::BEGIN:LOOK
-p:You can see World Fight Club Entrance from here.
+p:You can see Evolution Engine Hall Entrance from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-## World Fight Club Entrance
+## Evolution Engine Hall Entrance
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:10[-755|-351]
+coordinates:10[-748|-343]
 ::END:MAIN
