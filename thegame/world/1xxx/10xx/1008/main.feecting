@@ -1,11 +1,13 @@
 ::BEGIN:LOOK
-p:You can see House Aryaka from here.
+p:You can see Evolution Engine Lobby from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-# House Aryaka
+img:thegame/world/1008/title
 
-p:You have found your way into House Aryaka where the tooughtest fighters come to show their stuff.
+# Evolution Engine Lobby
+
+p:You have found your way into the Evolution Engine Lobby where the coolest Evolution Engine Agents hang out, and show their stuff.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
