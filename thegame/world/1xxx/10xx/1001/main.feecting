@@ -7,6 +7,8 @@ img:thegame/world/1000/title
 
 ## Evolution Engine Hall
 
+talk:#web get https://ase.tufts.edu/cogstud/dennett/papers/concrobt.htm
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:10[-788|-343]
