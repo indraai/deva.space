@@ -82,7 +82,7 @@ p:On the most detailed level, there are records of experiences of individual age
 
 p:The experience levels can be represented in the following diagram:
 
-img:thegame/world/1001/chart01
+img:thegame/world/1002/chart01
 
 ## Hypereconomy Knowledge diagram
 
@@ -93,7 +93,7 @@ p:For the first application of the model we chose an internet advertisement exch
 ### Results of the model test
 p:We have tested the banner selection system with random resource allocation mechanism, a utility-based scheduling algorithm (every agent selects the best resource currently available, regardless of price), an adaptive economic optimization mechanism, economic mechanism extended with considerations of global resource utility, and the hyper-economic system with situational utility. In the experiments on a reasonably diverse system with 700 ads in 30 categories, the hypereconomy provided the highest adaptation rate, and greatest overall efficiency out of all tested methods.
 
-img:thegame/world/1001/graph02
+img:thegame/world/1002/chart02
 
 p:The average modeled user response rates to advertisements were as follows:
 
