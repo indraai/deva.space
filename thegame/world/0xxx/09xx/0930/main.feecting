@@ -3,8 +3,6 @@ p:You can see Training Room 930 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0930/splash
-
 ## Church Of Virus
 
 title: Church of Virus
