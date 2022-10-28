@@ -3,8 +3,6 @@ p:You can see Training Room 928 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:thegame/world/0929/splash
-
 ## Project 89
 
 talk:#adv world:thegame 0900/training:card
