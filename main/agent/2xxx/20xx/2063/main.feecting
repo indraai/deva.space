@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/2063/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/2063/avatar
+name: Sankara
+vector: 0x2063a
+describe: Sankara Deva
+
+::begin:vedas
+talk:#web get https://www.sacred-texts.com/hin/m13/m13b113.htm
+::end:vedas
+::END:LOOK

@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (E) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1103/title
+
+## Main Street (E)
+
+p:You are are at the Disneyland Main Street (E).
+
+mud[North - Main Street]:n
+mud[East - Hallmark Communication Center]:e
+mud[South - Main Street]:s
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-472|-367]
+::END:MAIN

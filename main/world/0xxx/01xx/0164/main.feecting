@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see Security Lookout (NE) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0096/title
+
+## Security Lookout (NE)
+
+p:You are in Security Lookout (NE).
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+coordinates:00[-776|-153]
+::END:MAIN

@@ -1,0 +1,51 @@
+::BEGIN:AVATAR
+img:main/agent/0800/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0800/avatar
+
+## Stephen Huntley Watt
+
+name: the_uT
+vector: 0x0800a
+
+talk:#wiki summary Stephen_Huntley_Watt
+
+### Links
+link[Phrack Profile]:https://bit.ly/3zUQdQC
+link[EL8 - Textfiles]:https://bit.ly/3Llip56
+link[Wired - TJX Hacker]:https://bit.ly/3kS3ftS
+
+### EZine
+::begin:buttons
+button[el8.0.txt]:#adv agent:thegame 0800/main:zine0
+button[el8.1.txt]:#adv agent:thegame 0800/main:zine1
+button[el8.2.txt]:#adv agent:thegame 0800/main:zine2
+button[el8.3.txt]:#adv agent:thegame 0800/main:zine3
+::end:buttons
+::END:LOOK
+
+::BEGIN:ZINE0
+::begin:code
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.0.txt
+::end:code
+::END:ZINE0
+
+::BEGIN:ZINE1
+::begin:code
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.1.txt
+::end:code
+::END:ZINE1
+
+::BEGIN:ZINE2
+::begin:code
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.2.txt
+::end:code
+::END:ZINE2
+
+::BEGIN:ZINE3
+::begin:code
+talk:#web get http://web.textfiles.com/ezines/EL8/el8.3.txt
+::end:code
+::END:ZINE3

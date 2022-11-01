@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1175/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1175/avatar
+name: Pink Neutrino
+vector: 0x1175a
+::END:LOOK

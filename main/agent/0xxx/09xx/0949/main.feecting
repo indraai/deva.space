@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0949/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0949/avatar
+
+## Brenda 949
+
+name: Brenda Laurel
+vector: 0x0949a
+
+talk:#wiki summary Brenda_Laurel
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

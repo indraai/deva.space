@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/1532/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1532/avatar
+name:SecurityDEVA Guard D1532
+vector: 0x1532a
+describe: SecurityDEVA is here to take your requests and do a great job at protecting the realm.
+::END:LOOK

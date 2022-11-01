@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/1140/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1140/avatar
+
+## Cafe Attendant
+
+name: Town Square Cafe Attendant
+vector: 0x1140a
+::END:LOOK

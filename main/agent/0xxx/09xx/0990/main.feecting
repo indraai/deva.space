@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/agent/0990/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0990/avatar
+name:Roman Abraham Ivanov
+vector: 0x0990a
+describe: Roman Abraham Ivanoov is the head of DarkSec a Russian Intelligence Operation.
+
+link[Facebook]:https://www.facebook.com/RomanAbramIvanov1111/
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK

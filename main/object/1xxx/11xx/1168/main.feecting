@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/1168/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1168/avatar
+## Mickey Mouse Watch
+name: Mickey Mouse Watch
+vector: 0x1168o
+describe: The famous Mickey Mouse watch that everyone loves and always tells the true time.
+::END:LOOK

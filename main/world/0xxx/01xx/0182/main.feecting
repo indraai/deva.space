@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see the Shoe Store from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0153/logo
+
+## The Shoe Store
+
+p:Welcome to The Shoe Store.
+
+p: To Exit please go EAST.
+cmd:#mud e
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0153/background
+coordinates:00[-79|-291]
+::END:MAIN

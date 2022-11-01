@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0119/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0119/avatar
+## SecurityDEVA D119 (Lookout)
+name: SecurityDEVA D119 (Lookout)
+vector: 0x0119a
+describe: SecurityDEVA D119 Lookout is positioned at lookout 119 above the Easter Gate of Arjika.
+::END:LOOK

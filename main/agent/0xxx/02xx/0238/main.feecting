@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0238/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0238/avatar
+
+## Farry
+
+name: Farry
+vector: 0x0238a
+describe: Farry works her sewing machine at such an alarming rate that you wonder how anyone could possibly keep up with it.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+
+::END:LOOK

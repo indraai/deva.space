@@ -1,0 +1,30 @@
+::BEGIN:AVATAR
+img:main/object/0307/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0307/avatar
+name:Trident
+vector:0x_0306o
+describe:...
+
+link[Google Maps]:https://goo.gl/maps/doL8m7pDAkaT5C6S8
+
+::begin:hymn
+talk:#adv object:thegame 0307/main:trident
+::end:hymn
+::END:LOOK
+
+::BEGIN:TRIDENT
+# Trident
+
+p:From His Central Eyebrow, looking wide with His Three Eyes and raising His Trident, resplendent with three flames.
+link[Sacred Texts]:https://www.sacred-texts.com/hin/db/bk08ch20.htm
+
+p:Go forth like Yama to the field, And let thine arm thy trident wield.
+link[Sacred Texts]:https://www.sacred-texts.com/hin/rama/ry461.htm
+
+p:Mahadeva armed with the trident and incapable of being ruffled.
+link[Sacred Texts]:https://www.sacred-texts.com/hin/m07/m07085.htm
+::END:TRIDENT
+====

@@ -1,0 +1,49 @@
+::BEGIN:LOOK
+p:You can see Training Room 922 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0922/journey
+
+## To Ireland
+
+p[speak]:After Quinn would goto the FBI on November 30, 2015 Tabitha would take a surprise trip with her husband to tour Ireland for 10 days. Shortly after Tabitha's friend purchased a trip to Ireland for both Tabitha and her husband.
+
+p[speak]:This left Quinn with Trenton during the Christmas to New Years holiday in 2015-2016. Prior to that Quinn had not spent more than a few days with Trenton.Tabitha was not usually friendly with Trenton being with Quinn for too long a period.
+
+p[speak]:The period when Tabitha went to Ireland was when Trenton really went into details about The Covenant and kidnapping story he was obviously taught by someone else.
+
+p[speak]:In 2021 it would be discovered that Tabitha was involved with a group of people that were part of developing the Tyler Ethersec Darknet Hacker Games under a game called Survivance.
+
+## Training
+::begin:training
+talk:#adv world:thegame 0922/training:main
+::end:training
+
+#color = #333333
+#bgcolor = #ffffff
+#bg = thegame/world/0922/background
+
+coordinates:09[-545.5|-423.5]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian After Quinn went to the FBI on November 30, 2015 Tabitha would take an all expenses paid trip with her husband on a tour Ireland for 10 days.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:indra Trenton stated at the time that the sudden trip to Ireland was a gift from one of Tabitha's friends.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:tyler Which left Quinn with Trenton for 10 days in 2015-2016. Where Trenton would go into detail about the story of Mr. Dewity and The Covenant.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:francis Trenton after going to the FBI kept takign the story of the kidnappign deeper and deeper to include details of an occult practice and knowledge of things like sigils.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:jess So to all our curious kiddos... have you figured out which of these users here now are Harold, Sharon, Cristy, Neil, Tabitha, or Trenton?
+::END:TRG5

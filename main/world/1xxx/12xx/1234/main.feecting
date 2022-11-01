@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see the Court of Angels from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1234/title
+
+# Court of Angels
+
+p:You are are at the Court of Angels.
+
+img:main/world/1234/courtyard
+
+img:main/world/1234/courtyard2
+
+#bgcolor = #076d9e
+#color = #dbb854
+#bg = thegame/world/1234/background
+coordinates:12[-284|-665]
+::END:MAIN

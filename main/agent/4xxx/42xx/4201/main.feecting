@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/4201/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/4201/avatar
+name: Taksaka
+vector: 0x4201a
+::END:LOOK

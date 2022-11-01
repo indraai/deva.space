@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0964/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Laura Loomer Training
+name: Laura Loomer Training
+vector: 0x0964o
+describe: Training for Laura Loomer
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Training for Laura Loomer
+::END:TEXT

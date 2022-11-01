@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see the STRATEGY from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## STRATEGY
+
+title: STRATEGY
+room: 284
+vector: 0x0284r
+opsec: L5
+describe:  The Strategy Room where Arjika Military strategizes their military plans.
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-822.5|-603]
+::END:MAIN

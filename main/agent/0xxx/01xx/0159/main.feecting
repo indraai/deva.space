@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0159/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0159/avatar
+name: Arjika Lieutenant
+vector: 0x_0159a
+rank: Lientenant
+describe: Arjika Lieutenant A159 is here.
+::END:LOOK

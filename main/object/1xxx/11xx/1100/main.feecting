@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/1100/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1100/avatar
+## Magick Mickey Mouse Ears
+name: Magick Mickey Mouse Ears
+vector: 0x1100o
+describe: The Famous Magick Mickey Mosue Ears for your enjoyment and fun. Only Available for a fair price at The Mat Hatter inside 1977 Disneyland.
+::END:LOOK

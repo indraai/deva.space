@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1413/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1413/avatar
+name: Burrito Attendant
+vector: 0x1413a
+::END:LOOK

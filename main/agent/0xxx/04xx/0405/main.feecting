@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0405/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0405/avatar
+## pr0n
+
+name: pr0n
+vector: 0x0405a
+describe: Pr0n 0n 0x 0y is in prison for numerious illegal evil deeds. Too many too count.
+
+::END:LOOK

@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0122/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0122/avatar
+
+## SecurityDEVA (Lookout)
+
+name: SecurityDEVA Lookout D122
+vector: 0x0122a
+describe: SecurityDEVA D122 Lookout is positioned at lookout 122 above the South East Main Street.
+::END:LOOK

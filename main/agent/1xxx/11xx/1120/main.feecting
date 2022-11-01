@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1120/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1120/avatar
+name: Donald Duck
+vector: 0x1120a
+::END:LOOK

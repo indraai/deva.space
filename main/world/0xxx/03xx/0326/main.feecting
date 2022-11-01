@@ -1,0 +1,70 @@
+::BEGIN:LOOK
+You can see the Adventure Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0326/title
+
+p:In this area of the Adventure Arcade you'll find...
+
+- TBAMud
+- (EVIL!)Mud
+
+::begin:arcade
+talk:#adv world:thegame 0326/main:tba
+::end:arcade
+
+::begin:arcade
+talk:#adv world:thegame 0326/main:evil
+::end:arcade
+
+#bgcolor = #000000
+#color = #fb7496
+#bg = thegame/world/0326/background
+coordinates:00[-360|-844]
+::END:MAIN
+
+
+::BEGIN:EVIL
+img:main/world/0326/evil
+
+## (EVIL!)Mud
+
+title: (EVIL!)Mud
+
+link[Homepage]:http://xibo.com
+link[MudStats]:http://mudstats.com/World/(EVIL!)Mud
+
+::begin:buttons
+button[Play (EVIL!)]:#arc open evil.xibo.com:4201
+::end:buttons
+
+p[speak]:(EVIL!)Mud is a multi-user dungeon running the TeenyMUD 2.0 code. It's a social setting for dark humor, freedom of expression, and commentary. (EVIL!) is freely extendible by any user, which means that if you create something, it joins the seven years of history that already exists.
+
+p[speak]:No, it's not a game, it's more like a virtual bar. But more than that, if you don't feel like hanging out in one of the more public areas, you can wander off explore the more than 2000 rooms that have been built on the mud. And if you get creative, you can build your own areas.
+
+p[speak]:The wizards on (EVIL!)Mud are Xibo, Vasudeva, and Tarrant. Xibo owns the mud and maintains it, while Vasudeva is the author of the source code. Tarrant is a friendly guy who helps people. (EVIL!)Mud has been up since January of 1991, which makes it the 4th oldest mud around.
+::END:EVIL
+
+
+::BEGIN:TBA
+img:main/world/0326/tba
+
+## TBAMud
+
+title:TBAMud
+
+link[Website]:http://www.tbamud.com/
+link[Mudstats]:http://mudstats.com/World/TheBuilderAcademy
+link[Github]:https://github.com/tbamud/tbamud
+
+::begin:buttons
+button[Play TBA Mud]:#arc open tbamud.com:9091
+::end:buttons
+
+p[speak]:The Builder Academy is foremost a training academy for anyone willing to learn or teach how to build a virtual World. Due to our success and the stagnation of the CircleMUD codebase we have also released our code for anyone desiring a stable and functional codebase. tbaMUD is the continued development of the codebase formerly known as CircleMUD.
+
+p[speak]:And we use it to mean both the Academy for training, and the codebase that is made freely available to the community. The most challenging aspect of running a mud is finding good builders. You will hear this from the admin of every MUD that has ever been.
+
+p[speak]:In the past it has always been up to each individual MUD to find and usually train own...
+::END:TBA

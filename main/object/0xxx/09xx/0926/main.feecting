@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0926/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Palatir Training
+name: Palatir Training
+vector: 0x0926o
+describe: Palantir Training
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+pdf:/public/pdf/palantir-vs-us.pdf
+::END:TEXT
+====

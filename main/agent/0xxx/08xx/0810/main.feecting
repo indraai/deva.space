@@ -1,0 +1,32 @@
+::BEGIN:AVATAR
+img:main/agent/0810/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0810/avatar
+
+## James Dolan
+
+name: James Dolan
+vector: 0x0810a
+
+---
+
+age: 36
+born: Jul 20, 1981
+died: Dec 17, 2017
+cause: Suicide
+
+> From 1999 to 2006, Dolan served with the Marines in two deployments during the Iraq War where he worked as a data network specialist.
+
+> Dolan was found dead in a Brooklyn hotel in December 2017 at the age of 36.
+
+> Former colleagues speculate James died of suicide (the same fate as Swartz).
+
+> He reportedly suffered from PTSD from his time in the Marines.
+
+> Dolan was the second member of the SecureDrop team to commit suicide.
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

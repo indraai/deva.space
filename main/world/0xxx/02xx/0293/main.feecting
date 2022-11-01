@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see 5S2E Main Street.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0293/title
+
+## 5S2E Main Street
+
+p:You are in 5S2E Main Street
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-534|-637]
+::END:MAIN

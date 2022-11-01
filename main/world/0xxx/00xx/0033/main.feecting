@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the Shrine of Indra from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0033/portrait
+
+thanks:Thank you for visiting the Shrine of Indra. Please leave your Offerings on the table or with the Host.
+
+mud[Exit West...]:w
+
+#bg = thegame/world/0033/background
+#color = #e4de94
+::END:MAIN

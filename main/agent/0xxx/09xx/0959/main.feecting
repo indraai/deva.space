@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0959/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0959/avatar
+
+## SecurityPRIME SPY-KGB
+
+name:SecurityPRIME SPY-KGB
+vector: 0x0959a
+
+describe: SecurityPRIME SPY-KGB is the internal spy inside the KGB doing spy cool investationary things into the super secret Romanov files behind the Kremlin.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK

@@ -1,0 +1,51 @@
+::BEGIN:LOOK
+p:You can see Hacking in Porgress from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0946/splash
+
+
+## HIP Conference
+
+title: HIP Conference
+link[Archive - HIP]:https://bit.ly/3vSMxA8
+
+img:main/world/0946/title
+
+p[speak]:#HIP is a place for hackers, artists, activists and many, many others to network themselves, both in the social and electronic sense of the word. HIP is a do-it-yourself event. We, the organizers, will provide the infrastructure, such as large tents, showers, toilets and large amounts of reliable electrical power and network connectivity.
+
+p[speak]:We'll also arrange for a basic set of workshops and lectures, mainly dealing with the social and political aspects of information technology, security, Internet, access to technology, new developments, cryptography and other 'hacker-related' topics that come to mind. We are open to suggestions for other fields of interest.
+
+p[speak]:Remember 'Hacking at the End of the Universe' (HEU) in 1993? The people that published Hack-Tic, a computer underground magazine in The Netherlands, organized it. Hundreds of hackers, phone phreaks, programmers, computer haters, data travellers, electro-wizards, networkers, hardwarefreaks, techno-anarchists, communications junkies, cyber- and cypherpunks, system managers, stupid users, paranoid androids, Unix gurus, whizz kids and warez dudes spent three days building their own network between their tents in the middle of nowhere, located in the Flevopolder in The Netherlands.
+
+p[speak]:HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machines, all connected via an intertent Ethernet that is connected to the Internet. People from all over The Netherlands and other countries will come together to learn and discuss the benefits, as well as the risks of new technologies.
+
+p[speak]:They'll listen to lectures, join workshops, enjoy special presentations and, last but not least, party, all of this in a friendly open-air environment of a very wired campsite far away from the civilized world.
+
+#HIP = Hacking in Progress
+#color = var(--color-orange)
+#bgcolor = var(--color-black)
+coordinates:09[-667|-666]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian HIP is a place for hackers, artists, activists and many, many others to network themselves.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian A campsite full of PCs, laptops, and Unix machines, all connected via an Ethernet to the Internet.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian Hundreds of hackers spent three days building their own network between their tents in the middle of nowhere.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

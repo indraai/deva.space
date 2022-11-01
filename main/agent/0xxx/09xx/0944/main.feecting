@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0944/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0944/avatar
+
+## Dan 944
+
+name: Dan Farmer
+vector: 0x0944a
+
+talk:#wiki summary Dan_Farmer
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

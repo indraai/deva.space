@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0934/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Cyberman Training
+name: Cyberman Training
+vector: 0x0934o
+describe: Training in the cyberman stuff.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+ Training in the cyberman stuff.
+::END:TEXT

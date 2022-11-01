@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/10046/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/10046/avatar
+name:Tor Raka
+vector:0x10046a
+::END:LOOK

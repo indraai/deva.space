@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0973/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## George Michael Training
+name: George Michael Training
+vector: 0x0973o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:George Michael training program.
+::END:TEXT

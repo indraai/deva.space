@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see 5N2W Main Streets from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0209/title
+
+## 5N2W Main Street
+
+p:You are in 5N2W Main Streets.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-396|-292]
+::END:MAIN

@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0939/avatar
+::END:AVATAR
+
+====
+
+::BEGIN:LOOK
+img:main/agent/0939/avatar
+
+## Xibo
+link[Xibo.com]:http://xibo.com
+link[Bio - Xibo.com]:http://xibo.com/bio.html
+
+::END:LOOK
+
+====

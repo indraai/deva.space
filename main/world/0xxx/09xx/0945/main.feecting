@@ -1,0 +1,179 @@
+::BEGIN:LOOK
+p:You can see Training Room 934 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0945/splash
+
+## HOPE Conference
+
+img:main/world/0945/title
+
+title: HOPE Conference
+vector: 0x0945r
+
+email: 2600@well.sf.ca.us
+
+#HOPE = Hackers of Planet Earth
+#HIP = Hacking in Progress
+
+link[Archive - HOPE]:https://bit.ly/3vSMxA8
+
+p:It's time for the inevitable -- the sequel to 1994's Hackers On Planet Earth (HOPE) conference. If you missed that event, you'll feel even worse if you miss this one! Don't let that happen. Beyond HOPE will be everything HOPE was and probably a lot more.
+
+
+### What was it?
+
+p:We can't emphasize this enough: Beyond HOPE will be defined as it happens. While you can learn about our plans for panels and events, the Beyond HOPE computer network (hope.net), and more, by exploring this web site, the most exciting things to happen won't be planned at all. As an attendee, expect to hear a wide variety of viewpoints on virtually every issue pertinent to the information age: social engineering, encryption, surveillance, PCS/GSM technology, legal issues, hackers, "pirate" radio, the media... just to name a few. You can also expect to have an all-around good time.
+
+### Where was it?
+
+p:It all takes place starting Friday evening, August 8th, running until Sunday night, August 10th at the Puck Building in New York City, on the corner of Houston and Lafayette Streets. A floor plan of the Puck Building is available. The main part of the conference begins at noon on Saturday, with registration starting at 10AM. However, you will also be able to register Friday evening beginning at 6PM and help us set up the network for the weekend. There will be a special 2600 meeting beginning at 5PM on Friday at the Citicorp Center, located at 53rd and Lexington. To get to the conference from the meeting, take the #6 train downtown to Bleecker Street. Follow the signs and portents.
+
+### HOPE 94 Pics
+
+img:main/world/0945/001
+l:CIA Agent Robert Steele's keynote address
+
+img:main/world/0945/002
+l:the 2600 panel (Emmanuel and company)
+
+img:main/world/0945/003
+l:"As a matter of fact, I am a member of the Legion of Doom."
+
+img:main/world/0945/004
+l:Ray Kaplan, Bill from RNOC, Emmanuel Goldstein, Rop Gonggrijp
+
+talk:#wiki summary Eric_Corley
+
+talk:#wiki summary Rop_Gonggrijp
+
+> Gonggrijp has worked for WikiLeaks, helping prepare the Collateral Murder April 2010 release of video footage from a Baghdad airstrike.
+
+> On 14 December 2010, in relation to ongoing investigations of WikiLeaks, the US Department of Justice issued a subpoena ordering Twitter to release information regarding Gonggrijp's account.
+
+> Gonggrijp's assistanced in enabling WikiLeaks to release the "Collateral Murder" video in April 2010, a WikiLeaks action.
+
+img:main/world/0945/005
+
+l:Winn_Schwartau, Mordehai Levy of the JDO, Ray Kaplan
+
+talk:#wiki summary Winn_Schwartau
+
+talk:#wiki summary Mordechai_Levy
+
+img:main/world/0945/006
+l:Robert Steele of the CIA, Eric Hughes, Ray Kaplan
+
+talk:#wiki summary Eric_Hughes_(cypherpunk)
+
+talk:#wiki summary Robert_David_Steele
+
+img:main/world/0945/007
+l:Rop Gonggrijp, Winn Schwartau, Ray Kaplan
+
+img:main/world/0945/008
+l:Jessie with Ray Kaplan at the grafitti wall
+
+img:main/world/0945/009
+
+img:main/world/0945/010
+
+img:main/world/0945/011
+
+## Hacking in Progress
+
+p:Remember 'Hacking at the End of the Universe' (HEU) in 1993? The people that published Hack-Tic, a computer underground magazine in The Netherlands, organized it. Hundreds of hackers, phone phreaks, programmers, computer haters, data travellers, electro-wizards, networkers, hardwarefreaks, techno-anarchists, communications junkies, cyber- and cypherpunks, system managers, stupid users, paranoid androids, Unix gurus, whizz kids and warez dudes spent three days building their own network between their tents in the middle of nowhere, located in the Flevopolder in The Netherlands.
+
+p:HIP will be the sequel to HEU. A campsite full of PCs, laptops, and Unix machines, all connected via an intertent Ethernet that is connected to the Internet. People from all over The Netherlands and other countries will come together to learn and discuss the benefits, as well as the risks of new technologies. They'll listen to lectures, join workshops, enjoy special presentations and, last but not least, party, all of this in a friendly open-air environment of a very wired campsite far away from the civilized world.
+
+p:Hacking In Progress will be happening at the same time as Beyond HOPE. We are planning a live video teleconferencing link between the two events, via the Beyond HOPE network.
+
+## h2k - Hackers of Planet Earth 2000
+
+link[h2k.net]:http://www.h2k.net/
+
+p:Welcome to the website for H2K, the third HOPE conference, sponsored by 2600. H2K will be held July 14-16, 2000, at the Hotel Pennsylvania in New York.
+
+p:Unlike HOPE, and Beyond HOPE, H2K will be running around the clock starting Friday morning and ending Sunday night. We expect to have at least three tracks of speakers as well as music, films, and A/V presentations of all sorts.
+
+---
+
+title: Ethics in Military and Civilian Software Development
+date: Friday, 11 am
+location: Main Stage
+host: Sam Nitzberg, Winn Schwartau, and Robert Steele
+describe:The quality with which systems are developed for either civilian or military purposes has systemic, infrastructure-wide consequences. What are the ethical considerations present in developing military and civilian software?
+
+audio:http://www.h2k.net/post/panels/h2kmil.mp3
+
+---
+
+title: Spy Stuff: Everything You Never Believed But Wanted to Ask About...
+date: Saturday, 10 pm
+location: Main Stage
+host: Robert David Steele
+describe: Robert Steele, former clandestine case officer (spy) and author of "ON INTELLIGENCE: Spies and Secrecy in an Open World", has been described by Bruce Sterling as "about 100 times smarter and 10,000 times as dangerous as the best of the hackers...." Find out why in a free for all discussion about spy stuff, smart nations, dumb governments, and more.
+
+audio:http://www.h2k.net/post/panels/h2kspy.mp3
+
+## h2k2 - Hackers of Planet Earth 2002
+link[h2k2.net]:http://www.h2k2.net/
+
+p:Now that most of us have finally gotten back to a degree of normalcy, it's time to offer our sincere thanks for making the H2K2 conference the smashing success it was. While we've become used to the good karma that emanates from the HOPE conferences, this was our biggest effort by far and none of it would have been possible without so many people doing everything they could to make it fun and educational. It was also the first time we've had one conference so closely followed by another - H2K2 followed H2K by only two years as opposed to the three year gap we normally had between conferences.
+
+---
+
+title: Everything you ever wanted to know about spying and did not know who to ask....
+date: Saturday, 8 pm
+location: Area "B"
+host: Robert Steele
+describe:This is pure balls-out fun. Former spy Robert Steele will answer questions about any aspect of intelligence or counterintelligence, to include covert action in Central America, ECHELON, how and why we completely missed the warnings on bin Laden and 9/11, etc. This can be considered an extension of the H2K session, which lasted for hours.
+
+---
+
+title: The New FBI and How It Can Hurt You
+date: Friday, 9 pm
+location: Area "A"
+host: Mike Levine, Declan McCullagh, and Robert Steele
+describe: On May 29, the Federal Bureau of Investigation dramatically changed its focus. Now, instead of investigating crimes, its mission is to prevent them, meaning they have virtual carte blanche to infiltrate any law abiding organization or gathering to make sure all is right. And, even better, their third priority of dangerous crimes to stop (next to terrorism and espionage) is "cybercrime." We all know what a wide net that can be. Hear the dangers firsthand from the people who follow this kind of thing.
+
+audio: http://www.h2k2.net/media/newfbi.mp3
+
+---
+
+title: Hacking National Intelligence: Possibilities for a Public Intelligence Revolution
+date: Saturday, 7 pm
+location: Area "B"
+host: Robert Steele
+describe: Robert David Steele, author of two books on intelligence reform and sponsor of the Council on Intelligence, will provide a briefing on the state of the world, 21st Century tradeoffs that are NOT being made by our elected leaders, and how citizens can take back the power by practicing the new craft of intelligence to monitor and instruct their elected officials on key national security decisions. Among other major aspects, this would translate into a freezing of the Pentagon budget at $250 billion a year and redirection of $150 billion a year toward global education, public health, water and energy conservation, and "soft power" options including diplomacy and information peacekeeping, a term Steele devised in the early 1990's.
+
+audio: http://www.h2k2.net/media/intelligence1.mp3
+audio: http://www.h2k2.net/media/intelligence2.mp3
+audio: http://www.h2k2.net/media/intelligence3.mp3
+
+#color = var(--color-darkest-grey)
+#bgcolor = var(--color-white)
+coordinates:09[-626|-666]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The Beyond HOPE Conference was a Hacker Conference in New York during August 1994.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Robert David Steele, Ray Kaplan, and Eric Hughes attended the conference.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The HOPE conference was linked to a Hacking In Progress Conference that happened at the same time in the Netherlands.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

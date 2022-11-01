@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/1129/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1129/avatar
+name: Esmeralda
+vector: 0x1129a
+
+img:main/agent/1129/1950
+img:main/agent/1129/1960
+::END:LOOK

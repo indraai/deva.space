@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0928/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0928/avatar
+
+## Tyler 928
+
+name:Tyler 928
+vector: 0x928a
+
+cmd:#pastebin view 6fUhmAvC
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the The Walt Disney Story from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1138/title
+
+## The Walt Disney Story
+
+p:You are are at the Walt Disney Story.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+#bg = thegame/world/1138/background
+coordinates:11[-626|-788]
+::END:MAIN

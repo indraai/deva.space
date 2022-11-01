@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/1428/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1428/avatar
+## Frontierland River Boat
+name: Frontierland River Boat
+vector: 0x1428o
+describe: The Frontlierland Riverboat will take you aroung Treasure Islande.
+::END:LOOK

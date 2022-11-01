@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0976/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Webmind Brazil Traiing
+name: Webmind Brazil Traiing
+vector: 0x0976o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Webmind Brazil training program manual.
+::END:TEXT

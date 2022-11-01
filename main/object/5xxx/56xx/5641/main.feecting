@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/5641/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/5641/avatar
+## Nirriti Axe
+name: Nirriti Axe
+vector: 0x5641o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Axe of Nirriti
+::END:TEXT

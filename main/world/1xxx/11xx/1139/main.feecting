@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see the The Mad Hatter Shop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1139/title
+
+# Mad Hatter Shop
+p:You are are at the Mad Hatter Shop. This is where you can buy the famouse Mickey Mouse Ears Hat.
+
+p:To see a list of offerings.
+mud[List Offerings]:list
+
+p:If you want to buy some Ears then click here.
+mud[Buy Mickey Hat]:buy hat
+
+#bg = thegame/world/1139/background
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:11[-626|-706]
+::END:MAIN

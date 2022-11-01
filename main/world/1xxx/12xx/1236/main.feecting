@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Hallway from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1236/title
+
+# Hallway
+
+p:You are are at the Hallway.
+
+#bgcolor = #978368
+#color = #eaddcd
+#bg = thegame/world/1236/background
+coordinates:12[-350|-665]
+::END:MAIN

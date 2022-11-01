@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0126/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0126/avatar
+## Arjika Intelligence
+name: Arjika Intelligence
+vector: 0x126a
+::END:LOOK

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/agent/0916/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0916/avatar
+## Robert David Steele
+name:Robert David Steele
+vector: 0x0916a
+
+talk:#wiki summary Robert_David_Steele
+
+cmd[Hacking the Intelligence Community]:#adv object:thegame 0947/intel:main
+cmd[THE TRANSFORMATION OF WAR]:#adv object:thegame 0947/military:main
+::END:LOOK

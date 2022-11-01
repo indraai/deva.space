@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/5900/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/5900/avatar
+name: Hiranyagarbha
+vector: 0x5900a
+describe: He is the one God of all; He is without a second. He is Hiranyagarbha, when He is born from this Golden Egg. It is this Sun that ordains the quarters, Âkâs’a, Heaven and Earth, etc., in their proper spheres and divisions.
+::END:LOOK

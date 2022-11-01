@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Royal Street Veranda from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1200/title
+
+# Royal Street Veranda
+
+p:You are are at the Royal Street Veranda.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1200/background
+coordinates:12[-709|-618]
+::END:MAIN

@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0133/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0133/avatar
+
+# Blue Deva
+
+name: Blue Deva
+vector: 0x0133a
+describe: A member of the blue deva floats past you. They seem to be out practicing. Floating a good six inches off the ground and is slowly moving along.
+::END:LOOK

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0977/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Open Cog Traiing
+name: Open Cog Traiing
+vector: 0x0977o
+describe: Open Cog training program.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Open Cog Training
+::END:TEXT

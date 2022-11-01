@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0136/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0136/avatar
+# ARMY CYBER4
+name: ARMY CYBER4
+vector: 0x0136a
+describe: CYBER4 IS A SPECIALIST IN THE MOST EXTREMENT L4 CYBER ISSUES.
+::END:LOOK

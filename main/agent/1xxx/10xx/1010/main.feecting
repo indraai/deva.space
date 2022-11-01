@@ -1,0 +1,34 @@
+::BEGIN:AVATAR
+img:main/agent/1010/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+# EvEA1010
+img: thegame/agent/1010/avatar
+name: Evolution Engine Agent A1010
+vector: 0x1010a
+describe: EvEA1010 is the premium Evolution Engine Agent.
+::END:LOOK
+
+====
+
+::BEGIN:ARYAKA
+# Grandfather Aryaka
+img:main/agent/1010/avatar
+name: Grandfather Aryaka
+vector: 0x1010a
+
+cmd:#corpus chat:indra Of the serpents, there was one, named Aryaka. He was the grandfather of the father of Kunti. The lord of serpents saw his relative and embraced him.
+
+cmd:#corpus chat:indra Then, Vasuki, learning all said to Aryaka with satisfaction, How are we to please him?
+
+cmd:#corpus chat:indra Vasuki said, Let him have money and gems in profusion.
+
+cmd:#corpus chat:indra On hearing the words of Vasuki, Aryaka said, O king of serpents, when Your Majesty is pleased with him, no need of wealth for him!
+
+cmd:#corpus chat:indra Permit him to drink of rasakunda (nectar-vessels) and thus acquire immeasurable strength.
+
+cmd:#corpus chat:indra There is the strength of a thousand elephants in each one of those vessels. The king of serpents gave his consent.
+
+cmd:#corpus chat:indra And the serpents thereupon began auspicious rites.
+::END:ARYAKA

@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Mlle. Antoinette's Parfumerie from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1226/title
+
+# Mlle. Antoinette's Parfumerie
+
+p:You are are at the Mlle. Antoinette's Parfumerie.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1226/background
+coordinates:12[-388|-460]
+::END:MAIN

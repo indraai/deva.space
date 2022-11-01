@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0176/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0176/avatar
+## Politics Householder
+name: Politics Hosueholder
+vector: 0x0176a
+describe: Arjika Politics Householder
+::END:LOOK

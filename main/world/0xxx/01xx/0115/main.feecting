@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see the Innder Lookout (W) Tower from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0096/title
+
+## Security Lookout (W)
+
+p:look[north] is the Inner-North West Lookout
+p:look[east] is the Easat Lookout
+p:look[south] is the Inner-South West Lookout
+
+p:There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+#bg = thegame/world/0096/background
+#bgcolor = var(--color-black)
+coordinates:00[-292|-464]
+::END:MAIN

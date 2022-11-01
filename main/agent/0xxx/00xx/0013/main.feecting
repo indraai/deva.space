@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0013/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+img:main/agent/0013/avatar
+
+## Indu Fighter
+
+name:Indu Fighter
+vector:0x_0013a
+
+describe:The O Indra Fighter is an elite class that directly ensure Indu protection/security.
+::END:LOOK
+====

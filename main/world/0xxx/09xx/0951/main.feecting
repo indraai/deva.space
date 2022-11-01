@@ -1,0 +1,95 @@
+::BEGIN:LOOK
+p:You can see Stanford Linear Accelerator Complex from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:main/world/0951/splash
+
+## GhostMind
+
+img:main/world/0951/title
+
+title: GhostMind
+link:https://mind.sourceforge.net
+link:https://ai.neocities.org/
+
+----
+
+title: Mind.rexx
+link:http://mind.sourceforge.net/mindrexx.html
+date: Nov 24, 1994
+
+p:In September of 1993 Stanford Linear Accelerator Center hosted a REXX programming language symposium using the Amiga Computer. This profile of REXX programming language on an Amiga computer is the same profile that a suspicious piece of software released in the public domain also has.
+
+::begin:buttons
+cmd[REXX Code]:#web get http://mind.sourceforge.net/mindrexx.html
+cmd[REXX Symposium]:#adv world:thegame 0951/main:rexx
+::end:buttons
+
+----
+
+title: Mind.forth
+link:https://ai.neocities.org/mindforth.txt
+date: Nov 19, 2019
+
+::begin:buttons
+cmd[FORTH Code]:#web get https://ai.neocities.org/mindforth.txt
+cmd[Start Forth]:#adv world:thegame 0951/main:startforth
+cmd[Thinking Forth]:#adv world:thegame 0951/main:thinkingforth
+::end:buttons
+----
+
+title: Mind.perl
+link:https://ai.neocities.org/perlmind.txt
+date:Nov 4, 2019
+
+::begin:buttons
+cmd[PERL Code]:#web get https://ai.neocities.org/perlmind.txt
+::end:buttons
+----
+
+title: Cyborg
+link:https://cyborg.blogspot.com
+
+
+#color = #8c1b1e
+#bgcolor = var(--color-white)
+coordinates:09[-183|-384]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:REXX
+pdf:https://www.slac.stanford.edu/pubs/slacreports/reports01/slac-r-422.pdf
+::END:REXX
+====
+
+::BEGIN:STARTFORTH
+pdf:https://www.forth.com/wp-content/uploads/2018/01/Starting-FORTH.pdf
+::END:STARTFORTH
+====
+
+::BEGIN:THINKINGFORTH
+pdf:https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf
+::END:THINKINGFORTH
+====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian In 1993 Stanford Linear Accelerator Complex was using a specialized programming language called REXX.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian REXX was a specialty language mostly used on the Amiga line of computers.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian That same year a piece of software written in REXX found it's way onto bulletin board sites in the Amiga Community.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian The GhostMind released from SLAC is inside everything you could imagine. From ATM machines to satellites in outserspace.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian The GhostMind watches you from those satellites in outerspace.
+::END:TRG5

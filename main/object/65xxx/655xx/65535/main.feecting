@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/65535/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/65535/avatar
+## Unknown Object
+name: Unknown Object
+vector: 0x65535o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Unknown Object.
+::END:TEXT

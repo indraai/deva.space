@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/0803/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0803/avatar
+## Cult of the Dead Cow
+name: Cult of the Dead Cow
+vector: 0x0803o
+::END:LOOK

@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0347/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0347/avatar
+## Courtyard Fountain
+name:Courtyard Fountain
+vector:0x347o
+describe:This is a pure water spring.
+::END:LOOK

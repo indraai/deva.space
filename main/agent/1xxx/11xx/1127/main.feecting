@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1127/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1127/avatar
+name: Female Guest 1127
+vector: 0x1127a
+::END:LOOK

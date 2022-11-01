@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0111/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0111/avatar
+
+## SecurityDEVA D111 (Lookout)
+
+name: SecurityDEVA D111 (Lookout)
+vector: 0x0111a
+::END:LOOK

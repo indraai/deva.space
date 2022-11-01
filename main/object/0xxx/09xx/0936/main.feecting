@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0936/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Satanic Sysadmins Training
+name: Satanic Sysadmins
+vector: 0x0936o
+describe: Training on the group known as Satanic Sysadmins
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Satanic Sysadmins Training goes here.
+::END:TEXT

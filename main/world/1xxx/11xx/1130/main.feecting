@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (W) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Main Street (W)
+
+p:You are are at the Disneyland Main Street (W).
+
+img:main/world/1100/dir
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-442|-336]
+::END:MAIN

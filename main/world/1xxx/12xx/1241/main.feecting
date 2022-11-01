@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Pirates of the Caribbean from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1241/title
+
+# Pirates of the Caribbean
+
+p:You are are at the Pirates of the Caribbean.
+
+#bgcolor = #000000
+#color = #c9a35c
+#bg = thegame/world/1241/background
+coordinates:12[-711|-691]
+::END:MAIN

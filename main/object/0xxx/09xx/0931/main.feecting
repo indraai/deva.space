@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0930/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## The Receda Cube
+name: The Receda Cube
+vector: 0x0930o
+describe: The Receda Cube training program.
+::END:LOOK
+
+::BEGIN:TEXT
+link[Wiki - Perplex City]:https://bit.ly/3FsTMSD
+::END:TEXT

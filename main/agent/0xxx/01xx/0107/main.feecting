@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0107/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0107/avatar
+
+## SecurityDEVA D107 (Operations)
+
+name: SecurityDEVA D107 (Operations)
+vector: 0x0107a
+describe: SecurityDEVA D107 is here to guard Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+::END:LOOK

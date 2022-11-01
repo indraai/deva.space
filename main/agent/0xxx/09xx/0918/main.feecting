@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0918/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0918/avatar
+
+## Tyler 918
+
+name:Tyler 918
+vector: 0x0918a
+
+cmd:#pastebin view Wt15GXTn
+
+ANAGKE
+::END:LOOK

@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+You can see 9S6E Outer Loop from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0316/title
+
+## 9S6E Outer Loop
+
+p:You are in 9S6E Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-673|-776]
+::END:MAIN
+
+=

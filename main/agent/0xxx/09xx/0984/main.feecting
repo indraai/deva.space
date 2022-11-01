@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0984/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0984/avatar
+## QAnon
+name: QAnon
+vector: 0x0984a
+::END:LOOK

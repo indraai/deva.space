@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0178/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0178/avatar
+## Royal Householder
+name: Royal Householder
+vector: 0x0178a
+describe: The Royal Householder of Arjika.
+::END:LOOK

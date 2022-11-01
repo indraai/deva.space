@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1168/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1168/avatar
+name: Watch Attendant 1168
+vector: 0x1168a
+::END:LOOK

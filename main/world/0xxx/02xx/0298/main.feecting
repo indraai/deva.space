@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see Barracks from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## Barracks
+
+title: Barracks
+room: 298
+vector: 0x0298r
+describe:  THE ARJIKA BARRACKS WHERE SOLDIERS SLEET/RELAX.
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-857|-706]
+::END:MAIN

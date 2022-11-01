@@ -1,0 +1,25 @@
+012361011161940394244505358666768100
+0x012-5-912-1821-2526-28297577-3537-384340-394244-5053-58-666768=10072
+::BEGIN:LOOK
+p:You can see the Kota Beasts from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Kota Beasts
+
+p:Suddenly, you feel a presence. Looking around, you see pairs of bright blue lights staring at you.
+
+img:main/world/10072/kota
+
+p:Then you see brown bristly faces, iron fangs, and long curled claws. Kota beasts! The last sounds you hear are their unearthly shrieks of triumph.
+
+p:The End
+
+talk:#adv world:thegame 10000/main:thankyou
+
+talk:#adv hash add 72
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

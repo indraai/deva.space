@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0278/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0278/avatar
+## Fork-It IceCream
+name: Bob's Fork-It IceCream
+vector: 0x0278o
+describe: This is the Bob special flavor of Fork-it Ice-Cream
+::END:LOOK

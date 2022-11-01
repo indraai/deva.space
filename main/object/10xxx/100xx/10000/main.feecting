@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/object/10000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/10000/avatar
+name: Signal Transmitter
+vector:0x_1000o
+::END:LOOK
+
+::BEGIN:ARRAY
+## Signal Transmitter
+p:You can see the Signal Transmitter that Dr. Sneeds is using to measure the Bottomless Cravasse in Greenland with Gunnar Larsen.
+#bgcolor = #ffffff
+#color = #333333
+::END:ARRAY
+====

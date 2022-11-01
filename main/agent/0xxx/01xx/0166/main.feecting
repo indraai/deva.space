@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0166/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0166/avatar
+name: Arjika General
+vector: 0x_0166a
+rank:General
+describe: Arjika General
+
+::END:LOOK

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1104/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1104/avatar
+name: Male Guest 1104
+vector: 0x1104a
+::END:LOOK

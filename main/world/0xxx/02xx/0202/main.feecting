@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Farm Orchard.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0202/title
+
+## Farm Orchard
+
+p:The farm orchard where your good fruits.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-257]
+::END:MAIN

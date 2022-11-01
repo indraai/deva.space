@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Tomorrowland Skyway from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+## Tomorrowland Skyway
+
+img:main/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-656|-401]
+::END:MAIN

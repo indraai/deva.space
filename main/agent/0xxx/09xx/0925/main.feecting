@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0925/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0925/avatar
+
+## Pter Thiel
+name: Peter 925
+vector: 0x0925a
+talk:#wiki summary Peter_Thiel
+::END:LOOK

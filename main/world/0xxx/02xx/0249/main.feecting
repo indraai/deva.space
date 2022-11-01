@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see 5W2N Main Street from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0249/title
+
+## 5W2N Main Street
+
+p:You are in 5W2N Main Street.
+
+img:main/world/0249/area
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-361|-464]
+::END:MAIN
+
+=

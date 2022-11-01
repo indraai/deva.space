@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/1419/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1419/avatar
+name:Camera Attendant - Frontierland
+vector: 0x1419a
+
+#color = #f4d9c6
+#bgcolor = #c0753c
+::END:LOOK

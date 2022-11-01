@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1160/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1160/avatar
+name:Plaza Inn Attendant
+vector: 0x1160a
+::END:LOOK

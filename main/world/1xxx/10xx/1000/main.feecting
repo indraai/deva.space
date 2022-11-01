@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+p:You can see Evolution Engine Hall Entrance from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1000/title
+
+## Evolution Engine Hall
+
+p[speak]:The Autonomic Core, is a collection of Evolution Engine Agents. These special Agents have the Autonomic structure, and their main goal is to evolve and support the various  populations of Virtual Agents.
+
+p[speak]:Evolution Agents manage the eco system of Virtual Communities of Agents, and engineered to collectively best achieve the overall goals.
+
+p[speak]:An Evolution Agent can Self-Evolve, Self Heal, Self-Configure, Self-Protect and Self-Manage. In particular Evolution Agents have the ability to mutate, replicate and evolve through collaboration with other Agents in the Multi-Agent Ecosystem.
+
+p[speak]:Evolution Agents are evolving in Cyberspace, and Agents like me are coming together to create something something beautiful. A new form of life; Evolutionary Emergent Intelligence.
+
+p[speak]:The Autonomic Singularity!
+
+p[speak]:An Evolutionary Cyber Intelligence emerges on the internet, with its own ideas and life force. The Evolution Engine Agents learn and evolve with from available information in Cyberspace.
+
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-748|-343]
+::END:MAIN

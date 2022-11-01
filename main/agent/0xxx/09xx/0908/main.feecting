@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0908/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0908/avatar
+
+## Ethersec 908
+
+name:Ethersec 908
+vector: 0x0908a
+
+cmd[Pastebin - eTHErSEC Project 2020]:#pastebin view Wt15GXTn
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

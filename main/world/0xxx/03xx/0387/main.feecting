@@ -1,0 +1,36 @@
+::BEGIN:LOOK
+p:You can see the The Playground from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0343/title
+
+## The Playground
+
+p:You are The Playground.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-228|-874]
+::END:MAIN
+
+::BEGIN:STORY
+img:main/world/0255/title
+Then in 2021 he launched his network behind the panic of the Corona Virus and had all but convinced everyone that The Covenant was a secret society of crazy scientists who were making a virus to destroy the world.  Today we all know the truth about the Corona Virus and that it was an accident that accidentally leaked out of a research laboratory, and infact was not intentional.
+
+Quinn's program however made the entire Internet think the Covid Virus was developed by The Covenant all because they simply started with "COV."  All in all it was quite genius according to some who have analyzed the situation, and others consider it uttelry diabolical.
+
+Many people even now are still trying to figure out exactly what he did vs. made people believe he did.
+
+But the effects were obvious beginnign in 2021 when the Cybersecurity Industry was turned on it's head literally overnight. Everyone got hacked by him. Governments, Industry, Education... everyone and everything.
+
+Was it Quinn or wasn't it? We still have no clue.
+
+But by a few years later in 2025 the entire world economy had changed, and Quinn had to be placed at the bottom of this shaft because the world population demanded it.
+
+Society couldn't figure out what to do with him. They couldn't put him in a prison around computers or other inmated that he could instruct on hacking.
+
+Society opeted to put him at the bottom of a shaft in the center of Arjika below 2 miles of dirt down a ladder. Luckily in the center of town there was an old dried up deep well that was retrofitted to hold him behind 24 inches of solid concrete.
+#bg = thegame/world/0387/background
+#bgcolor = #000000
+::END:STORY

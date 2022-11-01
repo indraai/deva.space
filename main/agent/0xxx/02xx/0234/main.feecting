@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0234/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0234/avatar
+name: Tommy Toys
+vector: 0x0234a
+describe: Tommy Toys runs the toy store.
+::END:LOOK

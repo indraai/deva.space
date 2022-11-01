@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see 6N Main Street from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0200/title
+
+## 6N Main Street
+
+p:You are in 6N Main Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-465|-223]
+::END:MAIN
+
+=

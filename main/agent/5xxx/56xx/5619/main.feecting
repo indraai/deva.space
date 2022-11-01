@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/5619/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/5619/avatar
+name: Arjika Soldier 5619
+vector: 0x5619a
+::END:LOOK

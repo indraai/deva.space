@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0118/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0118/avatar
+## SecurityDEVA (Lookout)
+name: SecurityDEVA
+vector: 0x0118a
+describe: SecurityDEVA D118 Lookout is stationed at Lookout 118 above 5E Main Street on the Inner Loop.
+::END:LOOK

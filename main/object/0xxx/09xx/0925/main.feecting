@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0925/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Founders Fund Training
+name: Founders Fund Training
+vector: 0x0925o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Founders Fund Training
+::END:TEXT

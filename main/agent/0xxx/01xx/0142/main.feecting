@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0142/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0142/avatar
+## Science Householder
+name: Science Householder
+vector: 0x0142a
+describe: The Householder of the Science Class.
+::END:LOOK

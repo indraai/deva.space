@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/10008/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/10008/token
+name:0x10008 Token
+vector:0x10008
+describe:The 0x10008 Token.
+::END:LOOK

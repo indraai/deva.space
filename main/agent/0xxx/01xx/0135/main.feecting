@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0135/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0135/avatar
+name:BlueDEVA PRIME
+vector: 0x0135a
+describe: BlueDEVA PRIME is the prime agent for blue DEVAS.
+::END:LOOK

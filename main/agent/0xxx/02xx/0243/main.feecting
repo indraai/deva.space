@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0243/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0243/avatar
+
+## SecurityDEVA D243 (Guard)
+
+name: SecurityDEVA D243 (Guard)
+vector: 0x0243a
+describe: SecurityDEVA D243 is here to guard Arjika.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+::END:LOOK

@@ -1,0 +1,24 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8891-9495-101108
+::BEGIN:LOOK
+p:You can see you made it from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## You Made It!
+
+p:You made it!
+
+img:main/world/1108/diamond
+
+p:Across the fields of white clay and safely back to the land of the Archpods.
+
+p:And, if you remembered to fill your pockets with diamonds before you ran across the field of white clay, you're very rich!
+
+talk:#adv world:thegame 10000/main:thankyou
+
+talk:#adv hash add 108
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

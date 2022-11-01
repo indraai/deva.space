@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/0242/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0242/avatar
+## Farm Milk
+name:Farm Milk
+vector:0x242o
+::END:LOOK

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0216/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0216/avatar
+name: Yoda
+vector: 0x0216a
+describe:A tiny green alien, dressed in gray and white robes. He carries around a small cane, and speaks oddly.
+::END:LOOK

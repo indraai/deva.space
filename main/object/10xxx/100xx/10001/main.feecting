@@ -1,0 +1,20 @@
+::BEGIN:AVATAR
+img:main/object/10001/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/10001/avatar
+name: Signal Transmitter Display
+vector:0x_1001o
+::END:LOOK
+
+::BEGIN:DISPLAY
+## Transmitter Display
+img:main/object/10001/avatar
+
+p:You are looking at the transmitter display used by Dr. Sneeds and Gunnar to measure the depth of the Bottomless Cravasse in Greenland at the Glaciers Edge.
+
+#bgcolor = #ffffff
+#color #333333
+::END:DISPLAY
+====

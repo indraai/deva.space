@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Monorail System from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Monorail System
+
+img:main/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-395|-268]
+::END:MAIN

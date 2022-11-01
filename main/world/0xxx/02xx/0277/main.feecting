@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see The Jeweler from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0277/title
+
+## The Jeweler
+
+p:You are in The Jeweler
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-327|-568]
+::END:MAIN

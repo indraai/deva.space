@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see indra.city/ne from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0239/title
+p:You are in indra.city/ne.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-638|-395]
+::END:MAIN
+
+=

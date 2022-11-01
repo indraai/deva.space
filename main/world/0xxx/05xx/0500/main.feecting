@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see Hollywood from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0500/title
+
+## Hollywood
+
+p:The Hollywood Syndicate.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+#bg = thegame/world/0500/background
+
+coordinates:05[-292|-461]
+::END:MAIN

@@ -1,0 +1,20 @@
+::BEGIN:LOOK
+p:You can see the Kids Store from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0153/logo
+
+## The Kids Store
+
+p:Welcome to The Kids Store
+
+p: To Exit please go EAST.
+
+mud[East]:e
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0153/background
+coordinates:00[-79|-187]
+::END:MAIN

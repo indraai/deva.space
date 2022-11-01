@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see Book 9.
+::END:LOOK
+====
+::BEGIN:MAIN
+img:main/world/0019/title
+
+talk:#veda book 9
+
+link[Tuva National Museum]:https://goo.gl/maps/Pqs4p5LeQDVLP8zD9
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-390|-211]
+::END:MAIN
+====

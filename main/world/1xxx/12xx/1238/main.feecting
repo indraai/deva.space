@@ -1,0 +1,25 @@
+::BEGIN:LOOK
+p:You can see the Salon Noveau from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1238/title
+
+# Salon Noveau
+
+p:You are are at the Salon Noveau.
+
+img:main/world/1238/bar
+
+img:main/world/1238/piano
+
+img:main/world/1238/booth
+
+img:main/world/1238/ship
+
+
+#bgcolor = #000000
+#color = #b46dd4
+#bg = thegame/world/1238/background
+coordinates:12[-432|-749]
+::END:MAIN

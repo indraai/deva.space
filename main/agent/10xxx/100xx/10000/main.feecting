@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/10000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/10000/avatar
+
+## Gunnar Larsen
+name: Gunnar Larsen
+vector: 0x10000a
+job: Dude
+employer: National Research Institute
+describe: Gunnar Larsen works with the National Research Institute as a "does everything" guy. A jack of all trades who assists various scientists in their experiments.
+::END:LOOK

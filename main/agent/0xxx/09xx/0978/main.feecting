@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0978/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0978/avatar
+name:Natasha 978
+vector:0x0978a
+link:https://bit.ly/3NDAzAL
+::END:LOOK

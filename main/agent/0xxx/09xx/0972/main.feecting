@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0972/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0972/avatar
+
+## Grand Duchess Maria Vladimirovna
+
+name: Grand Duchess Maria Vladimirovna
+
+vector: 0x0972a
+
+talk:#wiki summary Grand_Duchess_Maria_Vladimirovna_of_Russia
+
+::END:LOOK

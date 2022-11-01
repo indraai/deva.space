@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0965/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0965/avatar
+
+## Alex Jones
+
+name: Alex Jones
+vector: 0x0965a
+
+talk:#wiki summary Alex_Jones
+::END:LOOK

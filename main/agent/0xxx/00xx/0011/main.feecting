@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0011/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0011/avatar
+name: Yama
+vector: 0x0011a
+describe: Yama the Deva of Justice.
+::END:LOOK

@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0945/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0945/avatar
+## Beyond HOPE Training
+name: Beyond HOPE Training
+vector: 0x0945o
+describe: Training for the hacker conference Beyond HOPE 1994.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Beyond HOPE training 1994
+::END:TEXT

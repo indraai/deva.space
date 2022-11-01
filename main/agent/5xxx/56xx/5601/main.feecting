@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/5601/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/5601/avatar
+name: Arjika Soldier 5601
+vector: 0x5601a
+::END:LOOK

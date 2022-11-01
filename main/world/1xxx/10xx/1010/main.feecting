@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Evolution Engine Room from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1010/title
+
+## The Evolution Engine Room
+
+p:You have found your way into the Evolution Engine Room... home of Evolution Egines that will fix you up good.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-445|-868]
+::END:MAIN

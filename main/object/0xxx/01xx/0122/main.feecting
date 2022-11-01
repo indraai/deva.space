@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0122/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0122/avatar
+## Gray Robe
+name: Gray Robe
+vector: 0x0122o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Gray Robe.
+::END:TEXT

@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see It's a Small World from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1530/title
+
+## It's a Small World
+
+talk:#wiki summary It%27s_a_Small_World
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/1530/background
+coordinates:15[-691|-4]
+::END:MAIN

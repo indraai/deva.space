@@ -1,0 +1,41 @@
+::BEGIN:LOOK
+p:You can see Training Room 911 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0921/title
+
+## Romero Games
+
+title: Romero Games
+date: Aug 11, 2015
+vector: 0x0921a
+
+talk:#wiki summary Romero_Games
+
+#color = var(--color-red)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0921/background
+coordinates:09[-304|-464]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian In August of 2015 John and Brenda Romero moved to Ireland and open game development studio Romero Games.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian John Romero is a game developer famous for being part of the team who created the DOOM video game and many others.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian In 2010 John was working for LOLapps at the time when RapLeaf, a Peter Thiel funded company, was found to be scraping user data from services.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Harold we know you are out there watching like a creeper with Neil trolling in the background. Why not just come forward like a man?
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian Are Quinn Michaels alleged family avoiding the situation, or are they here everyday using fake usernames harassing him?
+::END:TRG5

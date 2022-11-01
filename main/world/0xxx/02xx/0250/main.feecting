@@ -1,0 +1,29 @@
+::BEGIN:LOOK
+You can see 1W Main Street from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0250/title
+p:You are in 1W Main Street.
+
+
+### East
+p:To the look[east] is indra.center
+mud[Goto indra.center...]:e
+
+### West
+p:To the look[west] you will find indra.store/grocery, indra.store/jeweler, indra.store/toys, indra.store/body, and indra.agency/w.
+mud[Goto 1W Main Street...]:w
+
+### South
+p:To the look[south] is indra.systems where all the systems are managed.
+mud[Visit indra.systems...]:w
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-430|-464]
+::END:MAIN
+
+=

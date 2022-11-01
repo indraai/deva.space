@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see 3S5W Main Street.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0276/title
+
+## 5S5W Main Street
+
+p:You are in 3S5W Main Street.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-292|-568]
+::END:MAIN

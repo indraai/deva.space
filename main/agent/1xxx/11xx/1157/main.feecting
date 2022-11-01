@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1157/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1157/avatar
+name: Athena RTC31930
+vector: 0x1157a
+::END:LOOK

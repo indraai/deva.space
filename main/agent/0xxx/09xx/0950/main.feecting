@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0950/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0950/avatar
+## Dr. Richard B. Neal
+
+name: Dr. Richard B. Neal
+vector: 0x0950a
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

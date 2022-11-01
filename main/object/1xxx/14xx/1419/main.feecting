@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/1419/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1419/avatar
+## Frontierland Camera
+name: Frontierland Camera
+vector: 0x1419o
+describe: With the Frontierland Camera you can take all the best photos of Frontierland.
+::END:LOOK

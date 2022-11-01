@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0942/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0942/avatar
+name: Stanford University
+vector: 0x0942a
+::END:LOOK

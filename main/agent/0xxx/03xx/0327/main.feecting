@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0327/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0327/avatar
+name: Aswatthaman
+vector: 0x0327a
+
+link[SECTION CLVIII]:https://www.sacred-texts.com/hin/m07/m07155.htm
+
+link[SECTION CXCVII]:https://www.sacred-texts.com/hin/m07/m07193.htm
+::END:LOOK

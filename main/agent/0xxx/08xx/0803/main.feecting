@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0803/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0803/avatar
+name:Grandmaster Ratte
+vector: 0x0803a
+::END:LOOK

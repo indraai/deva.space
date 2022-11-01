@@ -1,0 +1,24 @@
+::BEGIN:LOOK
+p:You can see the Security Office.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/1307/title
+
+## Security R1307
+
+p:Welcome to Security.
+
+p:You have arrived in our Adventureland Branch Office where all persons in Arjika are provided security, safety, and a smile.
+p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
+p:-Mangement
+
+#bg = thegame/world/1307/background
+#color = var(--color-yellow)
+#bgcolor = var(--color-black)
+coordinates:13[-576|16]
+::END:MAIN
+
+=

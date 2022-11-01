@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Farm Coop from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0229/title
+
+## Farm Coop
+
+p:The Farm Coop where you can get eggs and feed some chickens.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-326]
+::END:MAIN

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/10084/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/10084/token
+name:0x10084 Token
+vector:0x10084
+describe:The 0x10084 Token
+::END:LOOK

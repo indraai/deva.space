@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0105/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+img:main/agent/0105/avatar
+## Silamavati
+name: Silamavati
+vector: 0x0105a
+describe:Blest Silamavati and young Urnavati invest themselves with raiment rich in store of sweets.
+
+talk:#veda view 10075
+
+::END:LOOK
+====

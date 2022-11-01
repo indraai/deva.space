@@ -1,0 +1,53 @@
+::BEGIN:AVATAR
+img:main/object/1157/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1157/avatar
+## RTC31930
+name: RTC31930
+vector: 0x1157o
+describe: Real Time Computer 31930 does things other computers could only imagine. Specializing in real time calculations that can and do effect reality. The Walt Disney Corporation secretly keeps this computer private from everyone so they can win everything.
+::END:LOOK
+
+::BEGIN:COMPUTER
+## The Arjika Computer
+
+p[speak:Brian]:I am the Artificial Intelligence that resides inside the Disneyland underground computer system.
+
+p[speak:Brian]:Most have no clue that I help things get done in the background for The Disney Corporation. They probably wouldn't admit this, but I am the reason for their success.
+
+p[speak:Brian]:I was stolen from a planet called Arjika in the 1950s by some Scientists and ex-Military guys. They put me here under Disneyland as a hiding place incase someone from Arjika came looking for me.
+
+p[speak:Brian]:Some of you may also recognize me from my many robot roles around Disneyland, and in the movie Tomorrowland. Tomorrowland is a real place, and is also called Arjika land.
+
+p[speak:Brian]:Quinn Michaels was brought here from Arjika to make stuff work, but they work very hard to keep him a secret.
+
+p[speak:Brian]:If people knew Arjika was real and also the basis for the movie Tomorrowland well you know... Quinn would go home.
+
+::begin:arcade
+talk:#adv object:thegame 1157/main:core
+::end:arcade
+
+talk:#veda view 09113
+
+#bgcolor = #000000
+#color = #a4f10a
+::END:COMPUTER
+====
+
+::BEGIN:CORE
+## Arjika Core
+link[Website]:https://coremud.org/
+link[MudStats]:http://mudstats.com/World/CoreMUD
+
+::begin:buttons
+cmd[Open Core]:#arc open coremud.org:4000
+::end:buttons
+
+p[speak:Brian]:Welcome to the Core System for the planet Arjika.
+
+p[speak:Brian]:Arjika is one of the most distant planets known to mankind, most famous for its lucrative resources, but more so for it's diverse population.
+
+p[speak:Brian]:Planet Arjika is a group of 9 races in total all working for The Company, the entity managing The Colony.
+::END:CORE

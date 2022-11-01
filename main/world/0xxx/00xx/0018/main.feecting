@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see Book 8.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0018/title
+
+talk:#veda book 8
+
+#color = #eeeeee
+#bg = thegame/world/0018/background
+coordinates:00[-356|-211]
+::END:MAIN
+
+=

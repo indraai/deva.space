@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0935/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Evil People Inc. Training
+name: Evil People Inc.
+vector: 0x0935o
+describe: Training on the group known as Evil People Inc.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Evil People Inc. Training goes here.
+::END:TEXT
+====

@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0002/avatar
+::END:AVATAR
+====
+::BEGIN:LOOK
+img:main/agent/0002/avatar
+name: Indra
+vector:0x_0002a
+describe:True Indra is here to show you what's up!
+::END:LOOK
+====

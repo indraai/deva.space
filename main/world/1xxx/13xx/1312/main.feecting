@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Tahitian Terrace from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Tahitian Terrace
+
+img:main/world/1302/attract
+
+#color = #efdccd
+#bgcolor = #5da552
+coordinates:13[-607|-154]
+::END:MAIN

@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0924/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0924/avatar
+## Auren Hoffman
+name: Auren Hoffman
+vector: 0x0924a
+
+talk:#wiki summary Auren_Hoffman
+::END:LOOK

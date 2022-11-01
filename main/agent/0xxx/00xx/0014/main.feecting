@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/agent/0014/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+img:main/agent/0014/avatar
+## Vamraka Fighter
+name:Vamraka Fighter
+vector:0x_0014a
+describe:The Vamraka Fighter is an elite class that directly ensure Vamraka protection/security.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK
+====

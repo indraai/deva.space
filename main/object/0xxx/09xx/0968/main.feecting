@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0968/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Peter The Great Training
+name: Peter The Great Training
+vector: 0x0968o
+describe:Peter The Great Training
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Peter The Great Training
+::END:TEXT

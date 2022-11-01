@@ -1,0 +1,36 @@
+::BEGIN:LOOK
+p:You can see Arjika Military Training from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## Training
+
+name: Arjika Training
+vector: 0x0335o
+describe: Arjika Training is where Arjika Military trains their recruits in the necessary skills needed to be High Performing High Trust soldiers.
+
+## ROBOTICS
+
+link[HERO-1 Robot]:https://apps.dtic.mil/sti/pdfs/ADA138348.pdf
+link[AUTONOMOUS DECISION IN MULTI-ROBOT SYSTEMS]:https://apps.dtic.mil/sti/pdfs/AD1069610.pdf
+link[COMMAND CONTROL FOR MANY-ROBOT SYSTEMS]:https://apps.dtic.mil/sti/pdfs/ADA422540.pdf
+link[Heterogeneous Multi-Robot Cooperation]:https://apps.dtic.mil/sti/pdfs/ADA279839.pdf
+link[Small Robot Team System Design]:https://apps.dtic.mil/sti/pdfs/ADA420144.pdf
+
+## SAINT
+
+link[SAINT - Manual Vol 1.]:https://apps.dtic.mil/sti/pdfs/ADA014843.pdf
+link[Simulation Using SAINT]:https://apps.dtic.mil/sti/pdfs/ADA058671.pdf
+link[SAINT - A COMBINED SIMULATION LANGUAGE FOR MODELING LARGE COMPLEX SYSTEMS]:https://apps.dtic.mil/sti/pdfs/ADA075144.pdf
+
+## WS117L
+
+link[Uninhabitated Combat Aerial Vehicles:]:https://apps.dtic.mil/sti/pdfs/ADA391692.pdf
+link[SATELLITE COMMAND AND CONTROL SYSTEM]:https://apps.dtic.mil/sti/pdfs/ADA403222.pdf
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-857|-741]
+::END:MAIN

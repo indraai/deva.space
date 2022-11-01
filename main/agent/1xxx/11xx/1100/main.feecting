@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/1100/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1100/avatar
+name: King Barry of Disneyland
+vector: 0x1100a
+describe: King Barry is the rule of Disneyland.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK

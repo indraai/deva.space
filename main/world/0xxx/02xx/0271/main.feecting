@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+p:You can see OPERATIONS from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## OPERATIONS
+
+title: OPERATIONS
+room: 271
+vector: 0x0271r
+opsec: L5
+describe:  The Arjika Military Operations Center
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-822.5|-569]
+::END:MAIN
+
+=

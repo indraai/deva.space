@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see indra.farm from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0165/title
+
+p:Welcom to The Farm!!!
+p:Here at the farm we have all sorts of fresh grown goodies for you to pick, gather, and harvest to your hearts galore.
+p:You will find here a vegetable gardens, citrus/fruit orchards, grapes, cherries, herbs, eggs, cheese and dairy.
+p:The tools you'll need can be found in the shed, so grab what you need and get to farming.
+note:Pleae make sure to return the tools when you are done. Thank you.
+--
+
+#bgcolor = #eeeeee
+#color = #333333
+coordinates:00[-816|-153]
+::END:MAIN

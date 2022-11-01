@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0106/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0106/avatar
+
+## SecurityDEVA D106 (Lookout)
+
+name:SecurityDEVA D106 (Lookout)
+vector: 0x0106a
+describe: SecurityDEVA D106 Lookout is here keeping watch over the city.
+::END:LOOK

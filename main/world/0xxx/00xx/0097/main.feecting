@@ -1,0 +1,23 @@
+::BEGIN:LOOK
+p:You can see the Medic Center.
+#bg = world/0097/background
+#bgcolor = #db9cc0
+#color = #260051
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0097/title
+
+p:Welcome to Medical,
+
+p:Here MedicPRIME offers the services to get yourself back into physical and mental fitness.
+
+#color = #260051
+#bgcolor = #db9cc0
+#bg = thegame/world/0097/background
+coordinates:00[-430|-361]
+::END:MAIN
+
+=

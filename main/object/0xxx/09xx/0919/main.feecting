@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/object/0919/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Survivance Training
+name: Survivance
+vector: 0x0919o
+::END:LOOK

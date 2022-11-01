@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (W) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0224/title
+
+## Bank of Arjika
+
+p:You are inside the Disneyland Branch of The Bank of Arjika
+
+talk:#adv world:thegame 0224/main:bank
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+#bg = thegame/world/0224/background
+coordinates:11[-626|-829]
+::END:MAIN

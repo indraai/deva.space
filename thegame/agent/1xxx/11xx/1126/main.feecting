@@ -1,9 +1,0 @@
-::BEGIN:AVATAR
-img:thegame/agent/1126/avatar
-::END:AVATAR
-
-::BEGIN:LOOK
-img:thegame/agent/1126/avatar
-name: Male Guest 1126
-vector: 0x1126a
-::END:LOOK

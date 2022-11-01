@@ -1,0 +1,39 @@
+::BEGIN:AVATAR
+img:main/agent/0123/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0123/avatar
+name: Idne
+vector: 0x0123a
+
+img:main/agent/0123/portrait
+
+## Idne
+p:A Friend to be besought by friends.
+
+l:O'er all thou rulest.
+l:Upon the lofty ridge of heaven thy bright rays
+l:with their essences spread purifying power.
+
+p:These Seven Rivers flow, as being thine, to give command.
+
+l:Flow onward in a stream.
+l:Driving thee in Vivasvān's course.
+
+p:Made melody round thee the Sage.
+
+l:The streams of the Mighty One have poured them forth.
+l:Like coming home, have reached the place of offering.
+l:To our great delight the running waters flow to us.
+
+p:Flow on for the great Viewer of men.
+l:Flow on for gain of Idne.
+
+p:Best art thou of the great, Strongest of strong ones, Idne.
+l:Mightier even than the strong.
+l:More valiant even than the brave.
+l:More liberal than the bountiful.
+
+p:Beyond his enemies away to sweet praise.
+::END:LOOK

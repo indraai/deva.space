@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see Book 3
+::END:LOOK
+
+====
+::BEGIN:MAIN
+img:main/world/0013/title
+
+talk:#veda book 3
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0013/background
+coordinates:00[-356|-245]
+::END:MAIN
+====

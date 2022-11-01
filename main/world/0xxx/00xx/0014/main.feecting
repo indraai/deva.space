@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Book 4.
+::END:LOOK
+====
+::BEGIN:MAIN
+img:main/world/0014/title
+
+talk:#veda book 4
+
+#color = #eeeeee
+#bg = thegame/world/0014/background
+coordinates:00[-321|-245]
+::END:MAIN
+====

@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0975/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0975/avatar
+name: Ben 975
+vector: 0x0975a
+
+talk:#wiki summary Ben_Goertzel
+::END:LOOK
+
+::BEGIN:BIO
+talk:#wiki summary Ben_Goertzel
+::END:BIO
+====

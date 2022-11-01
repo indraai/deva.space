@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/1159/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1159/avatar
+## MedicDEVA D1159
+name:MedicDEVA D1159
+vector: 0x1159a
+::END:LOOK

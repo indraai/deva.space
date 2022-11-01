@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0802/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0802/avatar
+
+## Matt Connover
+name: Matt Connover
+name: Shok
+vector: 0x0802a
+::END:LOOK

@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0401/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0401/avatar
+
+## Harold Atkin
+
+name: Harold Atkin
+vector: 0x0401a
+describe: Harold Atkin is in prison for the kidnapping of Quinn Michaels.
+::END:LOOK

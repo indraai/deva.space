@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0155/avatar
+::END:AVATAR
+
+=
+
+::BEGIN:LOOK
+img:main/agent/0155/avatar
+## Arjika Colnel
+name:Arjika Colnel
+vector:0x_0155a
+title: Colnel
+describe: Arjika Colnel is here.
+::END:LOOK

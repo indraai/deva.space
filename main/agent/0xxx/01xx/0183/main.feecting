@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0183/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0183/avatar
+name:Rig Veda Attendant
+describe:Rig Veda Attendant
+::END:LOOK

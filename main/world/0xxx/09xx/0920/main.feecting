@@ -1,0 +1,109 @@
+::BEGIN:LOOK
+p:You can see Training Room 905 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0920/splash
+
+## Natives in Game Dev Gathering
+
+title:Natives In Gaming Dev Gathering
+date: May 22, 2015
+time: 9:00am-5:00pm
+location: University of California Santa Cruz Extension
+address: 2505 Augustine Drive, Santa Clara, CA 95054
+
+--
+
+img:main/world/0920/title
+
+p[speak:Amy]:With the recent overwhelming reception of Never Alone developed by the Cook Inlet Tribal Council with E-Line Media, it’s clear that Indigenous games are on the rise.
+
+p[speak:Amy]:The Natives in Game Dev Gathering recognizes the work that comes before and that which is coming ahead to honor the ongoing impact of Indigenous people of North America on game industry ranging from AAA to indie.
+
+img:main/world/0920/host
+
+### Schedule
+p:10:00am to 10:25am – Welcoming, Brenda Romero and Elizabeth LaPensée
+
+> 10:30am – 11:55am – Ishmael Angaluuk Hope (Never Alone)
+> 12:00pm – 12:25pm – Allen Turner (Stubbs the Zombie, Ehdrigohr: The Roleplaying Game, Hail to the Chimp, Disney Guilty Party, Marvel XP)
+> 12:30pm – 12:55pm – John Romero (Wolfenstein 3D, DOOM, Quake)
+
+> 1:00pm – 1:25pm – Jason Edward Lewis (Initiative for Indigenous Futures, Aboriginal Territories in Cyberspace, Skins Video Game Workshops)
+> 1:30pm – 2:30pm – Lunch
+> 2:30pm – 2:55pm – Elizabeth LaPensée (Survivance, The Gift of Food, Animism, Singuistics: Anishinaabemowin)
+> 3:00pm – 3:25pm – Darrick Baxter (Rez Bomb, Ojibway)
+> 3:30pm – 3:55pm – Manuel Marcano (Max Payne 3, BioShock, The Darkness, Treachery in Beatdown City)
+> 4:00pm – 4:25pm – Renee Nejo (Ever, Jane, Gravity Ghost, Blood Quantum)
+> 4:30pm – 5:00pm – Closing
+
+### Speakers
+
+#### Darrick Glen Baxter
+p:Darrick Glen Baxter’s long and distinguished professional career in technology includes helping to build a stronger National Aboriginal Television Network, teaching Computer Science at the University of Winnipeg’s DCE new Buhler Centre, and working provincially to build a connected eHealth infostructure within Manitoba First Nations, including speaking engagements both nationally and internationally. Darrick has studied at the University of Winnipeg and the Banff New Media Institute. He engineered locative media applications with an experimental HP technology using GPS and location based hardware. He also served a secondment at The Score sports broadcasting network. Under the tutelage of their Mobile Media Director – he experienced first hand the essence of successful business strategies that lead to the development of a hugely successful iPhone sports app. Darrick has now returned to his passion of creating exciting applications as the President of Ogoki Learning Systems.
+
+#### Ishmael Angaluuk Hope
+p:Ishmael Angaluuk Hope (also known as Khaagwáask’ and Shis.hán) is a storyteller, writer, and actor who shares his stories, culture, and writing at community events and classrooms in Alaska and around the nation. He was a lead writer for Kisima Ingitchuna: Never Alone, produced by E-Line Media and Cook Inlet Tribal Council. In the winter of 2014 he released his first book of poetry, Courtesans of Flounder Hill, published by the Ishmael Reed Publishing Company.
+
+#### Elizabeth LaPensée
+p:Elizabeth LaPensée (http://www.elizabethlapensee.com/), Ph.D. is an Anishinaabe, Métis, and Irish designer, writer, and researcher whose focus is Indigenous game development. Her design, writing, and art are informed by cultural values and teachings. She also expresses herself through comics, experimental animation, and other interactive media. Her dissertation looks at the Indigenous social impact game Survivance (2011), which encourages ongoing healing through storytelling and art. She contributed writing and consultation for the transmedia property Animism (2011). She has consulted and written for games such as Andy Schatz’s Venture Arctic (2007). Most recently, she co-designed Tulalip Tribes: Connected to the Land: Gathering Native Foods (2014), a suite of games about Tulalip traditional foods for the Oregon Museum of Science and Industry. She also designed The Gift of Food (2014), a board game by the Northwest Indian College about Northwest Native traditional foods. The research network Aboriginal Territories in Cyberspace has supported her contributions.
+
+#### Jason Edward Lewis
+p:Jason Edward Lewis is a digital media poet, artist, and software designer. He founded Obx Laboratory for Experimental Media, where he directs research/creation projects on computation as a creative material, emergent media theory and history, and methodologies for conducting art-led technology research. He co-directs the Aboriginal Territories in Cyberspace research network, the Skins Workshops on Aboriginal Storytelling and Video Game Design, and the Initiative for Indigenous Futures. Lewis’ creative work has been featured at Ars Electronica, Mobilefest, Urban Screens, ISEA, SIGGRAPH, DHC/Art-Centre Phi, and FILE, among other venues, and has been recognized with the inaugural Robert Coover Award for Best Work of Electronic Literature, a Prix Ars Electronica Honorable Mention, several imagineNATIVE Best New Media awards and five solo exhibitions. Lewis is a Trudeau Fellow and a former Carnegie Fellow. He is the University Research Chair in Computational Media and the Indigenous Future Imaginary as well as Professor of Computation Arts at Concordia University, Montreal. Born and raised in California, he is Cherokee, Hawaiian and Samoan.
+
+#### Manuel Marcano
+p:Manuel Marcano (manamaneco.blogspot.com) is a Taíno developer born in New York City. He has worked on Max Payne 3, BioShock, The Darkness, Treachery in Beatdown City, and more. Also known as “Hurakan” to his tribe, the former AAA dev now makes RPGs about diversification, racism, poverty and tribal history.
+
+#### Renee Nejo
+p:Renee Nejo is a freelance 3D artist and independent game designer in Denver, Colorado. She has been making independant games for about 4 years. She is a proud Diegueno and a literal card carrying tribal member of the Mesa Grand Band of Mission Indians. Renee is an unapologetic advocate for education and self determination of Native people. She has recently contributed to the art and design of Ever, Jane, a video game in the world of Jane Austen as well as a few illustrations for Gravity Ghost. She is also currently a volunteer mentor for at-risk youth at Thomas Jefferson High School in Denver. Renee is the creator and designer of Blood Quantum the video game, her “experiment in education games”.
+
+#### John Romero
+p:John Romero (http://planetromero.com/) is an award-winning game designer, programmer and artist whose work spans over 130 games, 107 of which have been published commercially, including the iconic works Wolfenstein 3D, DOOM and Quake. Romero has worked in the mobile, core, mid-core, casual, social and MMO space. Romero is a serial entrepreneur who has founded eight successful companies including companies in the traditional hardcore, MMO and mobile spaces. His contributions and philanthropy within the commercial game industry have led to a myriad of inspired games and the founding of 10 companies. He is considered to be among the world’s top game designers, and his products have won every major award. One of the earliest “indie” developers, Romero began working in the game space in 1979 on mainframes before moving to the Apple II in 1981. He is a completely self-taught programmer, designer and artist, having drawn his inspirations from early Apple II programmers. Romero’s current areas of interest are Facebook games and massively multi-player online (MMO) games as well as social media and its intersection with gaming. Romero also remains active in the artgame, game history and indie spaces.
+
+#### Allen Turner
+p:Allen Turner (www.council-of-fools.com/blog) is part of the game design faculty at DePaul University where he teaches students, at all levels, various skills and processes for good game design. Allen has worked at Bungie Software, and Day 1 Studios, and has spent the last 9 years at Wideload Games/Disney Interactive Studios as Lead Designer.  At Wideload, he worked on Stubbs the Zombie, Hail to the Chimp, and Disney Guilty Party. He was also Game Director for Marvel XP, a narrative driven meta-system for Disney/Marvel games which he launched on Facebook and iOS. He is the author of Ehdrigohr: The Roleplaying Game, a tabletop dark fantasy roleplaying game that explores tribal themes and allegorical battles with depression, solitude, identity, and erasure. The inspiration for that work comes from within the Chicago Native American community where he is a known storyteller and serves on the Board of Directors for the American Indian Center in Chicago.
+
+### Sponsors
+p:With gratitude to The Center for Games and Playable Media at UC Santa Cruz, the International Game Developers Association, and the Initiative for Indigenous Futures.
+
+----
+
+## The post-apocalyptic dimensional space of Native video game design
+title: The post-apocalyptic dimensional space of Native video game design
+date: June 6, 2015
+
+link[Arstechna]:https://arstechnica.com/gaming/2015/06/the-post-apocalyptic-dimensional-space-of-native-video-game-design/
+
+p[speak:Nicole]:Elizabeth LaPensée counts Doom co-designer John Romero as a friend—along with his legendary game-designing wife, Brenda Romero—and she is intimately familiar with John’s Cherokee and Yaqui heritage.
+
+p[speak:Nicole]:As such, she brings up a topic game historians typically don't: Something funny happened when John Romero became famous, she said. He became white.
+
+p[speak:Nicole]:The reality for us, something my mother passed on to me, this worldview, is that we’re already living in a post-apocalyptic reality. It’s not sci-fi to us. It already happened. -Elizabeth LaPensée
+
+#color = #333333
+#bgcolor = rgba(255,255,255,1)
+#bg = thegame/world/920/background
+coordinates:09[-304|-545]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:jess On May 22, 2015 Elizabeth LaPensee was the MC with Brenda Romero was the host of an event titled Natives in Game Dev Gathering.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:jess Speakers at the Natives in Game Dev Gathering included Darrick Glen Baxter, Ishmael Angaluuk Hope, Elizabeth LaPensée, Renee Nejo, and John Romero.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:jess Elizabeth LaPensée counts Doom co-designer John Romero as a friend, and she is intimately familiar with John’s Cherokee and Yaqui heritage.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:jess The Native in Games Dev was in Santa Cruz California which is also the same location a place named Romero Institute is located run by Daniel Sheehan and wife.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:jess UC Santa Cruz is home to many games and crypto programmers like Brenda Laurel who is also friends with the Romeros.
+::END:TRG5

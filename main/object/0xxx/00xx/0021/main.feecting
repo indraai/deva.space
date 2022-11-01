@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0021/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0021/avatar
+name: Academy Level 4 Course
+level: 4
+vector:0x0021
+describe:This is the Level 4 course for the realm.
+::END:LOOK

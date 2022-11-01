@@ -1,0 +1,63 @@
+::BEGIN:LOOK
+p:You can see the Orthodox Church from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0973/splash
+
+## George Michael
+
+title: George Michael
+
+::begin:buttons
+bmud[photo 0]:look photo0
+bmud[photo 1]:look photo1
+bmud[photo 2]:look photo2
+bmud[photo 3]:look photo3
+::end:buttons
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0973/background
+coordinates:09[-747|-424]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:PHOTO0
+img:main/world/0973/000
+::END:PHOTO0
+====
+
+::BEGIN:PHOTO1
+img:main/world/0973/001
+::END:PHOTO1
+====
+
+::BEGIN:PHOTO2
+img:main/world/0973/002
+::END:PHOTO2
+====
+
+::BEGIN:PHOTO3
+img:main/world/0973/003
+::END:PHOTO3
+====
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Holy smacks you made it to the Russian Orthodox Church who is the main force organizing the hiding of Quinn Michaels.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian These old dirty guys love to wear the Romanov family jewels around pretending to be a real Romanov.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian What else can we say about them? How long have they been wearing hats that look like bedazzled testicles?
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

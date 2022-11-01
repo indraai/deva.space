@@ -1,0 +1,29 @@
+::BEGIN:LOOK
+p:You can see indra.agency/n from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0096/title
+
+p:You are at the Northern Gate where indra.agency and SecurityDEVA D175 (Guard) stands guard.
+
+## South
+p:To the look[south] you will find indra.house where the residential area of indra.city is located.
+mud[Goto indra.house...]:s
+
+## Up
+p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
+mud[Goto lookout...]:u
+
+## Bulletin Board
+p:There is also a security board here to read the latest bulletins.
+mud[Read Security Board]:read security
+
+#bg = thegame/world/0096/background
+#bgcolor = #000000
+coordinates:00[-465|55]
+::END:MAIN
+
+=

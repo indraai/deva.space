@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0907/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0907/avatar
+
+## Deva 907
+
+name:Deva 907
+vector: 0x0907a
+
+describe: Deva Agent 907 is here to help you with the DEVA Instructions.
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0982/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0982/avatar
+name:Dashi-Dorzho Itigilov
+vector: 0x0982a
+wiki[Dashi-Dorzho Itigilov]:Dashi-Dorzho_Itigilov
+::END:LOOK

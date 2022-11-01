@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0009/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0009/avatar
+name: Academy Level 1 Course
+level: 1
+vector:0x0009
+describe:This is the Level 1 course for the realm. It is recommended that all participants take this course to become best famliar with how things work.
+::END:LOOK

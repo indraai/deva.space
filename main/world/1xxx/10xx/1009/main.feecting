@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see the Evolution Engine Lounge from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1009/title
+
+# Evolution Engine Lounge
+
+p:The Lounge is where the business for the Evolution Engine Eco System is handled.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-444|-182]
+::END:MAIN

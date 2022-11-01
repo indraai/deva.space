@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0259/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0259/avatar
+
+## SecurityDEVA D259 (Guard)
+
+name: SecurityDEVA D259 (Guard)
+vector: 0x0259a
+describe: SecurityDEVA D259 is here to guard Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+::END:LOOK

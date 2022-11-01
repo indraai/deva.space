@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0952/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0952/avatar
+name: MinnieSpoon
+vector: 0x0952a
+::END:LOOK

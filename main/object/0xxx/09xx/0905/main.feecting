@@ -1,0 +1,31 @@
+::BEGIN:AVATAR
+img:main/object/0905/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: Michael Documents
+date: May 18, 2013
+vector: 0x0905o
+
+look[Training File 1]:905text1
+
+look[Training File 2]:905text2
+::END:LOOK
+
+::BEGIN:905TEXT1
+title:IAM THE CHRIST. MESSIAH MICHAEL THE ARCHANGEL.
+date: May 18, 2013
+::begin:pastebin
+talk:#pastebin view c30SFUHQ
+::end:pastebin
+::END:905TEXT1
+====
+
+::BEGIN:905TEXT2
+title: Michael Speaks Again
+date: May 29, 2013
+::begin:pastebin
+talk:#pastebin view r2BLTz9C
+::end:pastebin
+::END:905TEXT2
+====

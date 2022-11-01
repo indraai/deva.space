@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0990/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0990/avatar
+## DarkSec Training
+name: DarkSec Training
+vector: 0x0990o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:DarkSec Training
+::END:TEXT

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[💎]:look diamond
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object//avatar
+## Diamonds
+name: Diamonds
+vector: 0x10094o
+look[💎]:diamonds
+::END:LOOK
+
+::BEGIN:TEXT
+p:💎 Diamonds
+::END:TEXT

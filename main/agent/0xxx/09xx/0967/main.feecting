@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0967/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0967/avatar
+
+## RussianBot 967
+name: RussianBot 967
+vector: 0x0967a
+::END:LOOK

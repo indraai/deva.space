@@ -1,0 +1,9 @@
+::BEGIN:LOOK
+p:You can see You are a Superstar from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1800/title
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

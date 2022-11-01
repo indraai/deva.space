@@ -1,0 +1,29 @@
+::BEGIN:LOOK
+p:You can see 1N Main Street from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0236/title
+
+## 1N Main Street
+
+p:You are in indra.city/n.
+
+p:Continue look[north] to visit indra.care, indra.agency or the many other rooms on the path.
+
+mud[Travel North...]:n
+
+p:Going look[south] will take you back to indra.center.
+mud[Travel South...]:s
+
+p:To the look[west] is indra.services where you can establish service with the indra.ai network.
+mud[Visit Services...]:w
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-465|-430]
+::END:MAIN
+
+=

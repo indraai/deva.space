@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[💍]:look ring
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1145/avatar
+## Disneyland Ring
+name:Disneyland Ring of Power
+vector: 0x1145o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:RING
+p:💍 Disneyland Ring of Power
+::END:RING

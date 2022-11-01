@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Pirates Arcade from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1202/title
+
+# Pirates Arcade
+
+p:You are are at the Pirates Arcade.
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+#bg = thegame/world/1202/background
+coordinates:12[-546|-650]
+::END:MAIN

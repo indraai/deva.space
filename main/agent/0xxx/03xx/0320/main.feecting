@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0320/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0320/avatar
+name: ARMY Chef
+vector: 0x0320a
+describe: ARMY Chef makes the healthy good food for the ARMY Soldiers.
+::END:LOOK

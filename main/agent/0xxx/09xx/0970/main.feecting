@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0970/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0970/avatar
+name: Patriarch 970
+vector: 0x0970a
+
+talk:#wiki summary Patriarch_Kirill_of_Moscow
+
+::END:LOOK

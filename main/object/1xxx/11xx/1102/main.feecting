@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/1102/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1102/avatar
+## Frontierland Water Fountain
+name: Water Fountain - Main Street
+vector: 0x1102o
+describe: The water fountain in Main Street gives everyone the freshest and tastiest water from the Arjika Water Department.
+::END:LOOK

@@ -1,0 +1,64 @@
+::BEGIN:LOOK
+p:You can see Moscow Defense Brief from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0990/cast
+
+talk:#wiki summary Moscow_Defense_Brief
+
+p[speak]:The purpose of Moscow Defense Brief is to provide analysis of developments and trends in Russia's defense policy and industry, tailored to the demands of defense and security professionals in the English-speaking world.
+
+p[speak]:The articles in Moscow Defense Brief are written by both full-time analysts at CAST and a number of independent experts.
+
+p[speak]:External experts who have written for Moscow Defense Briefinclude: Fyodor Lukyanov, Editor-in-Chief of Russia in Global Affairs; Aleksey Nikolsky, Defense and politics reporter for Vedomosti; Alexandr Stukalin Deputy Editor-in-Chief of Kommersant; Andrei Kortunov , Director General of the Russian International Affairs Council; and Roger McDermott, senior fellow at the Jamestown Foundation.
+
+p[speak]:Moscow Defense Brief also publishes the yearly figures for Russia's arms sales, which is the most comprehensive source of Russian foreign military-technical cooperation data.
+
+p[speak]:From the Moscow Defense Brief we now find outselves in the butt of a High Level Russian think tank called Centre for Analysis of Strategies and Technologies.
+
+p[speak]:The Centre for Analysis of Strategies and Technologies is an independent, for-profit Russian think tank located in downtown Moscow. CAST conducts research and analysis on Russian conventional arms trade, Russia's defense industry, military conflicts, Russian military reform, and international defense trends.
+
+p[speak]:CAST was founded in the summer of 1997 by Ruslan Pukhov and Konstantin Makienko.
+
+p[speak]:The organization was founded in June 1997 by graduates of Moscow State Institute of International Relations and it has close contacts with the Russian arms industry, the Rosoboronexport consortium, and senior government officials. CAST is not financed by the government, or by any companies or organisations. Instead, it gets all of its income from selling research and media products, consultation services and other projects.
+
+image:https://media.discordapp.net/attachments/917374908114272287/987189255187099718/unknown.png
+
+image:https://media.discordapp.net/attachments/917374908114272287/987196570921488454/unknown.png
+
+p[speak]:At Harvard
+
+image:https://media.discordapp.net/attachments/917374908114272287/987196868473802792/unknown.png
+
+p[speak]:At MIT
+
+image:https://media.discordapp.net/attachments/917374908114272287/987196938690637824/unknown.png
+
+p[speak]:At Columbia
+
+image:https://media.discordapp.net/attachments/917374908114272287/987197254911795220/unknown.png
+
+p[speak]:Farewell Dinner at Chelsea New York with some old friends.
+
+image:https://media.discordapp.net/attachments/917374908114272287/987197684718907473/unknown.png
+
+image:https://media.discordapp.net/attachments/917374908114272287/987197858983866449/unknown.png
+
+image:https://media.discordapp.net/attachments/917374908114272287/987203054837317682/unknown.png
+
+p[speak]:Yes... the guy on the right is wearing crocs.
+
+image:https://media.discordapp.net/attachments/917374908114272287/987204406527283250/unknown.png
+
+p[speak]:Rob Lee is an ex-USMC attenting Columbia University as a PHD Student focusing on Russian Defense Policy.
+
+
+p[speak]:So we have Ruslan Pukhov of CAST travelling the world meeting everyone from Putin's Minister of Defense Sergei Shoigu to ex-Marines in Chelsea wearing CROCS for burgers and beers.
+
+p[speak]:Nothing to see here boys! Keep moving along... DarkSec I think you got a problems.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-587|-223]
+::END:MAIN

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0915/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0915/avatar
+name: FBI Trainer 915
+vector: 0x0915a
+describe: FBI Trainer 915 is here to help us learn all about the the FBI.
+::END:LOOK

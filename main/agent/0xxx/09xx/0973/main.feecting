@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0973/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0973/avatar
+name: George 973
+vector: 0x0973a
+
+talk:#wiki summary Grand_Duke_George_Mikhailovich_of_Russia
+
+::END:LOOK

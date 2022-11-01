@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.fun/land from here.
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0220/title
+
+## indra.fun/land
+p:You are in indra.fun/land
+#bg = thegame/world/0220/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

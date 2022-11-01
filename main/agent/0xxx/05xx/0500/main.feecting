@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0500/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0500/avatar
+## Charlie Chaplin
+name: Charlie Chaplin
+vector: 0x0500a
+describe:Charles Chaplin.
+::END:LOOK

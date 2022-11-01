@@ -1,0 +1,36 @@
+::BEGIN:LOOK
+p:You can see Training Room 931 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0931/splash
+
+## Jerome Corsi
+
+title: Jerome Corsi
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-666.5|-424]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Jerome Robert Corsi is an American author and conspiracy theorist.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian In 2017, he became the Washington, D.C., bureau chief for the conspiracy theory website InfoWars but no longer works for the website.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian In November 2019, Stone had testified to Congress that Randy Credico was his WikiLeaks go-between, but prosecutors said this was a lie in order to protect Corsi.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Quinn in 2018 had a phone converastion between Jerome Corsi and Jason Goodman where Jerome Corsi turned down Quinn Michaels for Pamphlet Anon.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian Jerome Corsi was also working as a heavy promoter of the QAnon Conspiracy Theory with other Youtubers like Defango and Lionel Nation.
+::END:TRG5

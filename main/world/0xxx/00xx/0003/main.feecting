@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Academy L1 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0003/title
+
+p:You are in Academy L1
+
+#color = var(--color-white)
+#bgcolor = var(--color-grey)
+#bg = thegame/world/0002/background
+
+coordinates:00[-541|-245]
+::END:MAIN

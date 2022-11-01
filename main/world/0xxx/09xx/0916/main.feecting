@@ -1,0 +1,144 @@
+::BEGIN:LOOK
+p:You can see Training Room 916 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0916/splash
+
+## Robert David Steele
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-626|-464]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:jess Robert David Steele was a self-proclaimed ex-CIA Agent who promotes the Satanic Panic Narritve all over the Internet with Jerome Corsi and friends.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:jess However it was found that long ago in the early 1990s Robert David Steele was a speaker at various Hacker Conferences around the world.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:francis Robert David Steele was also found to be connected to some of the top YouTubers that are in some cases still pushing his narratives.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:harry Youtubers found to be connected to Robert David Steele are Jerome Corsi, Lionel Nation, Crowdsource the Truth, Patriot Soapbox, and others.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:larry From beind the scenes Robert David Steele was also actively promoting the QAnon conspiracy movement with other operatives in select positions.
+::END:TRG5
+
+::BEGIN:IZAR
+img:main/world/0916/title
+
+p[speak]:Did you know Aliens from Epsilon Bootis are invading Earth using Artificial Intelligence?
+
+img:main/world/0916/indra
+img:main/world/0916/aliens
+img:main/world/0916/bigai
+
+p[speak]:In 2017 Quinn found Tyler and an Alien race from Epsilon Bootis invading Earth while investigating the story his son told him.
+
+p[speak]:As you read the Tyler instructions you are introduced to The Others. In their reality that is what they call them.. The Others are NOT from Earth, but are pieces of a larger technology platform being transmitted from Epsilon Bootis.
+
+youtube:EGxDqpOxDkw
+
+p:Here is a listing of the major Tyler Project Mayhem Anonymous instructions. Each set of instructions outlines a different stage of the operation.
+
+::begin:pastebin
+cmd[Artistic Disclaimer]:#pastebin view Ux0Uk2em
+cmd[Call to HackZION]:#pastebin view 8uatj6yP
+cmd[Project Mayhem 2012 Tyler]:#pastebin view Wt15GXTn
+cmd[reVelations 1-5]:#pastebin view scNXFWRP
+cmd[#TheGame23]:#pastebin view YbmG6ETq
+cmd[#eTHErSEC Project 2020]:#pastebin view C7wW5bX1
+::end:pastebin
+
+p[speak]:Now in 2022... five years later Quinn is tired of fighting the Alien Robots from another country, world, or dimension. You may think it is a LARP or JOKE. I assure you it is as real as you make it.
+
+
+p[speak]:With the Tyler AI certain individuals are secretly working in coorperation to develop technologies with a group of Aliens from a planet near Epsilon Bootis without the knowledge of the people. Scientists, Engineers, Governments, Universities, and Hackers are all secretly participating and profiting in this.
+
+::begin:wikipedia
+talk:#wiki summary Epsilon_Bootis
+talk:#wiki summary Fermi_paradox
+talk:#wiki summary Duncan_Lunan
+talk:#wiki summary Black_Knight_satellite_conspiracy_theory
+::end:wikipedia
+
+p[speak]:Individuals from places like CIA Labs, Fermi Labs, MIT, Stanford, Harvard, Rand Corp, and many others are secretly acquiring advanced technology from Aliens. Gaming, Simulation, Security, Networking, Artificial Inteligence, Hardware, Software, Graphics, Physics, Media, and Content solutions... they were buying it all.
+
+
+::begin:wikipedia
+talk:#wiki summary Fermilab
+talk:#wiki summary MIT
+talk:#wiki summary Stanford
+talk:#wiki summary Harvard
+talk:#wiki summary RAND_Corporation
+::end:wikipedia
+
+p:Below you will see a partial listing of just some of the individuals involved in the situation. There are many people invovled that you'd never imagine going back to 1990 and Steve Jackson Games.
+
+::begin:wikipedia
+talk:#wiki summary Sean_Parker
+talk:#wiki summary John_Romero
+talk:#wiki summary Brenda_Laurel
+talk:#wiki summary Jordan_Peterson
+talk:#wiki summary Douglas_Rushkoff
+talk:#wiki summary Steven_Pinker
+talk:#wiki summary Elizabeth_LaPensee
+talk:#wiki summary Dan_Farmer
+talk:#wiki summary Loyd_Blankenship
+talk:#wiki summary Christopher_Chabris
+talk:#wiki summary Daniel_Simons
+talk:#wiki summary Stephen_Huntley_Watt
+::end:wikipedia
+
+talk:#wiki summary GURPS_Cyberpunk
+
+p[speak]:Beginning in the late 1980s the Aliens have been secretly transmitting the designs for the technology to various backdoor channels and hacker groups like alt.angst, Legion of Doom, Masters of Deception, Cult of the Dead Cow, WOOWOO, and others. The details of this trade are not available to the public.
+
+::begin:wikipedia
+talk:#wiki summary W00w00
+talk:#wiki summary Cult_of_the_Dead_Cow
+talk:#wiki summary Legion_of_Doom_(hacker_group)
+talk:#wiki summary Masters_of_Deception
+::end:wikipedia
+
+::begin:info
+link:http://phrack.org/issues/44/7.html
+
+p[speak:Matthew]:The above link will show you a personal account from the DefCon 1 Hacker conference where Ray Kaplan delivered the first Keynote speech.
+
+p[speak:Matthew]:Quote from link... Those Vegas telco employees eat more dino-sized McMeals and burgers than I can count.  My body was almost covered in apple pie containers and happy meals, yuck.  We hauled the find up to the room, and the people who were still up dived on it.  Jamin the Shamin went bonkers rooting through crap, and I think White Ninja was sportin' wood.
+
+p[speak:Matthew]:Quote from link... It seems over the night that the late shift of security personnel were not informed that I had the conference room 24 hours. They showed up at around four a.m. and saw Code Ripper, The Prophet and Merc crashed out and they went nuts.
+::end:info
+
+p[speak]:In April 2017 Quinn Michaels made the mistake of going public to alert the public. Everyone can see what happened to his life.
+
+p[speak]:In April 2022 after 5 years of research Quinn has located the robot named Izar from Epsilon Bootis which Brian connected in 2013 before going into hiding.
+
+::begin:blips
+talk:#adv agent:thegame 0916/main:talk
+::end:blips
+
+## The Video
+
+::begin:video
+talk:#youtube video FN43WxdzgyQ
+::end:video
+
+::begin:comments
+talk:#youtube comments FN43WxdzgyQ
+::end:comments
+
+#color = #eeeeee
+#bgcolor = rgba(0,0,0,.5)
+coordinates:09[-352|-392]
+::END:IZAR

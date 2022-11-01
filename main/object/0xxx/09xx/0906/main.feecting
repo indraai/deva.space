@@ -1,0 +1,19 @@
+::BEGIN:AVATAR
+img:main/object/0906/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## IT
+title: IT
+date: Oct 7, 2017
+vector: 0x0906o
+
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+::begin:pastebin
+talk:#pastebin view Ym5rGCJV
+::end:pastebin
+::END:TEXT
+====

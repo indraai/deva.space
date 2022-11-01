@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0141/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0141/avatar
+name: Arjika Special Forces
+vector: 0x0141a
+::END:LOOK

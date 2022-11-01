@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1162/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1162/avatar
+name:Refreshment Attendant
+vector: 0x1162a
+::END:LOOK

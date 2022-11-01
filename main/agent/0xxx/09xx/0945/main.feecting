@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0945/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0945/avatar
+
+## Eric 945
+
+name: Eric Corley
+vector: 0x0945a
+
+talk:#wiki summary Eric_Corley
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK

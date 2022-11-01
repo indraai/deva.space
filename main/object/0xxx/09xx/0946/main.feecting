@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0946/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## HIP 1997 Training
+name: Hacking in Progress
+vector: 0x0946o
+describe: Hacking in Progress 1997 Conference.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Hacking in Progress Conference Trainng.
+::END:TEXT

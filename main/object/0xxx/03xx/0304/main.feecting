@@ -1,0 +1,18 @@
+::BEGIN:AVATAR
+img:main/object/0304/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0304/avatar
+## CYPHER-3 TERMINAL
+name: CYPHER-3 TERMINAL
+vector: 0x0304o
+describe: CYPHER-3 TERMINAL is used by cyber specialists to do their job.
+
+look[Terminal]:terminal
+::END:LOOK
+
+::BEGIN:TERMINAL
+p:CYPHER-3 Terminal
+::END:TERMINAL
+====

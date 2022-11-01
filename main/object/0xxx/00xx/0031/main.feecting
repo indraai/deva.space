@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0031/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0031/avatar
+## Vamraka Fountain
+name:Vamraka Fountain
+vector:0x31o
+describe:This is a pure water spring.
+::END:LOOK

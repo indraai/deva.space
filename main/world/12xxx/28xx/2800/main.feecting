@@ -1,0 +1,9 @@
+::BEGIN:LOOK
+p:You can see Dream Trips from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/2800/title
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/1413/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1413/avatar
+## Frontierland Burrito
+name: Frontierland Burrito
+vector: 0x1413o
+
+p[speak:Justin]:The Frontierland Burrito is filled with Magick. Made with beans, rice, queso cheese, tomatoes, cilantro, sour cream, guacamole, green chilie salsa, and the Oak Tavern fried potatoes.
+
+p[speak:Justin]:The giant Frontierland Burrito is sure to give you the gas you need to reach Tomorrowland.
+::END:LOOK

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1503/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1503/avatar
+name: Mickey Mouse - Fantasyland
+vector: 0x1503a
+::END:LOOK

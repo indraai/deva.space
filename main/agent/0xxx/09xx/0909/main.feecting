@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0909/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0909/avatar
+
+## Ethersec 909
+
+name:Ethersec 909
+vector: 0x0909a
+
+cmd[Pastebin - View Original]:#pastebin view vr0YUfhX
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

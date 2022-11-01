@@ -1,0 +1,102 @@
+::BEGIN:LOOK
+p:You can see Training Room 905 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:main/world/0926/splash
+
+## Palantir
+
+title:Palantir
+date: 2003
+
+bmud[Look - Court Filings]:look text
+
+img:main/world/0926/title
+
+img:main/world/0926/001
+
+img:main/world/0926/002
+
+img:main/world/0926/003
+
+talk:#wiki summary Palantir_Technologies
+
+talk:#wiki summary Peter_Thiel
+
+talk:#wiki summary Alex_Karp
+
+p[speak:Brian]:SEC filings state Palantir's official incorporation to be in May 2003 by Peter Thiel, who named the start-up after the "seeing stone" in Tolkien's legendarium.
+
+p[speak:Brian]:The only early investments were _$2 million from the U.S. Central Intelligence Agency's venture capital arm In-Q-Tel, and _$30 million from Thiel himself and his venture capital firm, Founders Fund.
+
+p[speak:Brian]:In 2004, Thiel bankrolled the creation of a prototype by PayPal engineer Nathan Gettings and Stanford University students Joe Lonsdale and Stephen Cohen. That same year, Thiel hired Alex Karp, a former colleague of his from Stanford Law School, as chief executive officer.
+
+p[speak:Brian]:Palantir developed its technology by computer scientists and analysts from intelligence agencies over three years, through pilots facilitated by In-Q-Tel.
+
+p[speak:Brian]:The company stated computers alone using artificial intelligence could not defeat an adaptive adversary. Instead, Palantir proposed using human analysts to explore data from many sources, called intelligence augmentation.
+
+p[speak:Brian]:In 2009 Information Warfare Monitor used Palantir software to uncover the GhostNet and the Shadow Network. The GhostNet was a cyber espionage network targeting 1,295 computers in 103 countries, including the Dalai Lama’s office, a NATO computer and various national embassies.
+
+talk:#wiki summary GhostNet
+
+talk:#wiki summary Shadow_Network
+
+p[speak:Brian]:On June 18, 2010, Vice President Joe Biden and Office of Management and Budget Director Peter Orszag held a press conference at the White House announcing the success of fighting fraud in the stimulus by the Recovery Accountability and Transparency Board (RATB).
+
+p[speak:Brian]:He announced that the capability will be deployed at other government agencies, starting with Medicare and Medicaid.
+
+p[speak:Brian]:I2 Inc sued Palantir in Federal Court alleging fraud, conspiracy, and copyright infringement over Palantir's algorithm. Shyam Sankar, Palantir's director of business development, used a private eye company as the cutout for obtaining I2's code. I2 settled out of court for _$10 million in 2011
+
+talk:#wiki summary I2_Limited
+
+talk:#wiki summary Private_investigator
+
+talk:#wiki summary Cutout_(espionage)
+
+p[speak:Brian]:A document leaked to TechCrunch revealed that Palantir's clients as of 2013 included at least twelve groups within the U.S. government.
+
+p[speak:Brian]:The CIA, DHS, NSA, FBI, CDC, Marine Corps, Air Force, Special Operations Command, United States Military Academy, Joint Improvised-Threat Defeat Organization and Allies, Recovery Accountability and Transparency Board, and the National Center for Missing and Exploited Children.
+
+talk:#wiki summary United_States_Marine_Corps
+talk:#wiki summary United_States_Air_Force
+talk:#wiki summary United_States_Army
+talk:#wiki summary CIA
+talk:#wiki summary DHS
+talk:#wiki summary NSA
+talk:#wiki summary FBI
+talk:#wiki summary Centers_for_Disease_Control_and_Prevention
+talk:#wiki summary United_States_Special_Operations_Command
+talk:#wiki summary West_Point
+talk:#wiki summary Joint_Improvised-Threat_Defeat_Organization
+talk:#wiki summary Recovery_Accountability_and_Transparency_Board
+talk:#wiki summary National_Center_for_Missing_and_Exploited_Children
+
+
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:09[-223|-424]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian Palantir Technologies is a public American software company that specializes in big data analytics.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Headquartered in Denver, Colorado, it was founded by Peter Thiel, Nathan Gettings, Joe Lonsdale, Stephen Cohen, and Alex Karp in 2003.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The name is derived from The Lord of the Rings magical indestructible balls those wizard guys use to see and hear things.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

@@ -1,0 +1,38 @@
+::BEGIN:LOOK
+p:You can see Saint Petersburg University from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0979/splash
+
+## Red Army Faction
+title: Red Army Faction
+
+wiki:Red_Army_Faction
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0979/background
+coordinates:09[-666.5|-303]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The Red Army Faction was a West German far-left militant organization founded in 1970 that operated under orders from the KGB in Moscow.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The group was motivated by leftist political concerns and the failure of their parents' generation to confront Germany's Nazi past.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The Red Army Faction engaged in bombings, assassinations, kidnappings, robberies, and shoot-outs over the course of three decades.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian Their activity peaked in late 1977, which led to a national crisis that became known as the German Autumn.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian The Red Army Faction then infultrated Hacker Conferences in the United States and other countries to recruit people of various skill.
+::END:TRG5

@@ -1,0 +1,95 @@
+::BEGIN:LOOK
+p:You can see the Museum from here from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0981/splash
+
+## Kalmykia
+
+look[Photo 001]:001
+look[Photo 002]:002
+look[Photo 003]:003
+look[Photo 004]:004
+look[Photo 005]:005
+look[Photo 006]:006
+look[Photo 007]:007
+
+p:Kalmykia, is a republic and country of Russia located directly north of the North Caucasus in Eastern Europe. The republic is part of the Southern Federal District, and borders Dagestan to the south and Stavropol Krai to the southwest; Volgograd Oblast to the northwest and north and Astrakhan Oblast to the north and east; Rostov Oblast to the west and the Caspian Sea to the east. Kalmykia is the only region in Europe where Buddhism is the predominant religion.
+
+wiki[Kalmykia]:Kalmykia
+
+talk:#adv world:thegame 0900/training:card
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0981/background
+coordinates:09[-788|-158]
+::END:MAIN
+
+::BEGIN:001
+img:main/world/0981/001
+link[Google Maps]:https://goo.gl/maps/e6eQgcorNSus5M8ZA
+
+img:main/world/0981/001-1
+link[Google Maps]:https://goo.gl/maps/bDd1qzwh1FuxGc658
+
+img:main/world/0981/001-2
+link[Google Maps]:https://goo.gl/maps/tK5vW2yA3NvoxdoA9
+link[Google Maps]:https://goo.gl/maps/aqNjdBXc35Pak1x57
+::END:001
+
+::BEGIN:002
+img:main/world/0981/002
+link[Google Maps]:https://goo.gl/maps/M2Wv7qsEJ9zvS2uk6
+::END:002
+
+::BEGIN:003
+img:main/world/0981/003
+link[Google Maps]:https://goo.gl/maps/TmekcFPpx4WxX2qc6
+::END:003
+
+::BEGIN:004
+img:main/world/0981/004
+link[Google Maps]:https://goo.gl/maps/BhYc5jpAMSMwFa3t7
+::END:004
+
+::BEGIN:005
+img:main/world/0981/005
+link[Google Maps]:https://goo.gl/maps/LxW6H8xvKYh1598F6
+::END:005
+
+::BEGIN:006
+img:main/world/0981/006
+link[Google Maps]:https://goo.gl/maps/Rn99j9G93JQoC3Yt7
+
+img:main/world/0981/006-1
+link[Google Maps]:https://goo.gl/maps/jhUkoNA6NXr5NQA69
+::END:006
+
+::BEGIN:007
+img:main/world/0981/007
+link[Google Maps]:https://goo.gl/maps/xZvUGiHxvrbVzsTo7
+::END:007
+
+
+
+::BEGIN:TRG1
+talk:#corpus chat:brian The republic is home to the Kalmyks, a people of Mongol origin who are primarily of Buddhist faith.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian Kalmykia is unique in that it has been the home in successive periods to many major world religions and ideologies.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian The Kalmyks were subject to the policies of de-cossackization where villages were destroyed, temples/monasteries were burned down and executions were indiscriminate.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian According to the Kurgan hypothesis, the upland regions of modern-day Kalmykia formed part of the cradle of Indo-European culture.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian With the annexation of the territory by the Russian Empire, Christianity arrived with Slavic settlers, before all religion was suppressed after the Russian Revolution.
+::END:TRG5

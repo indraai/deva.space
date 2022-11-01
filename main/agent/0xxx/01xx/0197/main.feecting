@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0197/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0197/avatar
+name: Jamie Oliver
+vector: 0x0197a
+describe: Young Jamie Oliver works in the Kitchen Store.
+::END:LOOK

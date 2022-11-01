@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see the Farm Coop.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0291/title
+
+## Farm Coop
+
+p:You are in the Farm Coop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-396|-637]
+::END:MAIN

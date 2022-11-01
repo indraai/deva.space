@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.city/nw from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0199/title
+
+## 9W8N Outer Loop
+
+p:You are in 9W8N Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-154|-188]
+::END:MAIN

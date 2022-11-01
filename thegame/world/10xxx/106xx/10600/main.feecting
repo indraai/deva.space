@@ -1,9 +1,0 @@
-::BEGIN:LOOK
-p:You can see You are a Genius from here.
-::END:LOOK
-
-::BEGIN:MAIN
-img:thegame/world/1600/title
-#bgcolor = #ffffff
-#color = #333333
-::END:MAIN

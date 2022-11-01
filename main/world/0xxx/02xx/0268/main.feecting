@@ -1,0 +1,35 @@
+::BEGIN:LOOK
+p:You can see The The Outfitter from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0268/title
+
+## The Outfitter
+
+p:Welcome to the Outfitter. Here you can find wether you need gloves, shoes, shirts, hats, pants, or a jacket.
+
+p:All items are locally made here in Arjika by local citizens.
+
+mud[See Offerings]:list
+
+### Buy Items
+
+p:If you are ready to purchase here are some quick checkout buttons to get you what you need and on your way.
+
+mud[🧤 Gloves]:buy gloves
+mud[👟 Shoes]:buy Shoes
+mud[👕 Shirt]:buy Shirt
+mud[🧢 Hat]:buy hat
+mud[👖 Pants]:buy pants
+mud[🧥 Jacket]:buy jacket
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/0268/background
+coordinates:00[-603|-533.5]
+::END:MAIN
+
+=

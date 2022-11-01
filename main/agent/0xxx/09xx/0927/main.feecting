@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0927/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0927/avatar
+
+## GhostNet
+name:GhostNet
+vector: 0x0927a
+
+talk:#wiki summary GhostNet
+::END:LOOK

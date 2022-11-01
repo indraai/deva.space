@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0941/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0941/avatar
+
+## Hannibal
+
+name:Hannibal
+vector: 0x0941a
+
+link[EOTL - Hannibal]:https://bit.ly/3sdGc08
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

@@ -1,0 +1,42 @@
+::BEGIN:AVATAR
+img:main/agent/0153/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+# Douglas Rushoff
+link:https://rushkoff.com/
+Named one of the “world’s ten most influential intellectuals” by MIT, Douglas Rushkoff is an author and documentarian who studies human autonomy in a digital age. His twenty books include the just-published Team Human, based on his podcast, as well as the bestsellers Present Shock, Throwing Rocks and the Google Bus, Program or Be Programmed, Life Inc, and Media Virus.
+
+talk:#adventure view:thegame:agent 0153/twitter
+talk:#adventure view:thegame:agent 0153/edge
+::END:LOOK
+====
+
+
+::BEGIN:TWITTER
+## Twitter
+talk:#twitter user rushkoff
+
+talk:#twitter timeline rushkoff
+
+::END:TWITTER
+====
+
+::BEGIN:EDGE
+## Edge.org
+link:https://www.edge.org/memberbio/douglas_rushkoff
+
+Winner of the Media Ecology Association’s first Neil Postman award for Career Achievement in Public Intellectual Activity, DOUGLAS RUSHKOFF is an author, teacher, and documentarian who focuses on the ways people, cultures, and institutions create, share, and influence each other’s values. He is Professor of Media Theory and Digital Economics at CUNY/Queens, technology and media commentator for CNN, digital literacy advocate for Codecademy.com and a lecturer on media, technology, culture and economics around the world.
+
+He is the author of several books including Present Shock: When Everything Happens Now; Program or Be Programmed: Ten Commands for a Digital Age; and Life Inc. His most recent book is Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity.
+
+He has written and hosted three award-winning PBS Frontline documentaries: The Merchants of Cool, The Persuaders, Digital Nation. His most documentary is Generation Like, an exploration of teens, marketers, and social media.
+
+His commentaries have aired on CBS Sunday Morning and NPR’s All Things Considered, and have appeared in publications from The New York Times to Time magazine. He wrote the first syndicated column on cyberculture for The New York Times and The Guardian.
+
+Rushkoff has taught regularly for NYU’s Interactive Telecommunications Program, The New School University, the MaybeLogic Academy and the Esalen Institute. He also lectures about media, art, society, and change at conferences and universities around the world.
+
+He has served on the National Advisory Board of the National Association for Media Literacy Education, The Harrington School of Communications and Media at University of Rhode Island, the Board of Directors of the Media Ecology Association, The Center for Cognitive Liberty and Ethics, the United Nations Commission on World Culture, and as a founding member ofTechnorealism. He is on the Advisory Boards of MeetUp.com, Epic Privacy Browser, Loomio.org, Liquid Information, Artizens, and World Wide Workshop. He has been awarded a Fullbright Scholarship, and Senior Fellowships by the Markle Foundation, the Center for Global Communications, and the International University of Japan. He served as an Advisor to the United Nations Commission on World Culture and regularly appears on TV shows from NBC Nightly News and Larry King to the Colbert Report and Bill Maher. He developed the Electronic Oracle software series for HarperCollins Interactive.
+::END:EDGE
+====

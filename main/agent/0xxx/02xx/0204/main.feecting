@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0204/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0204/avatar
+name: Marth Stewart
+vector: 0x0204a
+describe: Martha Stewart works in the Home Store helping people.
+::END:LOOK

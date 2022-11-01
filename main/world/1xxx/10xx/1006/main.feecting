@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Evolution Engine Hall from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1000/title
+
+## Evolution Engine Hall
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-707|-384]
+::END:MAIN

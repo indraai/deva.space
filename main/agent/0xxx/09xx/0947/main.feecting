@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0947/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0947/avatar
+name: The Well
+vector: 0x0947a
+::END:LOOK

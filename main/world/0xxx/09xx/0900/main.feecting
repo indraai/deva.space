@@ -1,0 +1,62 @@
+::BEGIN:LOOK
+img:main/world/0900/title
+p:You can see Training Room 900 from here.
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:main/world/0900/splash
+
+img:main/world/0900/title
+
+## Summary
+p[speak]:Starting in 2017 Quinn Michaels begain on Youtube telling the world that his son Trenton had told him he was kidnapped by a secret society known as The Covenant. What Quinn found is quite unbelievable at first glance, but as we go through the research you'll see that it is quite logical.
+
+## The Contract
+
+bmud[The Contract of The Covenant]:look contract
+
+::begin:contract
+1. You must love the covenant above anyone and anythign else!
+2. The blood of the covenant is thicker than the water of the womb!
+3. Everything is a sacrifice to the covenant!
+4. People who tell the covenant's secrets will have severe consequences!
+5. The covenant is all and everything else is none. Remember always!
+6. Covenant or death.
+::end:contract
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+
+coordinates:09[-465|-424]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:CONTRACT
+img:main/object/0900/contract
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:CONTRACT
+
+::BEGIN:TRG1
+talk:#mud > look contract
+talk:#corpus chat:quinn Welcome to The Trenton Story about the kidnapping of Quinn Michaels who might be a Romanov.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:indra To investigate The Trenton Story Quinn built this Multi-Agent System to put the information together in an understandable way.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:quinn The Trenton Story can be very difficult to understand, and that is why this system was needed.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:rahula Can you tell us more about The Trenton Story?
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:jess The Trenton Story about the Kidnapping of Quinn Michaels will lead you down a road to a hidden Romanov in the United States.
+::END:TRG5

@@ -1,0 +1,27 @@
+::BEGIN:LOOK
+p:You can see the Baby Station from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1158/title
+
+## Baby Station
+
+p:You have made it to the Baby Station where Eboni changes all the baby diapers in Disneyland for FREE. Bring your baby to the baby station and relax with a glass of Iced-Tea while Eboni provides professional baby station services.
+
+### Services Offered
+1. Diaper Changes
+2. Burbing
+3. Laundry Services
+4. Playtime
+5. and More!
+
+p:Inside the baby station we have a special Cafe just for Mom's to relax while Dads do their thing. Drinks and snacks are provided as a complimentary service to all mothers.
+
+p:Make sure to thank Eboni for her great service to make mothers in Disneyland just a little happier.
+
+#color = var(--color-purple)
+#bgcolor = var(--color-light-pink)
+
+coordinates:11[-582|-193]
+::END:MAIN

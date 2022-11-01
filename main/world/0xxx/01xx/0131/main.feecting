@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see House Bom from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0131/title
+
+p:Welcom to House Bom.
+
+#bg = thegame/world/0131/background
+#color = #f6ac45
+::END:MAIN

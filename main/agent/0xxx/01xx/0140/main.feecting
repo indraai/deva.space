@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0140/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0140/avatar
+
+## SecurityDEVA D140 (Guard)
+
+name: SecurityDEVA D140 (Guard)
+vector: 0x0140a
+describe: SecurityDEVA D140 is here to Guard Arjika.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+::END:LOOK

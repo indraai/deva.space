@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0156/avatar
+::END:AVATAR
+====
+
+::BEGIN:LOOK
+img:main/agent/0156/avatar
+name:O Indra Fighter
+vector:0x_0156a
+describe:The O Indra Fighter is an elite class that directly ensure Vamraka and Indu protection/security.
+::END:LOOK
+====

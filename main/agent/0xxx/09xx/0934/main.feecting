@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0934/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0934/avatar
+
+## Cyberman 934
+
+name: Cyberman 934
+vector: 0x0934a
+
+link[The Beyond]:https://bit.ly/3Lagd0a
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

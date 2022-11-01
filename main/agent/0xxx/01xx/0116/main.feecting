@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0116/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0116/avatar
+name: Brains
+vector: 0x116a
+describe: The Brains of the Fight Club.
+::END:LOOK

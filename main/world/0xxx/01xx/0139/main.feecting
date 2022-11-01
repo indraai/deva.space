@@ -1,0 +1,26 @@
+::BEGIN:LOOK
+p:You can see the Southern Lookout from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0096/title
+
+## Security Tower (S)
+
+p:You are above the Southern Gate inside the Security Lookout.
+
+p:SecurityDEVA D181 (Lookout) is here to make sure all threats both internal and external are identified and reported immediately.
+
+p:look[north] is the War Room.
+p:look[northwest] is the Western Lookout.
+p:look[northeast] is the Eastern Lookout.
+p:look[down] is the Western Gate.
+
+p:There is also a security board here to read the latest bulletins.
+bmud[Read Security Bulletins]:read security
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+coordinates:00[-464.5|-983]
+::END:MAIN

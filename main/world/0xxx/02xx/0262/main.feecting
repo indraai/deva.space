@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+You can see indra.city/sw from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0262/title
+p:You are in indra.city/sw.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-154|-499]
+::END:MAIN
+
+=

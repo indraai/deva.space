@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0217/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0217/avatar
+name: Martin
+vector: 0x0217a
+describe: Martin the bookstore clerk.
+::END:LOOK

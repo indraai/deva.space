@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0403/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0403/avatar
+
+## Mr. Dewity
+
+name: Mr. Dewity
+vector: 0x0318a
+descibe: Mr. Dewity is in prison for the kidnapping of Quinn Michaels.
+::END:LOOK

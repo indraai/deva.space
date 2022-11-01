@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0950/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Stanford Linear Accelerator Complex
+name: Stanford Linear Accelerator Complex (SLAC)
+vector: 0x0950o
+describe: The Stanford Linear Accelerator Complex at Stanford University in California.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+pdf:https://www.slac.stanford.edu/vault/collvault/publicaffairs/IHoS_1967_1968.pdf
+::END:TEXT
+====

@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0967/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Russian Botnet Training
+name: Russian Botnet Training
+vector: 0x0967o
+describe: Russian Botnet Training.
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Russian Botnet Training
+::END:TEXT

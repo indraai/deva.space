@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0910/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0910/avatar
+
+## PM2020
+
+name:PM2020
+vector: 0x0910a
+::END:LOOK

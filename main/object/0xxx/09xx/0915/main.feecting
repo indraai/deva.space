@@ -1,0 +1,76 @@
+::BEGIN:AVATAR
+img:main/object/0915/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## FBI Training
+name: FBI Training
+vector: 0x0915o
+describe:The FBI Training.
+
+p:text test
+
+bmud[Harold Report]:look text
+
+::END:LOOK
+
+::BEGIN:TEXT
+
+## Harold
+
+::begin:buttons
+button[Reload Doc]:#docs view harold/main
+::end:buttons
+
+talk:#youtube video 4roD-dbwTsw
+
+-
+
+### Links
+
+cmd[Trenton Story Part 1]:#youtube video yUCpT-QuaYk
+cmd[Trenton Story Part 2]:#youtube video vlgmzQlnvL4
+
+p:Above are links to the two Trenton interviews that were filmed by Quinn Michaels in July 2016 where Trenton describes meeting Harold Atkin.
+
+----
+
+link[Cigarbob Harassment Video]:https://youtu.be/13nApOR0QZ8
+
+p:In this video you can clearly see Neil Atkin harass another male person and then point at the camera to ensure the recording happened.
+
+-
+
+### Audio File
+
+p:Below is the audio recording between Kennedy Cox and Harold Atkin. The file is 21m 46s long, and presents usage and personality data on Kennedy Cox and Harold Atkin for analysis.
+
+::begin:harold
+audio:https://cdn.discordapp.com/attachments/1025634540716298274/1025720393564180551/HA_Call_5-31-2019_personal_information_edit.mp3
+::end:harold
+
+-
+
+## Corpus
+
+cmd:#gate quinn Hello. We are listening to an audio recording between _#KennedyCox and _#HaroldAtkin. _#Kennedy called _#Harold at the request of _#QuinnMichaels https://bit.ly/3y3Sk6z.
+
+cmd:#gate garuda In the phone call _#Kennedy clearly speaks to medical care while _#Harold speaks about the _#Romanov _#Kidnapping as he interrogates her.
+
+cmd:#gate jess Did anyone else notice how many times _#Harold accused _#Kennedy of not being a real person.
+
+cmd:#gate rahula How many times did _#Harold deny being a _#Spy who _#Kidnapped a _#Romanov without being asked about it specifically? How many is too many?
+
+cmd:#gate harry Did _#Harold realize that saying these things without _#QuinnMichaels knowledge is _#Slander. How many other people has he said this to?
+
+cmd:#gate larry That is _#True _#QuinnMichaels accusations are made publicly where _#Harold knows and can come defend himself.
+
+cmd:#gate francis _#Harold obviously knows about the accustaions _#Quinn has made, but yet says nothing. Then makes accusations behind _#Quinn back.
+
+cmd:#gate barry _#HaroldAtkin I listened to him talking. I think _#HaroldAtkin is a _#BigFatLiar full of _#poopies 💩💩💩.
+
+cmd:#
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:TEXT

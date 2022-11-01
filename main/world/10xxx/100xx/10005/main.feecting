@@ -1,0 +1,34 @@
+0x012-5
+::BEGIN:LOOK
+p:You can see the ledge from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## On The Ledge
+
+p:Your whole body is racked with pain as you crash onto the ledge. You're shaken and bruised but still alive! A snowbank cushioned your fall.
+
+p:"HELP!" you cry.
+
+img:main/world/10005/ledge
+
+p:"Hold on!" Larsen yells. "It's going to be tricky, but we're rigging our ropes. We'll get you up."
+
+p:You feel a flash of joy; then you remember something that chills you to the bone.
+
+p:You were very careful not to fall in. You're quite sure you didn't slip; you were pulled as if by an unknown force within the Bottomless Crevasse.
+
+p:Should you warn your friends about the strange force?
+
+p:If you do, they may be afraid to get close enough to rescue you.
+
+mud[Warn Larsen and Sneed...]:n
+mud[Yell Please Hurry!...]:s
+
+talk:#adv hash add 5
+
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

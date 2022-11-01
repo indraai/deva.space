@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/10044/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/10044/avatar
+name:Tanga Fruit
+vector:0x1044o
+describe:Tanga is a small pink fruit that looks something like cheese but tastes like honey.
+::END:LOOK

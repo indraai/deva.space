@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0924/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0924/avatar
+## RapLeaf
+name: RapLeaf
+vector: 0x0924o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:RapLeaf Training
+::END:TEXT

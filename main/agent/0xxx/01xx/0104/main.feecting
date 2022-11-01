@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0104/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0104/avatar
+name:Cartoon Builder Jr.
+vector:0x_0104a
+describe:She is clothed in a super sweet Cartoon Builder getup. Something tells you that she tours more houses than her dad Cartoon Builder. She is easily one of the more intelligent woman in the city.
+::END:LOOK

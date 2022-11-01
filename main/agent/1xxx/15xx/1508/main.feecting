@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1508/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1508/avatar
+name: Tinkerbell - Fantasyland
+vector: 0x1508a
+::END:LOOK

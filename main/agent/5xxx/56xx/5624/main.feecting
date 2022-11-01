@@ -1,0 +1,22 @@
+::BEGIN:AVATAR
+img:main/agent/5624/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/5624/avatar
+## Kumara Deva
+name: Kumara Deva
+vector: 0x5624a
+
+p: To Indra, king of the gods, Fire betakes himself, tells his story, and begs to be relieved of his burden. Indra advises him to deposit it in the Ganges. Fire therefore travels to the Ganges, leaves Shiva's seed in the river, and departs much relieved. But now it is the turn of Ganges to be distressed, until at dawn the six Pleiades come to bathe in the river. They find Shiva's seed and lay it in a nest of reeds, where it becomes a child, Kumara, the future god of war.
+
+p:Ganges suckles the beautiful infant. But there arises a dispute for the possession of the child between Fire, Ganges, and the Pleiades. At this point Shiva and Parvati arrive, and Parvati, wondering at the beauty of the infant and at the strange quarrel, asks Shiva to whom the child belongs. When Shiva tells her that Kumara is their own child, her joy is unbounded.
+
+p:Shiva conducts Parvati and the boy back to Mount Kailasa, where gods and fairies welcome them with music and dancing. Here the divine child spends the days of a happy infancy, not very different from human infancy; for he learns to walk, gets dirty in the courtyard, laughs a good deal, pulls the scanty hair of an old servant, and learns to count: "One, nine, two, ten, five, seven." These evidences of healthy development cause Shiva and Parvati the most exquisite joy.
+
+p:Indra, with the other gods, waits upon Shiva, to ask that Kumara, now a youth, may be lent to them as their leader in the campaign against Taraka. The gods are graciously received by Shiva, who asks their errand. Indra prefers their request, where- upon Shiva bids his son assume command of the gods, and slay Taraka. Great is the joy of Kumara himself, of his mother Parvati, and of Indra.
+
+p:Kumara takes an affectionate farewell of his parents, and sets out with the gods. When they come to Indra's paradise, the gods are afraid to enter, lest they find their enemy there. There is an amusing scene in which each courteously invites the others to precede him, until Kumara ends their embarrassment by leading the way. Here for the first time Kumara sees with deep respect the heavenly Ganges, Indra's garden and palace, and the heavenly city. But he becomes red- eyed with anger on beholding the devastation wrought by Taraka.
+
+button[Kumara Story]:#web get https://www.sacred-texts.com/hin/sha/sha16.htm
+::END:LOOK

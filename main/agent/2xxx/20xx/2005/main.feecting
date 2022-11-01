@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/2005/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/2005/avatar
+name: Mr. Bunny
+vector: 0x2005a
+::END:LOOK

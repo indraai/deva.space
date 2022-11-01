@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0125/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0125/avatar
+name: Medic A125
+vector: 0x0125a
+describe: Medic A125 is here providing medical care.
+::END:LOOK

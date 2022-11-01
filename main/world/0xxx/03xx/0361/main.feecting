@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Medical (SE) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0361/title
+
+## Medical (SE)
+
+p:You are in Medical (SE).
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-776|-810]
+::END:MAIN

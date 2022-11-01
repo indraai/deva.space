@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0004/avatar
+::END:AVATAR
+====
+::BEGIN:LOOK
+img:main/agent/0004/avatar
+name: Bom
+vector:0x_0004a
+describe: Bom is here.
+::END:LOOK
+====

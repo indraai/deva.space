@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0334/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0334/avatar
+## CYPHER-1 TERMINAL
+name: CYPHER-1 TERMINAL
+vector: 0x0334o
+describe: CYPHER-1 TERMINAL is used by cypher specialists to do their job.
+look[Terminal]:terminal
+::END:LOOK
+
+::BEGIN:TERMINAL
+p:Arjika CYPHER-1 Terminal
+::END:TERMINAL

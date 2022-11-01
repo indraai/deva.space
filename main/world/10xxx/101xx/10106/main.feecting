@@ -1,0 +1,33 @@
+0x012-3610-1116-194039-4244-5053-58-666768-70-1041057678-8183-8587106
+
+::BEGIN:LOOK
+p:You can see the mountain peak from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Mountain Peak
+
+p:It's an avalanche all right, but the boulders are rolling up the mountain! Panicked, you run toward Katu. The boulders are coming right at you. At near zero gravity they're being pulled toward the Black Sun.
+
+p:"You've got to run down!" Dr. Vivaldi shouts.
+
+p:But the boulders have cut off your escape. The only thing you can do is run up the mountain, trying to keep out of their path.
+
+p:You're running higher and faster, leaping fifty feet at a time.
+
+p:Ahead of you, Katu flies off the mountain. Before you can stop yourself your feet lose touch with the ground, and you're in the air, being swept higher and higher, straight toward the Black Sun!
+
+img:main/world/10106/universe
+
+p:You've read that a black hole might somehow be an entrance to another universe.
+
+p:If only that were possible!
+
+p:It's your only chance once you reach the Black Sun. A chance in a million maybe, but still a chance . . .
+
+talk:#adv hash add 106
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see The Emporium from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0281/title
+
+## The Emporium
+
+p:You are in The Emporium.
+#bgcolor = #ffffff
+#color = #333333
+coordinates:00[-603|-568]
+::END:MAIN

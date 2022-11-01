@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see Book 6
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0016/title
+
+talk:#veda book 6
+
+#color = #eeeeee
+#bg = thegame/world/0016/background
+coordinates:00[-287|-211]
+::END:MAIN
+
+=

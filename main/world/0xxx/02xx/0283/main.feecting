@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see 9E3S Outer Loop from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0283/title
+
+## 9E3S Outer Loop
+
+p:You are in 9E3S Outer Loop.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-776|-568]
+::END:MAIN

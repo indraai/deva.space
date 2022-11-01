@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/1001/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img: thegame/agent/1001/avatar
+
+# EvEA1001
+
+name: Evolution Engine Agent A1001
+vector: 0x1001a
+describe: EvEA1001 is the premium Evolution Engine Agent.
+::END:LOOK

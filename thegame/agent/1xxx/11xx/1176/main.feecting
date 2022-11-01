@@ -1,9 +1,0 @@
-::BEGIN:AVATAR
-img:thegame/agent/1176/avatar
-::END:AVATAR
-
-::BEGIN:LOOK
-img:thegame/agent/1176/avatar
-name:Orange Neutrino
-vector: 0x1176a
-::END:LOOK

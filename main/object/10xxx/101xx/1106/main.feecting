@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/1106/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/1106/token
+name:0x1106 Token
+vector:0x1106
+describe:The 0x1106 Token that get's you into Arjika.
+::END:LOOK

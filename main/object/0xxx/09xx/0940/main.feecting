@@ -1,0 +1,18 @@
+::BEGIN:AVATAR
+img:main/object/0940/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Cypherpunk Manifesto
+name: Cypherpunk Manifesto
+vector: 0x0940o
+describe: Cypherpunk Manifesto training program.
+
+::END:LOOK
+
+::BEGIN:TEXT
+img:main/object/0940/manifesto
+
+cmd[SOURCE]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+::END:TEXT
+====

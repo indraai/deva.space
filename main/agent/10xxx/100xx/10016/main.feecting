@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/10016/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/10016/avatar
+## Angel Bird
+name:Angel Bird
+vector:0x10016a
+describe:The Angel Bird of the Underground Kingdom.
+::END:LOOK

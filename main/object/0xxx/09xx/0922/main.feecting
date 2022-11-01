@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0922/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0922/avatar
+## Tabitha Training
+name: Tabitha Training
+vector: 0x0922o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Tabitha Training
+::END:TEXT

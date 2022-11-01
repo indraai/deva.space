@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/object/0916/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Robert David Steele Training
+name: Robert David Steele Training
+vector: 0x0916o
+::END:LOOK

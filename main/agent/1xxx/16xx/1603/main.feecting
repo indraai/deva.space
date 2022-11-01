@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1603/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1603/avatar
+name:Information 1603
+vector: 0x1603a
+::END:LOOK

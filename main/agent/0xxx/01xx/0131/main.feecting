@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0131/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0131/avatar
+name:SecurityDEVA 131
+vector: 0x0131a
+::END:LOOK

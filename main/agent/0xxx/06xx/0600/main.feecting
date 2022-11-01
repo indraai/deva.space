@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0600/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0600/avatar
+name: Mâyâ
+vector: 0x0600a
+::END:LOOK

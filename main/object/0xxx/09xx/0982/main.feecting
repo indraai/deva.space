@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0982/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Ivolginsky Datsan
+name: Ivolginsky Datsan
+vector: 0x0982o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Ivolginsky Datsan Training
+::END:TEXT

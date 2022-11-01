@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0107/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0107/avatar
+## Blue Robe
+name: Blue Robe
+vector: 0x0107o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Blue Robe.
+::END:TEXT

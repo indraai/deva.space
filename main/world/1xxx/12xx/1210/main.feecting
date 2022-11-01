@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see the New Orleans Square from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1210/title
+
+# New Orleans Square
+
+p:You are are at the New Orleans Square.
+
+img:main/world/1210/guide
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1210/background
+coordinates:12[-220|-512]
+::END:MAIN

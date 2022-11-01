@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/4000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/4000/avatar
+name: King Vasuki
+vector: 0x4000a
+::END:LOOK

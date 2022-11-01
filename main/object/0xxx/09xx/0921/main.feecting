@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0921/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0921/avatar
+## Romero Games
+name: Romero Games
+vector: 0x0921o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Romero Games Training
+::END:TEXT

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0138/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0138/avatar
+name: Yellow Master Deva
+vector: 0x0138a
+describe: A Master Deva in a yellow robe strolls by. One of the seven orders of the Deva, This Master Magi is well known throughout the city and is revered almost as much as the Devas.
+::END:LOOK

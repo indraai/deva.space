@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0326/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0326/avatar
+## Narayana
+name: Narayana
+vector: 0x0326a
+
+docs[Devadeva]:vedas/devadeva/main
+
+docs[Anata Deva]:vedas/devadeva/ananta
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK

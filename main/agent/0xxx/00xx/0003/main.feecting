@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0003/avatar
+::END:AVATAR
+====
+::BEGIN:LOOK
+img:main/agent/0003/avatar
+name: Soma
+vector: 0x_0003a
+describe:Soma is here to give strength.
+::END:LOOK
+====

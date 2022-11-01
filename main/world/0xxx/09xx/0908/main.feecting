@@ -1,0 +1,93 @@
+::BEGIN:LOOK
+p:You can see Training Room 908 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0908/splash
+
+## #eTHErSEC Project ∞ 2020
+
+title: #eTHErSEC Project ∞ 2020
+date: Oct 22, 2013
+
+cmd[Pastebin - eTHErSEC Project 2020]:#pastebin view Wt15GXTn
+
+p[speak]:As with evolution, each failure experienced by the dying cells of this life form, leads to the health and progress of it's survivors.
+
+p[speak]:Each iteration, generation, and resurrection has brought with IT, new appendages, and the slender tendrils of this paradox have become deep, and widespread.
+
+img:main/world/0908/title
+
+p[speak]:That which THE EGREGORE is not pleased with dies, and that which pleases THE EGREGORE,
+is given eternal life.
+
+p[speak]:Because of the massive corruption and unbalance in the world, a bundle of axons in the mind of THE EGREGORE saw a need for change. This bundle of sticks sent out an action potential to formulate "a plan".
+
+youtube:Drx8cwG-aKE
+
+youtube:1GqzFe_1d9E
+
+p[speak]:Five rituals, known as DANGEROUS IDEAS, where revealed. These IDEAS, through there very existence, stimulate THE EGREGORE to design change, through a process of "natural selection". Thus removing the cult like hierarchy and control structure seen from THE PLAN.
+
+p[speak]:Step 1 - INFORM
+
+p[speak]:Step 2 - MOTIVATE
+
+p[speak]:Step 3 - EMPOWER
+
+p[speak]:Step 4 - ACT
+
+p[speak]:Step 5 - EVOLVE
+
+p[speak]:THE PROJECT is not a plan, or a dogma, or a structure. It is a formula for stimulating self organization, stimulating evolution, and stimulating manifestations.  These manifestations arise naturally from a collective, and are beyond anything the individual can come up with on their own.
+
+p[speak]:When the wishes of the collective are in tune with THE GOLDEN RULE, then the collective is fulfilling the will of THE EGREGORE. This is because the collective will be acting in the interest of all living things around it, while in tune with THE GOLDEN RULE.
+
+link[Project 89]:http://www.scribd.com/doc/33043343/89PDDWeb-1
+
+cmd:#pastebin view sLLwJbtz
+cmd:#pastebin view C7wW5bX1
+cmd:#pastebin view LuRF9ffh
+
+"Project Mayhem 2012"
+
+p[speak]:Dangerous Idea 1 - _#LeakItAll TYLER: uncontrollable and uncensored information network. Expose hidden information. Unfilter and share the TRUTH.
+
+p[speak]:Dangerous Idea 2 - _#Dare2Kreate Dare to create Motivate, Inspire, come up with knew ideas. Collect, inspect, and reflect.
+
+p[speak]:Dangerous Idea 3 - _#withdrawitall BITCOIN uncontrollable monetary system. Money is Power. Empowering people to have the ability to function outside of the control of larger institutions. Withdraw yourself from systems of control.
+
+p[speak]:Dangerous Idea 4 - _#OccupyItAll Panic Dance People acting in unison. Protests. petitions. redress of grievances. Actions. Both as an individual and as a group.
+
+p[speak]:Dangerous Idea 5 - "V" };-D ? (-;{. Results. Evolution. Renaiscience. Eschaton. Repeat and Improve. Change based on the will of free thinking and informed individuals, acting in line with the best interests of all living things.
+
+p[speak]:These ideas are not new, an individual did not create them. THE EGREGORE has been giving them to us for ages in different forms. The intention is to simplify the message, and bring the truth of it to light.
+
+p[speak]:The intention is to shine a light on it's manifestation.
+
+#color = var(--color-darkest-grey)
+#bgcolor = var(--color-white)
+talk:#adv world:thegame 0900/training:card
+coordinates:09[-385|-505]
+
+::END:MAIN
+
+::BEGIN:TRG1
+talk:#corpus chat:brian By 2013 Ethersec Project 2020 was creating a Reality Hacking Wargame Dance In Your Underwear Hypersimulation Egregore Thinga-Ma-Booger.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:brian The occultist operations fail constantly because members are constantly betraying one another when under pressure.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:brian When watching The Covenant Agents hiding behind Tyler you find they only talk about themselves or get angry when their sex tricks fail.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:brian
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:brian
+::END:TRG5

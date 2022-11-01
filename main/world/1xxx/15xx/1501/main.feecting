@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see Fantasyland from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1500/title
+
+## Fantasyland
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = thegame/world/1500/background
+coordinates:15[-404|-753]
+::END:MAIN

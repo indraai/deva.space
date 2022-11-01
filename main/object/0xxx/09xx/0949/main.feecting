@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/object/0949/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Spoonkids Training
+name: Spoonkids Training
+vector: 0x0949o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Spoonkids Training
+::END:TEXT

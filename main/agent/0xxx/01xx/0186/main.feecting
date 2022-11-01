@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0186/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0186/avatar
+name: Medic
+vector: 0x0186a
+describe: Medic A186 provides medical care.
+::END:LOOK

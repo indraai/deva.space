@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0215/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0215/avatar
+name:Arjika Security Officer
+vector:0x_0215a
+title:Security Officer
+assign:Guard the Houses
+::END:LOOK

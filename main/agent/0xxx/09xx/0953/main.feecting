@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0953/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0953/avatar
+name: MaxieSpoon
+vector: 0x0953a
+::END:LOOK

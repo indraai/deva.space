@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.farm/herbs
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0241/title
+
+## Farm Herbs
+
+cmd[Praise of Herbs]:#veda view 10097
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-326]
+::END:MAIN

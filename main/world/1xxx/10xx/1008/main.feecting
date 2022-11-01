@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Evolution Engine Lobby from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1008/title
+
+# Evolution Engine Lobby
+
+p:You have found your way into the Evolution Engine Lobby where the coolest Evolution Engine Agents hang out, and show their stuff.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:10[-707|-182]
+::END:MAIN

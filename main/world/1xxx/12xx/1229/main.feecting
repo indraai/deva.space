@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Le Gourmet from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1209/title
+
+# Le Gourmet
+
+p:You are are at the Le Gourmet.
+
+#bgcolor = #ffffff
+#color = #333333
+#bg = thegame/world/1209/background
+coordinates:12[-278|-581]
+::END:MAIN

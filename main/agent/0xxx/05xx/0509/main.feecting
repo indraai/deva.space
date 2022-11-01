@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0509/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0509/avatar
+
+## Eddie Nash
+
+name: Eddie Nash
+vector: 0x0509a
+describe: The famous drug dealer and owner of The Odyssey Eddie Nash.
+
+::END:LOOK

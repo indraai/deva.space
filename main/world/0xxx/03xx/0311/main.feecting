@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see 9S3W Outer Loop from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0311/title
+
+## 9S3W Outer Loop
+
+p:You are in 9S3W Outer Loop.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-362|-776]
+::END:MAIN
+
+=

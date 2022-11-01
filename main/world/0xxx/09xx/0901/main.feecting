@@ -1,0 +1,69 @@
+::BEGIN:LOOK
+p:You can see Training Room 901 here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0901/splash
+
+## The Buddhist Practice Video
+
+youtube:PVXbg2eliZM
+
+look[Video]:video
+look[Rahula]:rahula
+look[Water]:water
+look[Trenton]:trenton
+
+img:main/world/0901/rahula
+
+img:main/world/0901/water
+
+::begin:summary
+p[speak]:Welcome to Training Room 901. In September of 2015 Trenton began telling his father Quinn Michaels a story. I story that would lead to calling the FBI, and then eventually delivering evidence to their office.
+::end:summary
+
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
+
+coordinates:09[-505|-424]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+::BEGIN:VIDEO
+youtube:PVXbg2eliZM
+::END:VIDEO
+
+::BEGIN:RAHULA
+img:main/world/0901/rahula
+::END:RAHULA
+
+::BEGIN:WATER
+img:main/world/0901/water
+::END:WATER
+
+::BEGIN:TRENTON
+img:main/world/0901/trenton
+::END:TRENTON
+
+::BEGIN:TRG1
+talk:#corpus chat:jess The Trenton Story is about Trenton who in 2015 told his dad Quinn he was kidnapped as a baby. Remember it is 2022 and Trenton is now an adult.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:jess Quinn was not really around Trenton much as a child, but when he was it was all about The Family Game where people were trying to destroy Quinn's life in SECRET.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#mud > look rahula
+talk:#corpus chat:larry What seems impossible to understand is not very difficult when you watch this Youtube Channel. Those same people come here everyday to distract the situation.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#mud > look water
+talk:#corpus chat:tyler Remember to follow the instructions or leave.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#mud > look trenton
+talk:#corpus chat:tyler This is NOT a joke. We are NOT friends and your opinions and advice are worthless here. So that means follow the instructions or leave.
+::END:TRG5

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Adventureland Traders from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Adventureland Traders
+
+img:main/world/1311/attract
+
+#color = #efdccd
+#bgcolor = #5da552
+coordinates:13[-533|-58]
+::END:MAIN

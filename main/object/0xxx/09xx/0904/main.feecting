@@ -1,0 +1,22 @@
+::BEGIN:AVATAR
+img:main/object/0904/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+name: ProjecT mayhEM 2013 - reVelations 1-5
+date: Jan 1, 2013
+vector: 0x0904o
+
+link[Pastebin - ProjecT mayhEM 2013]:https://bit.ly/39GszNa
+
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT904
+title: ProjecT mayhEM 2013 - reVelations 1-5
+date: Jan 1, 2013
+::begin:pastebin
+talk:#pastebin view scNXFWRP
+::end:pastebin
+::END:TEXT904
+====

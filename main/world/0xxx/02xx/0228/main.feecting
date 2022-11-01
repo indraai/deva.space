@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.farm/cheese
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0228/title
+
+## Farm Cheese
+
+p:You are at the farm cheese factory where all the best cheese is made.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816|-361]
+::END:MAIN

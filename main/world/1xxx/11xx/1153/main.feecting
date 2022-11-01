@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see the Information Center from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Information Center
+p:You are are at the Information Center.
+
+img:main/world/1100/dir
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-505|-153]
+::END:MAIN

@@ -1,0 +1,33 @@
+::BEGIN:AVATAR
+img:main/object/0305/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0305/avatar
+name:Svasti
+vector:0x_0305o
+describe:...
+
+::begin:hymn
+talk:#adv object:thegame 0305/main:svasti
+::end:hymn
+::END:LOOK
+
+::BEGIN:SVASTI
+p:MAY they who would assume kinship from far away, Vivasvān's generations.
+
+p:For worthy of obeisance are all your names, worthy of adoration and offerings.
+
+p:Ye who were born from waters do ye here listen to my call. Looking on men they by their toils attained as Gods to lofty immortality.
+
+p:Borne on refulgent cars in the height of Heaven. Great Kings who bless us, who have come to offerings have set their mansion in the sky. These I invite with adoration and with hymns for happiness. Who offereth to you the laud that ye accept many as ye are?
+
+p:Wise Deities, who have dominion over the world, ye thinkers over all that moves and that moves not.
+
+p:The well-oared heavenly Ship that lets no waters in, free from defect, will we ascend for happiness. That conquering Car, O Indra, that sets forth at dawn, that never breaks, may we ascend for happiness.
+
+p:The noblest Svasti with abundant riches, who comes to what is good by distant pathway
+
+p:Men are made rich by those who are Immortal.
+::END:SVASTI
+====

@@ -1,0 +1,18 @@
+::BEGIN:AVATAR
+img:main/agent/0917/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0917/avatar
+
+## PM2012 917
+
+name:PM2012 917
+
+vector: 0x0917a
+
+cmd:#pastebin view sLLwJbtz
+
+#bgcolor = var(--color-black)
+#color = var(--color-white)
+::END:LOOK

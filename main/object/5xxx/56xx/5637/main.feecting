@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/5637/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/5637/avatar
+## Flux Capicitor
+name: Flux Capicitor
+vector: 0x5637o
+look[Information]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The amazing device that opens the time travel gateways.
+::END:TEXT

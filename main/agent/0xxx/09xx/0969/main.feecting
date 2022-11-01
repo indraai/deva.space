@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0969/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0969/avatar
+
+## Yuri Andropov
+
+name:Yuri Andropov
+vector: 0x0969a
+
+talk:#wiki summary Yuri_Andropov
+
+talk:#wiki summary KGB
+::END:LOOK

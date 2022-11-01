@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0177/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0177/avatar
+
+## Military Householder
+
+name: Military Householder
+vector: 0x0177a
+describe: Military Householder of Arjika.
+::END:LOOK

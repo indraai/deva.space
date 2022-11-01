@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:The CYPHER-4 Center is here to provide protection, security, and assistance for your highest level Threats.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## CYPHER-4
+
+title: CYPHER-4
+room: 297
+vector: 0x_0297r
+opsec: L4
+describe: CYPHER-4 handles the most serious of threats. The HIGHEST sensitivity of CYPHER Issues are handled in this center. Threats ranging from corrupt organizations, spies, moles, intrustions, breaches, backdoors, malware, and trojans some of the specialties of CYPHER-4.
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-822.5|-637]
+::END:MAIN

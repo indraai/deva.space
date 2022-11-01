@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0126/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0126/avatar
+## Purple Robe
+name: Purple Robe
+vector: 0x0126o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Purple Robe.
+::END:TEXT

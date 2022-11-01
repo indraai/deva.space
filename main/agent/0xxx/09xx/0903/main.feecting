@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0903/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0903/avatar
+## PM2012 903
+
+name:PM2012 903
+vector: 0x0903a
+
+button[View - Project Mayhem 2012]:#pastebin view VQPzpAUL
+
+::END:LOOK

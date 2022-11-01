@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see indra.church/b5
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0015/title
+
+talk:#veda book 5
+
+#color = #eeeeee
+#bg = thegame/world/0015/background
+coordinates:00[-287|-245]
+::END:MAIN
+
+=

@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0297/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0297/avatar
+
+## CYPHER-4 Agent
+
+name: CYPHER-4 Agent
+vector: 0x0297a
+describe: CYPHER-4 is a specialist at handling L4 Cypher issues.
+::END:LOOK

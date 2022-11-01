@@ -1,0 +1,31 @@
+::BEGIN:LOOK
+p:You can see the weightless peaks from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Weightless Peaks
+
+p:A few tides later you and Dr. Vivaldi set out for the Weightless Peaks. With you is a young Archpod named Katu, chosen because she speaks your language.
+
+p:On the trek from the Archpod village to the Weightless Peaks, Katu tells you the legend of the Archpods who traveled through a shaft that led to a new universe. Few Archpods believed there could be such a place. Most of them thought that the earth was infinitely thick, that nothing could lie beyond it.
+
+img:main/world/10085/peaks
+
+p:"Now that human beings have arrived, we know that there is a whole new world right under our feet. We call your world the Nether World," she says. "We are curious about it. But we are also afraid of it, and of its creatures who could destroy us."
+
+p:"Sometimes we human beings are afraid of ourselves," you reply.
+
+p:After hiking for fourteen tides, you begin to climb—first gentle hills, then steep mountains.
+
+p:You tire under the weight of your pack, but Dr. Vivaldi urges you on. "It will soon be easier," she says. And she is proven correct, for as you struggle up the next steep hill, you feel your pack growing lighter, and you feel lighter too.
+
+p:Ahead of you, Katu is bounding up the higher peaks like a mountain gazelle.
+
+mud[Continue...]:e
+
+talk:#adv hash add 85
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

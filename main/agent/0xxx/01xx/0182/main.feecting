@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0182/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0182/avatar
+name: Al Bundy
+vector: 0x0182a
+describe: Shoe Salesman
+::END:LOOK

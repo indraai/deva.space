@@ -1,0 +1,26 @@
+0x012-5-912
+0x012-36-1512
+::BEGIN:LOOK
+p:You can see along the ledge.
+::END:LOOK
+
+::BEGIN:MAIN
+## Along The Ledge
+
+p:You look along the ledge. It curves up toward the surface, but it also becomes narrower.
+
+p:You try to gauge how close to the surface you could get without losing your footing.
+
+img:main/world/10012/cliff
+
+p:By cutting a couple of handholds in the ice with your pocket knife, you could make it to the top, if you don't lose your grip.
+
+mud[You try to make it...]:n
+mud[You decide to wait...]:s
+
+talk:#adv hash add 12
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

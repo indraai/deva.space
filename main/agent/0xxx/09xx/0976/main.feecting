@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0976/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0976/avatar
+## Cassio 076
+name:Cassio Pennachin
+vector:0x0976a
+link:https://bit.ly/3NnFOEg
+
+::END:LOOK

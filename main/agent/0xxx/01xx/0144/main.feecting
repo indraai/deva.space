@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0144/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0144/avatar
+## Agent Householder
+name: Agent Householder
+vector: 0x0144a
+describe: The Agent Householder of Arjika.
+::END:LOOK

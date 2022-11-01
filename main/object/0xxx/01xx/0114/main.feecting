@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/object/0114/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0114/avatar
+## Pretzel
+name: Pretzel
+vector: 0x0114o
+describe: A tasty soft pretzel
+::END:LOOK

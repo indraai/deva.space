@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/object/0310/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0310/avatar
+name: Courtyard Bench
+vector:0x_0310o
+describe: Courtyard Bench is where you can rest and relax to eat, read, draw, or day dream if you like.
+::END:LOOK

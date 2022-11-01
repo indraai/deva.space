@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0319/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0319/avatar
+## CYPHER-2 TERMINAL
+name: CYPHER-2 TERMINAL
+vector: 0x0319o
+describe: CYPHER-2 TERMINAL is used by CYPHER specialists to do their job.
+look[Terminal]:terminal
+::END:LOOK
+
+::BEGIN:TERMINAL
+p:Arjika CYPHER-2 Terminal
+::END:TERMINAL

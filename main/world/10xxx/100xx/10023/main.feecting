@@ -1,0 +1,24 @@
+0123610111619403942444851525455612223
+01259122125262829757735373843403942444851525455612223
+
+::BEGIN:LOOK
+p:You can see the frozen slope.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Frozen Slope
+
+p:As you trudge across the frozen slope to the village, you think about the angel bird and the Underground Kingdom, and you think how much more there must be in the universe, and even on our own planet, than we can ever imagine.
+
+img:main/world/10023/scene
+
+p:The End
+
+talk:#adv world:thegame 10000/main:thankyou
+
+talk:#adv hash add 23
+
+#bg = thegame/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN

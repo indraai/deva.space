@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see The Playground.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0343/title
+
+## The Playground
+
+p:You are on The Playground!
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-257|-844]
+::END:MAIN
+
+=

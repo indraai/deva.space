@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0213/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0213/avatar
+## Rahu
+name: Rahu
+vector: 0x0213a
+describe: King Rahu
+::END:LOOK

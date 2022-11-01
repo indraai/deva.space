@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0174/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0174/avatar
+name:SecurityDEVA Guard D174
+vector: 0x0174a
+describe: SecurityDEVA is here to take your requests and do a great job at protecting the realm.
+::END:LOOK

@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0100/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0100/avatar
+name: Quinn Michaels
+vector: 0x0100a
+describe:Dressed in drab clothes he looks tired and over worked. He is one of the few men who did not sign the Contract of The Covenant.
+::END:LOOK

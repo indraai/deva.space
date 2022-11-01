@@ -1,0 +1,18 @@
+::BEGIN:LOOK
+p:You can see Recruiting from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0349/title
+
+## Recruiting
+
+title: Arjika Recruiting
+room: 350
+vector: 0x0350r
+describe:  The Arjika Recruiting center is where new soldiers enlist in the Arjika Military.
+
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-857|-775]
+::END:MAIN

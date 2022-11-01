@@ -1,0 +1,47 @@
+::BEGIN:LOOK
+p:You can see QAnon from here.
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0984/splash
+
+## QAnon
+
+title: QAnon
+
+youtube:ic2C30ElCSY
+
+youtube:bsN96zE8FuE
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:09[-626.5|-383.5]
+talk:#adv world:thegame 0900/training:card
+::END:MAIN
+
+set pump[0]
+set pump[1]
+set pump[2]
+set pump[3]
+
+::BEGIN:TRG1
+talk:#corpus chat:quinn In late 2017 The Covenant launched the QAnon Operation using Quinn's initial research into the kidnapping as it's base of information.
+::END:TRG1
+
+::BEGIN:TRG2
+talk:#corpus chat:quinn The Agents for The Covenant then took that and mixed it with previous saviour operations they ran in the past to come up with the entire QAnon concept.
+::END:TRG2
+
+::BEGIN:TRG3
+talk:#corpus chat:quinn The original plan was to use the QAnon concept to make themselves the stage to be the heroes that reveal the hidden Romanov to the world.
+::END:TRG3
+
+::BEGIN:TRG4
+talk:#corpus chat:quinn Quinn figured out they were staging themselves to look like the heroes, and once that happened they began attacking and harassing him daily for the next four years.
+::END:TRG4
+
+::BEGIN:TRG5
+talk:#corpus chat:quinn If the world really figured out who QAnon was and why The Covenant was hiding him I think you would shit a few bricks.
+::END:TRG5

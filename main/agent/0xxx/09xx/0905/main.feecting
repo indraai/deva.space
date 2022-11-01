@@ -1,0 +1,19 @@
+::BEGIN:AVATAR
+img:main/agent/0905/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0905/avatar
+
+## Michael Nebadon
+
+name:Michael Nebadon
+vector: 0x0905a
+
+cmd[Michael]:#pastebin view r2BLTz9C
+cmd[Michael again]:#pastebin view r2BLTz9C
+
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

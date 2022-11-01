@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/2004/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/2004/avatar
+## Mushrooms
+name: Mushrooms
+vector: 0x2004o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:Some good healthy Pushkara Mushrooms.
+::END:TEXT

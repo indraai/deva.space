@@ -1,0 +1,10 @@
+::BEGIN:AVATAR
+img:main/agent/0012/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0012/avatar
+name: Chitragupta
+vector: 0x0012a
+describe: Chitragupta is the recorder of all things.
+::END:LOOK

@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see Book 2.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0012/title
+
+::begin:vedas
+talk:#veda book 2
+::end:vedas
+
+#color = var(--color-white)
+#bg = thegame/world/0012/background
+coordinates:00[-390|-223]
+::END:MAIN
+
+=

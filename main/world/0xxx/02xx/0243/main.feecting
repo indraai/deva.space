@@ -1,0 +1,29 @@
+::BEGIN:LOOK
+p:You can see the Western Security (W) from here.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0096/title
+
+## Security (W)
+
+p:You are at the Western Gate of Arjika where SecurityDEVA D175 (Guard) stands watch.
+
+p:To the look[east] you enter the City of Arjika and it's wonderious attractions.
+
+p:To the look[west] you enter CYOALand and it's wonderious adventures.
+
+p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
+
+p:There is also a security board here to read the latest bulletins.
+
+bmud[Read Security Board]:read security
+
+#bgcolor = var(--color-black)
+#bg = thegame/world/0096/background
+coordinates:00[-55|-464]
+::END:MAIN
+
+=

@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0117/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0117/avatar
+## Librarian 0x_0117a
+name:Librarian
+vector:0x_0117a
+describe:The Librarian
+::END:LOOK

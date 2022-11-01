@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0931/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0931/avatar
+name:Jerome Corsi
+vector: 0x0931a
+::END:LOOK

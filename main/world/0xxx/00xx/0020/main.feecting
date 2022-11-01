@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see Book 10.
+::END:LOOK
+
+=
+
+::BEGIN:MAIN
+img:main/world/0020/title
+
+talk:#veda book 10
+
+#color = #eeeeee
+#bg = thegame/world/0020/background
+coordinates:00[-425|-211]
+::END:MAIN
+
+=

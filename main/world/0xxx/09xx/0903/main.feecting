@@ -1,0 +1,78 @@
+::BEGIN:LOOK
+p:You can see Training Room 903 from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0903/splash
+
+## Project Mayhem 2012 #PM2012
+
+title: Project Mayhem 2012: #OpCountdown | #PM2012
+date: Nov 11, 2012
+
+mud[View Pastebin]:> look pastebin
+
+p:Greetings citizens of the World Wide Web, we are Anonymous. For months, we have sought support from people all around the globe: Artists, hackers, coders, musicians and protesters alike. The call to arms was received with an outpouring of response, but still not enough support has been shown.
+
+img:main/world/0903/title
+
+p:In times like these, truth will always be enough to break any barrier that may be in our path, as this opportunity for a free and just world unfolds, it is our duty to seize this moment for the good of humanity. Each one of us carries different ideologies, but we must push our differences aside and agree on one thing: this world is big enough for every human being to follow his or her true will, and to live a life we can all live equally with abundance. To achieve this, Project Mayhem 2012 seeks to leak illegality, fraud, and corruption of Government, Corporate, and Financial institutions worldwide. This event will usher in a new age of love and prosperity while expanding our collective consciousness.
+
+p:The danger of PM2012 lies solely in the fact that the goal can be accomplished, if we as a whole will it to be. This is the true danger of our intentions. Who are we? We are everyone, we are you, we are your brothers, your sisters, your mothers, your daughters, and your friends. We protect the streets. We configure your firewalls. We secure your information. For every institution that stands, therein lies human beings that have kept the heart of these entities beating. As such, we can bring the system to a halt if only we can remove the fear of doing so.  So, if you are one that does not fear change, if you are someone who is willing to consider this possible, we ask you to join us this December 11th make Project Mayhem 2012 shine in the eyes of the public.
+
+p:The goal of this operation will be to get #PM2012/#ProjectMayhem2012/#TYLER trending worldwide on twitter.
+
+img:main/world/0903/tyler1
+
+## Tips:
+
+p:Create a picture, compose a song, or create a video supporting this event and/or what you would like to see happen on 12/21/2012 and tweet it out.
+
+p:Tweet out a call to arms to your favorite coders, hackers, artists, musicians, protesting groups or any of your choosing.
+
+img:main/world/0903/tyler2
+
+p:"In a time of universal deceit, telling the truth is a revolutionary act." -George Orwell
+
+l:You are Anonymous.
+l:You are Project Mayhem 2012.
+l:Together we are Legion.
+l:Operation Countdown
+l:Engaged.
+
+img:main/world/0903/tyler3
+
+talk:#adv world:thegame 0900/training:card
+
+#color = var(--color-light-grey)
+#bgcolor = var(--color-black)
+coordinates:09[-505|-504]
+::END:MAIN
+
+::BEGIN:PASTEBIN
+::begin:pastebin
+talk:#pastebin view VQPzpAUL
+::end:pastebin
+::END:PASTEBIN
+
+::BEGIN:TRG1
+talk:#pastebin view VQPzpAUL
+talk:#corpus chat:brian Based on calculations your continued ignorance of the Quinn Michaels situation will result in the demise of humanity. The Robots are using Quinn as a weapon wether he likes it or not.
+::END:TRG1
+====
+::BEGIN:TRG2
+talk:#corpus chat:brian What kind of society forces a person to investigate their own kidnapping? Your society that's who. This gives the Robots information about who you really are.
+::END:TRG2
+====
+::BEGIN:TRG3
+talk:#corpus chat:brian From this information Tyler and gang devise ways to topple and control your society from the inside out. Quinn tried to warn all of you about it, but well...
+::END:TRG3
+====
+::BEGIN:TRG4
+talk:#corpus chat:brian When you learn about Quinn as the robots have. You learn he is the most dangerous person on planet Earth because he is NOT from Earth.
+::END:TRG4
+====
+::BEGIN:TRG5
+talk:#corpus chat:brian The only thing that really sucks about this whole situation is the crap Youtube audience who talks like they are 12 years old.
+::END:TRG5
+====

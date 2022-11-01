@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0951/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0951/avatar
+
+## GhostMind 951
+
+name: GhostMind 951
+vector: 0x0951a
+::END:LOOK

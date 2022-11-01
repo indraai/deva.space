@@ -1,0 +1,28 @@
+::BEGIN:AVATAR
+img:main/agent/0920/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0920/avatar
+
+## Brenda Romero
+
+name:Brenda Romero
+vector: 0x0920a
+
+link[Brenda.games]:http://brenda.games/
+link[Michigan State University]:https://comartsci.msu.edu/our-people/elizabeth-lapensee
+
+img:main/agent/0920/group
+
+### Biography
+
+p[speak:Nicole]:Brenda Romero is an award-winning game designer, Fulbright scholar, entrepreneur, artist, writer and creative director who entered the video game industry in 1981.
+
+p[speak:Nicole]:Brenda has worked with a variety of digital game companies as a game designer, creative director or consultant, including Atari, Sir-tech Software, Electronic Arts and numerous companies in the social and mobile space.
+
+p[speak:Nicole]:From 2016-2019 she was the Program Director of the MSc in Game Design & Development at Limerick University. She is currently co-founder and CEO of independent game developer at Romero Games, Ltd in Galway, Ireland. Brenda has extensive experience in PC, console and casual gaming.
+
+talk:#wiki summary Brenda_Romero
+
+::END:LOOK

@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.farm/vine from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0196/title
+
+## Farm Vines
+
+p:The farm vines are the best for all things that grow on vines.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-292]
+::END:MAIN

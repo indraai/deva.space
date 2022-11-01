@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0298/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0298/avatar
+name:Flash Brad
+vector:0x0298a
+::END:LOOK

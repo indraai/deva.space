@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Medical (NW) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0141/title
+
+## Medical (NW)
+
+p:You are in Medical (NW).
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-153|-118]
+::END:MAIN

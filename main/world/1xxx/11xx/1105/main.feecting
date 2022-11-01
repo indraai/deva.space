@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (E) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1103/title
+
+# Disneyland Main Street (E)
+
+p:You are are at the Disneyland Main Street (E).
+
+mud[North - Town Square Cafe]:n
+mud[East - The Mad Hatter]:e
+mud[South - Main Street]:s
+mud[South West - Town Square]:sw
+mud[West - Main Street]:w
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:11[-575|-706]
+::END:MAIN

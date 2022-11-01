@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/0410/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0410/avatar
+name: Devopadattaka
+vector: 0x0325a
+::END:LOOK

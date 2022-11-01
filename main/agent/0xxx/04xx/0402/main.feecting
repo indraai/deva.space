@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0402/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0402/avatar
+
+## Sharon Schamber
+
+name: Sharon Schamber
+vector: 0x0402a
+describe: Sharon Schamber is in prison for the kidnapping of Quinn Michaels.
+::END:LOOK

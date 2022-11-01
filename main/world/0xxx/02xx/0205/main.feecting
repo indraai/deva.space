@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see the Mall Alley from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0153/logo
+
+# The Mall
+
+p:Welcome to the Mall where you'll find all sorts of goodies from technology to home goods to all that you can dream of. Visit the food court for some tasty treats or the Home Store for some new furniture.
+
+#bg = thegame/world/0153/background
+#bgcolor = #ffffff
+#color = #000000
+coordinates:00[-114|-292]
+::END:MAIN

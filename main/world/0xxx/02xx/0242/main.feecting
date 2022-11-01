@@ -1,0 +1,17 @@
+::BEGIN:LOOK
+p:You can see the dairy from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0242/title
+
+## Farm Dairy
+
+p:Welcome to the farm dairy where you can get your milk and be happy.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-361]
+::END:MAIN
+
+=

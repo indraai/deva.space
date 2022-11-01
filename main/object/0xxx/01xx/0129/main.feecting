@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0129/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0129/avatar
+## Black Robe
+name: Black Robe
+vector: 0x0129o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Black Robe.
+::END:TEXT

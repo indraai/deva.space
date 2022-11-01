@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0980/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0980/avatar
+## Robert Erskine
+name:Robert Erskine
+vector: 0x0980a
+describe: The court physician of Peter I, Archiater, the chief of all civil and military medical chancelleries in Russia, he was the son of a prominent Scottish lord. He studied medicine in Paris and Utrecht, where he got his Doctor’s degree in Medicine. He came down from the University of Oxford with a PhD.  In 1703, he became member of the Royal Society of London. In 1704, he came to Russia where he served as A.D. Menshikov’s private physician. Two years later, Erskine was admitted to the Tsar’s service.  Since 1713, he was Chief Physician of Peter I. In 1714, Peter I commissioned Erskine to transport his private library and collection from Moscow to Saint-Petersburg and organize a public museum, namely, the Kunstkamera.  Peter I appointed Erskine Chief Curator of all materials collected for the Kunstkamera and supervisor of the library affiliated with the Academy of Sciences. Johann Daniel Schumacher was invited from Germany as his assistant and librarian.
+
+link[Robert Erskine Profile]:https://bit.ly/3yXRQQI
+::END:LOOK

@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1173/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1173/avatar
+name:Blue Neutrino
+vector: 0x1173a
+::END:LOOK

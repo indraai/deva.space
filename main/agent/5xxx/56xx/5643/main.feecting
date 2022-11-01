@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/5643/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/5643/avatar
+
+## Vayu Deva
+
+name: Vayu Deva
+vector: 0x5643a
+describe: He holds a flag in his hand. His Vâhana, is deer and his family consists of the forty nine Vâyus.
+::END:LOOK

@@ -1,0 +1,14 @@
+::BEGIN:AVATAR
+img:main/agent/0995/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0995/avatar
+## Cameron
+name: Cameron
+vector: 0x0995a
+describe: Cameron from Telecomix.
+
+youtube:AYkLnFF4FTg
+
+::END:LOOK

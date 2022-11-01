@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.farm/orchard from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0203/title
+
+## Farm Orchard
+
+p:This is where you get your orchard fruits.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-851|-257]
+::END:MAIN

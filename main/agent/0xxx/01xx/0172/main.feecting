@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0172/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0172/avatar
+
+## Hacker Householder
+
+name: Hacker Householder
+vector: 0x0172a
+describe: The Hacker Householder of Arjika.
+::END:LOOK

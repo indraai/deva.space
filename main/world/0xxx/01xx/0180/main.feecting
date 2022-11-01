@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see Farm Veggies here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0180/title
+
+## Candy Dirt Patch
+
+p:Here you get your candy dirt.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-816.5|-188]
+::END:MAIN

@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/agent/0906/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Tyler IT
+img:main/agent/0906/avatar
+name:Tyler IT
+vector: 0x0906a
+describe: Training Agent 906 is here to help you with your various needs in Training Room 906. He is here to answer questions and assist you along the way in your program.
+
+cmd:#pastebin view Ym5rGCJV
+
+#bgcolor = #ffffff
+#color = #333333
+::END:LOOK

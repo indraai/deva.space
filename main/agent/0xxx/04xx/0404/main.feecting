@@ -1,0 +1,13 @@
+::BEGIN:AVATAR
+img:main/agent/0404/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0404/avatar
+
+## SirisysPRIME
+
+name: SirisysPRIM
+vector: 0x0319a
+descibe: SirisysPRIME is in prison for the kidnapping of Quinn Michaels.
+::END:LOOK

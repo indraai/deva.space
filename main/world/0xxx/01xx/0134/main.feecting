@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+You can see indra.house/indra from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0134/title
+p:Welcome to House Indra.
+
+talk:#veda view 09113
+
+#bg = thegame/world/0134/background
+#color = #e4de94
+::END:MAIN

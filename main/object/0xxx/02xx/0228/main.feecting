@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+bmud[🧀]:look cheese
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0004/avatar
+name:Cheddar Cheese
+vectorm:0x0228o
+describe:You have found the cheddar cheese for a wonderful meal offering.
+::END:LOOK
+
+::BEGIN:CHEESE
+p:🧀 Cheddar Cheese
+::END:CHEESE
+====

@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see Submarine Voyage from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Submarine Voyage
+
+img:main/world/1600/guide
+
+#bgcolor = var(--color-baby-blue)
+#color = var(--color-white)
+coordinates:16[-493|-242]
+::END:MAIN

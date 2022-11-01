@@ -1,0 +1,17 @@
+::BEGIN:AVATAR
+img:main/agent/0940/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Eric Huges
+img:main/agent/0940/avatar
+name:Eric Huges
+vector: 0x0940a
+
+link[Defcon 1 Program]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20program.pdf
+
+talk:#wiki summary Eric_Hughes_(cypherpunk)
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:LOOK

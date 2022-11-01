@@ -1,0 +1,15 @@
+::BEGIN:LOOK
+p:You can see indra.city/sw from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0308/title
+
+## 9W9S Outer Loop
+
+p:You are in indra.city/sw.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:00[-154|-776]
+::END:MAIN

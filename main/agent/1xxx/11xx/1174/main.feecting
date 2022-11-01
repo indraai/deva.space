@@ -1,0 +1,9 @@
+::BEGIN:AVATAR
+img:main/agent/1174/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/1174/avatar
+name:Yellow Neutrino
+vector: 0x1174a
+::END:LOOK

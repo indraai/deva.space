@@ -1,0 +1,19 @@
+::BEGIN:LOOK
+p:You can see the Disneyland Main Street (E) from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/1103/title
+
+## Disneyland Main Street (E)
+
+p:You are are at the Disneyland Main Street (E).
+
+mud[North - Main Street]:n
+mud[East - Coming Attractions]:e
+mud[South East - Main Street]:se
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+coordinates:11[-472|-668]
+::END:MAIN

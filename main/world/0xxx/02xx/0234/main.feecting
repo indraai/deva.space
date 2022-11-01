@@ -1,0 +1,13 @@
+::BEGIN:LOOK
+p:You can see indra.store/toys from here.
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0234/title
+
+p:You are in indra.store/toys
+
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+coordinates:00[-327|-395]
+::END:MAIN

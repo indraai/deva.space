@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0926/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0926/avatar
+name: Alex 926
+vector: 0x0926a
+
+talk:#wiki summary Alex_Karp
+::END:LOOK

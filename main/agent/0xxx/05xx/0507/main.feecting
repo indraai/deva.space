@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0507/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0507/avatar
+## Allan Carr
+name: Allan Carr
+vector: 0x0507a
+describe: Hollywood producer Allan Carr.
+::END:LOOK

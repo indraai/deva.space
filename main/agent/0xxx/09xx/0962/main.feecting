@@ -1,0 +1,12 @@
+::BEGIN:AVATAR
+img:main/agent/0962/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0962/avatar
+
+## Jason Goodman
+
+name:Jason Goodman
+vector: 0x0962a
+::END:LOOK

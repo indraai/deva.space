@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0932/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+## Sasha Chislenko Training
+name: Sasha Chislenko Training
+vector: 0x0932o
+describe: Sasha Chislenko Training
+look[Research Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+Sasha Chislenko Training
+::END:TEXT

@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/3000/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/3000/avatar
+## Wild Deer
+name: Wild Deer
+vector: 0x3000a
+describe: Wild Narmada Forest Deer
+::END:LOOK

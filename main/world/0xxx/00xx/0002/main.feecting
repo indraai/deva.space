@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see the Arjika Academy
+::END:LOOK
+
+::BEGIN:MAIN
+img:main/world/0002/title
+
+p:Welcome to Indra Academy!
+
+p:Indra Academy where your ultimate training awaits.
+
+p:At Indra Academy students go through an intesive courses on everything from basic learning theory to advanced engineering topics.
+
+p:The courses at the academy at at your own pace, when you want. There is no set time, date, or grade you can get through. Once you pass a lesson you earn an acievement award. Lessons can be started and stopped at anytime, and progress can be saved to return later.
+
+#color = #ffffff
+#bgcolor =#4c5977
+#bg = thegame/world/0002/background
+
+coordinates:00[-505.5|-245]
+::END:MAIN
