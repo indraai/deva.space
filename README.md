@@ -2,6 +2,7 @@
 
 The deva.space content files for the Indra Quantum Computing Environment.
 
+![Moving Lights](/img/Moving_Lights_GIF.gif)
 
 
 [Github Repo](https://github.com/indraai/deva.space)  
