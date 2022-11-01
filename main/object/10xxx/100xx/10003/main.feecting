@@ -8,7 +8,7 @@ name:Dr. Bruckner Theory
 vector:0x10003o
 
 ::begin:theory
-talk:#adv object:thegame 10003/main:theory
+talk:#adv object:main 10003/main:theory
 ::end:theory
 ::END:LOOK
 

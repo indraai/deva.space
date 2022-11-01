@@ -8,15 +8,15 @@ img:main/world/0341/title
 p:Adventure Arcade Isle is the center pathway to all your favorite Adventure Realms. Venture to the North or South to find an Adventure of your liking. To the EAST and WEST the Adventure Arcade Isle continues.
 
 ::begin:arcade
-talk:#adv world:thegame 0341/main:achea
+talk:#adv world:main 0341/main:achea
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0341/main:starmourn
+talk:#adv world:main 0341/main:starmourn
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0341/main:arx
+talk:#adv world:main 0341/main:arx
 ::end:arcade
 
 #bgcolor = #000000

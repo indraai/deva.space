@@ -10,5 +10,5 @@ describe:The Candy Dirt is here. Acquired on adventures with SecurityPRIME we ha
 ::END:LOOK
 
 ::BEGIN:CANDY
-talk:#adv object:thegame 0180/main:look
+talk:#adv object:main 0180/main:look
 ::END:CANDY

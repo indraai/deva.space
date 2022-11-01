@@ -26,7 +26,7 @@ talk:#wiki summary Abhayagiri_Buddhist_Monastery
 #bgcolor = #fcf5d8
 #bg = thegame/world/0912/background
 coordinates:09[-505|-383]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:001

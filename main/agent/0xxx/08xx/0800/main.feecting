@@ -19,10 +19,10 @@ link[Wired - TJX Hacker]:https://bit.ly/3kS3ftS
 
 ### EZine
 ::begin:buttons
-button[el8.0.txt]:#adv agent:thegame 0800/main:zine0
-button[el8.1.txt]:#adv agent:thegame 0800/main:zine1
-button[el8.2.txt]:#adv agent:thegame 0800/main:zine2
-button[el8.3.txt]:#adv agent:thegame 0800/main:zine3
+button[el8.0.txt]:#adv agent:main 0800/main:zine0
+button[el8.1.txt]:#adv agent:main 0800/main:zine1
+button[el8.2.txt]:#adv agent:main 0800/main:zine2
+button[el8.3.txt]:#adv agent:main 0800/main:zine3
 ::end:buttons
 ::END:LOOK
 

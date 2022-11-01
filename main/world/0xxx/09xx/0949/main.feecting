@@ -193,7 +193,7 @@ p:(SHE RAISES HER ARMS/ COWL/ MUSIC CRESCENDOS/ SHE EXITS IN A CLOUD OF SMOKE.)
 #color = var(--color-white)
 #bgcolor = var(--color-pink)
 coordinates:09[-142|-666]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

@@ -22,7 +22,7 @@ p:It's strange. Diamonds are the hardest substance in the world; yet, if they ar
 
 p:The End
 
-talk:#adv world:thegame 10000/main:thankyou
+talk:#adv world:main 10000/main:thankyou
 
 talk:#adv hash add 102
 

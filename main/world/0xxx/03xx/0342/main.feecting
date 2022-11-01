@@ -6,7 +6,7 @@ You can see Mud City East.
 img:main/world/0327/title
 
 ::begin:arcade
-talk:#adv world:thegame 0342/main:heroesassemble
+talk:#adv world:main 0342/main:heroesassemble
 ::end:arcade
 
 #bgcolor = #000000

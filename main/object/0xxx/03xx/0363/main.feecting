@@ -9,7 +9,7 @@ vector:0x_0363o
 describe:...
 
 ::begin:hymn
-talk:#adv object:thegame 0363/main:pushpak
+talk:#adv object:main 0363/main:pushpak
 ::end:hymn
 ::END:LOOK
 

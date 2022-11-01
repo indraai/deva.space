@@ -35,7 +35,7 @@ talk:#wiki summary Founders_Fund
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
 coordinates:09[-223|-505]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

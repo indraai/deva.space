@@ -25,7 +25,7 @@ cmd[Whave not come to...]:#corpus chat We have not come to take sides but rather
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 coordinates:09[-344|-505]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

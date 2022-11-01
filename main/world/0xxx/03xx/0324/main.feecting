@@ -7,11 +7,11 @@ img:main/world/0324/title
 p:You have found your way to the back corner of the Adventure Arcade where only the Elite play.  Here you play at your own risk against 0x Elite Players.
 
 ::begin:arcade
-talk:#adv world:thegame 0324/main:lambda
+talk:#adv world:main 0324/main:lambda
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0324/main:souls
+talk:#adv world:main 0324/main:souls
 ::end:arcade
 
 #bgcolor = #000000

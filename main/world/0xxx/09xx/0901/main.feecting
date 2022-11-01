@@ -26,7 +26,7 @@ p[speak]:Welcome to Training Room 901. In September of 2015 Trenton began tellin
 #bgcolor = var(--color-white)
 
 coordinates:09[-505|-424]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:VIDEO

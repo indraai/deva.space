@@ -18,7 +18,7 @@ mud[Pastebin File 2]:> look pastebin2
 #bgcolor = var(--color-darkest-grey)
 #bg = thegame/world/0905/background
 coordinates:09[-425|-505]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:PASTEBIN1

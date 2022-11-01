@@ -7,11 +7,11 @@ img:main/world/0325/title
 p:Here in this part of the Adventure Arcade you can play in the realms of Genesis and Nanvaent.
 
 ::begin:arcade
-talk:#adv world:thegame 0325/main:genesis
+talk:#adv world:main 0325/main:genesis
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0325/main:nanvaent
+talk:#adv world:main 0325/main:nanvaent
 ::end:arcade
 
 #bgcolor = #000000

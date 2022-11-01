@@ -78,7 +78,7 @@ talk:#wiki summary National_Center_for_Missing_and_Exploited_Children
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:09[-223|-424]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

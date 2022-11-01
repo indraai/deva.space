@@ -16,7 +16,7 @@ link[Stanford.edu]:https://stanford.edu
 #color = #8c1b1e
 #bgcolor = var(--color-white)
 coordinates:09[-183|-424]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

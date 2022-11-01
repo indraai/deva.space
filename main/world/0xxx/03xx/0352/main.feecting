@@ -10,11 +10,11 @@ p:This is the southwest corner of the Adventure Arcade where the Chaos Happens a
 - Viking MUD
 
 ::begin:arcade
-talk:#adv world:thegame 0352/main:chaos
+talk:#adv world:main 0352/main:chaos
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0352/main:viking
+talk:#adv world:main 0352/main:viking
 ::end:arcade
 
 #bgcolor = #000000

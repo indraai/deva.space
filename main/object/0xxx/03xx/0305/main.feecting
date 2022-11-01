@@ -9,7 +9,7 @@ vector:0x_0305o
 describe:...
 
 ::begin:hymn
-talk:#adv object:thegame 0305/main:svasti
+talk:#adv object:main 0305/main:svasti
 ::end:hymn
 ::END:LOOK
 

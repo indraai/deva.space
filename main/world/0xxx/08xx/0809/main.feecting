@@ -15,7 +15,7 @@ p[speak:Russell]:In 2010, he became a research fellow at Harvard University's Sa
 
 talk:#wiki summary Aaron_Swartz
 
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)

@@ -18,7 +18,7 @@ p[speak]:The interview didn't last very long, and Quinn left his copy of the con
 
 p[speak]:The picture of the contract used in the program is the one that was taken at the interview desk of the Portland FBI Field Office.
 
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

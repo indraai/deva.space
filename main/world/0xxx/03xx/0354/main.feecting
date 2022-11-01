@@ -10,11 +10,11 @@ Welcome to the Star Wars Gallery where you too can train to become a JEDI Knight
 - Legends of the Jedi
 
 ::begin:arcade
-talk:#adv world:thegame 0354/main:swaoa
+talk:#adv world:main 0354/main:swaoa
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:thegame 0354/main:jedi
+talk:#adv world:main 0354/main:jedi
 ::end:arcade
 
 #bgcolor = #000000

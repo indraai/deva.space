@@ -13,7 +13,7 @@ p[speak]:What does a person do? Call the Trenton Mother and ask... hey are you p
 p[speak]:After the Buddhist Practice video Quinn would begin to learn more about TheFamilyGame AnimalSacrifices TheCovenant MrDewity and TheKidnapping from Trenton. After hearing about TheFamilyGame Quinn would then begin to question Trenton as to why he would tell this story.
 
 ::begin:training
-talk:#adv world:thegame 0901/training:september
+talk:#adv world:main 0901/training:september
 ::end:training
 
 ### October 2015
@@ -30,7 +30,7 @@ img:main/world/0901/monks
 p[speak]:Often times Trenton seemed like two different people. He would be mean to Quinn and then act like a perfect angel around everyone else. This would all be a foreshadowing to November 2015 when Trenton would talk about meeting Quinn family in private and draw TheContract of TheCovenant.
 
 ::begin:training
-talk:#adv world:thegame 0901/training:october
+talk:#adv world:main 0901/training:october
 ::end:training
 
 ### November 2015
@@ -52,7 +52,7 @@ p[speak]:By the time Quinn's Birthday came around on November 30 he had found a 
 p[speak]:At this time much of the conversation between Quinn and Trenton was trying to figure out if Trenton was telling the truth. Trenton would drag Quinn into a conversation for hours upon hours never breaking. Declaring over and over again this was all real.
 
 ::begin:training
-talk:#adv world:thegame 0901/training:november
+talk:#adv world:main 0901/training:november
 ::end:training
 
 ::END:MAIN

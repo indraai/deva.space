@@ -16,7 +16,7 @@ img:main/world/0978/001
 #bgcolor = var(--color-black)
 #bg = thegame/world/0978/background
 coordinates:09[-747|-505]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 

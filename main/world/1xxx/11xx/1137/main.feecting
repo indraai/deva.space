@@ -9,7 +9,7 @@ img:main/world/0224/title
 
 p:You are inside the Disneyland Branch of The Bank of Arjika
 
-talk:#adv world:thegame 0224/main:bank
+talk:#adv world:main 0224/main:bank
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

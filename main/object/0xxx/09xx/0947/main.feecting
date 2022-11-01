@@ -13,10 +13,10 @@ mud[THE TRANSFORMATION OF WAR]:look military
 ::END:LOOK
 
 ::BEGIN:INTEL
-talk:#adv object:thegame 0947/intel:main
+talk:#adv object:main 0947/intel:main
 ::END:INTEL
 
 ::BEGIN:MILITARY
-talk:#adv object:thegame 0947/military:main
+talk:#adv object:main 0947/military:main
 ::END:MILITARY
 ====

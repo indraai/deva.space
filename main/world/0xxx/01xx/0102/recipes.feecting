@@ -4,7 +4,7 @@ p:Main Recipes
 ::END:MAIN
 
 ::BEGIN:SOUPS
-cmd[Vegetarian Pho]:#adv world:thegame 0102/recipes:pho
+cmd[Vegetarian Pho]:#adv world:main 0102/recipes:pho
 ::END:SOUPS
 ====
 

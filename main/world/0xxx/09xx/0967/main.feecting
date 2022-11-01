@@ -13,7 +13,7 @@ title: Russian Botnet
 #bgcolor = var(--color-black)
 #bg = thegame/world/0967/background
 coordinates:09[-223|-304]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

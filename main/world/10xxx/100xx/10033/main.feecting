@@ -18,7 +18,7 @@ p:Weary and sad, your party trudges back across the ice fields. The moving glaci
 
 p:The End
 
-talk:#adv world:thegame 10000/main:thankyou
+talk:#adv world:main 10000/main:thankyou
 
 talk:#adv hash add 33
 

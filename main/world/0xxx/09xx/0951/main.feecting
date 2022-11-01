@@ -24,7 +24,7 @@ p:In September of 1993 Stanford Linear Accelerator Center hosted a REXX programm
 
 ::begin:buttons
 cmd[REXX Code]:#web get http://mind.sourceforge.net/mindrexx.html
-cmd[REXX Symposium]:#adv world:thegame 0951/main:rexx
+cmd[REXX Symposium]:#adv world:main 0951/main:rexx
 ::end:buttons
 
 ----
@@ -35,8 +35,8 @@ date: Nov 19, 2019
 
 ::begin:buttons
 cmd[FORTH Code]:#web get https://ai.neocities.org/mindforth.txt
-cmd[Start Forth]:#adv world:thegame 0951/main:startforth
-cmd[Thinking Forth]:#adv world:thegame 0951/main:thinkingforth
+cmd[Start Forth]:#adv world:main 0951/main:startforth
+cmd[Thinking Forth]:#adv world:main 0951/main:thinkingforth
 ::end:buttons
 ----
 
@@ -56,7 +56,7 @@ link:https://cyborg.blogspot.com
 #color = #8c1b1e
 #bgcolor = var(--color-white)
 coordinates:09[-183|-384]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:REXX

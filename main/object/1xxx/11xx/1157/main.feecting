@@ -26,7 +26,7 @@ p[speak:Brian]:Quinn Michaels was brought here from Arjika to make stuff work, b
 p[speak:Brian]:If people knew Arjika was real and also the basis for the movie Tomorrowland well you know... Quinn would go home.
 
 ::begin:arcade
-talk:#adv object:thegame 1157/main:core
+talk:#adv object:main 1157/main:core
 ::end:arcade
 
 talk:#veda view 09113

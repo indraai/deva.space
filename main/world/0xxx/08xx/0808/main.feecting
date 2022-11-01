@@ -16,7 +16,7 @@ talk:#wiki summary Albert_Gonzalez
 #bgcolor = var(--color-black)
 #color = var(--color-white)
 coordinates:08[-392|-512]
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 ::END:MAIN
 
 

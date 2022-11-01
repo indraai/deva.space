@@ -7,7 +7,7 @@ p:You can see Training Room 934 from here.
 ## (EVIL!)Mud
 
 ::begin:arcade
-talk:#adv world:thegame 0326/main:evil
+talk:#adv world:main 0326/main:evil
 ::end:arcade
 
 title: (EVIL!)Mud
@@ -34,7 +34,7 @@ NO! (EVIL!)Mud is not for kids! It's for adults! The web is for ADULTS, to do BU
 
 talk:#wiki summary Vasudeva
 
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)

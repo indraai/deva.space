@@ -5,7 +5,7 @@ p:You can see Training Room 800 from here.
 ::BEGIN:MAIN
 ## The Unix Terrorist
 
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 
 img:main/world/0800/title
 

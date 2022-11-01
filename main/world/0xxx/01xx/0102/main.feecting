@@ -9,7 +9,7 @@ p:You can see the Recipe room.
 p:Some of our favorite recipes.
 
 ## Soups
-talk:#adv world:thegame 0102/recipes:soups
+talk:#adv world:main 0102/recipes:soups
 
 #color = #333333
 #bgcolor = #eeeeee

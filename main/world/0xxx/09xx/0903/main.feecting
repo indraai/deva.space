@@ -42,7 +42,7 @@ l:Engaged.
 
 img:main/world/0903/tyler3
 
-talk:#adv world:thegame 0900/training:card
+talk:#adv world:main 0900/training:card
 
 #color = var(--color-light-grey)
 #bgcolor = var(--color-black)

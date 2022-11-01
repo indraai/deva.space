@@ -14,10 +14,10 @@ head: Elizabeth LaPensee
 
 link[Survivance - Archive]:https://web.archive.org/web/20180804131907/http://survivance.org/
 
-talk:#adv world:thegame 0024/about
-talk:#adv world:thegame 0024/play
-talk:#adv world:thegame 0024/tabitha
-talk:#adv world:thegame 0024/santacruz
+talk:#adv world:main 0024/about
+talk:#adv world:main 0024/play
+talk:#adv world:main 0024/tabitha
+talk:#adv world:main 0024/santacruz
 
 coordinates:00[-806.5|-295.5]
 ::END:MAIN

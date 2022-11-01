@@ -9,7 +9,7 @@ vector: 0x_0303o
 describe:...
 
 ::begin:hymn
-talk:#adv object:thegame 0303/main:tarksya
+talk:#adv object:main 0303/main:tarksya
 ::end:hymn
 ::END:LOOK
 
