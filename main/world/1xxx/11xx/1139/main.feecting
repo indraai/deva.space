@@ -14,7 +14,7 @@ mud[List Offerings]:list
 p:If you want to buy some Ears then click here.
 mud[Buy Mickey Hat]:buy hat
 
-#bg = thegame/world/1139/background
+#bg = main/world/1139/background
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 coordinates:11[-626|-706]

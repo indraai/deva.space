@@ -9,7 +9,7 @@ img:main/world/0104/portrait
 
 thanks:Thank you for visiting the Shrine of Sarya. Please leave your Offerings on the table or with the Host.
 
-#bg = thegame/world/0104/background
+#bg = main/world/0104/background
 #bgcolor = #000000
 #color = #789888
 ::END:MAIN

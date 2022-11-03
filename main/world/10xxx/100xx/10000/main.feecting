@@ -27,7 +27,7 @@ mud[Continue to the glacier...]:n
 talk:#space hash clear
 talk:#space hash add 0
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
@@ -48,7 +48,7 @@ p:Hello Adventurer,
 p:It appears as though you have already collected the token from this path. Please try another.
 
 p:Happy Adventuring!
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:CLOSED

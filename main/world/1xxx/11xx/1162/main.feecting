@@ -12,6 +12,6 @@ p:You are are at the Coca Cola Refreshment Center.
 
 #bgcolor = #ff0000
 #color = #ffffff
-#bg = thegame/world/1162/background
+#bg = main/world/1162/background
 coordinates:11[-437|-168]
 ::END:MAIN

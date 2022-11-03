@@ -12,6 +12,6 @@ p:You are are at the Trophy Room.
 
 #bgcolor = #151109
 #color = #ceae67
-#bg = thegame/world/1242/background
+#bg = main/world/1242/background
 coordinates:12[-551|-749]
 ::END:MAIN

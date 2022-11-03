@@ -83,7 +83,7 @@ inactive: I don't sleep... I metastasize
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
-#bg = thegame/world/0800/background
+#bg = main/world/0800/background
 coordinates:08[-345|-465]
 ::END:MAIN
 

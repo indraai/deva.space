@@ -11,6 +11,6 @@ p:You are are at the Hats and Bags.
 
 #bgcolor = #ffffff
 #color = #333333
-#bg = thegame/world/1228/background
+#bg = main/world/1228/background
 coordinates:12[-301|-478]
 ::END:MAIN

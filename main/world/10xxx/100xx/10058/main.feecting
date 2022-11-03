@@ -24,7 +24,7 @@ mud[Swim back across river...]:s
 
 talk:#space hash add 58
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

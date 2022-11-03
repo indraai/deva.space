@@ -20,6 +20,6 @@ img:main/world/1238/ship
 
 #bgcolor = #000000
 #color = #b46dd4
-#bg = thegame/world/1238/background
+#bg = main/world/1238/background
 coordinates:12[-432|-749]
 ::END:MAIN

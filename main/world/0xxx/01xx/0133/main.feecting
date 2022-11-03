@@ -20,6 +20,6 @@ mud[Visit House Soma...]:s
 p:To the west is West Tower
 mud[Goto West Tower...]:w
 
-#bg = thegame/world/0133/background
+#bg = main/world/0133/background
 coordinates:00[-815.5|-1138]
 ::END:MAIN

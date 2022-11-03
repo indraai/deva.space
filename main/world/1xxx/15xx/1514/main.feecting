@@ -7,6 +7,6 @@ p:You can see Captain Hook's Galley from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1514/background
+#bg = main/world/1514/background
 coordinates:15[-371|-220]
 ::END:MAIN

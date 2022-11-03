@@ -3,7 +3,7 @@ Looking at Hacking in Progress 97 in the Netherlands.
 ::END:LOOK
 
 ::BEGIN:MAIN
-#bg = thegame/world/0026/background
+#bg = main/world/0026/background
 #bgcolor = #000000
 #color = #ff9800
 

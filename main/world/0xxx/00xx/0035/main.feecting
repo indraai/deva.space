@@ -9,6 +9,6 @@ thanks:Thank you for visiting the Shrine of Bom. Please leave your Offerings on 
 
 mud[Exit South...]:s
 
-#bg = thegame/world/0035/background
+#bg = main/world/0035/background
 #color = #8bfdfe
 ::END:MAIN

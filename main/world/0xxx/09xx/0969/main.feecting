@@ -11,7 +11,7 @@ title: The KGB/FSB
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0969/background
+#bg = main/world/0969/background
 coordinates:09[-707|-343]
 talk:#space world:main 0900/training:card
 ::END:MAIN

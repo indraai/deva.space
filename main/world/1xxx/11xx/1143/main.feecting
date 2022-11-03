@@ -10,6 +10,6 @@ p:You are are at the Disneyland Tobacco Shop.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1143/background
+#bg = main/world/1143/background
 coordinates:11[-492|-594]
 ::END:MAIN

@@ -11,7 +11,7 @@ talk:#space world:main 0342/main:heroesassemble
 
 #bgcolor = #000000
 #color = #42de57
-#bg = thegame/world/0342/background
+#bg = main/world/0342/background
 coordinates:00[-395|-880]
 ::END:MAIN
 

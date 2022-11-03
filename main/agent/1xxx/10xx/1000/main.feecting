@@ -3,7 +3,7 @@ img:main/agent/1000/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img: thegame/agent/1000/avatar
+img: main/agent/1000/avatar
 
 # EvEA1000
 

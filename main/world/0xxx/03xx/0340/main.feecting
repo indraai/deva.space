@@ -16,7 +16,7 @@ talk:#space world:main 0340/main:greater
 
 #bgcolor = #000000
 #color = #f9c928
-#bg = thegame/world/0340/background
+#bg = main/world/0340/background
 coordinates:00[-326|-880]
 ::END:MAIN
 

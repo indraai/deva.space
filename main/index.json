@@ -4,12 +4,12 @@
   "copyright": "Copyright (c)2021 Quinn Michaels. All rights reserved.",
   "parent": "/data/games/index.json",
   "data": {
-    "key": "thegame",
-    "name": "TheGame93",
-    "describe": "The Game93 MUD",
+    "key": "deva.space",
+    "name": "Deva Space",
+    "describe": "Deva Space is the place for all the files.",
     "format": "feecting",
     "links": {
-      "website": "http://thegame93.com/"
+      "website": "https://indra.ai/deva.space/"
     }
   }
 }

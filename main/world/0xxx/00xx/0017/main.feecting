@@ -10,7 +10,7 @@ img:main/world/0017/title
 talk:#veda book 7
 
 #color = #eeeeee
-#bg = thegame/world/0017/background
+#bg = main/world/0017/background
 coordinates:00[-321|-211]
 ::END:MAIN
 

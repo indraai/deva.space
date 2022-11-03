@@ -23,7 +23,7 @@ talk:#space world:main 0900/training:card
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0981/background
+#bg = main/world/0981/background
 coordinates:09[-788|-158]
 ::END:MAIN
 

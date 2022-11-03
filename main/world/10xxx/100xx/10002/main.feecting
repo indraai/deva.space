@@ -27,7 +27,7 @@ mud[Continue falling...]:d
 
 talk:#space hash add 2
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -13,7 +13,7 @@ p:You have arrived in our Fantasylans Branch Office where all persons in Arjika 
 p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
 p:-Mangement
 
-#bg = thegame/world/1532/background
+#bg = main/world/1532/background
 #color = var(--color-yellow)
 #bgcolor = var(--color-black)
 

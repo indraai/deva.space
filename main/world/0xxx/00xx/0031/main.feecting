@@ -9,6 +9,6 @@ thanks:Thank you for visiting the Shrine of Vamraka. Please leave your Offerings
 
 mud[Exit East...]:e
 
-#bg = thegame/world/0031/background
+#bg = main/world/0031/background
 #color = #ffff6e
 ::END:MAIN

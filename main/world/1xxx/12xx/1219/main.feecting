@@ -11,6 +11,6 @@ p:You are are at the Royal Street Veranda.
 
 #bgcolor = #ffffff
 #color = #333333
-#bg = thegame/world/1200/background
+#bg = main/world/1200/background
 coordinates:12[-709|-618]
 ::END:MAIN

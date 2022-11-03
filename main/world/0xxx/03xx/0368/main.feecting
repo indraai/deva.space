@@ -29,7 +29,7 @@ link: https://www.sacred-texts.com/hin/sbe33/sbe3309.htm
 
 #bgcolor = #cccccc
 #color = #333333
-#bg = thegame/world/0329/background
+#bg = main/world/0329/background
 
 coordinates:00[-911.5|-1095.5]
 ::END:MAIN

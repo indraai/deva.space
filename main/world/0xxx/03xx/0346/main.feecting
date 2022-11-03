@@ -18,6 +18,6 @@ mud[Deity Houses...]:u
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0346/background
+#bg = main/world/0346/background
 coordinates:00[-604|-879]
 ::END:MAIN

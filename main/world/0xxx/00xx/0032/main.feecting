@@ -11,5 +11,5 @@ mud[Exit South...]:s
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
-#bg = thegame/world/0032/background
+#bg = main/world/0032/background
 ::END:MAIN

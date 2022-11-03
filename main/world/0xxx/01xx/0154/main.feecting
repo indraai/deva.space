@@ -11,6 +11,6 @@ p:You are in Security Lookout NW
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0096/background
+#bg = main/world/0096/background
 coordinates:00[-154|-153]
 ::END:MAIN

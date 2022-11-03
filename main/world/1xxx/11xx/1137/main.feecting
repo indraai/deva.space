@@ -13,6 +13,6 @@ talk:#space world:main 0224/main:bank
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-#bg = thegame/world/0224/background
+#bg = main/world/0224/background
 coordinates:11[-626|-829]
 ::END:MAIN

@@ -21,7 +21,7 @@ button[Corpus]:#docs view main:corpus
 button[Protocols]:#docs view main:cypher
 ::end:buttons
 
-#bg = thegame/world/0096/background
+#bg = main/world/0096/background
 #color = var(--color-yellow)
 #bgcolor = var(--color-black)
 coordinates:00[-500|-360]

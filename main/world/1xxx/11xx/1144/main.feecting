@@ -12,6 +12,6 @@ p:You are are at the Disneyland Main Street Cinema.
 
 #bgcolor = #000000
 #color = #cb9d2d
-#bg = thegame/world/1144/background
+#bg = main/world/1144/background
 coordinates:11[-492|-566]
 ::END:MAIN

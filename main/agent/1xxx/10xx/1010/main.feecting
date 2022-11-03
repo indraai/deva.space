@@ -4,7 +4,7 @@ img:main/agent/1010/avatar
 
 ::BEGIN:LOOK
 # EvEA1010
-img: thegame/agent/1010/avatar
+img: main/agent/1010/avatar
 name: Evolution Engine Agent A1010
 vector: 0x1010a
 describe: EvEA1010 is the premium Evolution Engine Agent.

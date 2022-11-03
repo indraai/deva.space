@@ -35,7 +35,7 @@ cmd[Tabitha the network...]:#corpus chat:brian Tabitha, the network would like y
 
 #color = var(--color-black)
 #bgcolor = var(--color-green)
-#bg = thegame/world/0987/background
+#bg = main/world/0987/background
 
 coordinates:09[-570|-446]
 talk:#space world:main 0900/training:card

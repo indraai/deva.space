@@ -29,7 +29,7 @@ p:Once you make a request from services they will send you here for a solution t
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0237/background
+#bg = main/world/0237/background
 coordinates:00[-500|-430]
 ::END:MAIN
 

@@ -15,6 +15,6 @@ mud[East]:e
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0153/background
+#bg = main/world/0153/background
 coordinates:00[-79|-187]
 ::END:MAIN

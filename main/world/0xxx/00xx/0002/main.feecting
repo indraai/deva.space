@@ -15,7 +15,7 @@ p:The courses at the academy at at your own pace, when you want. There is no set
 
 #color = #ffffff
 #bgcolor =#4c5977
-#bg = thegame/world/0002/background
+#bg = main/world/0002/background
 
 coordinates:00[-505.5|-245]
 ::END:MAIN

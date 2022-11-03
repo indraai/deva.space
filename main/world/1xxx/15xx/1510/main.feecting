@@ -7,6 +7,6 @@ p:You can see Mad Tea Party from here.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1510/background
+#bg = main/world/1510/background
 coordinates:15[-403|-470]
 ::END:MAIN

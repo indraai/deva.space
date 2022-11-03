@@ -32,7 +32,7 @@ mud[Continue to the edge...]:n
 
 talk:#space hash add 1
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

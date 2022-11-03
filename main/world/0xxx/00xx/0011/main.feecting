@@ -16,7 +16,7 @@ talk:#veda book 1
 ::end:vedas
 
 #color = var(--color-white)
-#bg = thegame/world/0011/background
+#bg = main/world/0011/background
 coordinates:00[-425|-223]
 ::END:MAIN
 ====

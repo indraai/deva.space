@@ -158,7 +158,7 @@ bmud[RigVeda Invoke]:look invoke
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0811/background
+#bg = main/world/0811/background
 ::END:MAIN
 
 ::BEGIN:DARKPUTIN

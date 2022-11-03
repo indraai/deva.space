@@ -22,7 +22,7 @@ p:If you've made it here that means you need something in your System Support So
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0265/background
+#bg = main/world/0265/background
 coordinates:00[-430|-499]
 ::END:MAIN
 

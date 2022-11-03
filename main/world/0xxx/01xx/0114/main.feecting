@@ -21,7 +21,7 @@ p:look[down] is the Western Gate of Arjika
 There is also a security board here to read the latest bulletins.
 bmud[Read Security Bulletins]:read security
 
-#bg = thegame/world/0096/background
+#bg = main/world/0096/background
 #bgcolor = var(--color-black)
 coordinates:00[-56|-465]
 ::END:MAIN

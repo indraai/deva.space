@@ -8,6 +8,6 @@ p:Welcome to House Indra.
 
 talk:#veda view 09113
 
-#bg = thegame/world/0134/background
+#bg = main/world/0134/background
 #color = #e4de94
 ::END:MAIN

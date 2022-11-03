@@ -13,6 +13,6 @@ p:Visit the food court for some tasty treats or the Home Store for some new furn
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0153/background
+#bg = main/world/0153/background
 coordinates:00[-114|-153]
 ::END:MAIN

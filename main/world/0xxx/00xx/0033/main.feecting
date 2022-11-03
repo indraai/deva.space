@@ -9,6 +9,6 @@ thanks:Thank you for visiting the Shrine of Indra. Please leave your Offerings o
 
 mud[Exit West...]:w
 
-#bg = thegame/world/0033/background
+#bg = main/world/0033/background
 #color = #e4de94
 ::END:MAIN

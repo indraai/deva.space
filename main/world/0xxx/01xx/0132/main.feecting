@@ -20,5 +20,5 @@ mud[Visit Housholder...]:s
 p:To the west is House Vamraka
 mud[Visit House Vamraka...]:w
 
-#bg = thegame/world/0132/background
+#bg = main/world/0132/background
 ::END:MAIN

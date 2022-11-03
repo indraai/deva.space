@@ -29,7 +29,7 @@ p:Based in New York, the company now employs more than 70 people worldwide.
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0975/background
+#bg = main/world/0975/background
 coordinates:09[-666.5|-544.5]
 talk:#space world:main 0900/training:card
 ::END:MAIN

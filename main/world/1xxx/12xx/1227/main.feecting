@@ -11,6 +11,6 @@ p:You are are at the Le Gourment.
 
 #bgcolor = #ffffff
 #color = #333333
-#bg = thegame/world/1227/background
+#bg = main/world/1227/background
 coordinates:12[-379|-623]
 ::END:MAIN

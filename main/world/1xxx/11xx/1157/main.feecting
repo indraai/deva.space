@@ -20,7 +20,7 @@ p:You are are at the Disneyland Computer Room where the RTC31930 lives.
 
 #bgcolor = #000000
 #color = #eeeeee
-#bg = thegame/world/1157/background
+#bg = main/world/1157/background
 
 coordinates:11[-471|-876]
 ::END:MAIN

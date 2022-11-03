@@ -15,6 +15,6 @@ img:main/world/1234/courtyard2
 
 #bgcolor = #076d9e
 #color = #dbb854
-#bg = thegame/world/1234/background
+#bg = main/world/1234/background
 coordinates:12[-284|-665]
 ::END:MAIN

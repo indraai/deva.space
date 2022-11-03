@@ -11,6 +11,6 @@ p:You are are at the Hallway.
 
 #bgcolor = #978368
 #color = #eaddcd
-#bg = thegame/world/1237/background
+#bg = main/world/1237/background
 coordinates:12[-432|-665]
 ::END:MAIN

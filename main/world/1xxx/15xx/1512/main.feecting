@@ -9,6 +9,6 @@ img:main/world/1139/title
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1139/background
+#bg = main/world/1139/background
 coordinates:15[-526|-472]
 ::END:MAIN

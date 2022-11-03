@@ -12,7 +12,7 @@ talk:#veda book 2
 ::end:vedas
 
 #color = var(--color-white)
-#bg = thegame/world/0012/background
+#bg = main/world/0012/background
 coordinates:00[-390|-223]
 ::END:MAIN
 

@@ -28,7 +28,7 @@ mud[🧥 Jacket]:buy jacket
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0268/background
+#bg = main/world/0268/background
 coordinates:00[-603|-533.5]
 ::END:MAIN
 

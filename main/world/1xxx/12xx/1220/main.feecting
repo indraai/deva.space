@@ -11,6 +11,6 @@ p:You are are at the One Of A Kind.
 
 #bgcolor = #ffffff
 #color = #333333
-#bg = thegame/world/1220/background
+#bg = main/world/1220/background
 coordinates:12[-647|-616]
 ::END:MAIN

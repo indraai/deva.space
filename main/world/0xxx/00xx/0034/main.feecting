@@ -11,7 +11,7 @@ thanks:Thank you for visiting the Shrine of Soma. Please leave your Offerings on
 
 mud[Exit North...]:n
 
-#bg = thegame/world/0034/background
+#bg = main/world/0034/background
 #color = #5afcfc
 ::END:MAIN
 

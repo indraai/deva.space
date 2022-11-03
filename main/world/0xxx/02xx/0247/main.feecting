@@ -9,7 +9,7 @@ img:main/world/0247/title
 
 ## indra.fun/land
 p:You are in indra.fun/land
-#bg = thegame/world/0247/background
+#bg = main/world/0247/background
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 ::END:MAIN

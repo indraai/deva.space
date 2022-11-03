@@ -33,7 +33,7 @@ mud[You want to turn back...]:s
 
 talk:#space hash add 91
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

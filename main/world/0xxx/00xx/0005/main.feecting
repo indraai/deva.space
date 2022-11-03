@@ -9,6 +9,6 @@ p:You are in Academy L3
 
 #color = var(--color-white)
 #bgcolor = var(--color-grey)
-#bg = thegame/world/0002/background
+#bg = main/world/0002/background
 coordinates:00[-609|-245]
 ::END:MAIN

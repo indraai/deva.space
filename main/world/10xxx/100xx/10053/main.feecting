@@ -18,7 +18,7 @@ mud[Bluff the guards...]:s
 
 talk:#space hash add 53
 
-#bg = thegame/world/10000/background
+#bg = main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

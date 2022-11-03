@@ -8,6 +8,6 @@ p:You are in Academy Graduation
 
 #color = var(--color-white)
 #bgcolor = var(--color-grey)
-#bg = thegame/world/0002/background
+#bg = main/world/0002/background
 coordinates:00[-540|-211]
 ::END:MAIN

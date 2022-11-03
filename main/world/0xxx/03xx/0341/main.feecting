@@ -21,7 +21,7 @@ talk:#space world:main 0341/main:arx
 
 #bgcolor = #000000
 #color = #e0bee6
-#bg = thegame/world/0341/background
+#bg = main/world/0341/background
 coordinates:00[-360|-880]
 ::END:MAIN
 

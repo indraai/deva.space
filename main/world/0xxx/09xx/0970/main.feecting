@@ -19,7 +19,7 @@ img:main/world/0970/003
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/0970/background
+#bg = main/world/0970/background
 
 coordinates:09[-707|-383]
 

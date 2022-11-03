@@ -9,7 +9,7 @@ p:Welcome to Medical,
 
 p:Here MedicDEVA offer the services to get yourself back into physical and mental fitness to enjoy Disneyland to the fullest.
 
-#bg = thegame/world/0097/background
+#bg = main/world/0097/background
 #bgcolor = #db9cc0
 #color = #260051
 

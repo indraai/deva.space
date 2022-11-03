@@ -7,7 +7,7 @@ img:main/agent/0129/avatar
 # Stephen Huntley Watt
 Stephen Watt is a computer hacker who went by Jim Jones and then Unix Terrorist (the_ut for short). In the late 1990s and early 2000s, that hacker was part of a band of self-proclaimed black hats that opposed the publication of security vulnerabilities and resisted the hacking scene’s shift from recreational network intrusions to legitimate security research. Under the rubric Project Mayhem, the gang managed to hack into the accounts of a number of prominent “white hat” hackers and publish their private files and e-mails.
 
-cmd:#space view:thegame:agent 0129/summary
+cmd:#space agent:main 0129/summary
 ::END:LOOK
 ====
 

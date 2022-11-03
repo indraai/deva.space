@@ -15,7 +15,7 @@ bmud[Read Security Bulletins]:read security
 
 
 #bgcolor = var(--color-black)
-#bg = thegame/world/0096/background
+#bg = main/world/0096/background
 coordinates:00[-638|-291]
 ::END:MAIN
 

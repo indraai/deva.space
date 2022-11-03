@@ -20,7 +20,7 @@ p[speak:Matthew]:In October 2010, the Wall Street Journal discovered that a numb
 
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
-#bg = thegame/world/920/background
+#bg = main/world/920/background
 coordinates:09[-263.5|-505]
 talk:#space world:main 0900/training:card
 ::END:MAIN

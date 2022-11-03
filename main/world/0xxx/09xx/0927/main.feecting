@@ -17,7 +17,7 @@ talk:#wiki summary GhostNet
 
 #color = var(--color-baby-blue)
 #bgcolor = var(--color-black)
-#bg = thegame/world/0927/background
+#bg = main/world/0927/background
 coordinates:09[-223|-384]
 talk:#space world:main 0900/training:card
 ::END:MAIN

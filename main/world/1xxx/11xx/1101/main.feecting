@@ -10,6 +10,6 @@ p:You are are at the Disneyland Entrance.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = thegame/world/1101/background
+#bg = main/world/1101/background
 coordinates:11[-459|-767]
 ::END:MAIN

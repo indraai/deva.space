@@ -39,6 +39,6 @@ p:He will, when supplicated, bring him blessing. He hath brought all, food, stre
 
 cmd:#veda view 10099
 
-#bg = thegame/world/0126/background
+#bg = main/world/0126/background
 #color = #ffff6e
 ::END:MAIN

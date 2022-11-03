@@ -17,7 +17,7 @@ talk:#space world:main 0355/main:eldertales
 
 #bgcolor = #000000
 #color = #42de57
-#bg = thegame/world/0355/background
+#bg = main/world/0355/background
 coordinates:00[-397|-915]
 ::END:MAIN
 
