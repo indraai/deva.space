@@ -1,7 +1,7 @@
 {
-  "name": "adventures",
+  "name": "deva.space",
   "version": "0.0.2",
-  "description": "The Adventure files for the IndraMind.",
+  "description": "The deva.space content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   "author": "Quinn Michaels",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indraai/adv/issues"
+    "url": "https://github.com/indraai/deva.space/issues"
   },
-  "homepage": "https://github.com/indraai/adv#readme"
+  "homepage": "https://github.com/indraai/deva.space#readme"
 }
