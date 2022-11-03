@@ -86,6 +86,8 @@ p[speak:Emma]:Don't mess with the Snake Goddess!! Don't mess with the Snake Godd
 
 p:(THEY EXIT TAKING COBRA WOMAN WITH THEM, LEAVING THE SNAKE GODDESS ON STAGE ALONE. SHE MOVES AS IF TO DEPART THEN STOPS AND LOOKS BACK AT THE CROWD.)
 
+-
+
 gate[jess]:Remember to keep track of your compromises. One too many and you become suddenly expendable. There is no safety net in advertising, and public opinion only measures limp frustration.
 
 gate[jess]:The Tower has fallen, and powerful new weapons are being grabbed by hands with nothing to lose. Among this rowdy crowd, new consumer trends could turn downright revolting.
@@ -96,9 +98,16 @@ gate[jess]:Build the world as a nest for the children. Pay close attention, leas
 
 gate[jess]:The powers that run deep in the earth will not let such a compromise go unchecked, and neither will I.
 
+gate[jess]:Just a word of warning. When those kids grow up, and they look back on this time, do you think they'll be at all confused at what you've done?
+
+gate[jess]:You don't have to be a genius to see it, not if you trust yourselves enough to admit what you already know.
+
+gate[jess]:If you don't, why should we care? There are dogs that are smarter than that. Mostly, because they listen better. They're less distracted.
+
+gate[jess]:So, take the time to enjoy being with other human beings. All good things spring from that. Understanding, empathy, pleasure. All forms of devotion. You give that to anyone, and you'll get it all back.
+
 p:SHE EXITS THROUGH CURTAIN.
 
-- SEVERED HEADS
 
 -
 
@@ -189,10 +198,6 @@ p[speak:Emma]:Don't mess with the snake goddess! Don't mess with the snake godde
 p[speak:Amy]:O.K. Beat it!
 
 p:(THE SPOONKIDS DANCE OFF, DRAGGING COBRA WOMAN'S BODY. HH GETS UP AND COMES DOWNSTAGE.)
-
-p[speak:Amy]:Just a word of warning. When those kids grow up, and they look back on this time, do you think they'll be at all confused on the difference between art and crap? Uh-huh. You don't have to be a genius to know the difference, not if you trust yourselves enough to admit what you already know. And if you don't, why should we care? There are dogs that are smarter than that. Mostly, because they listen better. They're less distracted. So, take the time to enjoy being with other human beings. All good things spring from that. Understanding, empathy, pleasure. All forms of devotion. You give that to me, or to anyone, and I guarantee, you'll get it all back, in spades.
-
-p:(SHE RAISES HER ARMS/ COWL/ MUSIC CRESCENDOS/ SHE EXITS IN A CLOUD OF SMOKE.)
 
 #color = var(--color-white)
 #bgcolor = var(--color-pink)
