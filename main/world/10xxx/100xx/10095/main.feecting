@@ -18,7 +18,7 @@ p:There's only one way to do it - take a deep breath and run as fast as you can.
 mud[If your willing to run for it...]:n
 mud[If not...]:s
 
-talk:#adv hash add 95
+talk:#space hash add 95
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

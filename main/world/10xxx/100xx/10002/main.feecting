@@ -25,7 +25,7 @@ p:These thoughts race through your head in a split second.
 mud[Try to land on the ledge...]:n
 mud[Continue falling...]:d
 
-talk:#adv hash add 2
+talk:#space hash add 2
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

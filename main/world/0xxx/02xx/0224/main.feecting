@@ -11,7 +11,7 @@ img:main/world/0224/title
 
 p:Welcome to the Bank of Arjika. This bank is well known in the Underworld for doing good honest business. They also from time to time help authorities with financial investigations.
 
-talk:#adv world:main 0224/main:bank
+talk:#space world:main 0224/main:bank
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

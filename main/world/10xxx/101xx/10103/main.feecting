@@ -18,9 +18,9 @@ p:"Thanks," you say. "After this I'm not going to be afraid of anything in the U
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 103
+talk:#space hash add 103
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

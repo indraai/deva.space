@@ -22,7 +22,7 @@ p:They think we may be Raka spies. That is why you were treated so rudely. They 
 
 mud[Continue...]:e
 
-talk:#adv hash add 67
+talk:#space hash add 67
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

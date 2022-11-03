@@ -14,7 +14,7 @@ img:main/world/10037/craft
 mud[Press Emergency Reverse...]:n
 mud[Reason with Dr. Bruckner...]:s
 
-talk:#adv hash add 37
+talk:#space hash add 37
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -31,7 +31,7 @@ bmud[The Contract of The Covenant]:look contract
 #bgcolor = var(--color-white)
 
 coordinates:09[-465|-424]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:CONTRACT

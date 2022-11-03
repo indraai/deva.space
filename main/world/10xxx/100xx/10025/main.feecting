@@ -28,7 +28,7 @@ p:By morning your head has cleared. It was a terrible ordeal, but at least you s
 
 mud[Continue...]:e
 
-talk:#adv hash add 25
+talk:#space hash add 25
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

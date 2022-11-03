@@ -22,7 +22,7 @@ p:Like the first Rakas you met, they are armed with ropes and nets. They don't l
 mud[Continue to shore...]:n
 mud[Swim back across river...]:s
 
-talk:#adv hash add 58
+talk:#space hash add 58
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

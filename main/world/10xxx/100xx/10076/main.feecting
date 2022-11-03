@@ -19,7 +19,7 @@ p:"The Archpods and the Rakas have made peace," says Akpar. "From now on we shal
 
 mud[Continue...]:e
 
-talk:#adv hash add 76
+talk:#space hash add 76
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

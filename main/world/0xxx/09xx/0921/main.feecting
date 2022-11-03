@@ -17,7 +17,7 @@ talk:#wiki summary Romero_Games
 #bgcolor = var(--color-black)
 #bg = thegame/world/0921/background
 coordinates:09[-304|-464]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

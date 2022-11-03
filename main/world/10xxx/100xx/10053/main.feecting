@@ -16,7 +16,7 @@ p:Nearby is a smaller boat, one you could paddle yourself. You just might be abl
 mud[Take the small boat...]:n
 mud[Bluff the guards...]:s
 
-talk:#adv hash add 53
+talk:#space hash add 53
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

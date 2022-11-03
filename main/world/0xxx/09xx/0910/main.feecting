@@ -17,7 +17,7 @@ cmd:#pastebin view nqgYMfPL
 #color = var(--color-light-grey)
 #bgcolor = var(--color-black)
 coordinates:09[-384|-464]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

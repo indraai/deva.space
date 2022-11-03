@@ -14,7 +14,7 @@ wiki:Red_Army_Faction
 #bgcolor = var(--color-black)
 #bg = thegame/world/0979/background
 coordinates:09[-666.5|-303]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

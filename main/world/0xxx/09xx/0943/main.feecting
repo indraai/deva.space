@@ -32,7 +32,7 @@ youtube:yIHhnApcdC8
 #color = #eeeeee
 #bgcolor = rgba(0,0,0,.5)
 #bg = thegame/world/0943/background
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 coordinates:09[-586|-666]
 ::END:MAIN
 

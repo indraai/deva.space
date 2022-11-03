@@ -23,7 +23,7 @@ p:Ahead of you, Katu is bounding up the higher peaks like a mountain gazelle.
 
 mud[Continue...]:e
 
-talk:#adv hash add 85
+talk:#space hash add 85
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

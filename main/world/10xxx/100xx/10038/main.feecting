@@ -15,7 +15,7 @@ p:Professor Bruckner's face is ashen gray. You feel for his pulse. Nothing. The 
 
 mud[Continue...]:e
 
-talk:#adv hash add 38
+talk:#space hash add 38
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

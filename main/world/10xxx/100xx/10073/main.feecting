@@ -19,7 +19,7 @@ p:That sleeping tide, you lie on your bed, dreaming of home. An explosion startl
 
 mud[Continue...]:e
 
-talk:#adv hash add 73
+talk:#space hash add 73
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

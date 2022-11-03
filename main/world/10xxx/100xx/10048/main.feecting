@@ -38,7 +38,7 @@ p:You hold your head in your hands. Poor Dr. Vivaldi! And now the threat of war.
 
 mud[Continue...]:e
 
-talk:#adv hash add 48
+talk:#space hash add 48
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

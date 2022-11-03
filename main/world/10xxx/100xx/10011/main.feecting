@@ -16,7 +16,7 @@ p:Without thinking more about it, you leap up, and because there's very little g
 
 mud[Continue...]:e
 
-talk:#adv hash add 11
+talk:#space hash add 11
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

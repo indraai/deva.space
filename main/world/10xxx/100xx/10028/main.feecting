@@ -14,7 +14,7 @@ p:"This time we'll be far better equipped. NASA has put two helicopters at my di
 
 mud[Continue...]:e
 
-talk:#adv hash add 28
+talk:#space hash add 28
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

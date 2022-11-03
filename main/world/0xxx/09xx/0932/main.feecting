@@ -75,7 +75,7 @@ p:On December 11, I contacted Gennady Mishuris, one of the above "magnificent fo
 #color = var(--color-white)
 #bgcolor = #3c0c3b
 coordinates:09[-586|-545]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

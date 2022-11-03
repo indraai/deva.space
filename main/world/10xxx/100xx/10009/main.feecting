@@ -34,7 +34,7 @@ p:Will you even survive the arctic night?
 
 mud[Continue...]:e
 
-talk:#adv hash add 9
+talk:#space hash add 9
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

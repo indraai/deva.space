@@ -30,7 +30,7 @@ p:You shudder to think that you are about to witness the beginning of a war. But
 
 mud[Continue...]:e
 
-talk:#adv hash add 54
+talk:#space hash add 54
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

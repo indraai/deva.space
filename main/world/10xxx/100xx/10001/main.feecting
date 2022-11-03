@@ -30,7 +30,7 @@ p:For a minute no one speaks. Like you, the others must feel excited to have rea
 
 mud[Continue to the edge...]:n
 
-talk:#adv hash add 1
+talk:#space hash add 1
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -13,7 +13,7 @@ title: MaxieSpoon's Room
 #color = var(--color-white)
 #bgcolor = var(--color-green)
 coordinates:09-spoonkids[-143|-625.5]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

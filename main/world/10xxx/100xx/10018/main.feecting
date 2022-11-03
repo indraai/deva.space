@@ -17,7 +17,7 @@ p:You're thankful that in this part of Greenland it never grows dark in July. Bu
 
 mud[Continue...]:e
 
-talk:#adv hash add 18
+talk:#space hash add 18
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

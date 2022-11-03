@@ -17,9 +17,9 @@ p:Soon you stop rising and start falling. Then you rise a shorter distance, stop
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 8
+talk:#space hash add 8
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff
 #color = #333333

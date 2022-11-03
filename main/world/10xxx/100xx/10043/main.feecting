@@ -23,7 +23,7 @@ p:Then, with one great bound, you're out, standing  on the surface of the Underg
 
 mud[Continue...]:w
 
-talk:#adv hash add 43
+talk:#space hash add 43
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -22,7 +22,7 @@ p:There is something terrifying about that face, but also something angelic, som
 mud[Run from the strange creature...]:n
 mud[Hold your ground and face it...]:s
 
-talk:#adv hash add 6
+talk:#space hash add 6
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

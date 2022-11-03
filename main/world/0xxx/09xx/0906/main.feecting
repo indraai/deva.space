@@ -224,7 +224,7 @@ https://www.scribd.com/heru___888
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 coordinates:09[-425|-464]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

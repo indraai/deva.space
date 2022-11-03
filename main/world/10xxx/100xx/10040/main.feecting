@@ -27,7 +27,7 @@ p:Coming up the ravine are more than a dozen creatures, smaller than you, yet wa
 
 mud[Continue...]:w
 
-talk:#adv hash add 40
+talk:#space hash add 40
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

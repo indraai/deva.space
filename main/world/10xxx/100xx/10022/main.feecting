@@ -20,7 +20,7 @@ p:The village is the coastal settlement from which your party began its trek acr
 
 mud[Continue...]:e
 
-talk:#adv hash add 22
+talk:#space hash add 22
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

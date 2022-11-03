@@ -25,7 +25,7 @@ p:"I was wondering whether there were any plans for another expedition to the Bo
 
 mud[Continue...]:w
 
-talk:#adv hash add 30
+talk:#space hash add 30
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

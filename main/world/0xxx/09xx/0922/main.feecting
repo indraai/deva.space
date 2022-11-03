@@ -17,7 +17,7 @@ p[speak]:In 2021 it would be discovered that Tabitha was involved with a group o
 
 ## Training
 ::begin:training
-talk:#adv world:main 0922/training:main
+talk:#space world:main 0922/training:main
 ::end:training
 
 #color = #333333
@@ -25,7 +25,7 @@ talk:#adv world:main 0922/training:main
 #bg = thegame/world/0922/background
 
 coordinates:09[-545.5|-423.5]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

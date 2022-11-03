@@ -18,7 +18,7 @@ p:Gasping, you stumble up the hill and collapse in a mound of diamonds. Dr. Viva
 
 mud[Continue...]:e
 
-talk:#adv hash add 94
+talk:#space hash add 94
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

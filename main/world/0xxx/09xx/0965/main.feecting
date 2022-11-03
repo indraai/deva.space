@@ -12,7 +12,7 @@ title: InfoWars
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:09[-666.5|-384]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

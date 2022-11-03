@@ -5,7 +5,7 @@ p:You can see Chaos Computer Club from here.
 ::BEGIN:MAIN
 ## Chaos Computer Club
 
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)

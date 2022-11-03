@@ -29,7 +29,7 @@ mud[The Weightless Peaks]:w
 mud[The Hills of Diamons]:s
 mud[The Shining Mountains]:e
 
-talk:#adv hash add 83
+talk:#space hash add 83
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

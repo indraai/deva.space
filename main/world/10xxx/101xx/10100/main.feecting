@@ -17,7 +17,7 @@ p:But in a few moments you reach the shelter of the cluster-leaf groves, and as 
 
 mud[Continue...]:w
 
-talk:#adv hash add 100
+talk:#space hash add 100
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

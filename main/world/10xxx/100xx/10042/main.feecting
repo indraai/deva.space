@@ -32,7 +32,7 @@ p:"Ib agon," he says as he takes you inside.
 
 mud[Continue...]:e
 
-talk:#adv hash add 42
+talk:#space hash add 42
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

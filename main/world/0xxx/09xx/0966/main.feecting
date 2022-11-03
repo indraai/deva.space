@@ -15,7 +15,7 @@ link[Jacob Bruce]:https://brooklynrail.org/2016/04/fiction/the-joyous-science-pa
 #bgcolor = var(--color-white)
 #bg = thegame/world/0966/background
 coordinates:09[-666.5|-343]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

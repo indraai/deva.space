@@ -10,11 +10,11 @@ Welcom to the Adventure Arcade. In this room you will find the games.
 - End of the Line
 
 ::begin:arcade
-talk:#adv world:main 0327/main:avatar
+talk:#space world:main 0327/main:avatar
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:main 0327/main:eotl
+talk:#space world:main 0327/main:eotl
 ::end:arcade
 
 #bgcolor = #000000

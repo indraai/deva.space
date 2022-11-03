@@ -30,7 +30,7 @@ p:The professor smiles. "It means that the interior of the earth beginning about
 
 mud[Continue...]:e
 
-talk:#adv hash add 29
+talk:#space hash add 29
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -18,7 +18,7 @@ p:As you climb down from the tree, you hear a low moaning coming from the brush.
 
 mud[Continue...]:e
 
-talk:#adv hash add 46
+talk:#space hash add 46
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

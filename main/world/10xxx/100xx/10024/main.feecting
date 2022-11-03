@@ -17,9 +17,9 @@ p:Is Dr. Vivaldi still alive?
 p:Now, of course, you'll never know.
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 24
+talk:#space hash add 24
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

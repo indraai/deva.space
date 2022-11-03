@@ -22,9 +22,9 @@ img:main/world/10062/rapids
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 62
+talk:#space hash add 62
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -9,7 +9,7 @@ vector: 0x_0302o
 describe:Great and glorious is Sindhu.
 
 ::begin:hymn
-talk:#adv object:main 0302/main:sindhu
+talk:#space object:main 0302/main:sindhu
 ::end:hymn
 ::END:LOOK
 

@@ -17,9 +17,9 @@ p:Do you?
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 60
+talk:#space hash add 60
 
 
 #bg = thegame/world/10000/background

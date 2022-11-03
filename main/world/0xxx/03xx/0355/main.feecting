@@ -8,11 +8,11 @@ img:main/world/0327/title
 This is the southeast corner of the Adventure Arcade where you will find Disc World and Elder Tale Online.
 
 ::begin:arcade
-talk:#adv world:main 0355/main:discworld
+talk:#space world:main 0355/main:discworld
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:main 0355/main:eldertales
+talk:#space world:main 0355/main:eldertales
 ::end:arcade
 
 #bgcolor = #000000

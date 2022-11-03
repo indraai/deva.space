@@ -20,7 +20,7 @@ p:Dr. Vivaldi replies, "Think carefully before you make such a decision."
 mud[Face the Grand Akpar...]:n
 mud[Escape the Grand Akpar...]:s
 
-talk:#adv hash add 68
+talk:#space hash add 68
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

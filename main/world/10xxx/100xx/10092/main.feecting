@@ -50,7 +50,7 @@ p:She nods and motions you to follow.
 
 mud[Continue...]:e
 
-talk:#adv hash add 92
+talk:#space hash add 92
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

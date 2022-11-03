@@ -25,7 +25,7 @@ p:If only that were possible!
 
 p:It's your only chance once you reach the Black Sun. A chance in a million maybe, but still a chance . . .
 
-talk:#adv hash add 106
+talk:#space hash add 106
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -21,7 +21,7 @@ p:You realize that you have not slept since you arrived in the Underground Kingd
 
 mud[Continue...]:e
 
-talk:#adv hash add 52
+talk:#space hash add 52
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

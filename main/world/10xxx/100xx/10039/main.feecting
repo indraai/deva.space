@@ -15,7 +15,7 @@ p:Maybe things will go better for you if you bravely face the inhabitants of thi
 mud[Face the creatures...]:n
 mud[Hide in the cluster of leaves...]:s
 
-talk:#adv hash add 39
+talk:#space hash add 39
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

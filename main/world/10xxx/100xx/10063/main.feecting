@@ -20,7 +20,7 @@ p:There aren't any stars in the Underground Kingdom. You're not on the river—y
 
 mud[Continue...]:e
 
-talk:#adv hash add 63
+talk:#space hash add 63
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

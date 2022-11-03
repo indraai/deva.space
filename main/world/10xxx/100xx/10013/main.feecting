@@ -30,9 +30,9 @@ p:You're happy to be alive, but you know that you'll always regret that you neve
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 13
+talk:#space hash add 13
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

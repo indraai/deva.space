@@ -19,7 +19,7 @@ p:"Where do you think we should explore?" you ask.
 
 mud[Continue...]:e
 
-talk:#adv hash add 81
+talk:#space hash add 81
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

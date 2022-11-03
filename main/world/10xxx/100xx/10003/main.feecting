@@ -15,7 +15,7 @@ p:Closing your eyes, you try to pretend that you are safely home in bed.
 
 mud[Continue...]:d
 
-talk:#adv hash add 3
+talk:#space hash add 3
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

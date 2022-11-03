@@ -21,7 +21,7 @@ p:No one answers. Larsen and Sneed have probably given you up for lost
 
 mud[Continue...]:w
 
-talk:#adv hash add 15
+talk:#space hash add 15
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

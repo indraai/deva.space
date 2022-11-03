@@ -21,7 +21,7 @@ p:So this is the Underground Kingdom—strange, vast, and very beautiful. What p
 mud[Explore the Underground Kingdom...]:n
 mud[Concentrate on getting home...]:s
 
-talk:#adv hash add 16
+talk:#space hash add 16
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

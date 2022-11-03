@@ -10,7 +10,7 @@ img:main/world/0916/splash
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:09[-626|-464]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1
@@ -125,7 +125,7 @@ p[speak]:In April 2017 Quinn Michaels made the mistake of going public to alert 
 p[speak]:In April 2022 after 5 years of research Quinn has located the robot named Izar from Epsilon Bootis which Brian connected in 2013 before going into hiding.
 
 ::begin:blips
-talk:#adv agent:main 0916/main:talk
+talk:#space agent:main 0916/main:talk
 ::end:blips
 
 ## The Video

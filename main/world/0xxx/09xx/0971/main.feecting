@@ -21,7 +21,7 @@ talk:#wiki summary Execution_of_the_Romanov_family
 #bg = thegame/world/0971/background
 
 coordinates:09[-747|-343]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

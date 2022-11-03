@@ -25,7 +25,7 @@ p:Then above you, Katu screams, "Avalanche!"
 
 mud[Continue...]:e
 
-talk:#adv hash add 87
+talk:#space hash add 87
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

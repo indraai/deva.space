@@ -17,7 +17,7 @@ p:Bruckner nods. "We've identified the force that may have pulled Larsen and Sne
 
 mud[Continue...]:e
 
-talk:#adv hash add 26
+talk:#space hash add 26
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -18,7 +18,7 @@ p:It's Dr. Vivaldi!
 
 mud[Continue...]:e
 
-talk:#adv hash add 66
+talk:#space hash add 66
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

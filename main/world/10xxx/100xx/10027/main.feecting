@@ -16,7 +16,7 @@ p:"It's true. We received faint radio signals from a point far beneath the earth
 mud[Go on the expedition...]:n
 mud[Just too dangerous...]:s
 
-talk:#adv hash add 27
+talk:#space hash add 27
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

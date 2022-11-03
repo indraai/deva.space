@@ -13,7 +13,7 @@ title: BabySpoon's Room
 #color = var(--color-white)
 #bgcolor = var(--color-baby-blue)
 coordinates:09-spoonkids[-183|-585]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

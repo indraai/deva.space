@@ -22,7 +22,7 @@ warning:EMERGENCY REVERSE/RETURN TO INITIAL POSITION.
 
 mud[Continue...]:e
 
-talk:#adv hash add 35
+talk:#space hash add 35
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

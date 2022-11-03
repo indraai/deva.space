@@ -21,7 +21,7 @@ p:Finally you reach cooler ground. Ahead of you is a dazzling vision: dozens of 
 
 mud[Continue...]:e
 
-talk:#adv hash add 88
+talk:#space hash add 88
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

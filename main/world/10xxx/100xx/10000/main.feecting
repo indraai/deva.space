@@ -24,8 +24,8 @@ mud[Read Professor Bruckner's theory...]:read theory
 
 mud[Continue to the glacier...]:n
 
-talk:#adv hash clear
-talk:#adv hash add 0
+talk:#space hash clear
+talk:#space hash add 0
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

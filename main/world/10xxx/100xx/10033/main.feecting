@@ -18,9 +18,9 @@ p:Weary and sad, your party trudges back across the ice fields. The moving glaci
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 33
+talk:#space hash add 33
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

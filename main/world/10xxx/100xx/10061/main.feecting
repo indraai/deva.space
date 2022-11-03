@@ -18,7 +18,7 @@ p:Above you is an enormous flying creature with wings stretching twenty feet acr
 
 mud[Continue...]:w
 
-talk:#adv hash add 61
+talk:#space hash add 61
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

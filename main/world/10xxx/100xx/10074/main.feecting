@@ -25,9 +25,9 @@ p:"I'm glad we had the chance," you say. "I wouldn't have missed it for the worl
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 74
+talk:#space hash add 74
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

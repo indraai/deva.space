@@ -27,7 +27,7 @@ p:It's getting worse. What's happening? Can't Dr. Vivaldi stop it? You're blacki
 
 mud[Continue...]:w
 
-talk:#adv hash add 82
+talk:#space hash add 82
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

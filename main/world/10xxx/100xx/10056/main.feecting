@@ -22,7 +22,7 @@ p:You lie low on the raft, afraid of landing until you are well past Rakmara. No
 
 mud[Continue...]:e
 
-talk:#adv hash add 55
+talk:#space hash add 55
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -17,7 +17,7 @@ p:It's risky, but it's your only chance to avoid the war!
 mud[Swim for shore...]:n
 mud[Stay with the war boat...]:s
 
-talk:#adv hash add 55
+talk:#space hash add 55
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

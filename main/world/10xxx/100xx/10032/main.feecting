@@ -23,9 +23,9 @@ p:Everyone spoke very highly of you.
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 32
+talk:#space hash add 32
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -25,7 +25,7 @@ p:In the soft reddish gray twilight you see the Great River just ahead. You stop
 
 mud[Continue...]:e
 
-talk:#adv hash add 50
+talk:#space hash add 50
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

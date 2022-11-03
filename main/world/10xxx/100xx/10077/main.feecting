@@ -17,7 +17,7 @@ p:But this could be the only chance of finding your lost friends.
 mud[You decide to risk it...]:n
 mud[You decide to play it safe...]:s
 
-talk:#adv hash add 77
+talk:#space hash add 77
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

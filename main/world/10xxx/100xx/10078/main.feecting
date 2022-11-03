@@ -24,7 +24,7 @@ p:"There may still be a chance to return home, though the risks are great."
 mud[Explore the Kingdom...]:n
 mud[Return to the surface...]:s
 
-talk:#adv hash add 78
+talk:#space hash add 78
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -19,7 +19,7 @@ p:Finally the Rakas stop. Exhausted, you crumple to the ground. All is silent, a
 
 mud[Continue...]:e
 
-talk:#adv hash add 57
+talk:#space hash add 57
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

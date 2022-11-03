@@ -8,7 +8,7 @@ img:main/agent/0162/farmer
 
 Daniel Farmer worked in Unix Security at Purdue, CERT, and Sun. He currently writes security tools (best known for his "cops" program) for fun and almost for a living. He is currently working on a network scanning probe and improvements to cops, especially WRT very large sites.
 
-cmd:#adv agent:main 0162/summary
+cmd:#space agent:main 0162/summary
 
 ::END:LOOK
 ====
@@ -25,7 +25,7 @@ img:main/agent/0162/farmer
 ## SATAN
 Security Administrator Tool for Analyzing Networks
 
-cmd:#adv agent:main 0162/satan
+cmd:#space agent:main 0162/satan
 
 -
 

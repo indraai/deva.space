@@ -29,7 +29,7 @@ p:You shrink back from the choice. The High Raka's voice grows stern and cold "I
 mud[Go with the warriors...]:n
 mud[Don't take part in the war...]:s
 
-talk:#adv hash add 51
+talk:#space hash add 51
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -25,7 +25,7 @@ p:Once you've reached an understanding, you can work out a plan that will let th
 
 mud[Continue...]:e
 
-talk:#adv hash add 104
+talk:#space hash add 104
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

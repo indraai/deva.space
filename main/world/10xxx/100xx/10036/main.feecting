@@ -13,7 +13,7 @@ p:He blinks and rubs his eyes.
 
 mud[Continue...]:e
 
-talk:#adv hash add 36
+talk:#space hash add 36
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

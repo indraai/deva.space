@@ -15,7 +15,7 @@ p:Instead, you feel that you have been put into a trance. Stranger still, you se
 
 mud[Continue...]:w
 
-talk:#adv hash add 14
+talk:#space hash add 14
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

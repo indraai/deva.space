@@ -23,7 +23,7 @@ p:Who will volunteer to come with me?"
 
 mud[Continue...]:e
 
-talk:#adv hash add 75
+talk:#space hash add 75
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

@@ -25,7 +25,7 @@ p:If you do, they may be afraid to get close enough to rescue you.
 mud[Warn Larsen and Sneed...]:n
 mud[Yell Please Hurry!...]:s
 
-talk:#adv hash add 5
+talk:#space hash add 5
 
 
 #bg = thegame/world/10000/background

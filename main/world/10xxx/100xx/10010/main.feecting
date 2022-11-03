@@ -18,7 +18,7 @@ mud[You Run...]:n
 mud[Grab the fledgling and use it as a shield...]:e
 mud[Dive to the ground and shield yourself...]:s
 
-talk:#adv hash add 10
+talk:#space hash add 10
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

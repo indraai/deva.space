@@ -24,9 +24,9 @@ p:"Right," you answer.
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 69
+talk:#space hash add 69
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

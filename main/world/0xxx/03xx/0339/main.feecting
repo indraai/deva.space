@@ -8,11 +8,11 @@ img:main/world/0339/title
 p:Adventure On!
 
 ::begin:arcade
-talk:#adv world:main 0339/main:telehack
+talk:#space world:main 0339/main:telehack
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:main 0339/main:93realms
+talk:#space world:main 0339/main:93realms
 ::end:arcade
 
 #bgcolor = #000000

@@ -25,8 +25,8 @@ p:Chislenko experienced episodes of depression for many years. In the early morn
 -
 
 
-cmd[Hypereconomy]:#adv agent:main 0932/hypereconomy
-cmd[Semantec Web]:#adv agent:main 0932/semantec
+cmd[Hypereconomy]:#space agent:main 0932/hypereconomy
+cmd[Semantec Web]:#space agent:main 0932/semantec
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)

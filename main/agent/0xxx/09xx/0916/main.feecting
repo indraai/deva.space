@@ -10,6 +10,6 @@ vector: 0x0916a
 
 talk:#wiki summary Robert_David_Steele
 
-cmd[Hacking the Intelligence Community]:#adv object:main 0947/intel:main
-cmd[THE TRANSFORMATION OF WAR]:#adv object:main 0947/military:main
+cmd[Hacking the Intelligence Community]:#space object:main 0947/intel:main
+cmd[THE TRANSFORMATION OF WAR]:#space object:main 0947/military:main
 ::END:LOOK

@@ -22,7 +22,7 @@ p:Looking up, you see the blurred gray form of a wolf ooming as large as a mount
 
 mud[Continue...]:e
 
-talk:#adv hash add 97
+talk:#space hash add 97
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

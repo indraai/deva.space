@@ -13,11 +13,11 @@ link[DefCon 1 Program]:https://media.defcon.org/DEF%20CON%201/DEF%20CON%201%20pr
 
 img:main/world/0022/group
 
-talk:#adv world:main 0022/deadaddict
+talk:#space world:main 0022/deadaddict
 
-talk:#adv agent:main 0162/look
+talk:#space agent:main 0162/look
 
-talk:#adv world:main 0022/cypherpunk
+talk:#space world:main 0022/cypherpunk
 
 coordinates:00[-715|-645]
 ::END:MAIN

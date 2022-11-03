@@ -123,7 +123,7 @@ email: spoon@well.sf.ca.us.
 #color = var(--color-red)
 #bgcolor = var(--color-black)
 coordinates:09[-183|-706]
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1

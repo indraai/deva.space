@@ -6,7 +6,7 @@ You can see the Householder's room from here.
 img:main/world/0137/title
 
 ::begin:householder
-talk:#adv world:main 0137/main:householder
+talk:#space world:main 0137/main:householder
 ::end:householder
 
 #bg = thegame/world/0137/background

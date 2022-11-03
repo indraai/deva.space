@@ -32,7 +32,7 @@ p:What will you do?
 mud[Play along...]:n
 mud[Refuse to help...]:s
 
-talk:#adv hash add 70
+talk:#space hash add 70
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

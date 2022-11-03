@@ -18,9 +18,9 @@ p:Soon the sun will be rising, not the cold Black Sun of the Underground Kingdom
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 64
+talk:#space hash add 64
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

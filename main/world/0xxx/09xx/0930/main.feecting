@@ -29,7 +29,7 @@ p:Virus is a collection of mutually-supporting ideas (a meme-complex) encompassi
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = thegame/world/0930/background
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 coordinates:09[-586|-504]
 ::END:MAIN
 
@@ -73,7 +73,7 @@ talk:#wiki summary Perplex_City
 
 #color = var(--color-darkest-grey)
 #bgcolor = var(--color-white)
-talk:#adv world:main 0900/training:card
+talk:#space world:main 0900/training:card
 coordinates:09[-586|-504]
 ::END:PERPLEX
 

@@ -13,15 +13,15 @@ vector: 0x0936a
 
 link[Eric Sorenson - Archive]:https://bit.ly/3otUM2w
 
-cmd[Intro]:#adv agent:main 0936/main:intro
+cmd[Intro]:#space agent:main 0936/main:intro
 
-cmd[Computers]:#adv agent:main 0936/main:computers
+cmd[Computers]:#space agent:main 0936/main:computers
 
-cmd[Net]:#adv agent:main 0936/main:net
+cmd[Net]:#space agent:main 0936/main:net
 
-cmd[Musical]:#adv agent:main 0936/main:musical
+cmd[Musical]:#space agent:main 0936/main:musical
 
-cmd[Personal]:#adv agent:main 0936/main:personal
+cmd[Personal]:#space agent:main 0936/main:personal
 
 ::END:LOOK
 

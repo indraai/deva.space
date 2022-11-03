@@ -31,7 +31,7 @@ p:Are you willing to risk continuing on to the Hills of Diamonds, or do you want
 mud[You want to continue...]:n
 mud[You want to turn back...]:s
 
-talk:#adv hash add 91
+talk:#space hash add 91
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

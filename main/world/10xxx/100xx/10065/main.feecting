@@ -17,9 +17,9 @@ p:You're not a quitter. You'll go down trying.
 
 p:The End
 
-talk:#adv hash add 65
+talk:#space hash add 65
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

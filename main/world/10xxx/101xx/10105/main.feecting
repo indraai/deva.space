@@ -17,7 +17,7 @@ p:There is not much you can say, and you would hardly have time anyway, for the 
 
 mud[Continue...]:w
 
-talk:#adv hash add 105
+talk:#space hash add 105
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

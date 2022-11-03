@@ -19,7 +19,7 @@ p:No more time to think! You take a deep breath and run!
 
 mud[Containue...]:e
 
-talk:#adv hash add 101
+talk:#space hash add 101
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

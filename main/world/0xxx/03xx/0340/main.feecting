@@ -7,11 +7,11 @@ img:main/world/0340/title
 To your west is the great Throne of 0x the King of Adult Baby Day Care.
 
 ::begin:arcade
-talk:#adv world:main 0340/main:aardwolf
+talk:#space world:main 0340/main:aardwolf
 ::end:arcade
 
 ::begin:arcade
-talk:#adv world:main 0340/main:greater
+talk:#space world:main 0340/main:greater
 ::end:arcade
 
 #bgcolor = #000000

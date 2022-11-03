@@ -39,9 +39,9 @@ p:"Nothing could get me back here," you say.
 
 p:The End
 
-talk:#adv world:main 10000/main:thankyou
+talk:#space world:main 10000/main:thankyou
 
-talk:#adv hash add 20
+talk:#space hash add 20
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff

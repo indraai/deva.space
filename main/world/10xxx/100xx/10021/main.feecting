@@ -16,7 +16,7 @@ p:You are very tired. You desperately need rest.
 mud[Huddle in your your parka...]:n
 mud[Force yourself to keep walking...]:s
 
-talk:#adv hash add 21
+talk:#space hash add 21
 
 #bg = thegame/world/10000/background
 #bgcolor = #ffffff
