@@ -1,0 +1,16 @@
+::BEGIN:LOOK
+p:You can see Lucifer.com from here.
+::END:LOOK
+
+::BEGIN:MAIN
+
+img:main:world/0997/title
+
+## Lucifer.com
+
+note: Lucifer.com links to evil people group.
+
+#color = var(--color-red)
+#bgcolor = var(--color-black)
+coordinates:09[-546|-545]
+::END:MAIN
