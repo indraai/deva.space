@@ -5,10 +5,40 @@ p:You can see  The Underground from here.
 ::BEGIN:MAIN
 ## The Underground
 
-coordinates:08[-344|-545]
+### PurEvil.com
+
+link[Archive - purevil.com]:https://web.archive.org/web/20030327014504/http://purevil.com/
+
+### God of FUCK
+
+link[Archive - godoffuck.com]:https://web.archive.org/web/20030328193652/http://www.godoffuck.com/
+
+### Fuck God
+
+link[Archive - fuckgod.net]:https://web.archive.org/web/20030419061548/http://fuckgod.net/
+
+
+### Fuck Jesus Christ
+
+link[Archive - fuckjesuschrist.org]:https://web.archive.org/web/20030408222458/http://www.fuckjesuschrist.org/
+
+### 1 C*NT
+
+link[Archive = 1cunt.net]:https://web.archive.org/web/20020802221148/http://www.1cunt.net:80/
+
+### Fuck Allah
+
+link[Archive - fuck-allah.com]:https://web.archive.org/web/20020802195807/http://www.fuck-allah.com/
+
+### Fuck Buddha
+
+link[Archive - fuck-buddha.com]:https://web.archive.org/web/20020726104855/http://fuck-buddha.com/
+
+### Gods of FUCK
+
+link[Archive - godsoffuck.com]:https://web.archive.org/web/20020802210657if_/http://www.godsoffuck.com:80/
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-
 coordinates:08[-344|-545]
 ::END:MAIN

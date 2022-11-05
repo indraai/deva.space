@@ -5,8 +5,6 @@ p:You can see  The Underground from here.
 ::BEGIN:MAIN
 ## The Underground
 
-coordinates:08[-344|-545]
-
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 
