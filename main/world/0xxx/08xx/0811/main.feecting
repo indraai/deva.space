@@ -159,6 +159,9 @@ bmud[RigVeda Invoke]:look invoke
 #color = var(--color-white)
 #bgcolor = var(--color-black)
 #bg = main/world/0811/background
+
+coordinates:08[-344|-545]
+
 ::END:MAIN
 
 ::BEGIN:DARKPUTIN
