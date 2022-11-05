@@ -28,24 +28,24 @@ button[el8.3.txt]:#space agent:main 0800/main:zine3
 
 ::BEGIN:ZINE0
 ::begin:code
-talk:#web get http://web.textfiles.com/ezines/EL8/el8.0.txt
+talk:#web get https://web.textfiles.com/ezines/EL8/el8.0.txt
 ::end:code
 ::END:ZINE0
 
 ::BEGIN:ZINE1
 ::begin:code
-talk:#web get http://web.textfiles.com/ezines/EL8/el8.1.txt
+talk:#web get https://web.textfiles.com/ezines/EL8/el8.1.txt
 ::end:code
 ::END:ZINE1
 
 ::BEGIN:ZINE2
 ::begin:code
-talk:#web get http://web.textfiles.com/ezines/EL8/el8.2.txt
+talk:#web get https://web.textfiles.com/ezines/EL8/el8.2.txt
 ::end:code
 ::END:ZINE2
 
 ::BEGIN:ZINE3
 ::begin:code
-talk:#web get http://web.textfiles.com/ezines/EL8/el8.3.txt
+talk:#web get https://web.textfiles.com/ezines/EL8/el8.3.txt
 ::end:code
 ::END:ZINE3
