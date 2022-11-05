@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/agent/0996/avatar
+img:main/agent/0996/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/agent/0996/avatar
+img:main/agent/0996/avatar
 ## Lucifer
 name: Lucifer
 vector: 0x0996a
