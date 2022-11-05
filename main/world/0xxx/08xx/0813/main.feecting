@@ -7,10 +7,9 @@ p:You can see  The Underground from here.
 
 p:System7 was first thought up by Jouser (a member of The Mob). He had an extremely large private collection of computer security files. After he consulted Tophat, they decided it would be a good child project for The Mob if they released the file archive as a free and public library of information. System7.Org was originally released around March of 1999 after 4 months of work by Jouser, procload, & Tophat getting the site ready. The original site, as you may or may not remember, was entirely coded in html. This was a long and monotonous task. We had thousands of files that had to be indexed in html in order to easily navigate the site. We had to run every file to make sure it was legit, provide a description, and to make sure it wasn't malicious.
 
-
 p:Located system7.org from a link through the #darkcyde crew.
 
-
+link[Archive - System7(tm)]:https://web.archive.org/web/20060104172345/http://system7.org/
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
