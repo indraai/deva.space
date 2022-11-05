@@ -1,0 +1,14 @@
+::BEGIN:LOOK
+p:You can see  The Underground from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## The Underground
+
+coordinates:08[-344|-545]
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+
+coordinates:08[-546|-585]
+::END:MAIN
