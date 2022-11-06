@@ -1,12 +1,18 @@
 ::BEGIN:LOOK
-p:You can see indra.city/s from here.
+p:You can see 1S Main Street from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:main/world/0266/title
-p:You are in indra.city/s.
+
+## Main Street.
+
+::begin:news
+talk:#web rss https://www.latimes.com/local/rss2.0.xml
+::end:news
+
 #color = #333333
 #bgcolor = #ffffff
 coordinates:00[-465|-500]
