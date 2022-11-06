@@ -1,14 +1,20 @@
 ::BEGIN:LOOK
-p:You can see 1E Main Street.
+p:You can see 1E Arjika Blvd  .
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:main/world/0252/title
-p:You are in 1E Main Street
-#color = #333333
-#bgcolor = #eeeeee
+
+## 1E Arjika Blvd
+
+::begin:news
+talk:#web rss https://www.rt.com/rss/
+::end:news
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-500|-464]
 ::END:MAIN
 
