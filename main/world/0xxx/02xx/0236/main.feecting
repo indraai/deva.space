@@ -9,17 +9,9 @@ img:main/world/0236/title
 
 ## 1N Main Street
 
-p:You are in indra.city/n.
-
-p:Continue look[north] to visit indra.care, indra.agency or the many other rooms on the path.
-
-mud[Travel North...]:n
-
-p:Going look[south] will take you back to indra.center.
-mud[Travel South...]:s
-
-p:To the look[west] is indra.services where you can establish service with the indra.ai network.
-mud[Visit Services...]:w
+::begin:news
+talk:#web rss https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

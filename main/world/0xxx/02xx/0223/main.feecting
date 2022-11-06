@@ -6,7 +6,13 @@ You can see indra.city/n from here.
 
 ::BEGIN:MAIN
 img:main/world/0223/title
-p:You are in indra.city/n.
+
+## 3N Main Street
+
+::begin:news
+talk:#web rss https://www.huffpost.com/section/front-page/feed
+::end:news
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-361]

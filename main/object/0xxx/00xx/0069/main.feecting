@@ -13,12 +13,20 @@ look[Read Security News]:secnews
 ::BEGIN:SECNEWS
 # SECURITY NEWS
 
+## Hacker News
+
+p:!combinator latest Hacker News.
+
+::begin:menu
 button[!ycombinator - Hacker News]:#web rss https://news.ycombinator.com/rss
+::end:menu
 
 ## Krebs on Security RSS Feed
 p:Brian Krebs is a household name in information security, and his blog is among the most well known and respected in the space.
 
+::begin:menu
 button[Krebs on Security]:#web rss https://krebsonsecurity.com/feed/
+::end:menu
 
 ## Packet Storm
 
@@ -30,6 +38,6 @@ button[News - United States]:#web rss https://rss.packetstormsecurity.com/news/t
 button[News - Botnet News]:#web rss https://rss.packetstormsecurity.com/news/tags/botnet/
 ::end:menu
 
-#color = var(--color-white)
-#bgcolor = var(--color-black)
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 ::END:SECNEWS
