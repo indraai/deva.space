@@ -30,4 +30,6 @@ button[News - United States]:#web rss https://rss.packetstormsecurity.com/news/t
 button[News - Botnet News]:#web rss https://rss.packetstormsecurity.com/news/tags/botnet/
 ::end:menu
 
+#color = var(--color-white)
+#bgcolor = var(--color-black)
 ::END:SECNEWS
