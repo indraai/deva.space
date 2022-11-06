@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see 3E Main Street from here.
+p:You can see 3E Arjika Blvd from here.
 ::END:LOOK
 
 =
@@ -7,9 +7,11 @@ p:You can see 3E Main Street from here.
 ::BEGIN:MAIN
 img:main/world/0253/title
 
-## 3E Main Street
+## 3E Arjika Blvd
 
-img:main/world/0253/area
+::begin:news
+talk:#web rss https://www.w3.org/blog/feed/
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

@@ -1,14 +1,19 @@
 ::BEGIN:LOOK
-p:You can see indra.city/s from here.
+p:You can see 3S Main Street from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:main/world/0279/title
-p:You are in indra.city/s
-#bgcolor = #ffffff
-#color = #333333
+## 3S Main Street
+
+::begin:new
+talk:#web rss https://css-tricks.com/feed/
+::end:new
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
 coordinates:00[-465|-568]
 ::END:MAIN
 
