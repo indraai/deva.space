@@ -12,7 +12,7 @@ img:main/world/0252/title
 ::begin:news
 talk:#web rss https://www.rt.com/rss/
 ::end:news
-
+  
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-500|-464]

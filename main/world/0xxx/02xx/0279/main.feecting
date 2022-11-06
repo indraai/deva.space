@@ -2,8 +2,6 @@
 p:You can see 3S Main Street from here.
 ::END:LOOK
 
-=
-
 ::BEGIN:MAIN
 img:main/world/0279/title
 
@@ -17,5 +15,3 @@ talk:#web rss https://css-tricks.com/feed/
 #bgcolor = var(--color-white)
 coordinates:00[-465|-568]
 ::END:MAIN
-
-=
