@@ -1,0 +1,16 @@
+::BEGIN:AVATAR
+img:main/object/0069/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0069/avatar
+## Security NEWS
+name: Security NEWS
+vector: 0x0069o
+look[Training Text]:secnews
+::END:LOOK
+
+::BEGIN:SECNEWS
+# SECURITY NEWS
+
+::END:SECNEWS
