@@ -1,9 +1,9 @@
 ::BEGIN:AVATAR
-img:thegame/agent/0814/avatar
+img:main/agent/0814/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:thegame/agent/0814/avatar
+img:main/agent/0814/avatar
 ## Tophat
 name: Tophat
 vector: 0x0814a
