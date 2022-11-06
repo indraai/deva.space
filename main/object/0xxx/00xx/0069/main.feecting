@@ -7,7 +7,7 @@ img:main/object/0069/avatar
 ## Security NEWS
 name: Security NEWS
 vector: 0x0069o
-look[Training Text]:secnews
+look[Read Security News]:secnews
 ::END:LOOK
 
 ::BEGIN:SECNEWS
