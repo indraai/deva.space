@@ -1,19 +1,17 @@
 ::BEGIN:LOOK
-p:You can see 5W Main Street from here.
+p:You can see 5W Arjika Blvd. from here.
 ::END:LOOK
-
-=
 
 ::BEGIN:MAIN
 img:main/world/0248/title
 
-## 5W Main Street
+## 5W Arjika Blvd.
 
-p:You are in 5W Main Street.
+::begin:news
+talk:#web rss https://www.yahoo.com/news/rss
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-292|-464]
 ::END:MAIN
-
-=
