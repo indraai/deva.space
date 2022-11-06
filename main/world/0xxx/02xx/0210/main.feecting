@@ -10,7 +10,7 @@ img:main/world/0210/title
 ## 5N Main Street
 
 ::begin:news
-#web rss https://moxie.foxnews.com/google-publisher/latest.xml
+talk:#web rss https://moxie.foxnews.com/google-publisher/latest.xml
 ::end:news
 
 #color = var(--color-black)
