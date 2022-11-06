@@ -10,7 +10,7 @@ img:main/world/0253/title
 ## 3E Arjika Blvd
 
 ::begin:news
-talk:#web rss https://www.w3.org/blog/feed/
+talk:#web rss http://feeds.bbci.co.uk/news/rss.xml
 ::end:news
 
 #color = var(--color-black)
