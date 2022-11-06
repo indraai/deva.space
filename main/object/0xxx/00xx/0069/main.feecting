@@ -13,4 +13,21 @@ look[Training Text]:secnews
 ::BEGIN:SECNEWS
 # SECURITY NEWS
 
+button[!ycombinator - Hacker News]:#web rss https://news.ycombinator.com/rss
+
+## Krebs on Security RSS Feed
+p:Brian Krebs is a household name in information security, and his blog is among the most well known and respected in the space.
+
+button[Krebs on Security]:#web rss https://krebsonsecurity.com/feed/
+
+## Packet Storm
+
+p:Packet Storm has been a cornerstone on the Internet since 1998 and is visited monthly by over 190 countries.
+
+::begin:menu
+button[News]:#web rss https://rss.packetstormsecurity.com/news/
+button[News - United States]:#web rss https://rss.packetstormsecurity.com/news/tags/usa/
+button[News - Botnet News]:#web rss https://rss.packetstormsecurity.com/news/tags/botnet/
+::end:menu
+
 ::END:SECNEWS
