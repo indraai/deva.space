@@ -10,6 +10,7 @@ img:main/world/0254/title
 ::begin:news
 talk:#web rss https://nypost.com/news/feed/
 ::end:news
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-638|-464]

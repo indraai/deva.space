@@ -3,6 +3,8 @@ p:You can see ARMY Research from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:main/world/0254/title
+
 ## RESEARCH
 
 title: RESEARCH
