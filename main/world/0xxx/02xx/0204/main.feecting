@@ -8,7 +8,7 @@ img:main/world/0153/logo
 ## The Home Store
 
 ::begin:news
-https://www.themarthablog.com/feed
+talk:#web rss https://www.themarthablog.com/feed
 ::end:news
 
 #color = #000000
