@@ -1,0 +1,15 @@
+::BEGIN:AVATAR
+img:main/object/0230/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0230/avatar
+## Hackerman Terminal
+name: Hackerman Terminal
+vector: 0x0230o
+look[Training Text]:text
+::END:LOOK
+
+::BEGIN:TEXT
+p:The Hackerman Terminal
+::END:TEXT
