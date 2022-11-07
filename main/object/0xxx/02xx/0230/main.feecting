@@ -7,7 +7,7 @@ img:main/object/0230/avatar
 ## Hackerman Terminal
 name: Hackerman Terminal
 vector: 0x0230o
-look[Training Text]:text
+look[Hackerman Terminal]:terminal
 ::END:LOOK
 
 ::BEGIN:TERMINAL
