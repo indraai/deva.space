@@ -3,7 +3,7 @@ p:You can see The Tech Store from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:main/world/0153/logo
+img:main/world/0230/title
 
 ## The Tech Store
 
@@ -12,8 +12,8 @@ p:Welcome to The Tech Store
 p:To Exit the Tech Store please go east.
 cmd:#mud e
 
-#color = var(--color-black)
-#bgcolor = var(--color-white)
-#bg = main/world/0153/background
+#color = var(--color-green)
+#bgcolor = var(--color-black)
+#bg = main/world/0230/background
 coordinates:00[-79|-361]
 ::END:MAIN
