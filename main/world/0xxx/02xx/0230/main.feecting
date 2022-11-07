@@ -10,6 +10,7 @@ img:main/world/0230/title
 ::begin:news
 talk:#web rss https://techcrunch.com/feed/
 ::end:news
+
 #color = var(--color-green)
 #bgcolor = var(--color-black)
 #bg = main/world/0230/background
