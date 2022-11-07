@@ -7,10 +7,9 @@ img:main/world/0153/logo
 
 ## The Home Store
 
-p:Welcome to The Home Store
-
-p: To Exit please go EAST.
-cmd:#mud e
+::begin:news
+https://www.themarthablog.com/feed
+::end:news
 
 #color = #000000
 #bgcolor = #ffffff
