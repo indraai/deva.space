@@ -14,7 +14,7 @@ opsec: L1
 describe: CYPHER-1 handles the basic threats. CYPHER-1 are specialists in items such as network security, hacking, and dealing with network issues.
 
 ::begin:news
-talk:#web get rss https://www.fbi.gov/feeds/fbi-in-the-news/rss.xml
+talk:#web rss https://www.fbi.gov/feeds/fbi-in-the-news/rss.xml
 ::end:news
 
 #bgcolor = var(--color-black)
