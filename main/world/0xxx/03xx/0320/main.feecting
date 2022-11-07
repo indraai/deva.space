@@ -12,6 +12,8 @@ room: 320
 vector: 0x0320r
 describe:  The Arjika Kitchen where CHEF prepares the meals.
 
+youtube:yLGRkxbMh9o
+
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
 coordinates:00[-857|-637]
