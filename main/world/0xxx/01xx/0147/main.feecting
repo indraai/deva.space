@@ -4,6 +4,7 @@ p:You can see The Cafe from here.
 
 ::BEGIN:MAIN
 ## The Cafe
+
 p:You are in The Cafe.
 
 #bgcolor = var(--color-white)
