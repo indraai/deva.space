@@ -4,7 +4,12 @@ img:main/agent/0147/avatar
 
 ::BEGIN:LOOK
 img:main/agent/0147/avatar
-name:Logan
+name:Cafe A147
 vector:0x_0147a
-describe:Logan works in the ufo.cafe. He's Harry, Larry, and Barry cousin on their Mother's side from a second-cousin by marriage on the side of the wife of a friend from across the street. Harry, Larry, and Barry just call him cousin for some reason.
+describe:Cafe Agent 147 is here to assist you at The Cafe with your food and drink needs.
+
+p:To see a list of available offeirngs:
+
+bmud[List Offerings]:list
+
 ::END:LOOK
