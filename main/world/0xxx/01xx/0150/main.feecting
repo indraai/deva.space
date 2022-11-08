@@ -5,7 +5,11 @@ p:You can see The Restaurant from here.
 ::BEGIN:MAIN
 ## The Restaurant
 
-p:You are in The Restaurant.
+## Vegetarian Times
+
+::begin:news
+talk:#web rss https://www.vegetariantimes.com/feed/
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
