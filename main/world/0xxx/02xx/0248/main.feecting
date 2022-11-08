@@ -13,5 +13,6 @@ talk:#web rss https://www.yahoo.com/news/rss
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
+
 coordinates:00[-292|-464]
 ::END:MAIN

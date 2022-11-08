@@ -9,5 +9,5 @@ p:You are in The Restaurant.
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-coordinates:00[-603|-23]
+coordinates:00[-603|-14]
 ::END:MAIN

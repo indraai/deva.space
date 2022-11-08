@@ -4,7 +4,9 @@ p:You can see The Hot Spot from here.
 
 ::BEGIN:MAIN
 ## Hot Spot
+
 p:You are in The Hot Spot.
+
 #bgcolor = var(--color-dark-grey)
 #color = var(--color-white)
 coordinates:00[-534|-14]
