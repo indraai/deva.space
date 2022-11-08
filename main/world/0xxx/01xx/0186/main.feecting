@@ -7,7 +7,9 @@ img:main/world/0186/title
 
 ## 9N6W Outer Loop
 
-p:You are in 9N6W Outer Loop.
+::begin:news
+talk:#web rss https://www.etonline.com/news/rss
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
