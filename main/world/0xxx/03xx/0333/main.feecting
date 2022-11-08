@@ -1,0 +1,11 @@
+::BEGIN:LOOK
+p:You can see Recycling Center from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Recycling Center
+
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:MAIN
