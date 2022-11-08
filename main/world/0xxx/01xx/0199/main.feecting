@@ -7,7 +7,9 @@ img:main/world/0199/title
 
 ## 9W8N Outer Loop
 
-p:You are in 9W8N Outer Loop.
+::begin:news
+talk:#web rss https://perezhilton.com/feed/
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

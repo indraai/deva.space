@@ -7,7 +7,9 @@ img:main/world/0184/title
 
 ## 9N9W Outer Loop
 
-p:You are in 9N9W Outer Loop.
+::begin:news
+talk:#web rss https://www.tmz.com/rss.xml
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

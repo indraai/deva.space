@@ -1,13 +1,15 @@
 ::BEGIN:LOOK
-p:You can see 9W Main Street from here.
+p:You can see 9W Arjika Blvd from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
 img:main/world/0246/title
 
-## 9W Main Street
+## 9W Arjika Blvd
 
-p:You are in 9W Main Street.
+::begin:news
+
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

@@ -7,7 +7,9 @@ img:main/world/0185/title
 
 ## 9N8W Outer Loop
 
-p:You are in 9N8W Outer Loop.
+::begin:news
+talk:#web rss https://www.hollywoodreporter.com/feed/
+::end:news
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
