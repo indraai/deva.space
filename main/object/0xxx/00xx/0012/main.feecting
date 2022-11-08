@@ -5,14 +5,17 @@ img:main/object/0012/avatar
 ::BEGIN:LOOK
 img:main/object/0012/avatar
 
-## Vedas Book 2
+## Rig Veda Book 2
 
-name: Vedas Book 2
+name: Rig Veda Book 2
 level: 2
 vector:0x0012
-describe:This is Book 2 of the Vedas.
+describe:This is Book 2 of the Rig Veda.
 
-button[book 2]:#mud look book2
+::begin:vedas
+talk:#veda book 2
+::end:vedas
+
 ::END:LOOK
 
 ::BEGIN:BOOK1

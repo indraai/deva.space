@@ -4,12 +4,17 @@ img:main/object/0011/avatar
 
 ::BEGIN:LOOK
 img:main/object/0011/avatar
-name: Vedas Book1
+
+## Rig Veda Book 1
+
+name: Rig Veda Book 1
 level: 1
 vector:0x0011
-describe:This is Book 1 of the Vedas.
+describe:This is Book 1 of the Rig Veda.
 
-button[book 1]:#mud look book1
+::begin:vedas
+talk:#veda book 1
+::end:vedas
 
 ::END:LOOK
 

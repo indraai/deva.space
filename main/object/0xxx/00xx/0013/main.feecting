@@ -1,0 +1,24 @@
+::BEGIN:AVATAR
+img:main/object/0013/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/object/0013/avatar
+## Vedas Book 3
+
+name: Vedas Book 3
+vector: 0x0013o
+describe: Book 3 of the Rig Veda.
+
+::begin:vedas
+talk:#veda book 1
+::end:vedas
+::END:LOOK
+
+::BEGIN:BOOK3
+::begin:vedas
+talk:#veda book 1
+::end:vedas
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-whtie)
+::END:BOOK3
