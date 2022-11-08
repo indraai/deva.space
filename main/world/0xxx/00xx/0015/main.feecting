@@ -7,11 +7,13 @@ p:You can see indra.church/b5
 ::BEGIN:MAIN
 img:main/world/0015/title
 
+::begin:book
 talk:#veda book 5
+::end:book
 
 #color = #eeeeee
 #bg = main/world/0015/background
-coordinates:00[-287|-245]
+coordinates:00[-287|-223]
 ::END:MAIN
 
 =
