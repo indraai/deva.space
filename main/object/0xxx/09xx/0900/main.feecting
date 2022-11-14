@@ -19,4 +19,10 @@ img:main/object/0900/contract
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 ::END:CONTRACT
+
+::BEGIN:COURT
+img:main/object/0900/court
+#bgcolor = var(--color-white)
+#color = var(--color-black)
+::END:COURT
 ====

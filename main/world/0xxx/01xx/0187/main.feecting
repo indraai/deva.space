@@ -7,7 +7,10 @@ img:main/world/0187/title
 
 ## 9N3W Outer Loop
 
-p:You are in 9N3W Outer Loop.
+::begin:news
+https://parade.com/.rss/full/news/
+::end:news
+
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
