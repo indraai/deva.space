@@ -10,11 +10,11 @@ title: The Romanov
 
 #Kremlin #KGB #FSB offices.
 
-talk:#wiki summary Nicholas_II_of_Russia
+cmd:#wiki summary Nicholas_II_of_Russia
 
-talk:#wiki summary House_of_Romanov
+cmd:#wiki summary House_of_Romanov
 
-talk:#wiki summary Execution_of_the_Romanov_family
+cmd:#wiki summary Execution_of_the_Romanov_family
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

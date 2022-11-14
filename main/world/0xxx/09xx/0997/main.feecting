@@ -1,0 +1,21 @@
+::BEGIN:LOOK
+p:You can see Sukharev Tower from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Sukharev Tower
+
+p:We leave Moscow’s central district and travel outward along Bolshaya Lubyanka Street, passing the city’s concentric ring roads one by one. At the intersection with the Garden Ring, a metro station bears the name “Sukharevskaya.”
+
+p:This name references both a man and a vanished structure. The former is Colonel Lavrenti Sukharev, who sided with Tsar Peter the Great during a 1689 coup attempt by the Tsar’s sister Sofia. In gratitude for Sukharev’s actions, Peter I built a triumphal monument to his victory near the site of Sukharev’s former barracks, and named it the Sukharev Tower after the colonel.
+
+## The Occult
+link[Freemasonry and the Occult at the Court of Peter the Great]:https://brill.com/view/journals/arie/6/1/article-p1_1.xml
+
+p:The first section of the article examines the powerful symbolic representations of the Tsar as a "Mason King" and architect of a new Russia. It reveals a concerted campaign to portray Peter the Great as a new King David, leading his people—new Israelites—to their promised land and a New Jerusalem, crystallised by the foundation of St. Petersburg.
+
+p:Bruce came from a Scottish Jacobite family and played an active role in practically all fields of Russian state life, ranging from the military to the promotion of science and education. Prokopovich was the most eminent ecclesiastic figure in Petrine Russia and a loyal stalwart of Peter the Great's state reforms. Erskine, like Bruce, also descended from a powerful Jacobite family in Scotland. He enjoyed a close relationship with Peter the Great and was his Chief Physician and Head of the Russian Medical Chancellery, as well as being Director of the St. Petersburg Kunstkamera and Library.
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+::END:MAIN

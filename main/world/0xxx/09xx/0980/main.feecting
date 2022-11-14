@@ -17,7 +17,7 @@ look[Photo 006]:006
 look[Photo 007]:007
 look[Photo 008]:008
 
-talk:#wiki summary Kunstkamera
+cmd:#wiki summary Kunstkamera
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
