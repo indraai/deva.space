@@ -11,3 +11,41 @@ talk:#space world:main 0174/jedi
 talk:#space world:main 0174/swaoa
 ::END:MAIN
 ====
+
+
+::BEGIN:SWAOA
+img:main/world/0354/swaoa
+
+## Star Wars: Age of Alliances
+
+title: Star Wars: Age of Alliances
+year: 2001
+ver: PennMUSH
+
+link[Website]:http://starwars.xidus.net/
+link[Wiki]:http://www.swaoa-mush.com/wiki/Main_Page
+
+::begin:buttons
+button[Play Star Wars]:#arc open swaoa-mush.com:5500
+::end:buttons
+
+p[speak]:Age of Alliances was created in 2000 and launched in 2001. Its been over 17 years of text-based-role-playing in the Star Wars galaxy. The MUSH is now set 29 years after the events of Return of the Jedi and just before the events of The Force Awakens. The events of Episode 7 & 8 will not occur on the MUSH until Episode 8 hits theaters (December 2017). Until then, we will be building up to that point and establishing back-lore based on Episode 7's revealed "new era" of the Star Wars galaxy.
+::END:SWAOA
+
+::BEGIN:JEDI
+img:main/world/0354/legends
+
+## Legends of the Jedi
+
+title: Legends of the Jedi
+year: 1999
+ver: LotJ
+
+link[Website]:http://legendsofthejedi.com/
+
+::begin:buttons
+button[Play Legends of the Jedi]:#arc open legendsofthejedi.com:5656
+::end:buttons
+
+p[speak]:Age of Alliances was created in 2000 and launched in 2001. Its been over 17 years of text-based-role-playing in the Star Wars galaxy. The MUSH is now set 29 years after the events of Return of the Jedi and just before the events of The Force Awakens. The events of Episode 7 & 8 will not occur on the MUSH until Episode 8 hits theaters (December 2017). Until then, we will be building up to that point and establishing back-lore based on Episode 7's revealed "new era" of the Star Wars galaxy.
+::END:JEDI
