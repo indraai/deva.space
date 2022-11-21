@@ -1,8 +1,11 @@
 ::BEGIN:AVATAR
-img:main/agent/0101/avatar
+img:main/agent/0268/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-img:main/agent/0101/avatar
-p:Darry watches you carefully, looking at everything you look at. Sizing you up as you peruse his wares. He is a small man, by anyone's standards.
+img:main/agent/0268/avatar
+## Outfitter A268
+name: Outfitter A268
+vector: 0x0268a
+describe: Outfitter A268 is here to assist you in getting the right gear for the right job.
 ::END:LOOK
