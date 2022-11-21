@@ -4,6 +4,8 @@ img:main/agent/0183/avatar
 
 ::BEGIN:LOOK
 img:main/agent/0183/avatar
-name:Rig Veda Attendant
-describe:Rig Veda Attendant
+## Muscle - Arjika Security
+name: Muscle - Arjika Security
+vector: 0x0183a
+describe: Arjika Security A183 is here to assist.
 ::END:LOOK
