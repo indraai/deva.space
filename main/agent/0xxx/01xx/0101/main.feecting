@@ -4,5 +4,8 @@ img:main/agent/0101/avatar
 
 ::BEGIN:LOOK
 img:main/agent/0101/avatar
-p:Darry watches you carefully, looking at everything you look at. Sizing you up as you peruse his wares. He is a small man, by anyone's standards.
+## Arjika Attendant
+name: Arjika Attendant
+vector: 0x0101a
+describe: Arjika Attendant a101 is here to help with your personal needs. If you have any questions please ask.
 ::END:LOOK
