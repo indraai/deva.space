@@ -4,7 +4,8 @@ img:main/agent/0125/avatar
 
 ::BEGIN:LOOK
 img:main/agent/0125/avatar
-name: Medic A125
+## Soma Disciple
+name: Soma Disciple
 vector: 0x0125a
-describe: Medic A125 is here providing medical care.
+describe: The Soma Disciple is here to care for Soma Deva.
 ::END:LOOK
