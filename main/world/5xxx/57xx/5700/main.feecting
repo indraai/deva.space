@@ -33,6 +33,6 @@ p:The All Comprehending Bliss and the Brahmânanda can always be witnessed here!
 
 #color = #ffff6e
 #bgcolor = var(--color-black)
-#bg = main/world/0031/background
+#bg = main/world/5700/background
 coordinates:57[-603|-50]
 ::END:MAIN
