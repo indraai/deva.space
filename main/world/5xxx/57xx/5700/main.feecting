@@ -3,6 +3,10 @@ p:You can see planet Antariksa from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:main/world/0031/portrait
+
+thanks:Thank you for visiting Antariksa. Please leave your Offerings on the table or with the Host.
+
 ## Antariksa
 
 p:It is one thousand Yojanas wide; its centre is very big; the rooms situated further and further are twice those preceding them. It lies in Antarîksa (the intervening space) without any support. At the times of dissolution and creation it contracts and expands like a cloth.
@@ -27,7 +31,8 @@ p:O King! And what shall I say of this place, more than this, that all the power
 
 p:The All Comprehending Bliss and the Brahmânanda can always be witnessed here! O King! Thus I have described to you about the Manidvîpa. The more so, if a man remembers about this place at the time of death, He surely goes there.
 
+#color = #ffff6e
 #bgcolor = var(--color-white)
-#color = var(--color-black)
+#bg = main/world/0031/background
 coordinates:57[-603|-50]
 ::END:MAIN

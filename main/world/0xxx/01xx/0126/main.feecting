@@ -1,44 +1,18 @@
 ::BEGIN:LOOK
-You can see House Vamraka from here.
+You can see Arjika Intelligence from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-img:main/world/0126/title
+img:main/world/0349/title
 
-p:Welcome to House Vamraka.
+## Intelligence
 
-p:So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.
-p:He will, when supplicated, bring him blessing: he hath brought all, food, strength, a happy dwelling.
+title: Arjika Intelligence
+room: 179
+vector: 0x0179r
+describe: The main communications center for the Arjika Military.
 
-
-::begin:hymn
-p:WHAT Splendid One, Loud-voiced, Farstriding, well knowing, urge us to exalt with praises?
-
-p:What give we him?
-
-p:When his might dawned, he fashioned the bolt, and sent us waters.
-
-p:He goes to end his work with lightning flashes. Wide is the seat his Asura glory gives him.
-
-p:On most auspicious path he goes to win heaven's light.
-
-p:Roaming among the herd he brings the young streams together where they pour their flood like butter.
-
-p:Bold, He raised himself on high.
-
-l:He, like a cloud that rains upon the pasture, hath found for us the way to dwell in safety.
-l:He with his potent Friends gave up the mighty.
-l:He yet young as guardian of the seasons.
-
-p:Through lauds of him burst the saint shone as singer.
-
-p:So, swiftly Asura, for exaltation, hath the great Vamraka come nigh to Indra.
-
-p:He will, when supplicated, bring him blessing. He hath brought all, food, strength, a happy dwelling.
-::end:hymn
-
-cmd:#veda view 10099
-
-#bg = main/world/0126/background
-#color = #ffff6e
+#bgcolor = var(--color-black)
+#color = var(--color-light-grey)
+coordinates:00[-891|-775]
 ::END:MAIN
