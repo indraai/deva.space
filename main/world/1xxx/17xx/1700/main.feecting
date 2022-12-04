@@ -1,0 +1,12 @@
+::BEGIN:LOOK
+p:You can see Bear Country from here.
+::END:LOOK
+
+::BEGIN:MAIN
+## Bear Country
+
+
+#color = var(--color-white)
+#bgcolor = var(--color-black)
+coordinates:17[-201|-525]
+::END:MAIN
