@@ -10,13 +10,11 @@ img:main/world/0912/title
 title: Pacific Hermitage
 vector: 0x0912r
 
-p[speak]:Welcome to Training Room 902. Here we are looking into 2015 information relating to the kidnapping and Quinn and The Trenton Story. This was the short period where Quinn took Trenton to meet Buddhist Monks.
+gate[say:tyler]:Just before and right after hearing the story Quinn would take Trenton to meet Monks to introduce him to his father's way of life.
 
-p[speak]:Just before and right after hearing the story Quinn would take Trenton to meet Monks to introduce him to his father's way of life.
+gate[say:tyler]:Prior to hearing the kidnapping story Quinn was offering his free time to the Buddhist Monks at the Pacific Hermitage in the Columbia River Gorge.
 
-p[speak]:Prior to hearing the kidnapping story Quinn was offering his free time to the Buddhist Monks at the Pacific Hermitage in the Columbia River Gorge. This was the short time period between when Quinn worked at Nike at OIA Global.
-
-p[speak]:During the Summer of 2015 Quinn would venture to the Columbia Gorge from Portland, a 90 minute drive, to make offerings to Buddhist Monks. He was before the story workign hard at taking his Buddhist Precepts and living a good life.
+gate[say:tyler]:This was the short time period between when Quinn worked at Nike at OIA Global.
 
 link[pacifichermiage.org]:https://pacifichermitage.org/
 

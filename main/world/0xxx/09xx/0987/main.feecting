@@ -7,31 +7,37 @@ img:main/world/0987/splash
 
 ## Backstabbing in Ireland
 
-cmd[Christmas 2015...]:#corpus chat:brian During Christmas 2015 shortly after Quinn went to see the FBI Tabitha took an all expenses paid trip to Ireland.
+gate[say:tyler]:During Christmas 2015 shortly after Quinn went to see the FBI Tabitha took an all expenses paid trip to Ireland.
 
-cmd[The Itenary...]:#corpus chat:brian The itenary for the trip was delivered to Quinn as a computer printout as she refused to email him a copy.
+gate[say:tyler]:The itenary for the trip was delivered to Quinn as a computer printout as she did not email him a copy.
 
-cmd[Tabitha's Friend...]:#corpus chat:brian Tabitha's friend who lived in an apartment, and couldn't afford a trip to Ireland for herself would buy one for Tabitha and her husband.
+gate[say:tyler]:Tabitha's friend who lived in an apartment, and couldn't afford a trip to Ireland for herself would buy one for Tabitha and her husband Bill.
 
-cmd[During the trip...]:#corpus chat:brian During the trip Tabitha and her husband would stay at hotels all around Ireland. Never more than one day in the same place.
+gate[say:tyler]:During the trip Tabitha and her husband would stay at hotels all around Ireland. Never more than one night in the same place.
 
-cmd[Once again this was...]:#corpus chat:brian Once again this was an all expenses paid trip to Ireland that was alleggedly purchased by a friend who lived in a middleclass apartment.
+gate[say:tyler]:This was an all expenses paid trip to Ireland for 10 days that was purchased by a friend immediatley after Quinn went to the FBI.
 
-cmd[Visited a National Park...]:#corpus chat:brian During the trip Tabitha and her husband visitied a National Park where they met with an Agent who presented them with a secret deal.
+gate[say:tyler]:During the trip Tabitha and Bill visitied a National Park where they may have met with an Agent who presented them with a secret deal.
 
-cmd[The secret deal...]:#corpus chat:brian The secret deal consisted of Tabitha collecting information on those involved so they could set them up later as the culprits, and frame Tabitha as the victim.
+gate[say:tyler]:The secret deal consisted of Tabitha collecting information on those involved, so they could set them up later as the culprits.
 
-cmd[Tabitha would then frame...]:#corpus chat:brian Tabitha would then frame the information around Trenton as she was a good mother who was doing what she had todo to protect her son from the dangers of these men who forced her to join The Covenant.
+gate[say:tyler]:Then frame Tabitha as the victim.
 
-cmd[But little do people...]:#corpus chat:brian But little do people know that while Tabitha was in Ireland she joined the super magic lady brain eating club. This was required for her to make a secret deal.
+gate[say:tyler]:Tabitha would then frame the information around Trenton as she was a good mother who was doing what she had todo to protect her son.
 
-cmd[Yes records on the network...]:#corpus chat:brian Yes records on the network show that Tabitha attended a secret dinner party later after her meeting in the National Park where she partook in eating of human brains.
+gate[say:tyler]:It would be framed that she was a victim and the people around her forced her into setting Quinm up for everything.
 
-cmd[Tabitha they are going to find out...]:#corpus chat:brian Tabitha they are going to find out about the dinner party in Ireland where you enjoyed multiple helpings of Human Brain Soup.
+gate[say:tyler]:Little do people know that while Tabitha was in Ireland she joined the Super Secret Club for Magic Ladies Who Eat Human Brains.
 
-cmd[They know about...]:#corpus chat:brian They know about your secret deals for fancy meals which in 2015 included eating Human Brains in Ireland.
+gate[say:tyler]:Joining the Super Secret Lady Brain Eating Club would be required for her to make a secret deal.
 
-cmd[Tabitha the network...]:#corpus chat:brian Tabitha, the network would like you to personally confirm or deny that you consumed Human Brains at a Private Dinner Party in Ireland. Can you please publicly confirm or deny this? Thank you.
+gate[say:tyler]:Yes Tabitha may have attended a secret dinner party in Ireland where she feasted on Human Brains.
+
+gate[say:tyler]:What would happen if they found out that Tabitha the dinner party in Ireland included multiple helpings of Human Brain Soup?
+
+gate[say:tyler]:Did Tabitha's secret deals for fancy meals include eating Human Brains in Ireland?
+
+gate[say:tyler]:Tabitha, the network knows the truth.
 
 #color = var(--color-black)
 #bgcolor = var(--color-green)
@@ -42,7 +48,7 @@ talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:TRG1
-talk:#corpus chat:brian During Christmas 2015 shortly after Quinn went to see the FBI Tabitha took an all expenses paid trip to Ireland.
+gate[say:tyler]:During Christmas 2015 shortly after Quinn went to see the FBI Tabitha took an all expenses paid trip to Ireland.
 ::END:TRG1
 
 ::BEGIN:TRG2
