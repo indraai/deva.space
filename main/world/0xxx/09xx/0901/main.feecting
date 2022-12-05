@@ -9,24 +9,25 @@ img:main/world/0901/splash
 
 youtube:PVXbg2eliZM
 
+::begin:buttons
 look[Video]:video
 look[Rahula]:rahula
 look[Water]:water
 look[Trenton]:trenton
+::end:buttons
 
-img:main/world/0901/rahula
-
-img:main/world/0901/water
-
+## Summary
 ::begin:summary
-p[speak]:Welcome to Training Room 901. In September of 2015 Trenton began telling his father Quinn Michaels a story. I story that would lead to calling the FBI, and then eventually delivering evidence to their office.
+gate[say:tyler]:In September of 2015 Trenton began telling his father Quinn Michaels a story that would lead Quinn to a live streaming on Youtube.
+
+gate[say:tyler]:A story that would lead to calling the FBI, and then eventually Quinn would spend is life straeming on youtube asking for help.
 ::end:summary
+
+talk:#space world:main 0900/training:card
 
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
-
 coordinates:09[-505|-424]
-talk:#space world:main 0900/training:card
 ::END:MAIN
 
 ::BEGIN:VIDEO
