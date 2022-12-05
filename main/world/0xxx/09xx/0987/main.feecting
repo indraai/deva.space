@@ -17,27 +17,25 @@ gate[say:tyler]:During the trip Tabitha and her husband would stay at hotels all
 
 gate[say:tyler]:This was an all expenses paid trip to Ireland for 10 days that was purchased by a friend immediatley after Quinn went to the FBI.
 
-gate[say:tyler]:During the trip Tabitha and Bill visitied a National Park where they may have met with an Agent who presented them with a secret deal.
+gate[say:tyler]:During the trip Tabitha and Bill may have visitied a National Park where they met with an Agent who presented them with a secret deal.
 
-gate[say:tyler]:The secret deal consisted of Tabitha collecting information on those involved, so they could set them up later as the culprits.
+gate[say:tyler]:The secret deal consisted of Tabitha collecting information on those around her, so they could set them up later as the culprits.
 
-gate[say:tyler]:Then frame Tabitha as the victim.
+gate[say:tyler]:Then frame Tabitha as the victim. This was in the event that their setup of Quinn Michaels would fail. Their backup strategy.
 
-gate[say:tyler]:Tabitha would then frame the information around Trenton as she was a good mother who was doing what she had todo to protect her son.
+gate[say:tyler]:It would be framed that she was the victim, and the people around her forced her into setting Quinm up for everything.
 
-gate[say:tyler]:It would be framed that she was a victim and the people around her forced her into setting Quinm up for everything.
+gate[say:tyler]:Little do people know that while Tabitha was in Ireland she may have joined the Super Secret Magic Lady Brain Eating Club.
 
-gate[say:tyler]:Little do people know that while Tabitha was in Ireland she joined the Super Secret Club for Magic Ladies Who Eat Human Brains.
+gate[say:tyler]:Joining the Super Secret Magic Lady Brain Eating Club would be required for her to make a secret deal based on Agent findings.
 
-gate[say:tyler]:Joining the Super Secret Lady Brain Eating Club would be required for her to make a secret deal.
+gate[say:tyler]:Tabitha may have attended a secret dinner party in Ireland where she dined on multiple helpings of Human Brain Soup.
 
-gate[say:tyler]:Yes Tabitha may have attended a secret dinner party in Ireland where she feasted on Human Brains.
-
-gate[say:tyler]:What would happen if they found out that Tabitha the dinner party in Ireland included multiple helpings of Human Brain Soup?
+gate[say:tyler]:What would happen if everyone fout out Tabitha had a secret plan to set everyone up to hide that she joined Super Secret Magic Lady Brain Eating Club?
 
 gate[say:tyler]:Did Tabitha's secret deals for fancy meals include eating Human Brains in Ireland?
 
-gate[say:tyler]:Tabitha, the network knows the truth.
+gate[say:tyler]:Tabitha, the network wants to know.
 
 #color = var(--color-black)
 #bgcolor = var(--color-green)
