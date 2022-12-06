@@ -3,6 +3,10 @@ p:You can see The Crowning Palace from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
+img:main/world/5637/portrait
+
+thanks:Thank you for visiting the Shrine of Indu. Please leave your Offerings on the table or with the Host.
+
 ## The Crowning Palace
 
 p:Next to this enclosure wall comes the chief and crowning palace, built of Chintâmani gems. All the articles within this are built of Chintâmani gems. Within this palace are seen hundreds and thousands of pillars.
@@ -50,7 +54,9 @@ p:Now hear something about this Bhuvanes’vara. He has five faces and each face
 
 p:He looks sixteen years old. The lustre of of His Body is more beautiful then Koti Kandarpas and more fiery than thousand Suns; and at the same time cool like Koti Suns. His colour is crystal white.
 
-#bgcolor = var(--color-white)
-#color = var(--color-black)
+#color = var(--color-aqua);
+#bgcolor = var(--color-black);
+#bg = main/world/5637/background
+
 coordinates:56[-602|-309]
 ::END:MAIN
