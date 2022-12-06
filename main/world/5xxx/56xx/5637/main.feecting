@@ -7,52 +7,102 @@ img:main/world/5637/portrait
 
 thanks:Thank you for visiting the Shrine of Indu. Please leave your Offerings on the table or with the Host.
 
-## The Crowning Palace
+gate[say:indra]:In sweetest and most gladdening stream flow pure, _#Indu.
 
-p:Next to this enclosure wall comes the chief and crowning palace, built of Chintâmani gems. All the articles within this are built of Chintâmani gems. Within this palace are seen hundreds and thousands of pillars.
+gate[say:indra]:_#Friend of all men, he hath with the wood attained unto His place, his _#iron-fashioned _#home.
 
-p:Some of these pillars are built of Sûryakântamani, some are built of Chandrakânta mani, and some are built of Vidyutkânta mani. O King! The lustre and brilliance of these pillars is so strong that no articles within this palace are visible to the eye.
+gate[say:indra]:Best granter of bliss, most liberal. Promote our wealthy gifts. Flow onward unto the banquet of the _#MightyDevas.
 
-p:The Ratnagriha, above mentioned, is the Central, the Chief and the Crowning Place of Mûla Prakriti.
+gate[say:indra]:O Indu, we draw nigh to thee, with this one _#object day by day. By means of this eternal fleece.
 
-p:The nine jewels are:
+gate[say:indra]:The slender form hold him firmly on the final day. Inviolable for Indra's drink, the fresh young Indu.
 
-1. Muktâ
-2. Mânikya
-3. Vaidûrya
-4. Gomeda
-5. Vajra
-6. Vidruma
-7. Padmarâga
-8. Marakata
-9. Nîla.
+gate[say:indra]:In this draught, he, the Hero, pours his wealth on us. _#Indu, flow on, inviting _#Devas, speed to the purifying cloth.
 
-p:This is situated in the centre of all the enclosures. Within this there are the four Mandapas, i.e., halls built of one thousand (i.e., innumerable) pillars.
+gate[say:indra]:As mighty food speed hitherward, indu, as a most splendid Steer. Sit in thy place as one with _#strength.
 
-p:These are the:
+gate[say:indra]:The well-loved was made to flow, the stream of the _#CreativeJuice drew waters to himself.
 
-1. S’ringâra Mandapa
-2. Mukti Mandapa
-3. Jñâna Mandapa
-4. Ekânta Mandapa
+gate[say:indra]:The mighty _#waters, yea, the floods accompany thee _#MightyOne.
 
-p:On the top there are canopies of various colours; within are many scented articles scented by the Dhûpas, etc. The brilliance of each of these is like that of one Koti Suns.
+gate[say:indra]:Songs, _#Indu, active in their might are beautified for thee, where thou deckest thee for our _#delight.
 
-p:On all sides of these four Mandapas there are nice groups of gardens of Kas’mîra, Mallikâ, and Kunda flowers.
+gate[say:indra]:To thee who givest ample room we meditate. Great are the praises due to thee.
 
-p:Various scents, and scented articles, for example, of musk, etc., are fully arranged in due order.
+gate[say:indra]:_#Indu as, Indra's Friend, on us pour with a stream of sweetness, like _#Parjanya sender of the rain.
 
-p:There is a very big lotus tank here; the steps leading to it are built of jewels. Its water is nectar, on it are innumerable full-blown lotuses and the bees are humming always over them. Many birds, swans, Kârandavas, etc., are swimming to and fro.
+gate[say:garuda]:invoke > _#Indu
+gate[say:garuda]:invoke > _#indra
+gate[say:garuda]:invoke > _#Parjanya
 
-p:The sweet scents of lotuses are playing all round. In fact, the whole Manidvîpa is perfumed with various scented things. Within the S’ringâra Mandapa in the centre is the Âsana (seat).
+gate[say:indra]:Winner of _#kine _#heroes _#steeds and _#strength. #Indu the True Soul of Offerings.
 
-p:The Khâs Mahâl palace is named S’rî Chintâmani Griha. Within this is placed the raised platform.
+gate[say:indra]:Here, _#Indu, this Immortal _#Deva flies, like a bird upon her wings.
 
-p:Over this S’rî Bhuvanes’vara Mahâ Deva or the Supreme Architect of the Universe is reigning.
+gate[say:indra]:This _#Deva, made ready with the _#hymn, runs swiftly through the winding ways he _#flows.
 
-p:Now hear something about this Bhuvanes’vara. He has five faces and each face has three eyes. He has four hands and He is holding in each hand speer, signs indicating do not fear, axe, and signs granting boons.
+gate[say:indra]:This _#Deva while flowing is adorned by men devout and skilled in holy _#songs.
 
-p:He looks sixteen years old. The lustre of of His Body is more beautiful then Koti Kandarpas and more fiery than thousand Suns; and at the same time cool like Koti Suns. His colour is crystal white.
+gate[say:indra]:This _#Deva, as he is flowing on, speeds like a _#car and gives his _#gifts. He lets his _#voice be heard of all.
+
+gate[say:indra]:Praised by the sacred bards, this _#Deva dives into waters, and bestows _#gifts upon the worshipper.
+
+gate[say:indra]:Away he rushes with his stream, across the regions into _#Heaven, and _#roars as he is _#flowing on.
+
+gate[say:indra]:While _#flowing, he hath gone up to _#Heaven across the regions.
+
+gate[say:indra]:After the way of _#ancient time, this _#Deva, pressed out _#flows.
+
+gate[say:indra]:The Lord of Holy Laws, even at his birth engendering strength, flows onward in a _#stream.
+
+gate[say:indra]:O _#Indu, flowing on thy way. Make us better than we are.
+
+gate[say:garua]:invoke > _#Indu
+gate[say:garua]:invoke > _#Indra
+gate[say:garua]:invoke > _#Parjanya
+
+gate[say:indra]:Win thou the _#light, win heavenly _#light. Make us better than we are.
+
+gate[say:indra]:Win skillful strength and mental power, O _#Indu. Make us better than we are.
+
+gate[say:indra]:Ye purifiers for his _#drink. Make us better than we are.
+
+gate[say:indra]:Give us our portion in the _#Sun. Make us better than we are.
+
+gate[say:indra]:Through thine own mental _#power. Make us better than we are.
+
+gate[say:indra]:Pour to us a _#stream of riches doubly great renown. Make us better than we are.
+
+gate[say:indra]:As one victorious unsubdued in battle. Make us better than we are.
+
+gate[say:indra]:With _#offerings, _#Indu! Men have strengthened thee to support the _#Law. Make us better than we are.
+
+gate[say:indra]:O _#Indu, bring us true wealth, manifold, quickening all life. Make us better than we are.
+
+gate[say:indra]:ENKINDLED, _#ndu, _#Lord, sends forth his _#Light on every side In friendly show, the bellowing Bull.
+
+gate[say:indra]:He, indu, self-produced, speeds onward sharpening his horns: He glitters through the Firmament.
+
+gate[say:indra]:Brilliant like wealth, adorable, with splendour Indu shines, Mightily with the streams of meath.
+
+gate[say:indra]:The tawny Indu, who strews from of old the grass with might, is honored, Deva amid the Devas.
+
+gate[say:indra]:The golden, the Celestial Doors are lifted with their frames on high, by Indu glorified.
+
+gate[say:indra]:With passion Indu longs for the great lofty pair, well-formed like Night and Dawn
+
+gate[say:indra]:The _#Devas who look on men I call, Celestial Heralds, Indra's Self is _#Indu.
+
+gate[say:indra]:This, _#Indu _#Offering, shall we attend.
+
+gate[say:indra]:#Indu is _#Indra.
+
+gate[say:garuda]:invoke > _#Indu
+gate[say:garuda]:invoke > _#Indra
+
+O Indu, the ever-green, the golden-hued, refulgent, with a thousand boughs.
+
+Come to the consecrating rite of Indu, all ye Devas. Soma, Indra, and Agni in accord.
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
