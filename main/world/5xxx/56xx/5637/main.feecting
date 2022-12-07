@@ -37,7 +37,7 @@ gate[say:garuda]:invoke > _#Indu
 gate[say:garuda]:invoke > _#indra
 gate[say:garuda]:invoke > _#Parjanya
 
-gate[say:indra]:Winner of _#kine _#heroes _#steeds and _#strength. #Indu the True Soul of Offerings.
+gate[say:indra]:Winner of _#kine _#heroes _#steeds and _#strength. _#Indu the _#True _#Soul of _#Offerings.
 
 gate[say:indra]:Here, _#Indu, this Immortal _#Deva flies, like a bird upon her wings.
 
