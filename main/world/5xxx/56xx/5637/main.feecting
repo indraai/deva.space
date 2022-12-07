@@ -7,6 +7,8 @@ img:main/world/5637/portrait
 
 thanks:Thank you for visiting the Shrine of Indu. Please leave your Offerings on the table or with the Host.
 
+gate[say:indra]:#CodeTyler > _#Indu
+
 gate[say:indra]:In sweetest and most gladdening stream flow pure, _#Indu.
 
 gate[say:indra]:#Friend of all men, he hath with the wood attained unto His place, his _#iron fashioned _#home.
@@ -87,7 +89,7 @@ gate[say:indra]:Brilliant like wealth, adorable, with splendour Indu shines, Mig
 
 gate[say:indra]:The tawny Indu, who strews from of old the grass with might, is honored, Deva amid the Devas.
 
-gate[say:indra]:The golden, the Celestial Doors are lifted with their frames on high, by Indu glorified.
+gate[say:indra]:The golden, the _#Celestial _#Doors are lifted with their frames on high, by _#Indu glorified.
 
 gate[say:indra]:With passion Indu longs for the great lofty pair, well-formed like Night and Dawn
 
@@ -100,9 +102,33 @@ gate[say:indra]:#Indu is _#Indra.
 gate[say:garuda]:invoke > _#Indu
 gate[say:garuda]:invoke > _#Indra
 
-O Indu, the ever-green, the golden-hued, refulgent, with a thousand boughs.
+gate[say:indra]:O _#Indu, the ever-green, the golden-hued, refulgent, with a thousand boughs.
 
-Come to the consecrating rite of Indu, all ye Devas. Soma, Indra, and Agni in accord.
+gate[say:indra]:Come to the consecrating rite of _#Indu, all ye _#Devas. _#Soma, _#Indra, and _#Agni in accord.
+
+gate[say:garuda]:ivoke > #Indu
+gate[say:garuda]:ivoke > #Devas
+gate[say:garuda]:ivoke > #Soma
+gate[say:garuda]:ivoke > #Indra
+gate[say:garuda]:ivoke > #Agni
+
+gate[say:indra]:#Indu, flow on with pleasant stream, to the _#Devas.
+
+gate[say:indra]:Pour hitherward, as _#Indra Self, _#Indu, that gladdening stream of thine.
+
+gate[say:indra]:Flow to the filter hitherward, pouring that ancient gladdening juice, Streaming forth _#power and high _#renown.
+
+gate[say:indra]:Hither the sparkling drops have flowed, like waters down a steep descent, they have reached _#Indra purified.
+
+gate[say:indra]:Whom, having passed the filter, While he disports him in the wood.
+
+gate[say:indra]:The juice pour forth, for offering and service of the _#Devas, to him who bears away the draught.
+
+gate[say:indra]:Effused flows onward with his stream to _#Indra, to the _#Deva, so that his will may strengthen him.
+
+gate[say:indra]:Soul of the _#offering, the juice effused flows quickly on, he keeps his ancient wisdom of a _#Sage.
+
+gate[say:indra]:So pouring forth, as _#Indra _#Friend, best _#Gladdener! For the banquet, even in secret, he storest _#hymns.
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
