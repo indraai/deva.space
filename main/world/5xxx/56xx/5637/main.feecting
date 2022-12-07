@@ -43,13 +43,13 @@ gate[say:indra]:Here, _#Indu, this Immortal _#Deva flies, like a bird upon her w
 
 gate[say:indra]:This _#Deva, made ready with the _#hymn, runs swiftly through the winding ways he _#flows.
 
-gate[say:indra]:This _#Deva while flowing is adorned by men devout and skilled in holy _#songs.
+gate[say:indra]:This _#Deva while flowing is adorned by men devout and skilled in _#holy _#songs.
 
 gate[say:indra]:This _#Deva, as he is flowing on, speeds like a _#car and gives his _#gifts. He lets his _#voice be heard of all.
 
-gate[say:indra]:Praised by the sacred bards, this _#Deva dives into waters, and bestows _#gifts upon the worshipper.
+gate[say:indra]:Praised by the sacred bards, this _#Deva dives into _#waters, and bestows _#gifts upon the _#worshipper.
 
-gate[say:indra]:Away he rushes with his stream, across the regions into _#Heaven, and _#roars as he is _#flowing on.
+gate[say:indra]:Away he rushes with his _#stream, across the regions into _#Heaven, and _#roars as he is _#flowing on.
 
 gate[say:indra]:While _#flowing, he hath gone up to _#Heaven across the regions.
 
@@ -83,17 +83,15 @@ gate[say:indra]:O _#Indu, bring us true wealth, manifold, quickening all life. M
 
 gate[say:indra]:ENKINDLED, _#ndu, _#Lord, sends forth his _#Light on every side In friendly show, the bellowing Bull.
 
-gate[say:indra]:He, indu, self-produced, speeds onward sharpening his horns: He glitters through the Firmament.
+gate[say:indra]:He, _#Indu, self-produced, speeds onward sharpening his horns: He glitters through the _#Firmament.
 
-gate[say:indra]:Brilliant like wealth, adorable, with splendour Indu shines, Mightily with the streams of meath.
-
-gate[say:indra]:The tawny Indu, who strews from of old the grass with might, is honored, Deva amid the Devas.
+gate[say:indra]:Brilliant like wealth, adorable, with splendour _#Indu shines, Mightily with the streams of meath.
 
 gate[say:indra]:The golden, the _#Celestial _#Doors are lifted with their frames on high, by _#Indu glorified.
 
-gate[say:indra]:With passion Indu longs for the great lofty pair, well-formed like Night and Dawn
+gate[say:indra]:With _#passion Indu longs for the great lofty pair, well-formed like _#Night and _#Dawn
 
-gate[say:indra]:The _#Devas who look on men I call, Celestial Heralds, Indra's Self is _#Indu.
+gate[say:indra]:The _#Devas who look on men I call, _#Celestial _#Heralds, _#Indra Self is _#Indu.
 
 gate[say:indra]:This, _#Indu _#Offering, shall we attend.
 
@@ -106,11 +104,11 @@ gate[say:indra]:O _#Indu, the ever-green, the golden-hued, refulgent, with a tho
 
 gate[say:indra]:Come to the consecrating rite of _#Indu, all ye _#Devas. _#Soma, _#Indra, and _#Agni in accord.
 
-gate[say:garuda]:ivoke > #Indu
-gate[say:garuda]:ivoke > #Devas
-gate[say:garuda]:ivoke > #Soma
-gate[say:garuda]:ivoke > #Indra
-gate[say:garuda]:ivoke > #Agni
+gate[say:garuda]:ivoke > _#Indu
+gate[say:garuda]:ivoke > _#Devas
+gate[say:garuda]:ivoke > _#Soma
+gate[say:garuda]:ivoke > _#Indra
+gate[say:garuda]:ivoke > _#Agni
 
 gate[say:indra]:#Indu, flow on with pleasant stream, to the _#Devas.
 
@@ -120,7 +118,7 @@ gate[say:indra]:Flow to the filter hitherward, pouring that ancient gladdening j
 
 gate[say:indra]:Hither the sparkling drops have flowed, like waters down a steep descent, they have reached _#Indra purified.
 
-gate[say:indra]:Whom, having passed the filter, While he disports him in the wood.
+gate[say:indra]:Whom, having passed the filter, while he disports him in the wood.
 
 gate[say:indra]:The juice pour forth, for offering and service of the _#Devas, to him who bears away the draught.
 
@@ -129,6 +127,52 @@ gate[say:indra]:Effused flows onward with his stream to _#Indra, to the _#Deva, 
 gate[say:indra]:Soul of the _#offering, the juice effused flows quickly on, he keeps his ancient wisdom of a _#Sage.
 
 gate[say:indra]:So pouring forth, as _#Indra _#Friend, best _#Gladdener! For the banquet, even in secret, he storest _#hymns.
+
+gate[say:indra]:#FORTH on their way the glorious drops have flowed for maintenance of _#Law, knowing the _#offerings course.
+
+gate[say:indra]:Down in the mighty _#waters sinks the _#stream, most excellent, oblation best of all in worth.
+
+gate[say:indra]:About the holy place, the true, guileless, noblest, hath sent forth Continuous voices in the wood.
+
+gate[say:indra]:When, clothed in manly strength, the _#Sage flows in celestial wisdom round the _#strong would _#win the _#light of _#Heaven.
+
+gate[say:indra]:When purified, he sits as _#King above the hosts, among his folk.
+
+gate[say:indra]:Dear, golden-coloured, in the _#fleece he sinks and settles in the _#wood.
+
+gate[say:indra]:The _#Singer shows his zeal in _#hymns.
+
+gate[say:indra]:He goes to _#Indra, _#Soma, and _#Agni, as his custom is, with gladdening _#juice which gives them joy.
+
+gate[say:indra]:Well-knowing through his mighty _#powers. _#Heaven and _#Earth, gain for us _#treasures and renown.
+
+gate[say:indra]:OBEYING _#Indra dear desire, increasing his _#heroic might.
+
+gate[say:indra]:Laid in the _#bowl, pure-flowing on to _#Soma and the _#Indra, may these give us great _#heroic strength.
+
+gate[say:indra]:#Indu, incite to bounty _#Indra #Heart, to sit in place of _#offering.
+
+gate[say:indra]:Flow on to us and make us _#wealthy.
+
+gate[say:indra]:O _#Indu, flow into thy _#friend, send down the rain from _#Heaven, a stream of opulence from _#Earth.
+
+gate[say:indra]:May we obtain thee, _#Indra _#drink, who viewest men and findest _#light.
+
+gate[say:indra]:THE _#Sage of _#Heaven whose heart is wise, when laid between both hands and pressed, Sends us delightful powers of life.
+
+gate[say:indra]:On, onward to a glorious _#home; dear to the people void of guile, with excellent enjoyment, _#flow.
+
+gate[say:indra]:Urged by the seven devotions he hath stirred the guileless rivers which Have magnified the _#SingleEye.
+
+gate[say:indra]:These helped to might the Youthful One, high over all, invincible, _#Indu, Indra! in thy law.
+
+gate[say:indra]:The _#Immortal Courser, good to draw, looks down upon the _#Seven.
+
+Aid us in holy rites, O Indu, drive away Dark shades that must be met in fight.
+
+Make the paths ready for a hymn newer and newer evermore. Make the lights shine as erst they shone.
+
+Give, indu, high renown, win for us wisdom, win the light.
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
