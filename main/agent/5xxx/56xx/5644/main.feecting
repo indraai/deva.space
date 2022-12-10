@@ -5,9 +5,9 @@ img:main/agent/5644/avatar
 ::BEGIN:LOOK
 img:main/agent/5644/avatar
 
-## Kuvera Deva
+## Soma Deva
 
-name: Kuvera Deva
+name: Soma Deva
 vector: 0x5644a
-describe: The corpulent King of the Yaksas, Kuvera.
+describe: The corpulent King Soma.
 ::END:LOOK
