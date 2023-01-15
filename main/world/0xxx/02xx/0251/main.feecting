@@ -12,20 +12,9 @@ img:main/world/0251/title
 
 ## Arjika City
 
-::begin:news
-talk:#web rss http://rss.cnn.com/rss/cnn_topstories.rss
-::end:news
-
--
-
-youtube:SybJ55IuBz8
-
 p:Welcom to Arjika City. You have found yourlsef in the most glorious place in the virtual world. Modeled from the ancient Arjika Land from the ancient Rig Veda texts.
 
-youtube:kJdXjtSnZTI
-
 -
-
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
