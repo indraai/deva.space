@@ -1,0 +1,17 @@
+
+The @ character is used as a colorcode. If you see it, try toggling color to
+complete. If this still does not work you must not be able to view colors.
+
+To print a single @* follow it with the * (asterisk).
+
+Many people have asked why use the @ as colorcodes while others use &.
+Welcor of TBA changed this because of trigedit. A builder who enters:
+if %actor.is_pc% && %arg% would only see: if %actor.is_pc% & %arg%. No
+big deal, but this could get confusing to newbies when you tell them AND
+needs 2 & and they will only see &. The second problem is that trigedit
+also uses the special character & to denote mob/obj pronoun: IT, YOU,
+HE/SHE: &%obj%. So putting in colorcodes in echos returns garbage itititit
+etc. if done improperly. The fix is to use the escape character \&<colorcode>
+in trigedit.
+
+See also: COLORCODES

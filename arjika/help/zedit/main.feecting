@@ -1,0 +1,13 @@
+
+Usage: zedit [room vnum]
+
+Zedit lets you edit (online) the zone files for your particular zone.
+Within zedit you can alter the loading of monsters and objects and the
+closing/locking of doors etc.
+
+If no room number is specified, the current room is used as target.
+
+@RGOTO 11@n to enter The Builder Academy hallway on how to use zedit.
+
+Implementors wanting to create zones, see: @R HELP ZONE-CREATE@n
+See also: ZEDIT-MENU, ZEDIT-NEW, CREATE-ZONE, OLC, SHOW-ZONES

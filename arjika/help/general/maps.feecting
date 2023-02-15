@@ -1,0 +1,27 @@
+
+Usage: map <#31-12>
+
+   This command prints a text generated map of your current surroundings.
+Including a number allows you to expand or shrink the map to show a wider
+or smaller area.
+
+Usage: toggle automap on
+
+   Toggle automap on will turn on the automap, which shows a mini-map to the
+right of the room descriptions.
+
+ -tbaMUD Map System-
+  .-.__--.,--.__.-.
+ | @R+@n Up            |
+ | @R-@n Down          |
+ | [@B!@n] You         |
+ | [@W.@n] Inside      |
+ | [@wC@n] City        |
+ | [@g,@n] Field       |
+ | [@gY@n] Forest      |
+ | [@mm@n] Hills       |
+ | [@RM@n] Mountain    |                         @C[@W.@C]@n
+ | [@C~@n] Swim        |                          @W| @R+@n
+ | [@B=@n] Boat        |                   @C[@W.@C] @W- @C[@B!@C] @W- @C[@W.@C]@n
+ | [@W^@n] Flying      |                          @W| @R-@n
+ | [@BU@n] Underwater  |                         @C[@W.@C]@n

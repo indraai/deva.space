@@ -1,0 +1,60 @@
+
+   The number 1 mistake new builders make is not knowing what to do when they
+first enter zedit. All you do is type N for new and then 0 to add the new
+command to the top of the list.  Then follow the menu which is explained below.
+
+M) Load Mobile to room
+  Loads a mobile to the room.
+O) Load Object to room
+  Loads an object to a room.
+E) Equip mobile with object
+  This command should always be dependent on the mob load command before it.
+  Equipping a non-existing mob will result in an error. @RHELP DEPENDENT@n.
+  You do not need to load an object before equipping it to a mob.
+G) Give an object to a mobile
+  This command should always be dependent on the mob load command before it.
+  You do not need to load an object before giving it to a mob. The giving
+  assumes you want it loaded. Giving an object to a non-existing mob will
+  result in an error.
+P) Put object in another object
+  Again make sure the object exists before putting another object inside it
+  There is no limit to the number of objects you can put inside.
+D) Open/Close/Lock a Door
+  Set the state of a door. State being one of: 0 Open, 1 Closed, 2 Closed
+  and locked. Care should be taken to set both sides of a door correctly.
+  Closing the north exit of one room does not automatically close the south
+  exit of the room on the other side of the door. When setting a door locked,
+  use option 2). This will close and lock a door. It is not necessary to close
+  it with one command, then lock it with another. @RHELP REDIT-EXIT@n.
+R) Remove an object from the room
+  Important for reloading containers that a player may have emptied and to load
+  a single instance of an object with a maxload greater than 1. @RHELP FOUNTAIN@n,
+  @RHELP ZEDIT-ADVANCED@n. You can not remove items inside a container. You must
+  remove the container and then reload the container and all items
+T) Assign a trigger (Advanced builders only)
+  Attach a trigger to a mob, obj, or room. Usually done through REDIT, MEDIT,
+  or OEDIT.  DO NOT USE THIS OPTION WITHOUT FIRST CLEARING IT WITH A GREAT GOD
+  OR ABOVE.
+V) Set a global variable (Advanced builders only)
+  Set a global variable to be used by triggers. @RHELP GLOBAL@n.
+
+See also:  ZEDIT-CREATE, ZEDIT-EQUIP, MAXLOAD, ZRESET
+#31
+ZEDIT-RESETS RESET-MODES
+
+R) Reset Mode  : @yNormal reset.@n
+   Can take one of three values:
+   0) Never reset
+      The age of the zone is never updated, and it will never be reset. Thus,
+      the value of the Lifespan is effectively ignored.
+   1) Reset only when no players in zone
+      Reset the zone only after it reaches its Lifespan and after the zone
+      becomes deserted, i.e. as soon as there are no players located within
+      the zone (checked once every minute). This can make a zone more "fair"
+      because it will keep the hard mobs from reappearing in the zone until
+      everyone leaves, but on a busy MUD it can prevent a zone from ever being
+      reset since the zone may never stay empty for more than one minute.
+@  NOTE: Immortals are ignored if they have nohassle on.
+   2) Normal reset (DEFAULT)
+      Reset the zone as soon as it reaches its Lifespan, regardless of who or
+      what is in it. This is the most commonly used Reset Mode.

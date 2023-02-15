@@ -1,0 +1,7 @@
+
+Usage: toggle autosac
+
+   Enables you to automatically sacrifice any mob you kill. If you do not have
+autoloot enabled the objects and gold will also be sacrificed.
+
+See Also: TOGGLE

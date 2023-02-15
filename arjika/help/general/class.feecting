@@ -1,0 +1,18 @@
+
+This is used in scripts to find the actors class, or to adjust it.
+
+%actor.class%          - return the class of actor (e.g. )
+%actor.class(<class>)% - set the actor class (returns 1 on success)
+
+Example:
+if %actor.class% ==
+ say I don't like s!
+ if %actor.class(Warrior)%
+  emote waves his hands frantically at you.
+  say I have changed you into a Warrior!
+ end
+else
+ say Welcome %actor.class% %actor.name%!
+end
+
+See Also: CHAR-VAR, ADMLEVEL, ACTOR.LEVEL

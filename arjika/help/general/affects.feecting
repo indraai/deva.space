@@ -1,0 +1,29 @@
+
+P) Perm Affects: @cNOBITS@n
+The permanent effects are the effects this object will have on you, when
+you wear, wield or hold it. Unlike the applies, these are spell effects. Only
+set one of these:
+
+P)  Perm Affects: @cNOBITS@n
+1)  BLIND      DO NOT USE.
+2)  INVIS      The wearer becomes invisible.
+3)  DET-ALIGN  The wearer detects alignments.
+4)  DET-INVIS  The wearer sees invisible objects and players.
+5)  DET-MAGIC  The wearer sees a magic flag on magical objects.
+6)  SENSE-LIFE The wearer sees hidden mobs/players.
+7)  WATWALK    The wearer can walk on water.
+8)  SANCT      The wearer is protected by sanctuary.
+9)  GROUP      DO NOT USE.
+10) CURSE      DO NOT USE.
+11) INFRA      The wearer sees in the dark.
+12) POISON     The wearer is poisoned.
+13) PROT-EVIL  The wearer is protected from evil.
+14) PROT-GOOD  The wearer is protected from good.
+15) SLEEP      DO NOT USE.
+16) NO_TRACK   DO NOT USE.
+17) FLYING     The wearer can travel through room sector type IN FLIGHT.
+18) SCUBA      The wearer can travel through room sector type UNDERWATER.
+19) SNEAK      DO NOT USE.
+20) HIDE       DO NOT USE.
+21) UNUSED     DO NOT USE.
+22) CHARM      DO NOT USE.

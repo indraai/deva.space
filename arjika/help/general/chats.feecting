@@ -1,0 +1,17 @@
+Usage: auction <message>
+       gossip <message>
+       grats <message>
+
+These are channels reserved for specific purposes.  Messages on these
+channels reach everyone who is monitoring them.  You must be at least level
+three to use these channels.
+
+These channels should be used accordingly.
+
+Examples:
+
+  > auction short sword -- minimum bid 100k
+  > gossip Hey, is that a short sword on your belt or are you happy to see me?
+  > grats GRATS Detta!!!!!!!!
+
+See also: TOGGLE, EMOTE, GSAY, HOLLER, NOREPEAT, SAY, SHOUT

@@ -1,0 +1,12 @@
+
+Usage: zreset
+
+  This command is used to execute all zedit commands in a zone. Such as loading
+mobs, objects, and closing doors. This is normally done once a zone reaches its
+lifespan (set in zedit) but can be done manually with this command.
+
+----
+POPS REPOPS SPAWN RE-POPS ZONEREBOOTS REFRESH  ZONE-LOADS ZEDIT_RESET ZONE_RESET LOAD ZONE LOADZONE LOAD_ZONE
+----
+
+See also: ZPURGE, SHOW ZONES

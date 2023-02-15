@@ -1,0 +1,7 @@
+%AT% WAT MAT OAT %MAT% %WAT% %OAT%
+
+%at% <target> <command>
+
+   Using %at% will perform the command in the room where target is found.
+
+Example: @RTSTAT 19, 20@n

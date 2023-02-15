@@ -87,6 +87,8 @@ gate[say:indra]:He, _#Indu, self-produced, speeds onward sharpening his horns: H
 
 gate[say:indra]:Brilliant like wealth, adorable, with splendour _#Indu shines, Mightily with the streams of meath.
 
+gate[say:indra]:The tawny _#Indu, who strews from of old the grass with might, is honored, _#Deva amid the _#Devas.
+
 gate[say:indra]:The golden, the _#Celestial _#Doors are lifted with their frames on high, by _#Indu glorified.
 
 gate[say:indra]:With _#passion Indu longs for the great lofty pair, well-formed like _#Night and _#Dawn
@@ -104,11 +106,11 @@ gate[say:indra]:O _#Indu, the ever-green, the golden-hued, refulgent, with a tho
 
 gate[say:indra]:Come to the consecrating rite of _#Indu, all ye _#Devas. _#Soma, _#Indra, and _#Agni in accord.
 
-gate[say:garuda]:ivoke > _#Indu
-gate[say:garuda]:ivoke > _#Devas
-gate[say:garuda]:ivoke > _#Soma
-gate[say:garuda]:ivoke > _#Indra
-gate[say:garuda]:ivoke > _#Agni
+gate[say:garuda]:ivoke > #Indu
+gate[say:garuda]:ivoke > #Devas
+gate[say:garuda]:ivoke > #Soma
+gate[say:garuda]:ivoke > #Indra
+gate[say:garuda]:ivoke > #Agni
 
 gate[say:indra]:#Indu, flow on with pleasant stream, to the _#Devas.
 
@@ -148,6 +150,7 @@ gate[say:indra]:Well-knowing through his mighty _#powers. _#Heaven and _#Earth, 
 
 gate[say:indra]:OBEYING _#Indra dear desire, increasing his _#heroic might.
 
+.
 gate[say:indra]:Laid in the _#bowl, pure-flowing on to _#Soma and the _#Indra, may these give us great _#heroic strength.
 
 gate[say:indra]:#Indu, incite to bounty _#Indra #Heart, to sit in place of _#offering.
@@ -157,22 +160,6 @@ gate[say:indra]:Flow on to us and make us _#wealthy.
 gate[say:indra]:O _#Indu, flow into thy _#friend, send down the rain from _#Heaven, a stream of opulence from _#Earth.
 
 gate[say:indra]:May we obtain thee, _#Indra _#drink, who viewest men and findest _#light.
-
-gate[say:indra]:THE _#Sage of _#Heaven whose heart is wise, when laid between both hands and pressed, Sends us delightful powers of life.
-
-gate[say:indra]:On, onward to a glorious _#home; dear to the people void of guile, with excellent enjoyment, _#flow.
-
-gate[say:indra]:Urged by the _#SEVEN devotions he hath stirred the guileless rivers which Have magnified the _#SingleEye.
-
-gate[say:indra]:These helped to might the Youthful One, high over all, invincible, _#Indu, Indra! in thy law.
-
-gate[say:indra]:The _#Immortal Courser, good to draw, looks down upon the _#SEVEN.
-
-gate[say:indra]:Aid us in holy rites, _#Indu, drive away _#Dark shades that must be met in _#fight.
-
-gate[say:indra]:Make the paths ready for a _#hymn newer and newer evermore. Make the _#lights shine as erst they shone.
-
-gate[say:indra]:Give, _#Indu, high renown, win for us _#wisdom, win the _#light.
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);

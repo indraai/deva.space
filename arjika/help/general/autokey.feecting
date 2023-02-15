@@ -1,0 +1,9 @@
+
+Usage: autokey
+
+When enabled this toggle will automatically use a door key (if it's in your
+inventory) when you try to open a locked door. You do not need to use the
+separate unlock command. It can be turned on and off using the autokey
+command, the toggle autokey command, or prefedit.
+
+See Also: AUTODOOR, TOGGLE, PREFEDIT

@@ -1,0 +1,18 @@
+
+In an object trigger, moves the object to which the trig is attached to the
+specified room.  The object can be on the floor, inside another object or in a
+player or mobs inventory (not eq):
+Usage: %move% <room>
+
+In a room trigger, moves the specified object, or all objects to the specified
+room.  The object must be on the floor of the room to which the trig is
+attached:
+Usage: %move% %obj.name% <room>
+       %move% all <room>
+
+The <room> target room should be a VNUM.
+
+Note: This does not create a copy of the object, but moves the actual object to the floor of the target
+room.
+
+See also: %TELEPORT%

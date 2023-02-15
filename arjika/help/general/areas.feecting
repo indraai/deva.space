@@ -1,0 +1,13 @@
+Usage: areas [level-range]
+
+Lists all active zones. Any argument will filter the results by level.
+
+areas       list all areas
+areas 24    list all areas where level 24 is in the level range
+areas -10   list areas in the level range 0 to 10
+areas 15-   list all areas with a level range higher than 15
+areas 5-12  list areas in the level range 5 to 12
+
+Any areas that 'overlap' the specified range are shown in red.
+
+See Also: ZONES

@@ -1,0 +1,10 @@
+
+Usage: autodoor
+
+When enabled this toggle will automatically find the next available door when
+using the open, close, lock, unlock or pick commands. For example, in a room
+with several closed doors, one door will be opened each time the player types
+open door until all the doors are open. The player can still specify a
+direction to open a particular door.
+
+See Also: AUTOKEY, TOGGLE, PREFEDIT

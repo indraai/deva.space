@@ -1,3 +1,4 @@
+::BEGIN:MAIN
 p:For a list of commands available to you.
 cmd:#mud commands
 
@@ -35,3 +36,4 @@ p:Help with zedit ?      @RHELP ZEDIT@n    | @RHELP ZEDIT-MENU@n
   Have other unanswered questions ?      @RHELP BUILDING@n
 
 Any capital letters in red should be typed for further information.
+::END:MAIN
