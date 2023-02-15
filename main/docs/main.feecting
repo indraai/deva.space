@@ -1,3 +1,4 @@
+::BEGIN:MAIN
 # Help
 
 Further information available by HELP <keyword>, keyword being a command or
@@ -153,3 +154,4 @@ System utility functions
 'help social': List of social commands
 'help shops': Help with Shops
 'help inns': Help with Inns
+::END:MAIN
