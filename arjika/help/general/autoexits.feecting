@@ -1,8 +1,0 @@
-
-Usage: autoexits
-
-Toggles the automatic display of currently available exits.  Not all
-possible exits will be displayed, only those immediately available.
-If a door is closed it will not show up as a possible exit.
-
-See also: TOGGLE

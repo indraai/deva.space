@@ -1,5 +1,0 @@
-Usage: zpurge <zone #>
-
-   Allows a builder to purge a zone of all mobs and objects. If used once all mobs
-and objs lying in the room will be purged. But, all objs carried by mobs will
-be dropped to the ground. To completely wipe a zone use it twice.

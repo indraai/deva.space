@@ -1,8 +1,0 @@
-Your Armor Class (often called AC) is an expression for how good your armor
-is at protecting you.  When you don armor, any AC apply that armor has is
-subtracted from your standard (naked) AC value, modified depending on where on
-the body you are wearing the armor.  Some items have a special bonus, and
-subtract from the AC directly. Negative AC is better. Modifiers: Body X3,
-head and legs X2.
-
-See also: MEDIT-AC
