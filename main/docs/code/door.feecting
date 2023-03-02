@@ -1,0 +1,21 @@
+::BEGIN:MAIN
+# Door
+
+code: %door% <vnum> < direction> < field> [value]
+
+p:Used for adding, deleting, and modifying doors in room vnum. Direction determines which door is being changed, and can be north, south, east, west, up, or down. If the door does not exist first, a new door will be created. Field is what property of the door is being changed. Valid fields are.
+
+purge: remove the exit in the direction specified - no value needed
+description:  value will become the new exit description
+flags:  value will be the new door flags bitvector as defined here:
+> a - Exit is a door that can be opened and closed. Default is open
+> b - The door is closed.
+> c - The door is locked.
+> d - The door is pick-proof.
+key: value is the vnum of the key to the door in this direction.
+name: value is the name of the door in the specified direction.
+room: value is the vnum of the room this direction leads to
+
+#color = var(--color-)
+#bgcolor = var(--color-)
+::END:MAIN

@@ -1,0 +1,9 @@
+::BEGIN:MAIN
+# Balance
+
+p:"Game Balance" is a term that brings a different thing to mind for every person that hears it. What is most important about game balance is to keep in mind what each zone is designed for. For example, high-level players, newbies, or small groups. The objects and monsters found in the area should match the level, abilities, and needs of the players expected to use the area. Most players do not like to be given vast treasure with no difficulty in getting it, but on the other hand, nobody likes to fight the most difficult mob on the MUD and get nothing for doing it. Zones should not be impossibly hard or absurdly easy.
+
+p:Understandably, builders want their zones to be popular, but they sometimes attempt to achieve this goal by purposefully making their zone unbalanced, adding powerful weapons or armor with no harmful side-effects or mobiles that are easy to kill yet give massive numbers of experience points. Such zones are destined both to become very popular and invariably to bring about the death of the mud. Every zone, every room, every object, every mob, will be checked before being implemented into the game. Do not waste everyone's time, (ours for having to recheck your zone, and yours for having to fix any problems we find) keep the balance.
+
+p:See also: STANDARDS
+::END:MAIN

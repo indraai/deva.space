@@ -1,17 +1,5 @@
-
-Usage: mfollow <victim>
-
-   The mobile will begin following the victim without the revealing "starts
-following you" message. A silent follow. This sets the %master% variable on the
-mob to the players ID.
-
-mfollow %actor%
-
-Examples: @RTSTAT 57508, 39, 26@n
-
-See also: GROUP
-#31
-%FORCE% OFORCE WFORCE MFORCE TRIGEDIT-FORCE TRIG-FORCE
+::BEGIN:MAIN
+# Force
 
 %force% <victim> <command>
 
@@ -28,3 +16,7 @@ wait 1 s
 %echo% A powerful force drags you down.
 %teleport% %actor% 3001
 %force% %actor% look
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

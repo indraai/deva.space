@@ -1,9 +1,10 @@
+::BEGIN:MAIN
+# Damage
+p:Cause damage to target.
 
-%damage% %victim% amount
+code: %damage% %victim% amount
 
-   Cause amount points of damage to victim. The amount can be negative, to
-create a healing effect. This requires an actor to damage, so if it is a random
-trigger you must define actor.
+p:Cause amount points of damage to victim. The amount can be negative, to create a healing effect. This requires an actor to damage, so if it is a random trigger you must define actor.
 
 %damage% %actor% -20          - cause 20 points of healing
 %damage% %actor% 20           - cause 20 points damage
@@ -18,6 +19,6 @@ eval random_up_to_stunned %%random.%stunned%%%
 eval num_hitp %actor.hitp%/2  - calculate half of hitpoints and then damage
 %damage% %actor% %num_hitp%
 
-Example: @RTSTAT 16, 51, 3008, 1600, 1601@n
-
-See also: DAMAGE, GUNS, DEATH
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

@@ -1,6 +1,8 @@
+::BEGIN:MAIN
+# Echo
 
-%echo% <message>
-   Message is sent to all characters in the same room that this trigger is executing in.
+code: %echo% <message>
+p: Message is sent to all characters in the same room that this trigger is executing in.
 
 %echoaround% <victim> <message>
    Message will be sent to all characters in the room with victim, except for
@@ -17,6 +19,6 @@ To send a blank line use: %send% %actor% \
 NOTE: When used with mobs make sure the mobs can see the players.
       i.e not blind, set INFRA, DET_INVIS.
 
-Example: @RTSTAT 18@n
-
-See also: %ASOUND%
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

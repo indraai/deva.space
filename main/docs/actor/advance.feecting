@@ -1,6 +1,8 @@
+::BEGIN:MAIN
+# Advance
 
-Usage: advance <player> <level>
-       advance <player> admin <level>
+cmd:#mud > advance <player> <level>
+cmd:#mud > advance <player> admin <level>
 
    Advance moves a player to a new level.  If used to promote a player's admin
 level the wizlist or immlist will automatically be updated.
@@ -11,3 +13,7 @@ Example:
   > advance Rumble admin 4
 
 See also: SET, PROMOTION, ADMIN
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

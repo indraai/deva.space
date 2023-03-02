@@ -1,0 +1,23 @@
+::BEGIN:MAIN
+# Bank
+
+p:Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Can be used at any Bank of Ilniyr.
+
+##Examples
+cmd:#mud deposit 400 gold
+l:Deposits 400 gold on your account.
+
+cmd:#mud withdraw 1000 copper
+l:Withdraws 1000 copper pieces from your account.
+
+cmd:#mud balance
+l:Shows your balance.
+
+cmd:#mud deposit all
+cmd:#mud withdraw all
+l:Moves all of your money in/out of the bank.
+
+p:See also: GOLD, SCORE
+
+::END:MAIN

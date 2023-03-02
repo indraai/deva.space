@@ -1,0 +1,9 @@
+::BEGIN:MAIN
+# At
+p:Using `at` will perform the command in the room where target is found.
+
+code: %at% <target> <command>
+
+#color = var(--color-)
+#bgcolor = var(--color-)
+::END:MAIN

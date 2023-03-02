@@ -1,0 +1,12 @@
+::BEGIN:MAIN
+# Bless
+
+Usage: cast 'bless' <victim | object>
+Accum: No
+Duration: 6 Hours, permanent for objects.
+Level:  level 5.
+
+p:Bless on a victim will improve the victims saving throw versus spells by 1, and furthermore improve the hitroll by 2.
+
+p:Bless on an item currently has no defined action.  It is only possible to bless non-evil items, and the object blessed may weigh no more than five pounds per level of caster.
+::END:MAIN

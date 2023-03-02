@@ -1,0 +1,10 @@
+::BEGIN:MAIN
+# AFK
+
+cmd:#mud afk
+
+p:Lets other players know you will be away from the keyboard. The (AFK) flag will be displayed in your prompt and under who after your name and title. When you come back from AFK you will be notified if you have mail waiting.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

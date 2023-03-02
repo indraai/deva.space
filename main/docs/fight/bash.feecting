@@ -1,0 +1,14 @@
+::BEGIN:MAIN
+# Bash
+
+p:Fighters only.
+
+p:The success of a bash depends upon how many times you have practiced. To bash someone is to attempt to 'knock' that person over. If you succeed, you will inflict minor damage, and cause the victim to fall on its rear. The victim will be unable to issue any commands for 2 rounds of violence. If you miss you lose your balance and fall.
+
+p:A bash makes you unable to type commands for 2 rounds of violence.
+
+note: Hitting a person who is resting/sitting will inflict 1.5 * damage.
+
+p:See also: KICK, RESCUE, WHIRLWIND
+
+::END:MAIN

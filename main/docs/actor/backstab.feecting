@@ -1,0 +1,13 @@
+::BEGIN:MAIN
+# Backstab
+
+p:Thief only.
+
+p:Backstab is a way to sneak up on a person and attempt to place your dagger
+in his back, at exactly the point where it does most damage.  A successful
+backstab gives a damage multiplier, depending on your level:
+
+p:The chance of successfully backstabbing a person depends on how well you
+have practiced backstab at your guild.  You can always backstab sleeping
+people.
+::END:MAIN

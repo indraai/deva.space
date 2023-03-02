@@ -1,10 +1,6 @@
+::BEGIN:MAIN
+p:To apply for a building position go to the Academy, and fill out the application.
 
-To apply for a building position go to:
-
-                   @Chttp://tbamud.com/@n
-
-and fill out the application.
-
-@RGOTO 3@n to enter The Builder Academy.
-
-See also: OLC, REDIT, MEDIT, OEDIT, ZEDIT, SEDIT, TRIGEDIT, AEDIT
+p:See also: OLC, REDIT, MEDIT, OEDIT, ZEDIT, SEDIT, TRIGEDIT, AEDIT
+::END:MAIN
+====

@@ -1,0 +1,7 @@
+::BEGIN:MAIN
+# Bitvectors
+
+p:Bitvectors are used within the code to represent certain values or flags. When no flags are set it is displayed as: NOBITS. These flags include such things as DARK PEACEFUL INDOORS etc.
+
+p:NOBITS means no flags are set.
+::END:MAIN

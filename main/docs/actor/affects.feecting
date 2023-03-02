@@ -1,4 +1,4 @@
-
+::BEGIN:MAIN
 P) Perm Affects: @cNOBITS@n
 The permanent effects are the effects this object will have on you, when
 you wear, wield or hold it. Unlike the applies, these are spell effects. Only
@@ -27,3 +27,7 @@ P)  Perm Affects: @cNOBITS@n
 20) HIDE       DO NOT USE.
 21) UNUSED     DO NOT USE.
 22) CHARM      DO NOT USE.
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

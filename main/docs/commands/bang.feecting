@@ -1,0 +1,7 @@
+::BEGIN:MAIN
+# At
+p:Use ! to repeat the last command typed
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

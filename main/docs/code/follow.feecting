@@ -1,0 +1,12 @@
+::BEGIN:MAIN
+# Follow
+
+code: mfollow *target*
+
+p:The mobile will begin following the target without the revealing "starts following you" message. A silent follow. This sets the %master% variable on the mob to the players ID.
+
+example: mfollow %actor%
+
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+::END:MAIN

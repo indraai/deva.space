@@ -1,0 +1,6 @@
+::BEGIN:MAIN
+# Bleeding
+
+This is what happens when you use a color code and do not finish it with @@n
+which turns it back to normal color.
+::END:MAIN
