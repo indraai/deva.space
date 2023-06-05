@@ -9,7 +9,7 @@ img:main/world/0266/title
 
 ## Main Street.
 
-#color = var(--color-dark-grey)
+#color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-500]
 ::END:MAIN

@@ -9,10 +9,6 @@ img:main/world/0250/title
 
 ## 1W Arjika Blvd.
 
-::begin:news
-talk:#web rss https://lifehacker.com/rss
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-430|-464]
