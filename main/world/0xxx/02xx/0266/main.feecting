@@ -9,12 +9,8 @@ img:main/world/0266/title
 
 ## Main Street.
 
-::begin:news
-talk:#web rss https://www.latimes.com/local/rss2.0.xml
-::end:news
-
-#color = #333333
-#bgcolor = #ffffff
+#color = var(--color-dark-grey)
+#bgcolor = var(--color-white)
 coordinates:00[-465|-500]
 ::END:MAIN
 
