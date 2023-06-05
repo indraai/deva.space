@@ -9,10 +9,6 @@ img:main/world/0236/title
 
 ## 1N Main Street
 
-::begin:news
-talk:#web rss https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-430]
