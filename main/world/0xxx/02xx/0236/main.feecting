@@ -11,11 +11,20 @@ img:main/world/0236/title
 
 p:Welcome to 1N Main Street, nestled in the heart of Arjika City.
 
-p:Step into this vibrant city street and immerse yourself in the bustling atmosphere. To the south lies the impressive Arjika City Center, a beacon of commerce and culture. The northern direction leads to 3 N Main Street, where you can find local deva.world Care and Security services.
+p:To the south lies the impressive Arjika City Center, a beacon of commerce and culture. The northern direction leads to 3 N Main Street, where you can find local deva.world Care and Security services.
 
 p:As you explore, you'll discover deva.world Services to the west, offering convenience and assistance, while Solutions awaits to the east, providing innovative solutions for your needs.
 
 p:To the southwest is 1 W Arjika Blvd, and to the southeast is 1 E Arjika Blvd, both offering access to further city adventures.
+
+::begin:buttons
+cloudbtn[Look North]:look north
+cloudbtn[Look East]:look east
+cloudbtn[Look South East]:look southeast
+cloudbtn[Look South]:look south
+cloudbtn[Look South West]:look southwest
+cloudbtn[Look West]:look west
+::end:buttons
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
