@@ -9,10 +9,6 @@ img:main/world/0223/title
 
 ## 3N Main Street
 
-::begin:news
-talk:#web rss https://www.huffpost.com/section/front-page/feed
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-361]
