@@ -20,7 +20,7 @@ gate[say:tyler]:What Quinn found is quite unbelievable at first glance, but as w
 
 ## The Contract
 
-bmud[The Contract of The Covenant]:look contract
+cloudbtn[The Contract of The Covenant]:look contract
 
 ::begin:contract
 1. You must love the covenant above anyone and anythign else!
