@@ -16,10 +16,10 @@ DO NOT ETNER THE FOUNTAIN!
 p: Below each statue is engraved a name... Vamraka, Indu, Soma, Sarya.  More is written below the names but you must look more closely to read it.
 
 ::begin:menu
-cloudbtn[Indu Statue]:look indu
-cloudbtn[Indra Statue]:look indra
-cloudbtn[Soma Statue]:look soma
-cloudbtn[Agni Statue]:look agni
+look[Indu Statue]:indu
+look[Indra Statue]:indra
+look[Soma Statue]:soma
+look[Agni Statue]:agni
 ::end:menu
 
 #color = var(--color-black);
