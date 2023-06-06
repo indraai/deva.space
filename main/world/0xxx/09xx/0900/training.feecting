@@ -1,8 +1,8 @@
 ::BEGIN:CARD
 ::begin:card
-id: :id:
-date: :date:
-client: :client_name:
+id: ::id::
+date: ::date::
+client: ::client_name::
 ::end:card
 ::END:CARD
 ====

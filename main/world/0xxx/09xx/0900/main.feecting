@@ -20,8 +20,6 @@ gate[say:tyler]:What Quinn found is quite unbelievable at first glance, but as w
 
 ## The Contract
 
-cloudbtn[The Contract of The Covenant]:look contract
-
 ::begin:contract
 1. You must love the covenant above anyone and anythign else!
 2. The blood of the covenant is thicker than the water of the womb!
@@ -31,8 +29,9 @@ cloudbtn[The Contract of The Covenant]:look contract
 6. Covenant or death.
 ::end:contract
 
-talk:#space world:main 0900/training:card
+cloudbtn[The Contract of The Covenant]:look contract
 
+talk:#space world:main 0900/training:card
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
