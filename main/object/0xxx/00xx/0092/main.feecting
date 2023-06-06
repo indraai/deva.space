@@ -10,7 +10,7 @@ vector: 0x0092o
 describe: The Security board is used to leave messages for Security.
 
 p:To read the board use the read command.
-cmd:#mud read board
+cmd:#cloud read board
 
 p:To write a new message to the board use the write command.
 > #mud write *message title*
