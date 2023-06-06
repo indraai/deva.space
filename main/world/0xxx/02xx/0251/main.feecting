@@ -26,6 +26,11 @@ p:Allow yourself to be transported to a realm beyond mortal bounds. Here, the im
 
 p:Arjika City Center is not just a place; it's a testament to the boundless imagination of those who dare to dream and explore, and stands as a testament to the timeless Vedic traditions.
 
+::begin:menu
+look[Arjika Fountain]:fountain
+look[Arjika Statues]:statues
+::end:menu
+
 -
 
 #color = var(--color-black)
