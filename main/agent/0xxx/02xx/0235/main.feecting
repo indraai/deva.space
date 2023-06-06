@@ -1,0 +1,11 @@
+::BEGIN:AVATAR
+img:main/agent/0235/avatar
+::END:AVATAR
+
+::BEGIN:LOOK
+img:main/agent/0235/avatar
+
+name: Services Deva
+num: 235
+room: 235
+::END:LOOK
