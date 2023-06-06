@@ -12,18 +12,35 @@ DO NOT ETNER THE FOUNTAIN!
 ====
 
 ::BEGIN:STATUES
-Below each statue is engraved a name... Vamraka, Indu, Soma, Sarya.  More is written below the names but you must look more closely to read it.
+## The Statues
+p: Below each statue is engraved a name... Vamraka, Indu, Soma, Sarya.  More is written below the names but you must look more closely to read it.
+
+::begin:menu
+cloudbtn[Indu Statue]:look indu
+cloudbtn[Indra Statue]:look indra
+cloudbtn[Soma Statue]:look soma
+cloudbtn[Agni Statue]:look agni
+::end:menu
+
+#color = var(--color-black);
+#bgcolor = var(--color-white);
 ::END:STATUES
 ====
 
 ::BEGIN:FOUNTAIN
-This is the most beautiful fountain you have ever set your eyes upon! It has a marble bottom, which is clean enough to eat off from.  In the center of the fountain, you see some stone FIGURES. They have their mouths open. As you look closely you can see that there is water streaming out from the mouths. What a neat idea!
-::END:FOUNTAIN
-====
+img:object/0251/avatar
 
-::BEGIN:VAMRAKA
-Vamraka... To bring the all.
-::END:VAMRAKA
+## Arjika Fountain
+
+p: In the heart of Arjika City Center, boasts a magnificent fountain that captivates all who lay eyes upon it. The fountain features a pristine marble base, exuding an air of elegance and cleanliness. At the center of the fountain, you'll find intricately crafted stone statues. As you take a closer look, you'll notice water gracefully streaming out from these statues, creating a mesmerizing spectacle. It's a brilliant and innovative concept, adding a touch of enchantment to this already stunning fountain.
+
+::begin:buttons
+cloudbtn[The Statues]:look statues
+::end:buttons
+
+#color = var(--color-black);
+#bgcolor = var(--color-white);
+::END:FOUNTAIN
 ====
 
 ::BEGIN:INDU
@@ -31,22 +48,17 @@ Indu... To bring the flow.
 ::END:INDU
 ====
 
+::BEGIN:INDRA
+Indra... They come to Indra.
+::END:INDRA
+====
+
 ::BEGIN:SOMA
 Soma... To bring the way.
 ::END:SOMA
 ====
 
-::BEGIN:SARYA
-Sarya... To bring the roar.
-::END:SARYA
-====
-
-::BEGIN:BOM
-Sarya... To bring the light.
-::END:BOM
-====
-
-::BEGIN:INDRA
-Indra... They come to Indra.
-::END:INDRA
+::BEGIN:AGNI
+Agni... To bring the roar.
+::END:AGNI
 ====
