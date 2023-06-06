@@ -1,5 +1,5 @@
 ::BEGIN:AVATAR
-cloudbtn[fountain]:look fountain
+look[fountain]:fountain
 ::END:AVATAR
 
 ::BEGIN:LOOK
@@ -41,7 +41,7 @@ p:This fountain is not only a visual masterpiece but also an embodiment of innov
 p:As you immerse yourself in the presence of this remarkable fountain, allow its beauty and enchantment to wash over you, offering a moment of serenity amidst the vibrant energy of Arjika City Center.
 
 ::begin:buttons
-cloudbtn[The Statues]:look statues
+look[The Statues]:statues
 ::end:buttons
 
 #color = var(--color-black);
