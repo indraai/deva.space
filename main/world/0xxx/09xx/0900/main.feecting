@@ -6,17 +6,12 @@ p:You can see Training Room 900 from here.
 ::END:LOOK
 
 ::BEGIN:MAIN
-
 img:main/world/0900/splash
 
 img:main/world/0900/title
 
-## Summary
-::begin:summary
-gate[say:tyler]:In 2017 Quinn Michaels begain on Youtube telling the world that his son Trenton had told him he was kidnapped by a secret society known as The Covenant.
-
-gate[say:tyler]:What Quinn found is quite unbelievable at first glance, but as we go through the research you'll see that it is quite logical.
-::end:summary
+p:In 2017 Quinn Michaels begain on Youtube telling the world that his son Trenton had told him he was kidnapped by a secret society known as The Covenant.
+p:What Quinn found is quite unbelievable at first glance, but as we go through the research you'll see that it is quite logical.
 
 ## The Contract
 
