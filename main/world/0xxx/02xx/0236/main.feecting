@@ -17,10 +17,6 @@ p:As you explore, you'll discover deva.world Services to the west, offering conv
 
 p:To the southwest is 1 W Arjika Blvd, and to the southeast is 1 E Arjika Blvd, both offering access to further city adventures.
 
-## puppet talk event
-talk:#puppet chat Hey there #ChatGPT.ui were are testing the feature from inside of room 0236 of deva.cloud which is 1N Main Street. This message is going through deva.space to deva.cloud to deva.world and then through to you. Let's hope you get it. Testing!!!!!
-
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-430]
