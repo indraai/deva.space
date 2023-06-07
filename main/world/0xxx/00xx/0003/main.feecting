@@ -7,6 +7,69 @@ img:main/world/0003/title
 
 p:You are in Academy L1
 
+## Movement
+
+north: #cloud north
+east: #cloud east
+west: #clousd west
+south: #cloud south
+northeast: #cloud northeast
+southeast: #cloud southeast
+southwest: #cloud southwest
+northwest: #cloud northwest
+up: #cloud up
+down: #cloud down
+
+
+## Basics
+
+whoami - Who are you?
+save - save your progress
+look - look into a room, object or agent.
+scan - scan to see what is around in the area.
+score - get the character score
+gold - get hte character gold amount
+policy - review the deva.world realm policies
+sit
+quit - Quin your deva.world session.
+
+
+gemote
+
+close - close a door
+order
+
+unfollow
+afk
+
+put - put items into containers
+give
+
+unlock
+alias
+cls
+leave
+page
+use
+areas
+gossip
+levels
+pick
+se
+value
+assist
+commands
+group
+listen
+sell
+version
+ask
+grab
+lock
+pour
+shout
+visible astat consider grats list practice west auction credits gsay mail prefedit sip wake autoassist  gtell map prompt sleep wear autodoor deposit help motd qsay sneak weather autoexits diagnose happyhour north quaff socials who autogold display hide ne quest where autokey donate hindex news qui whirlwind autoloot drink history noauction  split whisper automap drop hit nogossip reply stand  autooffer east hold nograts read whois autosplit eat holler norepeat receive sw wield backstab emote house northeast recite tell withdraw balance enter inventory remove take wizlist
+
 #color = var(--color-white)
 #bgcolor = var(--color-grey)
 #bg = main/world/0002/background
