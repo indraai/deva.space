@@ -7,14 +7,15 @@ p:You can see Support from here.
 ::BEGIN:MAIN
 img:main/world/0267/title
 
-## Support
+## Support Center in Arjika City Center
 
-p:Welcome to deva.world support in Arjika City Center.
+p:If you need any assistance with your deva.world services, you have come to the right place! Our support center is dedicated to helping our clients and agents to ensure that the deva.world network runs smoothly.
 
-p:This is the place where you can request new support and make modifications/repairs to any existing deva.world support that you have.
+p:We provide support for a wide range of categories to cater to various needs. Our team understands the value of providing quality support, and we aim to meet the expectations of our users.
 
-p:Here we try to provide support for a broad range of categories to meet the needs of cliens and agents alike. We understand most of all that supporting our deva.world network is an important job.
+p:Feel free to reach out to us for any modification/reparation requests or to report any issues with deva.world. Our team will be happy to help you out.
 
+p:Thank you for choosing deva.world, and we look forward to providing you with the best support possible.
 ---
 
 #color = var(--color-black)
