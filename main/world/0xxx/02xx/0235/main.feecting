@@ -9,9 +9,9 @@ img:main/world/0235/title
 
 ## Services
 
-p:You have found yourself inside the indra.services.
+p:Welcome to deva.world services in Arjika City Center.
 
-p:This is the place where you can request services on the network like well anything you would need help with.
+p:This is the place where you can request new services and make modifications to any existing deva.world services that you have.
 
 p:Here we try to provide services to a broad range of categories from cleaning services to upgrade services. We don't do it all, but we we don't do solutions will figure out.
 
@@ -24,19 +24,13 @@ p:Here we try to provide services to a broad range of categories from cleaning s
 6. Maintenance Services
 7. Recommendation Services
 8. License Services
-9. Legal Services
-10. Medical Services
-11. Security Services
-12. Daycare Services
-13. Elder Services
-14. Food/Drink Services
-15. Military Services
+9. Legacy Services
 
 ---
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = /assset/main/world/0235/background
+#bg = /asset/main/world/0235/background
 coordinates:00[-430|-430]
 ::END:MAIN
 
