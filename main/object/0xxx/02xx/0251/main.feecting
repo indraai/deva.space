@@ -13,7 +13,7 @@ DO NOT ETNER THE FOUNTAIN!
 
 ::BEGIN:STATUES
 ## The Statues
-p: Below each statue is engraved a name... Vamraka, Indu, Soma, Sarya.  More is written below the names but you must look more closely to read it.
+p: Below each statue is engraved a name... Indu, Indra, Soma, and Agni.  More is written below the names but you must look more closely to read it.
 
 ::begin:menu
 look[Indu Statue]:indu
@@ -28,7 +28,7 @@ look[Agni Statue]:agni
 ====
 
 ::BEGIN:FOUNTAIN
-img:object/0251/avatar
+img:main/object/0251/avatar
 
 ## Arjika Fountain
 
