@@ -12,7 +12,6 @@ img:main/world/0096/title
 p:You are at the Eastern Gate of Arjika where SecurityDEVA D175 (Guard) stands watch.
 
 - WEST is the City of Arjika
-- UP is Eastern Security Lookout
 
 p:There is also a security board here to read the latest bulletins.
 
@@ -20,7 +19,7 @@ bmud[Read Security Board]:read security
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 coordinates:00[-880|-464]
 ::END:MAIN
 
