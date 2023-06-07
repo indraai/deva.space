@@ -7,10 +7,6 @@ img:main/world/0279/title
 
 ## 3S Main Street
 
-::begin:news
-talk:#web rss https://css-tricks.com/feed/
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-568]
