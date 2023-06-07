@@ -26,10 +26,27 @@ p:Allow yourself to be transported to a realm beyond mortal bounds. Here, the im
 
 p:Arjika City Center is not just a place; it's a testament to the boundless imagination of those who dare to dream and explore, and stands as a testament to the timeless Vedic traditions.
 
-::begin:menu
+### Attractions
+
+::begin:buttons
 look[Arjika Fountain]:fountain
-look[Arjika Statues]:statues
-::end:menu
+look[Arjika Fountain Statues]:statues
+::end:buttons
+
+### Directory
+
+::begin:menu
+look[1N Main Street - N]:north
+look[1E Arjika Blvd - E]:east
+look[1W Arjika Blvd - W]:west
+look[1S Main Street - S]:south
+look[Arjika Solutions - NE]:northeast
+look[Arjika Support - SE]:southeast
+look[Arjika Services - NW]:northwest
+look[Arjika Systems - SE]:southwest
+look[Arjika Tower - UP]:up
+look[Arjika Training Center - DN]:down
+::bend:menu
 
 -
 

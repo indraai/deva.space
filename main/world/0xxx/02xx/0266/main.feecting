@@ -9,6 +9,15 @@ img:main/world/0266/title
 
 ## Main Street.
 
+::begin:menu
+look[Arjika City Center - N]:north
+look[Arjika Support - E]:east
+look[Arjika Services - W]:west
+look[Arjika City Center - S]:south
+look[1E Arjika Blvd - NE]:northeast
+look[1W Arjika Blvd - NW]:northwest
+::bend:menu
+
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-465|-500]
