@@ -17,14 +17,14 @@ p:As you explore, you'll discover deva.world Services to the west, offering conv
 
 p:To the southwest is 1 W Arjika Blvd, and to the southeast is 1 E Arjika Blvd, both offering access to further city adventures.
 
-::begin:buttons
-cloudbtn[Look North]:look north
-cloudbtn[Look East]:look east
-cloudbtn[Look South East]:look southeast
-cloudbtn[Look South]:look south
-cloudbtn[Look South West]:look southwest
-cloudbtn[Look West]:look west
-::end:buttons
+::begin:menu
+cloud[Look North]:look north
+cloud[Look East]:look east
+cloud[Look South East]:look southeast
+cloud[Look South]:look south
+cloud[Look South West]:look southwest
+cloud[Look West]:look west
+::end:menu
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
