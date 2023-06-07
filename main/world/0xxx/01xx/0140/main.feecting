@@ -10,12 +10,13 @@ img:main/world/0096/title
 p:You are at the Northern Gate where indra.agency and SecurityDEVA D175 (Guard) stands guard.
 
 ## South
-p:To the look[south] you will find indra.house where the residential area of indra.city is located.
-mud[Goto indra.house...]:s
+p:To the south you will find the Arjika City residential area where houses and apartments are provided rent free.
+cloud[Go South...]:south
 
-## Up
-p:In the look[up] direction you will find the Security Lookout that watches over the city for inside and outside threats.
-mud[Goto lookout...]:u
+## South
+p:To the south you will find the Arjika City residential area where houses and apartments are provided rent free.
+cloud[Go South...]:south
+
 
 ## Bulletin Board
 p:There is also a security board here to read the latest bulletins.
