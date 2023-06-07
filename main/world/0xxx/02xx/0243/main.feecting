@@ -7,17 +7,15 @@ p:You can see the Western Security (W) from here.
 ::BEGIN:MAIN
 img:main/world/0096/title
 
-## Security (W)
+## Security Gate (W)
 
 p:You are at the Western Gate of Arjika where SecurityDEVA (Guard) stands watch.
 
-p:To the enter you enter the City of Arjika and it's wonderious attractions.
+p:To the enter you enter the City of Arjika and it's wonderious attractions please pass through the security gate to the east.
 
-p:To the west is Narmada forest.
+p:For those who want an adventure to some sacred pools the Narada forest is to the west.
 
-p:In up direction you will find the Security Tower W that watches over the city for inside and outside threats.
-
-p:There is also a security board here to read the latest bulletins.
+p:Remember to check the public security board for the latest bulletins.
 
 cloud[Read Security Board]:read security
 
