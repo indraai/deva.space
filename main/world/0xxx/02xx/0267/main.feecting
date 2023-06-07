@@ -16,6 +16,47 @@ p:We provide support for a wide range of categories to cater to various needs. O
 p:Feel free to reach out to us for any modification/reparation requests or to report any issues with deva.world. Our team will be happy to help you out.
 
 p:Thank you for choosing deva.world, and we look forward to providing you with the best support possible.
+
+---
+
+## Features
+p:In deva.world the #SupportCenter provides features to your prompt. These features are available as global methods to all deva agents in deva.world at initialization time. They provide a centralized way to manage these features across all clients and agents.
+
+### support
+p: This is a general support call to see what settings and information are stored in your #support feature profile.
+
+p:This example below is to call your local support profile or the support profile for another deva.
+example: /support
+example: #[deva key] support
+
+### status
+p:This is a feature that will give you the current status of your main Deva agent or any other agents you interact with.
+
+p:The example below will call local status or the status of a specificed deva.
+example: /status
+example: #[deva key] status
+
+### info
+p:This is a feature that will give you the current info of your main Deva agent or any other agents you interact with.
+
+p:The example below will call local info or the info of a specificed deva.
+example: /info
+example: #[deva key] info
+
+### issue
+p:This is a feature that will all you to create an issue that is associated with your main local deva.world profile or the specified deva. The issues are then associated with the source code repository on gitub to make sure the issue is addressed with the right team and the right codebase.
+
+p:The example below will create an issue for the specificed deva.
+example: /issue [issue title]
+example: #[deva key] issue [issue title]
+
+### help
+p:This is the main help feature in deva.world that is delivered to all agents at load time. We use this to provide a centralized source of help for all clients and agents to ensure the most up-to-date help information is always available.
+
+p:The example below to use the help command
+example: /help
+example: #[deva key] help
+
 ---
 
 #color = var(--color-black)
