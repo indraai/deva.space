@@ -9,10 +9,6 @@ img:main/world/0253/title
 
 ## 3E Arjika Blvd
 
-::begin:news
-talk:#web rss http://feeds.bbci.co.uk/news/rss.xml
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-568.5|-464]
