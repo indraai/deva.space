@@ -13,10 +13,6 @@ vector: 0x_0297r
 opsec: L4
 describe: CYPHER-4 handles the most serious of threats. The HIGHEST sensitivity of CYPHER Issues are handled in this center. Threats ranging from corrupt organizations, spies, moles, intrustions, breaches, backdoors, malware, and trojans some of the specialties of CYPHER-4.
 
-::begin:news
-talk:#web rss https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=800&Site=945&max=20
-::end:news
-
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
 coordinates:00[-822.5|-637]

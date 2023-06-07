@@ -7,10 +7,6 @@ img:main/world/0293/title
 
 ## 5S2E Main Street
 
-::begin:news
-talk:#web rss https://www.w3.org/blog/feed/
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-534|-637]

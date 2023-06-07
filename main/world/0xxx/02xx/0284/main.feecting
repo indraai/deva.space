@@ -13,10 +13,6 @@ vector: 0x0284r
 opsec: L5
 describe: The Strategy Room where Arjika Military strategizes their military plans.
 
-::begin:news
-talk:#web rss https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=700&Site=945&max=20
-::end:news
-
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
 coordinates:00[-822.5|-603]

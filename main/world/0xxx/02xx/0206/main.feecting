@@ -7,10 +7,6 @@ img:main/world/0206/title
 
 ## 9W6N Outer Loop
 
-::begin:news
-talk:#web rss https://variety.com/feed/
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-154|-257]

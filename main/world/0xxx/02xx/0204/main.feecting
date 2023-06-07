@@ -9,10 +9,6 @@ img:main/world/0204/title
 
 youtube:_uG7uj7so8c
 
-::begin:news
-talk:#web rss https://www.themarthablog.com/feed
-::end:news
-
 #color = var(--color-dark-grey)
 #bgcolor = var(--color-white)
 #bg = main/world/0204/background

@@ -7,10 +7,6 @@ img:main/world/0249/title
 
 ## 3W Arjika Blvd.
 
-::begin:news
-talk:#web rss https://www.politico.com/rss/politicopicks.xml
-::end:news
-
 #color = var(--color-black)
 #bgcolor = var(--color-white)
 coordinates:00[-361|-464]

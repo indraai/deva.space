@@ -15,10 +15,6 @@ vector: 0x0271r
 opsec: L5
 describe:  The Arjika Military Operations Center
 
-::begin:news
-talk:#web rss https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=7
-::end:news
-
 #bgcolor = var(--color-black)
 #color = var(--color-light-grey)
 coordinates:00[-822.5|-569]
