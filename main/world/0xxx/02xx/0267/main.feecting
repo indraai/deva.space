@@ -17,8 +17,19 @@ p:Feel free to reach out to us for any modification/reparation requests or to re
 
 p:Thank you for choosing deva.world, and we look forward to providing you with the best support possible.
 
+talk:#space world:main 0267/main:features
+
 ---
 
+#color = var(--color-black)
+#bgcolor = var(--color-white)
+#bg = /asset/main/world/0267/background
+coordinates:00[-499|-499]
+::END:MAIN
+
+=
+
+::BEGIN:FEATURES
 ## Features
 p:In deva.world the #SupportCenter provides features to your prompt. These features are available as global methods to all deva agents in deva.world at initialization time. They provide a centralized way to manage these features across all clients and agents.
 
@@ -56,13 +67,5 @@ p:This is the main help feature in deva.world that is delivered to all agents at
 p:The example below to use the help command
 example: /help
 example: #[deva key] help
-
----
-
-#color = var(--color-black)
-#bgcolor = var(--color-white)
-#bg = /asset/main/world/0267/background
-coordinates:00[-499|-499]
-::END:MAIN
-
+::END:FEATURES
 =

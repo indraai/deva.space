@@ -1,5 +1,5 @@
 ::BEGIN:LOOK
-p:You can see the Security Office.
+p:You can see the northner Arjika Security Office from here.
 ::END:LOOK
 
 =
@@ -13,9 +13,11 @@ p:Welcome to Security.
 
 p:Step into the Northern Branch Security office, the vigilant fortress dedicated to safeguarding Arjika and its inhabitants.
 
-p:This bustling hub of SecurityPRIME's operations is staffed by a team of dedicated SecurityDEVA agents who work tirelessly day and night to ensure the safety, security, and tranquility of the realm. From providing security protocols to offering assistance and a warm smile, this office serves as a steadfast stronghold, committed to protecting the well-being of all who reside in Arjika.
+p:This bustling hub of Security operations is staffed by a team of dedicated SecurityDEVA agents who work tirelessly day and night to ensure the safety, security, and tranquility of the realm. From providing security protocols to offering assistance and a warm smile, this office serves as a steadfast stronghold, committed to protecting the well-being of all who reside in Arjika.
 
-p:-Security
+---
+
+talk:#space world:main 0096/main:features
 
 ---
 
@@ -25,4 +27,39 @@ coordinates:00[-500|-360]
 #bg = /asset/main/world/0096/background
 ::END:MAIN
 
+=
+
+::BEGIN:FEATURES
+## Features
+
+### uid
+p: The uid feature allows every deva to create a unique id for transport or a guid for unique record storage.
+
+p: The first example creates a transport unique id for the local agent or a deva agent.
+example: /uid
+example: #[deva key] uid
+
+### hash
+p: The hash feaure creates a unique hash value from a provided string. Hahs can be md5, sha256, or sha512 depending on needs.
+
+p: The first example creates a md5 hash for the local agent or a deva agent.
+example: /hash [string to hash]
+example: #[deva key] hash [string to hash]
+
+p: The next example creates a sha256 hash from the provided string.
+example: /hash:sha256 [string to hash]
+example: #[deva key] hash:sha256 [string to hash]
+
+p: The last example creates a sha512 hash from the provided string.
+example: /hash:sha512 [string to hash]
+example: #[deva key] hash:sha512 [string to hash]
+
+
+### cipher
+p: The cipher feature that is provided by #Security allows clients and agents to encrypt data from within deva.world system.
+
+p: This example will encrypt data
+example: /cipher [data string]
+example: #[agent key] [data string]
+::END:FEATURES
 =

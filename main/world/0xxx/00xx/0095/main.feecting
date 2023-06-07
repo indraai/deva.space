@@ -1,16 +1,25 @@
 ::BEGIN:LOOK
-p:You can see indra.agency from here.
+p:You can see the southern Arjika Security Office from here.
 ::END:LOOK
 
 =
 
 ::BEGIN:MAIN
 img:main/world/0096/title
-p:Welcome to Indra Agency.
-p:You have arrived in our Southern Branch Office where all persons in Arjika are provided security, safety, and a smile.
-p:For those that are new to the realm our agency is managed by SecurityPRIME and his fantastic team of SecurityDEVA who work day and night to protect Arjika and all the inhabitants.
-p:-Mangement
 
+## Security
+
+p:Welcome to Security.
+
+p:Step into the Northern Branch Security office, the vigilant fortress dedicated to safeguarding Arjika and its inhabitants.
+
+p:This bustling hub of Security operations is staffed by a team of dedicated SecurityDEVA agents who work tirelessly day and night to ensure the safety, security, and tranquility of the realm. From providing security protocols to offering assistance and a warm smile, this office serves as a steadfast stronghold, committed to protecting the well-being of all who reside in Arjika.
+
+---
+
+talk:#space world:main 0096/main:features
+
+---
 #bg = /asset/main/world/0096/background
 #bgcolor = var(--color-black)
 coordinates:00[-430|-568]
