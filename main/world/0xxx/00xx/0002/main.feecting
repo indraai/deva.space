@@ -7,11 +7,40 @@ img:main/world/0002/title
 
 p:Welcome to Arjika Academy!
 
-p:Arjika Academy where your training start. Here you will learn the basics of working with commands, and interacting with the system.
+p:Arjika Academy where your training start. Here you will learn the basics of working with commands, and interacting with the system. Commands are used to perform various tasks like moving to different locations, purchasing items, and interacting with other users.
+
+p:Learning and mastering these commands is essential for navigating and thriving in deva.world.
 
 p:At Arjika Academy students go through deva.world realm training here learning how to do basic tasks, eating, drinking sleeping, and basic transactions.
 
+p:The Academy offers nine levels of training.
 
+1. Basics
+p: During the basiscs lessons the participating will learn the basics of movement, consider, sit, stand, sleep, rest, and other basic commands.
+
+2. Utilities
+p: In the Utilities lessons participatns learn how to open/close/lock/unlock doors, wear items, pickup items, hold items, drop items, and other utility functions.
+
+3. Socializing
+p: At level 3 training participants will leanr the socializing commands for say, gossip, gemoite, gsay, socials, and all the other socializing functions in this course.
+
+4. Transactions
+p: The transactions training is where participants learn to mail letters, conduct bank transactions, and learn the various other commands that are used when conducting transactions.
+
+5. System
+p: The system commands lessons are to teack the commands like autodoor, autooffer, autoassist, automap, wizlist, and the other system functions that can be used in deva.world.
+
+6. Level 31
+p: This course training is for users and agents above level 31 who have access to the first level of administrator commands such as buildwalk, attach, goto, handbook, and teleport.
+
+7. Level 32
+p: Players and agents at level 32 will receive additional capabiliites with commands such as ocopy, last, rcopy tedit, and others to facilitate users who are at a higher level.
+
+8. Level 33
+p: Users and players at level 33 will have access to even more commands such as advance, ban, copyover, freeze, and hcontrol for building and assigning houses.
+
+9. Level 34
+p: Here users receive training on the level 34 then will receive access to the cedit command, changelog, export, shutdown and wizlock commands.
 
 #color = #ffffff
 #bgcolor =#4c5977
