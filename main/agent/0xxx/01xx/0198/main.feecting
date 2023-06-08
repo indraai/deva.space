@@ -3,13 +3,14 @@ img:main/agent/0198/avatar
 ::END:AVATAR
 
 ::BEGIN:LOOK
-# Indu Monk
 img:main/agent/0198/avatar
 
-name: Vamraka Disciple
-job: Monk
-sex: M
+## Indu Disciple
+
+name: Indu Disciple
+role: Monk
+gender:
 age: Unknown
 
-describe:This Vamraka Disciple looks like he enjoys his job very much. Helping those who are in need for nothing more than a small offering. He is very gentle and looks like he cares deeply about all people. He smiles at you warmly.
+describe:This Indu Disciple looks like he enjoys his role very much. Helping those who are in need for nothing more than a small offering. He is very gentle and looks like he cares deeply about all people. He smiles at you warmly.
 ::END:LOOK
