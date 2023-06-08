@@ -19,10 +19,8 @@ p:Then you realize that you are not alone. Only a few yards away is an odd creat
 
 p:There is something terrifying about that face, but also something angelic, something that draws you to it In fact, you feel as if you are being hypnotized by those eyes—eyes of an angel bird!
 
-cloud[Run from the strange creature...]:n
-cloud[Hold your ground and face it...]:s
-
-talk:#space hash add 6
+cloud[Run from the strange creature...]:north
+cloud[Hold your ground and face it...]:south
 
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff

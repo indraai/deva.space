@@ -28,9 +28,7 @@ p:Sneed shakes his head. "None."
 
 p:For a minute no one speaks. Like you, the others must feel excited to have reached their goal but also a little sad.
 
-cloud[Continue to the edge...]:n
-
-talk:#space hash add 1
+cloud[Continue to the edge...]:north
 
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff

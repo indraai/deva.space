@@ -22,10 +22,8 @@ p:You could land on it, but you're falling so fast you're sure to be badly injur
 
 p:These thoughts race through your head in a split second.
 
-cloud[Try to land on the ledge...]:n
-cloud[Continue falling...]:d
-
-talk:#space hash add 2
+cloud[Try to land on the ledge...]:north
+cloud[Continue falling...]:down
 
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
