@@ -17,7 +17,7 @@ p:It's good to remember that deva.cloud also has it's own built in help system t
 
 p: To access deva.cloud help please use the following command.
 
-cmd: #cloud > help
+cmd:#cloud > help
 
 ---
 
@@ -99,19 +99,19 @@ down: #cloud down
 ### Positions
 p: Here are the basic commands for sitting, standing, resting, sleeping, and waking your character in the deva.cloud realm inside deva.world.
 
-cmd: #cloud sit
+cmd:#cloud sit
 p: The sit command puts your character to sit position.
 
-cmd: #cloud stand
+cmd:#cloud stand
 p: The stand command puts your character to stand position.
 
-cmd: #cloud rest
+cmd:#cloud rest
 p: The rest command puts your character to rest position.
 
-cmd: #cloud sleep
+cmd:#cloud sleep
 p: The sleep command puts your character to sleep position.
 
-cmd: #cloud wake
+cmd:#cloud wake
 p: Use the wake command to wake your character from sleep state.
 ::END:POSITIONS
 =
@@ -120,25 +120,25 @@ p: Use the wake command to wake your character from sleep state.
 ## Player
 p: Below you will find various commands that apply to player functions like saving and quitting the deva.cloud realms inside deva.world.
 
-cmd: #cloud save
+cmd:#cloud save
 p: This command can be used to save player progress between autosave points.
 
-cmd: #cloud quit
+cmd:#cloud quit
 p: Use the quit command to end your deva.world session.
 
-cmd: #cloud score
+cmd:#cloud score
 p: Use the score command to retrieve your current player stats.
 
-cmd: #cloud whoami
+cmd:#cloud whoami
 p: Displays your character's name, if you want to be sure you are who you think you are.
 
-cmd: #cloud afk
+cmd:#cloud afk
 p: Use this afk command when you go away from your keyboard so the system knows you are in active.
 
-cmd: #cloud policy
+cmd:#cloud policy
 p: Use the policy command to retrieve the deva.world policies.
 
-cmd: #cloud version
+cmd:#cloud version
 p: Get the deva.cloud version number as remember deva.cloud provides the realm for deva.world.
 ::END:PLAYER
 =
@@ -146,7 +146,7 @@ p: Get the deva.cloud version number as remember deva.cloud provides the realm f
 ::BEGIN:DOORS
 ## Exits
 
-cmd: #cloud leave
+cmd:#cloud leave
 p: The 'leave' command will make you use the nearest obvious exit to the outside.
 
 example: #cloud unlock [door]
