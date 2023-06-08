@@ -155,3 +155,11 @@ example:#cloud lock [door]
 
 ::END:DOORS
 =
+
+::BEGIN:OBSERVATION
+## Observation
+
+cmd:#cloud look
+p: The 'look' command will update looking where the character is currently located.
+::END:OBSERVATION
+=
