@@ -10,19 +10,38 @@ img:main/world/10000/title
 author: Edward Packard
 illustrator: Anthony Kramer
 publisher: Bantam Books
+describe: Underground Kingdom is a Choose Your Own Adventure book released in 1983. It was the 18th Choose Your Own Adventure book ever released, and was written by Edward Packard.
+plot: The famed scientist Doctor Nera Vivaldi has discovered an apparently bottomless crevasse in Greenland, and disappeared down it. You, her longtime friend, are part of an expedition sent to discover what exactly happened.
 
-p[speak:Brian]:The Underground Kingdom is not easy to reach. Many readers never get there. Others never return.
+---
 
-p[speak]:Before starting out on your journey, you may want to read Professor Bruckner's theory.
+## The Underground Kingdom
 
-p[speak]:Professor Bruckner is a rather boring writer, and I wouldn't suggest that you bother to read his theory, except that, if you ever get to the Underground Kingdom, it might save your life.
+p:The Underground Kingdom is not easy to reach. Many readers never get there. Others never return.
 
-p[speak]:Good luck!
+p:Before starting out on your journey, you may want to read Professor Bruckner's theory.
 
+p:Professor Bruckner is a rather boring writer, and I wouldn't suggest that you bother to read his theory, except that, if you ever get to the Underground Kingdom, it might save your life.
+
+p:Good luck!
+
+### Actions
+::begin:menu
 cloud[Read Professor Bruckner's theory...]:read theory
+::end:menu
 
-
+### Directions
+::begin:menu
 cloud[Continue to the glacier...]:north
+::end:menu
+
+### Shuttle
+::begin:menu
+button[Shuttle to #ChatGPT.ui]:#shuttle space:main:puppet 10000/main
+button[Shuttle to #ChatGPT.api]:#shuttle space:main:open 10000/main
+::end:menu
+
+---
 
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
