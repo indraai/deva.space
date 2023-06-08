@@ -37,7 +37,7 @@ talk:#space world:main 0003/main:doors
 #bgcolor = var(--color-grey)
 #bg = main/world/0002/background
 
-coordinates:00[-541|-245]
+coordinates:00[-541|-223]
 ::END:MAIN
 
 
