@@ -23,9 +23,7 @@ p:You might discover that you fear the same things.
 
 p:Once you've reached an understanding, you can work out a plan that will let the Rakas and the Archpods live in peace.
 
-cloud[Continue...]:e
-
-talk:#space hash add 104
+cloud[Continue...]:east
 
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
