@@ -37,8 +37,8 @@ cloud[Continue to the glacier...]:north
 
 ### Shuttle
 ::begin:menu
-button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:main:puppet 10000/main
-button[🚌 Shuttle to ChatGPT.api]:#shuttle space:main:open 10000/main
+button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:world:puppet 10000/main
+button[🚌 Shuttle to ChatGPT.api]:#shuttle space:world:open 10000/main
 ::end:menu
 
 ---
