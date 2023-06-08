@@ -12,6 +12,6 @@ p:You are are at the Hallway.
 
 #bgcolor = #fffdb4
 #color = #734617
-#bg = main/world/1239/background
+#bg = /asset/main/world/1239/background
 coordinates:12[-483|-749]
 ::END:MAIN

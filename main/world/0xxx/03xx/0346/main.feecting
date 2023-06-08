@@ -8,16 +8,16 @@ p:You can see Arjika Temple (E) from here.
 p:Welcome to Arjika Temple (E).
 
 p:To the South is the Courtyard
-mud[Courtyard...]:s
+cloud[Courtyard...]:s
 
 p:To the West is Indra City Towers West
-mud[Towers West...]:w
+cloud[Towers West...]:w
 
 p:Going Up will take you to the Vedic Deity Houses.
-mud[Deity Houses...]:u
+cloud[Deity Houses...]:u
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0346/background
+#bg = /asset/main/world/0346/background
 coordinates:00[-604|-879]
 ::END:MAIN

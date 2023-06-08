@@ -20,7 +20,7 @@ p:Remember to check the public security board for the latest bulletins.
 cloud[Read Security Board]:read security
 
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 coordinates:00[-55|-464]
 ::END:MAIN
 

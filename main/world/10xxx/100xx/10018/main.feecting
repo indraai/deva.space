@@ -15,11 +15,11 @@ p:Then, with one great effort, you heave yourself over the edge, then twist and 
 p:Stiff and shaky, you manage to stand and stare at the bleak world around you. The sun has set behind the western mountains, and you begin to shiver in the chill wind.
 p:You're thankful that in this part of Greenland it never grows dark in July. But it does grow cold, well below freezing, and you're too exhausted to run and jump to warm yourself.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 18
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

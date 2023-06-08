@@ -15,11 +15,11 @@ p:"Please come in. Are you still studying the Bottomless Crevasse?"
 
 p:Bruckner nods. "We've identified the force that may have pulled Larsen and Sneed into the crevasse. Would you be willing to go back? Precautions would be taken so there would be no chance of its happening again."
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 26
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

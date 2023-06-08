@@ -25,11 +25,11 @@ p:"Ready." You grit your teeth as the Vertacraft accelerates into the crevasse a
 
 p:It's getting worse. What's happening? Can't Dr. Vivaldi stop it? You're blacking out.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 82
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

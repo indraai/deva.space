@@ -32,11 +32,11 @@ p:Will anyone ever find you down here?
 
 p:Will you even survive the arctic night?
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 9
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

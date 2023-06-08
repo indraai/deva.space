@@ -30,11 +30,11 @@ p:One of your captors leads you to the nearest one.
 
 p:"Ib agon," he says as he takes you inside.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 42
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

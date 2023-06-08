@@ -16,11 +16,11 @@ p:The creature looked more like a frightened animal than a fierce hunter.
 
 p:As you climb down from the tree, you hear a low moaning coming from the brush. A pair of bright blue lights is shining from within the darkness.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 46
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

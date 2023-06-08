@@ -16,11 +16,11 @@ p:Almost at once you hear a loud, trilling song.
 
 p:Above you is an enormous flying creature with wings stretching twenty feet across! You stare into its great blue-green eyes and at once feel completely safe. You know you've seen it, or at least dreamed of seeing it, before. It's like some kind of angel bird sent to protect you. Without thinking, you leap right onto the creature's back.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 61
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

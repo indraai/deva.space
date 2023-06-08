@@ -15,11 +15,11 @@ p:You start to thank the Grand Akpar, but he holds up his hand. "Do not thank me
 
 p:There is not much you can say, and you would hardly have time anyway, for the guards quickly lead you away.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 105
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

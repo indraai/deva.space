@@ -11,6 +11,6 @@ youtube:KEkrWRHCDQU
 
 #color = var(--color-green)
 #bgcolor = var(--color-black)
-#bg = main/world/0230/background
+#bg = /asset/main/world/0230/background
 coordinates:00[-79|-361]
 ::END:MAIN

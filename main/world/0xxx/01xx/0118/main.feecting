@@ -19,10 +19,10 @@ p:look[southeast] is the Southern Security Lookout
 p:look[down] is the Western Gate of Arjika
 
 There is also a security board here to read the latest bulletins.
-bmud[Read Security Bulletins]:read security
+cloud[Read Security Bulletins]:read security
 
 
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 #bgcolor = var(--color-black)
 coordinates:00[-637|-465]
 ::END:MAIN

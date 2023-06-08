@@ -16,11 +16,11 @@ p:"We are trapped." Dr. Vivaldi's voice sounds far away. "By the time the claybe
 p:She coughs and staggers a few feet up a small hill of diamonds. "Quick, over here!" she calls.
 p:Gasping, you stumble up the hill and collapse in a mound of diamonds. Dr. Vivaldi breathes deeply. "We're safe for the moment This hill is well above the toxic gases." Her voice is drowned out by the ground thunder.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 94
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

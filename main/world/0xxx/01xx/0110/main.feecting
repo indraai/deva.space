@@ -9,7 +9,7 @@ img:main/world/0096/title
 
 ## Security Breakroom
 
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 #bgcolor = var(--color-black)
 coordinates:00[-500|-360]
 ::END:MAIN

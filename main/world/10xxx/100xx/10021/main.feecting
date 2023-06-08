@@ -13,12 +13,12 @@ p:You soon begin to feel the dull aches, stiffness, and sick feeling you've read
 p:Maybe a search helicopter will arrive any moment. Maybe in a few hours. Maybe never.
 p:You are very tired. You desperately need rest.
 
-mud[Huddle in your your parka...]:n
-mud[Force yourself to keep walking...]:s
+cloud[Huddle in your your parka...]:n
+cloud[Force yourself to keep walking...]:s
 
 talk:#space hash add 21
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

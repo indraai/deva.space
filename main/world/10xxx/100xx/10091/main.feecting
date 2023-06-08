@@ -28,12 +28,12 @@ p:"I don't think we have time to figure it out now," you say.
 p:"You may be right," Dr. Vivaldi admits. "In any event, I would guess that the Archpods have good reasons for their fears.
 p:Are you willing to risk continuing on to the Hills of Diamonds, or do you want to turn back?"
 
-mud[You want to continue...]:n
-mud[You want to turn back...]:s
+cloud[You want to continue...]:n
+cloud[You want to turn back...]:s
 
 talk:#space hash add 91
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

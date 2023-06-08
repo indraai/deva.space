@@ -9,10 +9,10 @@ img:main/world/1103/title
 
 p:You are are at Disneyland Main Street.
 
-mud[North - Main Street]:n
-mud[North West - Town Square]:nw
-mud[South West - Disneyland Entrance]:sw
-mud[East - Bank of Arjika]:e
+cloud[North - Main Street]:n
+cloud[North West - Town Square]:nw
+cloud[South West - Disneyland Entrance]:sw
+cloud[East - Bank of Arjika]:e
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

@@ -10,7 +10,7 @@ describe:The FBI Training.
 
 p:text test
 
-bmud[Harold Report]:look text
+cloud[Harold Report]:look text
 
 ::END:LOOK
 

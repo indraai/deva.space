@@ -9,12 +9,12 @@ img:main/world/1139/title
 p:You are are at the Mad Hatter Shop. This is where you can buy the famouse Mickey Mouse Ears Hat.
 
 p:To see a list of offerings.
-mud[List Offerings]:list
+cloud[List Offerings]:list
 
 p:If you want to buy some Ears then click here.
-mud[Buy Mickey Hat]:buy hat
+cloud[Buy Mickey Hat]:buy hat
 
-#bg = main/world/1139/background
+#bg = /asset/main/world/1139/background
 #bgcolor = var(--color-white)
 #color = var(--color-black)
 coordinates:11[-626|-706]

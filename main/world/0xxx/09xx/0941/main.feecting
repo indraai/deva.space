@@ -17,10 +17,10 @@ link[Archive - Angst Central]:https://bit.ly/3vOAMuD
 img:main/world/0941/title
 
 ::begin:buttons
-bmud[Where are EOTL Agents?]:where eotl
-bmud[Player Photos 1]:look tip1
-bmud[Player Photos 2]:look tip2
-bmud[Player Photos 3]:look tip3
+cloud[Where are EOTL Agents?]:where eotl
+cloud[Player Photos 1]:look tip1
+cloud[Player Photos 2]:look tip2
+cloud[Player Photos 3]:look tip3
 ::end:buttons
 
 ::begin:arcade

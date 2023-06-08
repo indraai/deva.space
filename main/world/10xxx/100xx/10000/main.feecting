@@ -19,15 +19,12 @@ p[speak]:Professor Bruckner is a rather boring writer, and I wouldn't suggest th
 
 p[speak]:Good luck!
 
-mud[Read Professor Bruckner's theory...]:read theory
+cloud[Read Professor Bruckner's theory...]:read theory
 
 
-mud[Continue to the glacier...]:n
+cloud[Continue to the glacier...]:north
 
-talk:#space hash clear
-talk:#space hash add 0
-
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
@@ -37,7 +34,7 @@ talk:#space hash add 0
 thanks:Thank you for visiting the Underworld Kingdom Adventure.
 note:We hope that you enjoyed your journey. Please follow the indicated exits to return to the beginning.
 
-mud[Exit to beginning...]:w
+cloud[Exit to beginning...]:west
 ::END:THANKYOU
 ====
 
@@ -48,7 +45,7 @@ p:Hello Adventurer,
 p:It appears as though you have already collected the token from this path. Please try another.
 
 p:Happy Adventuring!
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:CLOSED

@@ -14,6 +14,6 @@ cmd:#mud e
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0153/background
+#bg = /asset/main/world/0153/background
 coordinates:00[-79|-326]
 ::END:MAIN

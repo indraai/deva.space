@@ -9,6 +9,6 @@ p:You are in Academy L5
 
 #color = var(--color-white)
 #bgcolor = var(--color-grey)
-#bg = main/world/0002/background
+#bg = /asset/main/world/0002/background
 coordinates:00[-644|-211]
 ::END:MAIN

@@ -22,13 +22,13 @@ p:Should you warn your friends about the strange force?
 
 p:If you do, they may be afraid to get close enough to rescue you.
 
-mud[Warn Larsen and Sneed...]:n
-mud[Yell Please Hurry!...]:s
+cloud[Warn Larsen and Sneed...]:n
+cloud[Yell Please Hurry!...]:s
 
 talk:#space hash add 5
 
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

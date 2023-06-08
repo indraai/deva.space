@@ -7,8 +7,8 @@ img:main/world/0035/portrait
 
 thanks:Thank you for visiting the Shrine of Bom. Please leave your Offerings on the table or with the Host.
 
-mud[Exit South...]:s
+cloud[Exit South...]:s
 
-#bg = main/world/0035/background
+#bg = /asset/main/world/0035/background
 #color = #8bfdfe
 ::END:MAIN

@@ -20,7 +20,7 @@ talk:#space world:main 0326/main:evil
 
 #bgcolor = #000000
 #color = #fb7496
-#bg = main/world/0326/background
+#bg = /asset/main/world/0326/background
 coordinates:00[-360|-844]
 ::END:MAIN
 

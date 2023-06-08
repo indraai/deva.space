@@ -27,7 +27,7 @@ p:It's your only chance once you reach the Black Sun. A chance in a million mayb
 
 talk:#space hash add 106
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

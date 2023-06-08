@@ -21,7 +21,7 @@ talk:#docs view vedas/law/pledges:11
 
 #bgcolor = #cccccc
 #color = #333333
-#bg = main/world/0329/background
+#bg = /asset/main/world/0329/background
 
 coordinates:00[-911.5|-1095.5]
 ::END:MAIN

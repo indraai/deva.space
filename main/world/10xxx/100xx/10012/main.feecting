@@ -15,12 +15,12 @@ img:main/world/10012/cliff
 
 p:By cutting a couple of handholds in the ice with your pocket knife, you could make it to the top, if you don't lose your grip.
 
-mud[You try to make it...]:n
-mud[You decide to wait...]:s
+cloud[You try to make it...]:n
+cloud[You decide to wait...]:s
 
 talk:#space hash add 12
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

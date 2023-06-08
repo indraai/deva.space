@@ -9,10 +9,10 @@ img:main/world/1103/title
 
 p:You are are at the Main Street (E).
 
-mud[North - Main Street]:n
-mud[East - The Walt Disney Story]:e
-mud[South - Main Street]:s
-mud[West - Town Square]:w
+cloud[North - Main Street]:n
+cloud[East - The Walt Disney Story]:e
+cloud[South - Main Street]:s
+cloud[West - Town Square]:w
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

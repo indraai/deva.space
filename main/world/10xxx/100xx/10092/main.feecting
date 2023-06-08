@@ -48,11 +48,11 @@ p:You exchange glances with Dr. Vivaldi. "Do you have the same feeling I do?" yo
 
 p:She nods and motions you to follow.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 92
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

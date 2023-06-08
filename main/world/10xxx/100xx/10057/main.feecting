@@ -17,11 +17,11 @@ p:As you march on, hour after hour, the air turns colder. You feel your strength
 
 p:Finally the Rakas stop. Exhausted, you crumple to the ground. All is silent, and you fall into a deep sleep.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 57
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

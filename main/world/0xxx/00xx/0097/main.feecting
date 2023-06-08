@@ -16,7 +16,7 @@ p:Here MedicPRIME offers the services to get yourself back into physical and men
 
 #color = #260051
 #bgcolor = #db9cc0
-#bg = main/world/0097/background
+#bg = /asset/main/world/0097/background
 coordinates:00[-430|-361]
 ::END:MAIN
 

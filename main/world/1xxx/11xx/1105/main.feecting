@@ -9,11 +9,11 @@ img:main/world/1103/title
 
 p:You are are at the Disneyland Main Street (E).
 
-mud[North - Town Square Cafe]:n
-mud[East - The Mad Hatter]:e
-mud[South - Main Street]:s
-mud[South West - Town Square]:sw
-mud[West - Main Street]:w
+cloud[North - Town Square Cafe]:n
+cloud[East - The Mad Hatter]:e
+cloud[South - Main Street]:s
+cloud[South West - Town Square]:sw
+cloud[West - Main Street]:w
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

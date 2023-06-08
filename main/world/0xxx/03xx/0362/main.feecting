@@ -11,11 +11,11 @@ img:main/world/0096/title
 
 p:You are in Agency South Checkpoint.
 
-bmud[Read Board]:read security
+cloud[Read Board]:read security
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 coordinates:00[-465|-982]
 ::END:MAIN
 

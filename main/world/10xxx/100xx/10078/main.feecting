@@ -21,12 +21,12 @@ p:"Which do you prefer?" Dr. Vivaldi asks you.
 
 p:"There may still be a chance to return home, though the risks are great."
 
-mud[Explore the Kingdom...]:n
-mud[Return to the surface...]:s
+cloud[Explore the Kingdom...]:n
+cloud[Return to the surface...]:s
 
 talk:#space hash add 78
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

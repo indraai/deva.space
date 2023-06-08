@@ -13,6 +13,6 @@ img:main/world/1214/guide
 
 #bgcolor = #ffffff
 #color = #333333
-#bg = main/world/1214/background
+#bg = /asset/main/world/1214/background
 coordinates:12[-491|-255]
 ::END:MAIN

@@ -9,9 +9,9 @@ img:main/world/0034/portrait
 
 thanks:Thank you for visiting the Shrine of Soma. Please leave your Offerings on the table or with the Host.
 
-mud[Exit North...]:n
+cloud[Exit North...]:n
 
-#bg = main/world/0034/background
+#bg = /asset/main/world/0034/background
 #color = #5afcfc
 ::END:MAIN
 

@@ -16,7 +16,7 @@ talk:#space world:main 0324/main:souls
 
 #bgcolor = #000000
 #color = #c00b83
-#bg = main/world/0324/background
+#bg = /asset/main/world/0324/background
 coordinates:00[-291|-844]
 ::END:MAIN
 

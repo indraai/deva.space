@@ -19,11 +19,11 @@ p:You soon find that the white clay is extremely hot. Your feet would burn up we
 
 p:Finally you reach cooler ground. Ahead of you is a dazzling vision: dozens of little hills of brilliant diamonds!
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 88
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

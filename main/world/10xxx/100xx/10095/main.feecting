@@ -15,12 +15,12 @@ img:main/world/10095/continue
 
 p:There's only one way to do it - take a deep breath and run as fast as you can. Don't breathe until you absolutely have to. Are you willing to try?"
 
-mud[If your willing to run for it...]:n
-mud[If not...]:s
+cloud[If your willing to run for it...]:n
+cloud[If not...]:s
 
 talk:#space hash add 95
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -9,9 +9,9 @@ img:main/world/1103/title
 
 p:You are are at the Main Street (W).
 
-mud[North - Main Street]:n
-mud[West - Candy Palace]:w
-mud[South - Main Street]:s
+cloud[North - Main Street]:n
+cloud[West - Candy Palace]:w
+cloud[South - Main Street]:s
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

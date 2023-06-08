@@ -11,12 +11,12 @@ p:Thanks to the dual control system, it looks as if you have a chance to escape 
 
 img:main/world/10037/craft
 
-mud[Press Emergency Reverse...]:n
-mud[Reason with Dr. Bruckner...]:s
+cloud[Press Emergency Reverse...]:n
+cloud[Reason with Dr. Bruckner...]:s
 
 talk:#space hash add 37
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

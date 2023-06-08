@@ -15,11 +15,11 @@ p:You wheel past him and run for it. The surprised Archpod yells; you soon hear 
 
 p:But in a few moments you reach the shelter of the cluster-leaf groves, and as you go deeper into the woods, you are relieved that you no longer hear the Archpods behind you. It's strange,though, that they didn't follow you into the woods.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 100
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -10,6 +10,6 @@ describe:Cafe Agent 147 is here to assist you at The Cafe with your food and dri
 
 p:To see a list of available offeirngs:
 
-bmud[List Offerings]:list
+cloud[List Offerings]:list
 
 ::END:LOOK

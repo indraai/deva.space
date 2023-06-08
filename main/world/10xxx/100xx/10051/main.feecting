@@ -26,12 +26,12 @@ p:"You ask too many questions!" the High Raka snaps back. "Now you must answer m
 
 p:You shrink back from the choice. The High Raka's voice grows stern and cold "If you are not with us, then you are against us, and we shall deal with you as our enemy."
 
-mud[Go with the warriors...]:n
-mud[Don't take part in the war...]:s
+cloud[Go with the warriors...]:n
+cloud[Don't take part in the war...]:s
 
 talk:#space hash add 51
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

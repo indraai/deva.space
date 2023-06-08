@@ -33,6 +33,6 @@ p:All that is godless may he conquer with his might, and, Lord of Hundred Powers
 
 cmd:#veda view 02022
 
-#bg = main/world/0138/background
+#bg = /asset/main/world/0138/background
 #color = #8bfdfe
 ::END:MAIN

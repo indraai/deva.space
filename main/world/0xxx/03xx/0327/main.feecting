@@ -19,7 +19,7 @@ talk:#space world:main 0327/main:eotl
 
 #bgcolor = #000000
 #color = #29da4f
-#bg = main/world/0327/background
+#bg = /asset/main/world/0327/background
 coordinates:00[-397|-844]
 ::END:MAIN
 

@@ -29,12 +29,12 @@ p:"I'm waiting," the Grand Akpar says.
 
 p:What will you do?
 
-mud[Play along...]:n
-mud[Refuse to help...]:s
+cloud[Play along...]:n
+cloud[Refuse to help...]:s
 
 talk:#space hash add 70
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -56,7 +56,7 @@ talk:#docs view vedas/law/plaint:44
 
 #bgcolor = #cccccc
 #color = #333333
-#bg = main/world/0329/background
+#bg = /asset/main/world/0329/background
 
 coordinates:00[-576|-841]
 ::END:MAIN

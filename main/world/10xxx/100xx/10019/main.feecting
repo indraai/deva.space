@@ -17,11 +17,11 @@ p:You slide to the ground, and at once the angel bird rises in the air. As it gl
 
 p:Then, turning to survey the strange landscape, you wonder where you will go. What dangers await you?
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 19
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

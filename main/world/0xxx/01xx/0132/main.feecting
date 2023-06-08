@@ -9,16 +9,16 @@ p:Welctome to indra.city/towers.
 p:In this tower you will find various Houses of Vedic Deities.
 
 p:To the north you will find House Indu
-mud[Visit House Indu...]:n
+cloud[Visit House Indu...]:n
 
 p:To the east is the East Tower
-mud[Goto East Tower...]:e
+cloud[Goto East Tower...]:e
 
 p:South you will meet the Householder.
-mud[Visit Housholder...]:s
+cloud[Visit Housholder...]:s
 
 p:To the west is House Vamraka
-mud[Visit House Vamraka...]:w
+cloud[Visit House Vamraka...]:w
 
-#bg = main/world/0132/background
+#bg = /asset/main/world/0132/background
 ::END:MAIN

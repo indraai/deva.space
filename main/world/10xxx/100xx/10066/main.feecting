@@ -16,11 +16,11 @@ img:main/world/10066/vivaldi
 
 p:It's Dr. Vivaldi!
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 66
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

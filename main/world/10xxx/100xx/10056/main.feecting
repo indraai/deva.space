@@ -20,11 +20,11 @@ img:main/world/10056/raft
 
 p:You lie low on the raft, afraid of landing until you are well past Rakmara. Now you have time to think. Where will the river take you? What will be your fate?
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 55
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

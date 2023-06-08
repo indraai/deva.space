@@ -10,7 +10,7 @@ talk:#veda book 3
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0013/background
+#bg = /asset/main/world/0013/background
 coordinates:00[-356|-223]
 ::END:MAIN
 ====

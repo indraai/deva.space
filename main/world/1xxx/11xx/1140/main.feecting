@@ -12,6 +12,6 @@ p:You are are at the Disneyland Town Square Cafe.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-#bg = main/world/1140/background
+#bg = /asset/main/world/1140/background
 coordinates:11[-575|-666]
 ::END:MAIN

@@ -10,14 +10,14 @@ img:main/world/0973/splash
 title: George Michael
 
 ::begin:buttons
-bmud[photo 0]:look photo0
-bmud[photo 1]:look photo1
-bmud[photo 2]:look photo2
-bmud[photo 3]:look photo3
+cloud[photo 0]:look photo0
+cloud[photo 1]:look photo1
+cloud[photo 2]:look photo2
+cloud[photo 3]:look photo3
 ::end:buttons
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0973/background
+#bg = /asset/main/world/0973/background
 coordinates:09[-747|-424]
 talk:#space world:main 0900/training:card
 ::END:MAIN

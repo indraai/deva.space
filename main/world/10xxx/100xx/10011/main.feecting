@@ -14,11 +14,11 @@ p:Why is it you feel so safe? The angel birds begin to make musical sounds, more
 
 p:Without thinking more about it, you leap up, and because there's very little gravity, you almost float onto the creature's feathery back. You nestle in. It feels like a bed of goose down, soft and silky.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 11
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

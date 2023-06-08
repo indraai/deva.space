@@ -12,10 +12,10 @@ p:Welcome to the Post Office.
 p:Post Office is the global mail service for everyone in Arjika. This is where you can send mail to your friends around the Realm.
 
 ### Check Mail
-bmud[Check Mail]:check
+cloud[Check Mail]:check
 
 ### Receive mail
-bmud[Receive Mail]:receive
+cloud[Receive Mail]:receive
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)

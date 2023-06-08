@@ -12,7 +12,7 @@ talk:#veda book 5
 ::end:book
 
 #color = #eeeeee
-#bg = main/world/0015/background
+#bg = /asset/main/world/0015/background
 coordinates:00[-287|-223]
 ::END:MAIN
 

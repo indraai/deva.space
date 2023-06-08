@@ -26,11 +26,11 @@ p:A tall, bearded doctor is speaking. "You'll be OK." Then his voice trails off 
 p:"Larsen... Sneed." You keep mumbling their names until finally sleep comes.
 p:By morning your head has cleared. It was a terrible ordeal, but at least you survived. In a few weeks you'll be home for good, because nothing could ever persuade you to go near the Bottomless Crevasse again!
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 25
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

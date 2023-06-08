@@ -9,9 +9,9 @@ img:main/world/1103/title
 
 p:You are are at the Disneyland Main Street (E).
 
-mud[North - Main Street]:n
-mud[East - Rings n' Things]:e
-mud[South - Main Street]:s
+cloud[North - Main Street]:n
+cloud[East - Rings n' Things]:e
+cloud[South - Main Street]:s
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)

@@ -27,7 +27,7 @@ This made things easier for us in the end, and society began to balance out in t
 Quinn was placed in the Cell in 2022 and this was provided by Survivors of the Whole Earth Holocaust Foundation.
 
 warning: If you have made it this far turn back now, or else SECURITY will be ALERTED. If you proceed further a Security Agent will be deployed, and a levy will be placed on your account.
-#bg = main/world/0356/background
+#bg = /asset/main/world/0356/background
 #bgcolor = #000000
 ::END:STORY
 

@@ -24,7 +24,7 @@ link: https://www.sacred-texts.com/hin/sbe33/sbe3313.htm
 
 #bgcolor = #cccccc
 #color = #333333
-#bg = main/world/0329/background
+#bg = /asset/main/world/0329/background
 
 coordinates:00[-702.5|-1095.5]
 ::END:MAIN

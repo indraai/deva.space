@@ -19,7 +19,7 @@ wiki[Ivolginsky Datsan]:Ivolginsky_Datsan
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0982/background
+#bg = /asset/main/world/0982/background
 coordinates:09[-788|-205]
 talk:#space world:main 0900/training:card
 ::END:MAIN

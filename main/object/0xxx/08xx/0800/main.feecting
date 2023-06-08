@@ -7,11 +7,11 @@ name: el8 the_uT textfiles
 vector: 0x0800a
 
 ::begin:buttons
-mud[bio]:> look bio
-mud[el8.0.txt]:> look e0
-mud[el8.1.txt]:> look e1
-mud[el8.2.txt]:> look e2
-mud[el8.3.txt]:> look e3
+cloud[bio]:> look bio
+cloud[el8.0.txt]:> look e0
+cloud[el8.1.txt]:> look e1
+cloud[el8.2.txt]:> look e2
+cloud[el8.3.txt]:> look e3
 ::end:buttons
 
 ::END:LOOK

@@ -83,7 +83,7 @@ img:main/world/0800/bomb
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
-#bg = main/world/0800/background
+#bg = /asset/main/world/0800/background
 coordinates:08[-345|-465]
 ::END:MAIN
 

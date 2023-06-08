@@ -9,7 +9,7 @@ p:The ultra secret bedroom of Allan Carr.
 
 #bgcolor = var(--color-black)
 #color = var(--color-white)
-#bg = main/world/0507/background
+#bg = /asset/main/world/0507/background
 coordinates:05[-222|-530]
 ::END:MAIN
 

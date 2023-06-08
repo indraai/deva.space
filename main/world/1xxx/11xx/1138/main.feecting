@@ -11,6 +11,6 @@ p:You are are at the Walt Disney Story.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-#bg = main/world/1138/background
+#bg = /asset/main/world/1138/background
 coordinates:11[-626|-788]
 ::END:MAIN

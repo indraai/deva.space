@@ -23,11 +23,11 @@ p:The next morning you call Professor Bruckner's office at the National Research
 
 p:"I was wondering whether there were any plans for another expedition to the Bottomless Crevasse," you say.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 30
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

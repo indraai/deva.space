@@ -69,7 +69,7 @@ talk:#space world:main 0900/training:card
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0801/background
+#bg = /asset/main/world/0801/background
 coordinates:08[-385|-465]
 ::END:MAIN
 

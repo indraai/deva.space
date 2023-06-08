@@ -9,7 +9,7 @@ img:main/world/0220/title
 
 ## indra.fun/land
 p:You are in indra.fun/land
-#bg = main/world/0220/background
+#bg = /asset/main/world/0220/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

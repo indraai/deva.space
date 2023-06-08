@@ -24,11 +24,11 @@ p:Dr. Vivaldi stares through her mini-binoculars.
 
 p:"No doubt about it," she says, "Larsen and Sneed! They made it here alive!"
 
-mud[Continue]:w
+cloud[Continue]:w
 
 talk:#space hash add 98
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

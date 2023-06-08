@@ -13,11 +13,9 @@ p:Suddenly everything is still. The Vertacraft has come to rest. Looking through
 p:Slowly you climb out of the Vertacraft and open the other compartment.
 p:Professor Bruckner's face is ashen gray. You feel for his pulse. Nothing. The strain of the descent must have been too much for his heart.
 
-mud[Continue...]:e
+cloud[Continue...]:east
 
-talk:#space hash add 38
-
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

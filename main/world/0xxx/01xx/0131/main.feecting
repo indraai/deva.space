@@ -7,6 +7,6 @@ img:main/world/0131/title
 
 p:Welcom to House Bom.
 
-#bg = main/world/0131/background
+#bg = /asset/main/world/0131/background
 #color = #f6ac45
 ::END:MAIN

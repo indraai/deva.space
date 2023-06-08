@@ -12,5 +12,5 @@ vector: 0x0243a
 describe: SecurityDEVA D243 is here to guard Arjika.
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 ::END:LOOK

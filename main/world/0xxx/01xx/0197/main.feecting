@@ -12,7 +12,7 @@ p:Welcome to The Kitchen Store
 p: To Exit please go EAST.
 cmd:#mud e
 
-#bg = main/world/0153/background
+#bg = /asset/main/world/0153/background
 #bgcolor = #ffffff
 #color = #000000
 coordinates:00[-79|-257]

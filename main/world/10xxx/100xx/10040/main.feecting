@@ -25,11 +25,11 @@ p:You turn sharply at the sound of chattering.
 
 p:Coming up the ravine are more than a dozen creatures, smaller than you, yet walking upright on two legs. Half human, half ape, they look like creatures that might have once lived on the earth's surface. They are carrying ropes and nets.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 40
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

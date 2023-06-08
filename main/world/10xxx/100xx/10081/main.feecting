@@ -17,11 +17,11 @@ p:If it were not for the tremendous cooling effect of the Black Sun, life could 
 p:Sometimes Dr. Vivaldi gets too scientific for you.
 p:"Where do you think we should explore?" you ask.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 81
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

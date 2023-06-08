@@ -1,5 +1,5 @@
 ::BEGIN:AVATAR
-bmud[💸]:look atm
+cloud[💸]:look atm
 ::END:AVATAR
 
 ::BEGIN:LOOK
@@ -11,7 +11,7 @@ p:You can see the bank of Arjika ATM.
 ## Bank of Arjika
 p:Basic instruction for using the Bank of Arjika ATM to check your balance and deposit/withdraw coins.
 
-bmud[Balance]:balance
+cloud[Balance]:balance
 
 ### Withdraw & Deposit commands
 - #mud > withdraw <amount>

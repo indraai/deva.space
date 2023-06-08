@@ -17,11 +17,11 @@ p:What was she trying to tell you not to forget?
 
 p:No more time to think! You take a deep breath and run!
 
-mud[Containue...]:e
+cloud[Containue...]:e
 
 talk:#space hash add 101
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

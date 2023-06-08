@@ -19,11 +19,11 @@ p:"We have no night or day," says Tomo. "We measure time by the tides of the Gre
 
 p:You realize that you have not slept since you arrived in the Underground Kingdom. How long have you been here? How many tides? Too tired to think about it, you lie down and quickly fall asleep.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 52
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

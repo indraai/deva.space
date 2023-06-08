@@ -16,7 +16,7 @@ talk:#space world:main 0325/main:nanvaent
 
 #bgcolor = #000000
 #color = #66ded1
-#bg = main/world/0325/background
+#bg = /asset/main/world/0325/background
 coordinates:00[-326|-844]
 ::END:MAIN
 

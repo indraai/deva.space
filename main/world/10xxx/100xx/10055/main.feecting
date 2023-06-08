@@ -14,12 +14,12 @@ img:main/world/10055/boat
 
 p:It's risky, but it's your only chance to avoid the war!
 
-mud[Swim for shore...]:n
-mud[Stay with the war boat...]:s
+cloud[Swim for shore...]:n
+cloud[Stay with the war boat...]:s
 
 talk:#space hash add 55
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -31,7 +31,7 @@ p[speak]:The Spiritual Christians are divided into Dukhobortsy, Molokanye, Commu
 
 p[speak]:Over and above these main groups there remains the Khlysty and Skoptsy. This group is looked askance at by the common people who have given it the appellation of the darksect or darksec, a sect which we may better define as being of a mystico-religious character.
 
-bmud[Putin Ritual]:look darkputin
+cloud[Putin Ritual]:look darkputin
 
 image:https://media.discordapp.net/attachments/917374908114272287/987979825836863528/unknown.png
 
@@ -154,11 +154,11 @@ p[speak]:You seem to be in denial about it. Are you done being in denial about i
 
 ---
 
-bmud[RigVeda Invoke]:look invoke
+cloud[RigVeda Invoke]:look invoke
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0811/background
+#bg = /asset/main/world/0811/background
 
 coordinates:08[-547|-223]
 

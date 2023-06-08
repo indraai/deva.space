@@ -18,11 +18,11 @@ p:The barren landscape, pocketed with ice and snow, is a familiar scene, as is t
 
 p:The village is the coastal settlement from which your party began its trek across the ice fields to the Bottomless Crevasse.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 22
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

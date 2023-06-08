@@ -7,8 +7,8 @@ img:main/world/0033/portrait
 
 thanks:Thank you for visiting the Shrine of Indra. Please leave your Offerings on the table or with the Host.
 
-mud[Exit West...]:w
+cloud[Exit West...]:w
 
-#bg = main/world/0033/background
+#bg = /asset/main/world/0033/background
 #color = #e4de94
 ::END:MAIN

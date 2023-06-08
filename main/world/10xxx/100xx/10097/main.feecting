@@ -20,11 +20,11 @@ haze as sulphurous fumes escape from beneath the surface.
 
 p:Looking up, you see the blurred gray form of a wolf ooming as large as a mountain, crowding out half the sky! Its bared, curving teeth are like rows of elephant tusks. Its hot breath takes your breath away, and the red world around you goes black.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 97
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

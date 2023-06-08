@@ -21,11 +21,11 @@ p:You stand there a minute, wondering why the pull of gravity here isn't as stro
 
 p:Then, with one great bound, you're out, standing  on the surface of the Underground Kingdom.
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 43
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

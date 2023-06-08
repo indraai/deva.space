@@ -32,7 +32,7 @@ p:A substantial percentage of the Webmind Inc. team, including a handful of New 
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0976/background
+#bg = /asset/main/world/0976/background
 coordinates:09[-707|-585]
 talk:#space world:main 0900/training:card
 ::END:MAIN

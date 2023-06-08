@@ -23,11 +23,11 @@ p:You decide to test your theory. You nudge a boulder twice your size. It rolls 
 
 p:Then above you, Katu screams, "Avalanche!"
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 87
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

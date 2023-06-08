@@ -15,7 +15,7 @@ talk:#space world:main 0224/main:bank
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0224/background
+#bg = /asset/main/world/0224/background
 coordinates:00[-534|-326]
 ::END:MAIN
 
@@ -23,21 +23,21 @@ coordinates:00[-534|-326]
 
 ::BEGIN:BANK
 ## Gold
-mud[🪙 Gold]:gold
+cloud[🪙 Gold]:gold
 p:To check how much you are carrying.
 
 ## Balance
-mud[⚖️ Balance]:balance
+cloud[⚖️ Balance]:balance
 p:To check your current bank balance.
 
 ## Deposit
 p:Quick commands to deposit coins into your account.
 
 ::begin:deposit
-bmud[💰 10]:deposit 10
-bmud[💰 25]:deposit 25
-bmud[💰 50]:deposit 50
-bmud[💰 100]:deposit 100
+cloud[💰 10]:deposit 10
+cloud[💰 25]:deposit 25
+cloud[💰 50]:deposit 50
+cloud[💰 100]:deposit 100
 ::end:deposit
 ::END:BANK
 ====

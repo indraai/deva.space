@@ -10,13 +10,13 @@ img:main/world/0905/title
 
 img:main/world/0905/commune
 
-mud[Pastebin File 1]:> look pastebin1
+cloud[Pastebin File 1]:> look pastebin1
 
-mud[Pastebin File 2]:> look pastebin2
+cloud[Pastebin File 2]:> look pastebin2
 
 #color = var(--color-light-grey)
 #bgcolor = var(--color-darkest-grey)
-#bg = main/world/0905/background
+#bg = /asset/main/world/0905/background
 coordinates:09[-425|-505]
 talk:#space world:main 0900/training:card
 ::END:MAIN

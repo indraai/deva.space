@@ -17,12 +17,12 @@ p:"But what will happen to you? I don't want to leave you here. I'll go to the G
 
 p:Dr. Vivaldi replies, "Think carefully before you make such a decision."
 
-mud[Face the Grand Akpar...]:n
-mud[Escape the Grand Akpar...]:s
+cloud[Face the Grand Akpar...]:n
+cloud[Escape the Grand Akpar...]:s
 
 talk:#space hash add 68
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

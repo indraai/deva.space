@@ -12,7 +12,7 @@ link[lucifer.com]:https://bit.ly/3Lagd0a
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0934/background
+#bg = /asset/main/world/0934/background
 coordinates:09[-586|-585]
 talk:#space world:main 0900/training:card
 ::END:MAIN

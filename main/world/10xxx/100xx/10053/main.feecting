@@ -13,12 +13,12 @@ img:main/world/10053/boat
 
 p:Nearby is a smaller boat, one you could paddle yourself. You just might be able to untie it, push off, and get across the river before the guards catch you.
 
-mud[Take the small boat...]:n
-mud[Bluff the guards...]:s
+cloud[Take the small boat...]:n
+cloud[Bluff the guards...]:s
 
 talk:#space hash add 53
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 

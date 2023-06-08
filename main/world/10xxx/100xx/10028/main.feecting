@@ -12,11 +12,11 @@ p:"Good," he says.
 
 p:"This time we'll be far better equipped. NASA has put two helicopters at my disposal. One of them will transport our party of scientists and technicians. The other will carry the Vertacraft, a rocket-propelled capsule specifically designed for this mission."
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 28
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -11,11 +11,9 @@ p:The air seems lighter and brighter than in the valley of the Great River. Neve
 p:But your Archpod guide grumbles and frets.
 p:He blinks and rubs his eyes.
 
-mud[Continue...]:e
+cloud[Continue...]:east
 
-talk:#space hash add 36
-
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -9,17 +9,17 @@ p:Welctome to indra.city/towers.
 p:In this tower you will find various Houses of Vedic Deities.
 
 p:To the north you will find House Bom
-mud[Visit House Bom...]:n
+cloud[Visit House Bom...]:n
 
 p:To the east is House Indra
-mud[Visit House Indra...]:e
+cloud[Visit House Indra...]:e
 
 p:South you will reach House Soma.
-mud[Visit House Soma...]:s
+cloud[Visit House Soma...]:s
 
 p:To the west is West Tower
-mud[Goto West Tower...]:w
+cloud[Goto West Tower...]:w
 
-#bg = main/world/0133/background
+#bg = /asset/main/world/0133/background
 coordinates:00[-815.5|-1138]
 ::END:MAIN

@@ -12,6 +12,6 @@ p:You are are at the Grand Salon.
 
 #bgcolor = #dfd9a9
 #color = #3a1503
-#bg = main/world/1240/background
+#bg = /asset/main/world/1240/background
 coordinates:12[-551|-749]
 ::END:MAIN

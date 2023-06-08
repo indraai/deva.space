@@ -28,11 +28,11 @@ p:"What does this mean?"
 
 p:The professor smiles. "It means that the interior of the earth beginning about 800 miles deep is hollow."
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 29
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -17,11 +17,11 @@ p:One day the Grand Akpar comes to your agon. "Our boats are ready," he says. "W
 
 p:That sleeping tide, you lie on your bed, dreaming of home. An explosion startles you. The war has begun! The Rakas must have had their bombs ready. You wait anxiously for news of what's happened. Finally it comes—in the form of Archpod guards carrying ropes and nets.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 73
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -21,11 +21,11 @@ p:You tire under the weight of your pack, but Dr. Vivaldi urges you on. "It will
 
 p:Ahead of you, Katu is bounding up the higher peaks like a mountain gazelle.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 85
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

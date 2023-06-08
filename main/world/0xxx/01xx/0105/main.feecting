@@ -38,7 +38,7 @@ p:Sindhu hath yoked her car, light-rolling, drawn by steeds, and with that car s
 
 p:So have I praised its power, mighty and unrestrained, of independent glory, roaring as it runs.
 
-#bg = main/world/0105/background
+#bg = /asset/main/world/0105/background
 #color = #eeeeee
 coordinates:00[-791.5|-1116]
 ::END:MAIN

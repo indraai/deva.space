@@ -10,7 +10,7 @@ img:main/world/0016/title
 talk:#veda book 6
 
 #color = #eeeeee
-#bg = main/world/0016/background
+#bg = /asset/main/world/0016/background
 coordinates:00[-287|-211]
 ::END:MAIN
 

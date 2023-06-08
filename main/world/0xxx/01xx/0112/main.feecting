@@ -11,11 +11,11 @@ p:look[west] is the Inner-NorthWest Lookout
 p:look[south] is the Inner-East Lookout
 
 There is also a security board here to read the latest bulletins.
-bmud[Read Security Bulletins]:read security
+cloud[Read Security Bulletins]:read security
 
 
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 coordinates:00[-638|-291]
 ::END:MAIN
 

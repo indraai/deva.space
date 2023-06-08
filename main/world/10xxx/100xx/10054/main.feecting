@@ -28,11 +28,11 @@ p:The next morning as the Great River begins to fall, the Rakas load their hunti
 
 p:You shudder to think that you are about to witness the beginning of a war. But there seems to be no way to avoid it before the sleeping tide has ended, Tomo, you, and five hunters set off in the war boat.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 54
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

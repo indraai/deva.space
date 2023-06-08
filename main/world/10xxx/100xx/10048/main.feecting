@@ -36,11 +36,11 @@ p:For a long time the Rakas and Archpods have each had one hunting boat; that is
 
 p:You hold your head in your hands. Poor Dr. Vivaldi! And now the threat of war.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 48
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

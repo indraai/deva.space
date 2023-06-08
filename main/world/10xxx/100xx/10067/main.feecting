@@ -20,11 +20,11 @@ p:"We must set upon a plan," she says. "The Archpods have learned that the Rakas
 
 p:They think we may be Raka spies. That is why you were treated so rudely. They have told me that their chief, the Grand Akpar, will soon decide whether to execute us."
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 67
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

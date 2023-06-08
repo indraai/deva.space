@@ -15,6 +15,6 @@ img:main/world/1233/elevator2
 
 #bgcolor = #000000
 #color = #eeeeee
-#bg = main/world/1233/background
+#bg = /asset/main/world/1233/background
 coordinates:12[-431|-665]
 ::END:MAIN

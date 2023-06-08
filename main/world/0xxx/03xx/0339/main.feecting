@@ -17,7 +17,7 @@ talk:#space world:main 0339/main:93realms
 
 #bgcolor = #000000
 #color = #73c3ff
-#bg = main/world/0339/background
+#bg = /asset/main/world/0339/background
 coordinates:00[-293|-880]
 ::END:MAIN
 

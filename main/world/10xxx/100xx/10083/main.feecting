@@ -25,13 +25,13 @@ p:They are great birds, who may be the true rulers of the Underground Kingdom, h
 
 p:What would you prefer?"
 
-mud[The Weightless Peaks]:w
-mud[The Hills of Diamons]:s
-mud[The Shining Mountains]:e
+cloud[The Weightless Peaks]:w
+cloud[The Hills of Diamons]:s
+cloud[The Shining Mountains]:e
 
 talk:#space hash add 83
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

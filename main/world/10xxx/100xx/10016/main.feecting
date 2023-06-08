@@ -18,12 +18,12 @@ p:Strangely there is no horizon; instead the landscape fades into dusky reds and
 
 p:So this is the Underground Kingdom—strange, vast, and very beautiful. What people or creatures live here? What mysteries does it hold? But you are swept from your daydreaming by the realization that your life here could be in danger.
 
-mud[Explore the Underground Kingdom...]:n
-mud[Concentrate on getting home...]:s
+cloud[Explore the Underground Kingdom...]:n
+cloud[Concentrate on getting home...]:s
 
 talk:#space hash add 16
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -28,12 +28,12 @@ p:Ket and Akim gesture as if you should obey.
 
 p:But Tor shakes his head, warning you not to go.
 
-mud[Agree to follow Raka...]:n
-mud[Refuse to follow...]:s
+cloud[Agree to follow Raka...]:n
+cloud[Refuse to follow...]:s
 
 talk:#space hash add 44
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

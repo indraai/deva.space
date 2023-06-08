@@ -21,7 +21,7 @@ talk:#space hash add 65
 
 talk:#space world:main 10000/main:thankyou
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

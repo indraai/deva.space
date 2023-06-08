@@ -13,11 +13,11 @@ p:You brush against a firm surface a wall that feels like clay. You cling to it 
 p:You begin to lose your fear as you realize that gravity here is so weak that you can fall mile after mile without being hurt After a while you begin to relax and enjoy drifting through a fantastic twilight world. You only wish it weren't so hot!
 p:Closing your eyes, you try to pretend that you are safely home in bed.
 
-mud[Continue...]:d
+cloud[Continue...]:d
 
 talk:#space hash add 3
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

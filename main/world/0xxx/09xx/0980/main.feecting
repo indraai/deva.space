@@ -21,7 +21,7 @@ cmd:#wiki summary Kunstkamera
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0980/background
+#bg = /asset/main/world/0980/background
 coordinates:09[-707|-159]
 talk:#space world:main 0900/training:card
 ::END:MAIN

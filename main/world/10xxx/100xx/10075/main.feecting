@@ -21,11 +21,11 @@ p:Professor Bruckner lights his pipe, then says, "I did not expect to undertake 
 
 p:Who will volunteer to come with me?"
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 75
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

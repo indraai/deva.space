@@ -13,6 +13,6 @@ p:Welcome to the Mall where you'll find all sorts of goodies from technology to 
 
 #color = var(--color-black)
 #bgcolor = var(--color-white)
-#bg = main/world/0153/background
+#bg = /asset/main/world/0153/background
 coordinates:00[-114|-326]
 ::END:MAIN

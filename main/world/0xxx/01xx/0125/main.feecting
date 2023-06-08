@@ -63,7 +63,7 @@ l:Provide for both sides in the fray for booty.
 ::end:hymn
 
 cmd:#veda view 01091
-#bg = main/world/0125/background
+#bg = /asset/main/world/0125/background
 #color = #5afcfc
 ::END:MAIN
 

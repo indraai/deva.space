@@ -12,9 +12,9 @@ p:look[east] is the Easat Lookout
 p:look[south] is the Inner-South West Lookout
 
 p:There is also a security board here to read the latest bulletins.
-bmud[Read Security Bulletins]:read security
+cloud[Read Security Bulletins]:read security
 
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 #bgcolor = var(--color-black)
 coordinates:00[-292|-464]
 ::END:MAIN

@@ -9,7 +9,7 @@ name: SVV Files
 vector: 0x0902o
 describe: The SVV Files
 
-mud[View Agents]:> look agemts
+cloud[View Agents]:> look agemts
 ::END:LOOK
 
 ::BEGIN:902AGENTS

@@ -11,6 +11,6 @@ p:You are are at the Reception.
 
 #bgcolor = #978368
 #color = #eaddcd
-#bg = main/world/1235/background
+#bg = /asset/main/world/1235/background
 coordinates:12[-284|-665]
 ::END:MAIN

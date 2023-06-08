@@ -20,11 +20,9 @@ p:Has he gone mad? You notice a red button on the control panel. Next to it is a
 
 warning:EMERGENCY REVERSE/RETURN TO INITIAL POSITION.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
-talk:#space hash add 35
-
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -11,6 +11,6 @@ p:You are are at the Pirates Arcade.
 
 #bgcolor = var(--color-white)
 #color = var(--color-black)
-#bg = main/world/1202/background
+#bg = /asset/main/world/1202/background
 coordinates:12[-546|-650]
 ::END:MAIN

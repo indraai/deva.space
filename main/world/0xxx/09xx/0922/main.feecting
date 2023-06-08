@@ -23,7 +23,7 @@ talk:#space world:main 0900/training:card
 
 #color = #333333
 #bgcolor = #ffffff
-#bg = main/world/0922/background
+#bg = /asset/main/world/0922/background
 coordinates:09[-545.5|-423.5]
 ::END:MAIN
 

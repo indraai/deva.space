@@ -14,13 +14,13 @@ p:Losing your fear, you walk up and stroke the creature gently. It cocks its hea
 
 p:But suddenly you hear a loud whirring sound. Hovering above you is another angel bird, a much larger one. It must be the mother of the fledgling. She swoops toward you.
 
-mud[You Run...]:n
-mud[Grab the fledgling and use it as a shield...]:e
-mud[Dive to the ground and shield yourself...]:s
+cloud[You Run...]:n
+cloud[Grab the fledgling and use it as a shield...]:e
+cloud[Dive to the ground and shield yourself...]:s
 
 talk:#space hash add 10
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

@@ -5,7 +5,7 @@ You can see the happenings at DefCon1 in this room.
 =
 
 ::BEGIN:MAIN
-#bg = main/world/0022/background
+#bg = /asset/main/world/0022/background
 #bgcolor = #7e0940
 #color = #03bedd
 

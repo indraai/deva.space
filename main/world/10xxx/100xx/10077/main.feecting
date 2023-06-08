@@ -14,12 +14,12 @@ p:You hesitate. You don't want to risk your life.
 
 p:But this could be the only chance of finding your lost friends.
 
-mud[You decide to risk it...]:n
-mud[You decide to play it safe...]:s
+cloud[You decide to risk it...]:n
+cloud[You decide to play it safe...]:s
 
 talk:#space hash add 77
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

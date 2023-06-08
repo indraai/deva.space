@@ -12,12 +12,10 @@ p:You could probably climb a nearby tree and hide among the clusters of giant le
 
 p:Maybe things will go better for you if you bravely face the inhabitants of this world.
 
-mud[Face the creatures...]:n
-mud[Hide in the cluster of leaves...]:s
+cloud[Face the creatures...]:north
+cloud[Hide in the cluster of leaves...]:south
 
-talk:#space hash add 39
-
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

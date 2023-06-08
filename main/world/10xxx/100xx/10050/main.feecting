@@ -23,11 +23,11 @@ p:At last you reach the open countryside.
 
 p:In the soft reddish gray twilight you see the Great River just ahead. You stop to rest beside its waters.
 
-mud[Continue...]:e
+cloud[Continue...]:e
 
 talk:#space hash add 50
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN

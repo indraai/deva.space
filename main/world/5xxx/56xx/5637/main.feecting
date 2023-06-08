@@ -163,7 +163,7 @@ gate[say:indra]:May we obtain thee, _#Indra _#drink, who viewest men and findest
 
 #color = var(--color-aqua);
 #bgcolor = var(--color-black);
-#bg = main/world/5637/background
+#bg = /asset/main/world/5637/background
 
 coordinates:56[-602|-309]
 ::END:MAIN

@@ -13,11 +13,11 @@ p:Strangely, the mother bird did not harm you.
 
 p:Instead, you feel that you have been put into a trance. Stranger still, you sense that something has set time back—that you are being given another chance!
 
-mud[Continue...]:w
+cloud[Continue...]:w
 
 talk:#space hash add 14
 
-#bg = main/world/10000/background
+#bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
 ::END:MAIN
