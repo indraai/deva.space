@@ -7,11 +7,15 @@ img:main/object/0092/avatar
 ## Security Board
 name: Security Board
 vector: 0x0092o
-describe: The Security board is used to leave messages for Security.
+describe: The Security Board serves as a means to leave messages for the security personnel. It acts as a communication tool to relay important information or notifications related to security matters.
 
-p:To read the board use the read command.
-cmd:#cloud read board
 
-p:To write a new message to the board use the write command.
-> #mud write *message title*
+### Information
+
+p: To read the messages on the Security Board, you can use.
+cmd: #cloud read board
+
+p: If you wish to write a new message on the board, you can use the write command, replacing "message title" with the title of your message.
+exmaple: #cloud write [message title]
+
 ::END:LOOK

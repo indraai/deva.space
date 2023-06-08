@@ -9,9 +9,9 @@ img:main/agent/0259/avatar
 
 name: SecurityDEVA D259 (Guard)
 vector: 0x0259a
-describe: SecurityDEVA D259 is here to guard Arjika.
+describe: SecurityDEVA D259 is dedicated to ensuring the safety and security of Arjika. As a guard, they play a vital role in maintaining order and protecting the well-being of the city and its inhabitants.
 
 #color = var(--color-white)
 #bgcolor = var(--color-black)
-#bg = main/world/0096/background
+#bg = /asset/main/world/0096/background
 ::END:LOOK
