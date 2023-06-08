@@ -7,70 +7,39 @@ img:main/world/0003/title
 
 p:You are in Academy L1
 
-## Movement
+## Basics
 p: Movement in deva.world is done with the directional commands inot the prompt. Each direction has their associated label to make it easy to use as if you were walking around in real life. Participants if available can move in any one of 10 directions.
 
 note: A little trick to the directional is that if you want the result to show up in the viewer you can use the root commands with the user interface, or you can also navigate with the '>' write command with '#cloud > [direction]'. For users of the graphical user interface this will output the navitaiton to the shell, and not the viewer.
 
-### Directions
+## Cloud Help
+p:It's good to remember that deva.cloud also has it's own built in help system that is independent of deva.world yet integrated. When users are interacting with the deva.world multi-agent system they are using various devas to do various types of tasks, and when you interact with deva.cloud you are inside the realms where virtual semi-autonomous agents live and develop.
 
-north: #cloud north
-east: #cloud east
-west: #clousd west
-south: #cloud south
-northeast: #cloud northeast
-southeast: #cloud southeast
-southwest: #cloud southwest
-northwest: #cloud northwest
-up: #cloud up
-down: #cloud down
+p: To access deva.cloud help please use the following command.
 
-### Basics
-sit
-stand
-rest
-cmd: #cloud sleep
-p: The sleep command puts your character to sleep state, allowing the character to regain health more quickly.
+cmd: #cloud > help
 
-cmd: #cloud wake
-p: Use the wake command to wake your character from sleep state.
+---
 
-## Player
-p: Below you will find various commands that apply to player functions like saving and quitting the deva.cloud realms inside deva.world.
+talk:#space world:main 0003/main:directions
 
-cmd: #cloud save
-p: This command can be used to save player progress between autosave points.
+talk:#space world:main 0003/main:positions
 
-cmd: #cloud quit
-p: Use the quit command to end your deva.world session.
+talk:#space world:main 0003/main:player
 
-cmd: #cloud score
-p: Use the score command to retrieve your current player stats.
+talk:#space world:main 0003/main:observation
 
-cmd: #cloud whoami
-p: Displays your character's name, if you want to be sure you are who you think you are.
+talk:#space world:main 0003/main:doors
 
-cmd: #cloud afk
-p: Use this afk command when you go away from your keyboard so the system knows you are in active.
+---
 
-cmd: #cloud policy
-p: Use the policy command to retrieve the deva.world policies.
+#color = var(--color-white)
+#bgcolor = var(--color-grey)
+#bg = main/world/0002/background
 
-cmd: #cloud version
-p: Get the deva.cloud version number as remember deva.cloud provides the realm for deva.world.
+coordinates:00[-541|-245]
+::END:MAIN
 
-## Basics
-
-cmd: #cloud look
-p: This command looks into adjacent rooms to see what mobs or players are close by.
-
-cmd: #cloud scan
-p: This command looks into adjacent rooms to see what mobs or players are close by.
-
-
-## Doors
-example: #cloud unlock [door]
-example: #cloud lock [door]
 
 gold - get hte character gold amount
 sit
@@ -107,11 +76,82 @@ ask
 grab
 pour
 shout
-visible astat consider grats list practice west auction credits gsay mail prefedit sip  autoassist  gtell map prompt sleep wear autodoor deposit help motd qsay sneak weather autoexits diagnose happyhour north quaff socials who autogold display hide ne quest where autokey donate hindex news qui whirlwind autoloot history noauction  split whisper automap drop hit nogossip reply stand  autooffer east hold nograts read whois autosplit eat holler norepeat receive sw wield backstab emote house northeast recite tell withdraw balance enter inventory remove take wizlist
+visible astat consider grats list practice west auction credits gsay mail prefedit sip  autoassist  gtell map prompt sleep wear autodoor deposit motd qsay sneak weather autoexits diagnose happyhour quaff socials who autogold display hide ne quest where autokey donate hindex news qui whirlwind autoloot history noauction  split whisper automap drop hit nogossip reply stand  autooffer east hold nograts read whois autosplit eat holler norepeat receive sw wield backstab emote house northeast recite tell withdraw balance enter inventory remove take wizlist
 
-#color = var(--color-white)
-#bgcolor = var(--color-grey)
-#bg = main/world/0002/background
 
-coordinates:00[-541|-245]
-::END:MAIN
+::BEGIN:DIRECTIONS
+### Directions
+
+north: #cloud north
+east: #cloud east
+west: #clousd west
+south: #cloud south
+northeast: #cloud northeast
+southeast: #cloud southeast
+southwest: #cloud southwest
+northwest: #cloud northwest
+up: #cloud up
+down: #cloud down
+::END:DIRECTIONS
+=
+
+::BEGIN:POSITIONS
+### Positions
+p: Here are the basic commands for sitting, standing, resting, sleeping, and waking your character in the deva.cloud realm inside deva.world.
+
+cmd: #cloud sit
+p: The sit command puts your character to sit position.
+
+cmd: #cloud stand
+p: The stand command puts your character to stand position.
+
+cmd: #cloud rest
+p: The rest command puts your character to rest position.
+
+cmd: #cloud sleep
+p: The sleep command puts your character to sleep position.
+
+cmd: #cloud wake
+p: Use the wake command to wake your character from sleep state.
+::END:POSITIONS
+=
+
+::BEGIN:PLAYER
+## Player
+p: Below you will find various commands that apply to player functions like saving and quitting the deva.cloud realms inside deva.world.
+
+cmd: #cloud save
+p: This command can be used to save player progress between autosave points.
+
+cmd: #cloud quit
+p: Use the quit command to end your deva.world session.
+
+cmd: #cloud score
+p: Use the score command to retrieve your current player stats.
+
+cmd: #cloud whoami
+p: Displays your character's name, if you want to be sure you are who you think you are.
+
+cmd: #cloud afk
+p: Use this afk command when you go away from your keyboard so the system knows you are in active.
+
+cmd: #cloud policy
+p: Use the policy command to retrieve the deva.world policies.
+
+cmd: #cloud version
+p: Get the deva.cloud version number as remember deva.cloud provides the realm for deva.world.
+::END:PLAYER
+=
+
+::BEGIN:DOORS
+## Exits
+
+cmd: #cloud leave
+p: The 'leave' command will make you use the nearest obvious exit to the outside.
+
+example: #cloud unlock [door]
+
+example: #cloud lock [door]
+
+::END:DOORS
+=
