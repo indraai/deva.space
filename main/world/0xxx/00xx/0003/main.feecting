@@ -69,8 +69,8 @@ p: This command looks into adjacent rooms to see what mobs or players are close 
 
 
 ## Doors
-unlock: #cloud unlock [door]
-lock: #cloud lock [door]
+example: #cloud unlock [door]
+example: #cloud lock [door]
 
 gold - get hte character gold amount
 sit
