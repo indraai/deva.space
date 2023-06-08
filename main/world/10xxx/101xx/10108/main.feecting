@@ -16,8 +16,6 @@ p:And, if you remembered to fill your pockets with diamonds before you ran acros
 
 talk:#space world:main 10000/main:thankyou
 
-talk:#space hash add 108
-
 #bg = /asset/main/world/10000/background
 #bgcolor = #ffffff
 #color = #333333
