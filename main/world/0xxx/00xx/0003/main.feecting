@@ -149,9 +149,9 @@ p: Get the deva.cloud version number as remember deva.cloud provides the realm f
 cmd:#cloud leave
 p: The 'leave' command will make you use the nearest obvious exit to the outside.
 
-example: #cloud unlock [door]
+example:#cloud unlock [door]
 
-example: #cloud lock [door]
+example:#cloud lock [door]
 
 ::END:DOORS
 =
