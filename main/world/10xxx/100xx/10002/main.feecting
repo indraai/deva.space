@@ -6,7 +6,29 @@ p:You can see the Toan Glacier edge from here.
 ::BEGIN:MAIN
 ## The Glaciers Edge
 
-p:Now you stand at the edge, lost in thought
+img:main/world/10002/title
+
+talk:#space world:main 10002/main:content
+
+### Navigation
+::begin:menu
+cloud[Try to land on the ledge...]:north
+cloud[Continue falling...]:down
+::end:menu
+
+### Shuttle
+::begin:menu
+button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:world:puppet 10002/main:content
+button[🚌 Shuttle to ChatGPT.api]:#shuttle space:world:open 10002/main:content
+::end:menu
+
+#bg = /asset/main/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN
+
+::BEGIN:CONTENT
+p:As you stand at the edge of the crevasse, contemplating its mysteries and the fate of Dr. Vivaldi, your thoughts are abruptly interrupted. Without any apparent slip or warning, you find yourself falling into the crevasse.
 
 p:How could the crevasse have no bottom?
 
@@ -14,18 +36,8 @@ p:Could it really lead to an underground kingdom?
 
 p:What happened to Dr. Vivaldi?
 
-p:But your thoughts are shattered.
-
-p:You didn't seem to slip, yet suddenly you are falling into the crevasse! A ledge is coming up fast beneath you.
-
-p:You could land on it, but you're falling so fast you're sure to be badly injured. You might only be saving yourself for a slow, agonizing death.
+p:But your thoughts are shattered. You didn't seem to slip, yet suddenly you are falling into the crevasse! A ledge is coming up fast beneath you. You could land on it, but you're falling so fast you're sure to be badly injured. You might only be saving yourself for a slow, agonizing death.
 
 p:These thoughts race through your head in a split second.
-
-cloud[Try to land on the ledge...]:north
-cloud[Continue falling...]:down
-
-#bg = /asset/main/world/10000/background
-#bgcolor = #ffffff
-#color = #333333
-::END:MAIN
+::END:CONTENT
+=

@@ -6,11 +6,33 @@ p:You can see the Toan Glacier from here.
 ::BEGIN:MAIN
 ## The Glacier
 
+img:main/world/10001/crevasse
+
+talk:#space world:main 10001/main:content
+---
+
+## Navigation
+::begin:menu
+cloud[Continue to the edge...]:north
+::end:menu
+
+### Shuttle
+::begin:menu
+button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:world:puppet 10001/main:content
+button[🚌 Shuttle to ChatGPT.api]:#shuttle space:world:open 10001/main:content
+::end:menu
+
+---
+
+#bg = /asset/main/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN
+
+::BEGIN:CONTENT
 p:You are standing on the Toan Glacier in nortern Greenland, staring down into the black void of the crevasse. You shiver as you wonder whether you were lucky or unlucky to be invited on this expedition.
 
 p:Standing next to you are Gunnar Larsen of the National Research Institute and Dr. James Sneed, a geologist.
-
-img:main/world/10001/crevasse
 
 p:A small black box containing a signal transmitter is suspended over the crevasse by two long poles. The transmitter is wired to a console a few yards away in the ice. Dr. Sneed turns a dial as he monitors the display screen.
 
@@ -27,27 +49,8 @@ p:"Any radar return?" Larsen asks.
 p:Sneed shakes his head. "None."
 
 p:For a minute no one speaks. Like you, the others must feel excited to have reached their goal but also a little sad.
-
----
-
-## Navigation
-::begin:menu
-cloud[Continue to the edge...]:north
-::end:menu
-
-### Shuttle
-::begin:menu
-button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:world:puppet 10000/main
-button[🚌 Shuttle to ChatGPT.api]:#shuttle space:world:open 10000/main
-::end:menu
-
----
-
-#bg = /asset/main/world/10000/background
-#bgcolor = #ffffff
-#color = #333333
-::END:MAIN
-
+::END:CONTENT
+=
 ::BEGIN:CREVASSE
 ## The Bottomless Crevasse
 p:You are looking down into the deep dark crevasse of never-ending but eventual ends sometime crevasse.

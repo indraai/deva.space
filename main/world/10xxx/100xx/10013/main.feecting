@@ -6,8 +6,22 @@ p:You can see send a warning from here.
 ::BEGIN:MAIN
 ## Warn Your Friends
 
-cmd:$hash add:-13
+talk:#space world:main 10013/main:chatgpt
 
+### Shuttle
+::begin:menu
+button[🚎 Shuttle to ChatGPT.ui]:#shuttle space:world:puppet 10013/main:chatgpt
+button[🚌 Shuttle to ChatGPT.api]:#shuttle space:world:open 10013/main:chatgpt
+::end:menu
+
+talk:#space world:main 10000/main:thankyou
+
+#bg = /asset/main/world/10000/background
+#bgcolor = #ffffff
+#color = #333333
+::END:MAIN
+
+::BEGIN:CONTENT
 p:"Get back from the edge!" you yell. "I didn't fall, I was pulled in!"
 
 p:For a few moments you hear nothing; then Sneed yells, "Thanks for warning us. There may be some force here we don't understand. But don't worry, we're rigging a brace so we can pull you up without getting too close."
@@ -29,12 +43,30 @@ p:After what you've been through, you're not about to argue with them. The three
 p:You're happy to be alive, but you know that you'll always regret that you never reached the Underground Kingdom.
 
 p:The End
+::END:CONTENT
+=
 
-talk:#space world:main 10000/main:thankyou
+::BEGIN:CHATGPT
+p:As you yell out, warning your companions to stay away from the edge, you assert that you were not a victim of a simple fall, but rather pulled into the crevasse by an unknown force. Silence hangs in the air for a moment until Sneed's voice breaks through, expressing gratitude for the warning. He acknowledges the possibility of an unexplained force at play and reassures you that they are preparing a brace to pull you up safely without getting too close.
 
-talk:#space hash add 13
+p:After a few minutes, a nylon climbing rope appears before you, dangling enticingly. You swiftly secure it around your waist and under your arms, ensuring your safety for the ascent. With a firm grip on the rope, you call up to your friends, indicating that you are ready to be pulled out.
 
-#bg = /asset/main/world/10000/background
-#bgcolor = #ffffff
-#color = #333333
-::END:MAIN
+p:A mix of trepidation and relief fills your heart as you're abruptly yanked off the ledge. For a moment, you dangle in mid-air, suspended by the efforts of your companions. Gradually, inch by inch, they steadily haul you up, bringing you back over the edge. With a rush of adrenaline, you scramble across the icy surface, finding solace in the arms of your friends.
+
+p:Expressions of relief and gratitude fill the air as Larsen voices his relief at having saved you. Sneed, sharing the sentiment, agrees that it's time to call it quits, recognizing the perilous nature of the Bottomless Crevasse.
+
+p:After the harrowing experience you've just endured, you find no inclination to disagree. The three of you pack up your belongings and commence the arduous journey back across the glacier, leaving behind the uncharted depths and unrealized dreams of the Underground Kingdom.
+
+p:You feel a mix of gratitude and regret as you trudge away, knowing that you are alive but realizing that you will always carry the longing for what could have been. The adventure may have reached its conclusion, but the memory of the Bottomless Crevasse and its mysteries will linger in your mind for years to come.
+
+p:But it is not the end of your journey. The experiences you've had will shape your future adventures and the person you will become. You may have left the crevasse behind, but you carry with you the lessons you've learned and the memories you've made.
+
+p:As you journey back to civilization and the comfort of your everyday life, you can't help but feel a new sense of confidence and strength. You've survived the dangers of the wild, proven your bravery and quick-thinking, and forged unbreakable bonds with your companions.
+
+p:You realize that life is an adventure, with its own highs and lows, challenges, and triumphs. And you're ready to face it head-on, fueled by the memories and lessons from your time in the Underground Kingdom.
+
+p:As the shuttle arrives to take you back to civilization, you can't help but feel a sense of nostalgia and longing for the wild, the unknown, and the adventurous. But you know that your time will come again, and you'll be ready to answer the call. The journey may be over, but the adventure continues.
+
+p:And so, with this, the story comes to an end.
+::END:CHATGPT
+=

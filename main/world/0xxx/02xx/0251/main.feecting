@@ -36,16 +36,16 @@ look[Arjika Fountain Statues]:statues
 ### Directory
 
 ::begin:menu
-look[1N Main Street - N]:north
-look[1E Arjika Blvd - E]:east
-look[1W Arjika Blvd - W]:west
-look[1S Main Street - S]:south
-look[Arjika Solutions - NE]:northeast
-look[Arjika Support - SE]:southeast
-look[Arjika Services - NW]:northwest
-look[Arjika Systems - SE]:southwest
-look[Arjika Tower - UP]:up
-look[Arjika Training Center - DN]:down
+cloudcmd[1N Main Street - N]:north
+cloudcmd[1E Arjika Blvd - E]:east
+cloudcmd[1W Arjika Blvd - W]:west
+cloudcmd[1S Main Street - S]:south
+cloudcmd[Arjika Solutions - NE]:northeast
+cloudcmd[Arjika Support - SE]:southeast
+cloudcmd[Arjika Services - NW]:northwest
+cloudcmd[Arjika Systems - SE]:southwest
+cloudcmd[Arjika Tower - UP]:up
+cloudcmd[Arjika Training Center - DN]:down
 ::bend:menu
 
 -
